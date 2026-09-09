@@ -1,0 +1,2950 @@
+{
+  "slug": "pop",
+  "name": "Tasha",
+  "persona": "Seven years of what was on, loved without irony and played on repeat.",
+  "blurb": "Big pop, chart R&B, top-forty rap and stadium country, played in the car and at the gym. Many plays and few unique tracks, so every pick here is one step sideways rather than five.",
+  "issue_count": 9,
+  "first_date": "2026-06-20",
+  "palette": [
+    "#ff5d8f",
+    "#ffb703",
+    "#3a86ff",
+    "#8338ec",
+    "#fb5607"
+  ],
+  "history": {
+    "plays": 74300,
+    "hours": 2184.0,
+    "tracks": 9420,
+    "artists": 2610,
+    "window_start": "2019-03-02",
+    "window_end": "2026-08-15"
+  },
+  "per_issue": {
+    "singles": 10,
+    "mixes": 2,
+    "revivals": 3,
+    "critics": 3,
+    "releases": 5
+  },
+  "lanes": [
+    {
+      "id": "big-pop",
+      "name": "Big Pop",
+      "hue": 330,
+      "description": "The main room: stadium-scale pop albums played front to back and then again.",
+      "state": "active",
+      "members": 40,
+      "hours": 612.4,
+      "seeds": [
+        "Taylor Swift",
+        "Dua Lipa",
+        "Ariana Grande"
+      ],
+      "arc": "The centre of everything for seven years, and still where most of the listening lands.",
+      "top": [
+        {
+          "artist": "Taylor Swift",
+          "hours": 184.6,
+          "plays": 3842,
+          "skip_rate": 0.11,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Dua Lipa",
+          "hours": 82.4,
+          "plays": 1684,
+          "skip_rate": 0.14,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Ariana Grande",
+          "hours": 76.8,
+          "plays": 1592,
+          "skip_rate": 0.16,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Harry Styles",
+          "hours": 58.2,
+          "plays": 1148,
+          "skip_rate": 0.13,
+          "affinity": 0.917,
+          "via": "session"
+        },
+        {
+          "artist": "Olivia Rodrigo",
+          "hours": 46.4,
+          "plays": 968,
+          "skip_rate": 0.15,
+          "affinity": 0.875,
+          "via": "playlist"
+        },
+        {
+          "artist": "Sabrina Carpenter",
+          "hours": 38.6,
+          "plays": 812,
+          "skip_rate": 0.18,
+          "affinity": 0.835,
+          "via": "playlist"
+        },
+        {
+          "artist": "Chappell Roan",
+          "hours": 32.4,
+          "plays": 684,
+          "skip_rate": 0.17,
+          "affinity": 0.807,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "chart-rnb",
+      "name": "Chart R&B",
+      "hue": 285,
+      "description": "Radio R&B and its slower cousins: the songs that carry a whole drive home.",
+      "state": "active",
+      "members": 34,
+      "hours": 428.6,
+      "seeds": [
+        "SZA",
+        "Summer Walker",
+        "Brent Faiyaz"
+      ],
+      "arc": "Grew all summer, mostly at the sadder end and mostly late in the evening.",
+      "top": [
+        {
+          "artist": "SZA",
+          "hours": 68.4,
+          "plays": 1342,
+          "skip_rate": 0.12,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Frank Ocean",
+          "hours": 44.2,
+          "plays": 812,
+          "skip_rate": 0.09,
+          "affinity": 0.907,
+          "via": "playlist"
+        },
+        {
+          "artist": "Summer Walker",
+          "hours": 42.6,
+          "plays": 886,
+          "skip_rate": 0.19,
+          "affinity": 0.87,
+          "via": "seed"
+        },
+        {
+          "artist": "Brent Faiyaz",
+          "hours": 36.8,
+          "plays": 748,
+          "skip_rate": 0.16,
+          "affinity": 0.85,
+          "via": "seed"
+        },
+        {
+          "artist": "Giveon",
+          "hours": 28.4,
+          "plays": 596,
+          "skip_rate": 0.21,
+          "affinity": 0.796,
+          "via": "playlist"
+        },
+        {
+          "artist": "Victoria Monet",
+          "hours": 22.6,
+          "plays": 468,
+          "skip_rate": 0.18,
+          "affinity": 0.766,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "top-forty-rap",
+      "name": "Top Forty Rap",
+      "hue": 65,
+      "description": "The rap that reaches the charts: hooks first, features everywhere.",
+      "state": "active",
+      "members": 38,
+      "hours": 486.2,
+      "seeds": [
+        "Drake",
+        "Travis Scott",
+        "Doja Cat"
+      ],
+      "arc": "Steady and enormous, though the newer picks lean further from the singles than they used to.",
+      "top": [
+        {
+          "artist": "Drake",
+          "hours": 96.8,
+          "plays": 2148,
+          "skip_rate": 0.24,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Travis Scott",
+          "hours": 62.4,
+          "plays": 1386,
+          "skip_rate": 0.22,
+          "affinity": 0.92,
+          "via": "seed"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "hours": 54.2,
+          "plays": 1084,
+          "skip_rate": 0.14,
+          "affinity": 0.914,
+          "via": "playlist"
+        },
+        {
+          "artist": "Doja Cat",
+          "hours": 48.6,
+          "plays": 1042,
+          "skip_rate": 0.2,
+          "affinity": 0.876,
+          "via": "seed"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "hours": 38.4,
+          "plays": 862,
+          "skip_rate": 0.26,
+          "affinity": 0.823,
+          "via": "playlist"
+        },
+        {
+          "artist": "Future",
+          "hours": 34.6,
+          "plays": 796,
+          "skip_rate": 0.28,
+          "affinity": 0.796,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "stadium-country",
+      "name": "Stadium Country",
+      "hue": 40,
+      "description": "Modern country built for arenas, plus the writers quietly doing the real work.",
+      "state": "rising",
+      "members": 26,
+      "hours": 264.8,
+      "seeds": [
+        "Kacey Musgraves",
+        "Zach Bryan",
+        "Chris Stapleton"
+      ],
+      "arc": "The clearest riser in the record: barely present in the spring, unavoidable by August.",
+      "top": [
+        {
+          "artist": "Zach Bryan",
+          "hours": 42.6,
+          "plays": 812,
+          "skip_rate": 0.13,
+          "affinity": 0.901,
+          "via": "seed"
+        },
+        {
+          "artist": "Morgan Wallen",
+          "hours": 36.2,
+          "plays": 748,
+          "skip_rate": 0.19,
+          "affinity": 0.856,
+          "via": "playlist"
+        },
+        {
+          "artist": "Kacey Musgraves",
+          "hours": 34.8,
+          "plays": 682,
+          "skip_rate": 0.1,
+          "affinity": 0.866,
+          "via": "seed"
+        },
+        {
+          "artist": "Chris Stapleton",
+          "hours": 28.4,
+          "plays": 524,
+          "skip_rate": 0.11,
+          "affinity": 0.829,
+          "via": "seed"
+        },
+        {
+          "artist": "Lainey Wilson",
+          "hours": 18.6,
+          "plays": 386,
+          "skip_rate": 0.16,
+          "affinity": 0.755,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "gym-hours",
+      "name": "Gym Hours",
+      "hue": 145,
+      "description": "Music chosen entirely for tempo: hype rap, big house, anything that helps.",
+      "state": "active",
+      "members": 30,
+      "hours": 342.7,
+      "seeds": [
+        "David Guetta",
+        "Megan Thee Stallion",
+        "Calvin Harris"
+      ],
+      "arc": "Perfectly steady, entirely functional, and the highest skip rate in the record by far.",
+      "top": [
+        {
+          "artist": "Megan Thee Stallion",
+          "hours": 38.6,
+          "plays": 924,
+          "skip_rate": 0.29,
+          "affinity": 0.848,
+          "via": "seed"
+        },
+        {
+          "artist": "Calvin Harris",
+          "hours": 34.2,
+          "plays": 848,
+          "skip_rate": 0.31,
+          "affinity": 0.819,
+          "via": "seed"
+        },
+        {
+          "artist": "David Guetta",
+          "hours": 32.4,
+          "plays": 812,
+          "skip_rate": 0.34,
+          "affinity": 0.797,
+          "via": "seed"
+        },
+        {
+          "artist": "Cardi B",
+          "hours": 26.8,
+          "plays": 648,
+          "skip_rate": 0.32,
+          "affinity": 0.769,
+          "via": "session"
+        },
+        {
+          "artist": "Lil Nas X",
+          "hours": 22.4,
+          "plays": 542,
+          "skip_rate": 0.28,
+          "affinity": 0.748,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "sad-hours",
+      "name": "Sad Hours",
+      "hue": 240,
+      "description": "The other functional lane: quiet pop for the end of a hard day.",
+      "state": "active",
+      "members": 28,
+      "hours": 298.4,
+      "seeds": [
+        "Billie Eilish",
+        "Gracie Abrams",
+        "Phoebe Bridgers"
+      ],
+      "arc": "Rises and falls with the month rather than the year, which is the honest shape of it.",
+      "top": [
+        {
+          "artist": "Billie Eilish",
+          "hours": 64.2,
+          "plays": 1284,
+          "skip_rate": 0.1,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Lana Del Rey",
+          "hours": 46.8,
+          "plays": 862,
+          "skip_rate": 0.15,
+          "affinity": 0.9,
+          "via": "playlist"
+        },
+        {
+          "artist": "Lorde",
+          "hours": 34.2,
+          "plays": 648,
+          "skip_rate": 0.13,
+          "affinity": 0.856,
+          "via": "playlist"
+        },
+        {
+          "artist": "Gracie Abrams",
+          "hours": 32.6,
+          "plays": 686,
+          "skip_rate": 0.14,
+          "affinity": 0.839,
+          "via": "seed"
+        },
+        {
+          "artist": "Phoebe Bridgers",
+          "hours": 28.4,
+          "plays": 542,
+          "skip_rate": 0.12,
+          "affinity": 0.819,
+          "via": "seed"
+        }
+      ]
+    },
+    {
+      "id": "throwback-2000s",
+      "name": "Throwback",
+      "hue": 200,
+      "description": "The pop of a childhood: nineties and two-thousands radio, played without apology.",
+      "state": "active",
+      "members": 32,
+      "hours": 386.2,
+      "seeds": [
+        "Britney Spears",
+        "Usher",
+        "Destiny's Child"
+      ],
+      "arc": "Reliable comfort listening, and it spikes every time a new record disappoints.",
+      "top": [
+        {
+          "artist": "Beyonce",
+          "hours": 68.4,
+          "plays": 1424,
+          "skip_rate": 0.12,
+          "affinity": 0.95,
+          "via": "session"
+        },
+        {
+          "artist": "Rihanna",
+          "hours": 54.2,
+          "plays": 1186,
+          "skip_rate": 0.16,
+          "affinity": 0.917,
+          "via": "playlist"
+        },
+        {
+          "artist": "Britney Spears",
+          "hours": 42.6,
+          "plays": 968,
+          "skip_rate": 0.17,
+          "affinity": 0.875,
+          "via": "seed"
+        },
+        {
+          "artist": "Usher",
+          "hours": 36.4,
+          "plays": 824,
+          "skip_rate": 0.15,
+          "affinity": 0.851,
+          "via": "seed"
+        },
+        {
+          "artist": "Destiny's Child",
+          "hours": 28.8,
+          "plays": 662,
+          "skip_rate": 0.14,
+          "affinity": 0.815,
+          "via": "seed"
+        },
+        {
+          "artist": "Justin Timberlake",
+          "hours": 24.6,
+          "plays": 568,
+          "skip_rate": 0.22,
+          "affinity": 0.767,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "latin-pop",
+      "name": "Latin Pop",
+      "hue": 15,
+      "description": "Reggaeton and Latin pop, mostly through the crossover hits and increasingly past them.",
+      "state": "rising",
+      "members": 22,
+      "hours": 186.4,
+      "seeds": [
+        "Bad Bunny",
+        "Karol G",
+        "Rosalía"
+      ],
+      "arc": "Rising fast, and the picks have started moving from the crossovers into the real thing.",
+      "top": [
+        {
+          "artist": "Bad Bunny",
+          "hours": 58.6,
+          "plays": 1148,
+          "skip_rate": 0.18,
+          "affinity": 0.93,
+          "via": "seed"
+        },
+        {
+          "artist": "Karol G",
+          "hours": 34.2,
+          "plays": 686,
+          "skip_rate": 0.2,
+          "affinity": 0.847,
+          "via": "seed"
+        },
+        {
+          "artist": "Rosalía",
+          "hours": 26.8,
+          "plays": 512,
+          "skip_rate": 0.16,
+          "affinity": 0.817,
+          "via": "seed"
+        },
+        {
+          "artist": "Peso Pluma",
+          "hours": 18.4,
+          "plays": 386,
+          "skip_rate": 0.24,
+          "affinity": 0.741,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "kpop",
+      "name": "K-Pop",
+      "hue": 305,
+      "description": "The most produced pop on earth, followed properly: b-sides, not just title tracks.",
+      "state": "dormant",
+      "members": 18,
+      "hours": 148.6,
+      "seeds": [
+        "NewJeans",
+        "Twice"
+      ],
+      "arc": "Went quiet after the spring, which happens when a favourite group stops releasing.",
+      "top": [
+        {
+          "artist": "NewJeans",
+          "hours": 32.6,
+          "plays": 748,
+          "skip_rate": 0.14,
+          "affinity": 0.863,
+          "via": "seed"
+        },
+        {
+          "artist": "Blackpink",
+          "hours": 28.4,
+          "plays": 662,
+          "skip_rate": 0.21,
+          "affinity": 0.82,
+          "via": "playlist"
+        },
+        {
+          "artist": "Twice",
+          "hours": 24.8,
+          "plays": 596,
+          "skip_rate": 0.18,
+          "affinity": 0.802,
+          "via": "seed"
+        },
+        {
+          "artist": "Stray Kids",
+          "hours": 16.8,
+          "plays": 412,
+          "skip_rate": 0.26,
+          "affinity": 0.725,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "musicals",
+      "name": "Musicals",
+      "hue": 95,
+      "description": "The personal outlier: cast recordings, inherited and known by heart.",
+      "state": "active",
+      "members": 12,
+      "hours": 96.8,
+      "seeds": [
+        "Original Broadway Cast",
+        "Lin-Manuel Miranda"
+      ],
+      "arc": "Small, constant, entirely unbothered by everything else in the record.",
+      "top": [
+        {
+          "artist": "Original Broadway Cast",
+          "hours": 42.6,
+          "plays": 624,
+          "skip_rate": 0.08,
+          "affinity": 0.913,
+          "via": "seed"
+        },
+        {
+          "artist": "Lin-Manuel Miranda",
+          "hours": 28.4,
+          "plays": 442,
+          "skip_rate": 0.07,
+          "affinity": 0.855,
+          "via": "seed"
+        },
+        {
+          "artist": "Idina Menzel",
+          "hours": 14.6,
+          "plays": 268,
+          "skip_rate": 0.12,
+          "affinity": 0.75,
+          "via": "playlist"
+        },
+        {
+          "artist": "Ben Platt",
+          "hours": 11.2,
+          "plays": 214,
+          "skip_rate": 0.15,
+          "affinity": 0.702,
+          "via": "session"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "name": "Taylor Swift",
+      "hours": 184.6,
+      "plays": 3842,
+      "skip_rate": 0.11,
+      "lane": "big-pop"
+    },
+    {
+      "name": "Dua Lipa",
+      "hours": 82.4,
+      "plays": 1684,
+      "skip_rate": 0.14,
+      "lane": "big-pop"
+    },
+    {
+      "name": "Ariana Grande",
+      "hours": 76.8,
+      "plays": 1592,
+      "skip_rate": 0.16,
+      "lane": "big-pop"
+    },
+    {
+      "name": "Harry Styles",
+      "hours": 58.2,
+      "plays": 1148,
+      "skip_rate": 0.13,
+      "lane": "big-pop"
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "hours": 46.4,
+      "plays": 968,
+      "skip_rate": 0.15,
+      "lane": "big-pop"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "hours": 38.6,
+      "plays": 812,
+      "skip_rate": 0.18,
+      "lane": "big-pop"
+    },
+    {
+      "name": "Chappell Roan",
+      "hours": 32.4,
+      "plays": 684,
+      "skip_rate": 0.17,
+      "lane": "big-pop"
+    },
+    {
+      "name": "SZA",
+      "hours": 68.4,
+      "plays": 1342,
+      "skip_rate": 0.12,
+      "lane": "chart-rnb"
+    },
+    {
+      "name": "Summer Walker",
+      "hours": 42.6,
+      "plays": 886,
+      "skip_rate": 0.19,
+      "lane": "chart-rnb"
+    },
+    {
+      "name": "Brent Faiyaz",
+      "hours": 36.8,
+      "plays": 748,
+      "skip_rate": 0.16,
+      "lane": "chart-rnb"
+    },
+    {
+      "name": "Frank Ocean",
+      "hours": 44.2,
+      "plays": 812,
+      "skip_rate": 0.09,
+      "lane": "chart-rnb"
+    },
+    {
+      "name": "Giveon",
+      "hours": 28.4,
+      "plays": 596,
+      "skip_rate": 0.21,
+      "lane": "chart-rnb"
+    },
+    {
+      "name": "Victoria Monet",
+      "hours": 22.6,
+      "plays": 468,
+      "skip_rate": 0.18,
+      "lane": "chart-rnb"
+    },
+    {
+      "name": "Drake",
+      "hours": 96.8,
+      "plays": 2148,
+      "skip_rate": 0.24,
+      "lane": "top-forty-rap"
+    },
+    {
+      "name": "Travis Scott",
+      "hours": 62.4,
+      "plays": 1386,
+      "skip_rate": 0.22,
+      "lane": "top-forty-rap"
+    },
+    {
+      "name": "Doja Cat",
+      "hours": 48.6,
+      "plays": 1042,
+      "skip_rate": 0.2,
+      "lane": "top-forty-rap"
+    },
+    {
+      "name": "Kendrick Lamar",
+      "hours": 54.2,
+      "plays": 1084,
+      "skip_rate": 0.14,
+      "lane": "top-forty-rap"
+    },
+    {
+      "name": "Nicki Minaj",
+      "hours": 38.4,
+      "plays": 862,
+      "skip_rate": 0.26,
+      "lane": "top-forty-rap"
+    },
+    {
+      "name": "Future",
+      "hours": 34.6,
+      "plays": 796,
+      "skip_rate": 0.28,
+      "lane": "top-forty-rap"
+    },
+    {
+      "name": "Kacey Musgraves",
+      "hours": 34.8,
+      "plays": 682,
+      "skip_rate": 0.1,
+      "lane": "stadium-country"
+    },
+    {
+      "name": "Zach Bryan",
+      "hours": 42.6,
+      "plays": 812,
+      "skip_rate": 0.13,
+      "lane": "stadium-country"
+    },
+    {
+      "name": "Chris Stapleton",
+      "hours": 28.4,
+      "plays": 524,
+      "skip_rate": 0.11,
+      "lane": "stadium-country"
+    },
+    {
+      "name": "Morgan Wallen",
+      "hours": 36.2,
+      "plays": 748,
+      "skip_rate": 0.19,
+      "lane": "stadium-country"
+    },
+    {
+      "name": "Lainey Wilson",
+      "hours": 18.6,
+      "plays": 386,
+      "skip_rate": 0.16,
+      "lane": "stadium-country"
+    },
+    {
+      "name": "David Guetta",
+      "hours": 32.4,
+      "plays": 812,
+      "skip_rate": 0.34,
+      "lane": "gym-hours"
+    },
+    {
+      "name": "Megan Thee Stallion",
+      "hours": 38.6,
+      "plays": 924,
+      "skip_rate": 0.29,
+      "lane": "gym-hours"
+    },
+    {
+      "name": "Calvin Harris",
+      "hours": 34.2,
+      "plays": 848,
+      "skip_rate": 0.31,
+      "lane": "gym-hours"
+    },
+    {
+      "name": "Cardi B",
+      "hours": 26.8,
+      "plays": 648,
+      "skip_rate": 0.32,
+      "lane": "gym-hours"
+    },
+    {
+      "name": "Lil Nas X",
+      "hours": 22.4,
+      "plays": 542,
+      "skip_rate": 0.28,
+      "lane": "gym-hours"
+    },
+    {
+      "name": "Billie Eilish",
+      "hours": 64.2,
+      "plays": 1284,
+      "skip_rate": 0.1,
+      "lane": "sad-hours"
+    },
+    {
+      "name": "Gracie Abrams",
+      "hours": 32.6,
+      "plays": 686,
+      "skip_rate": 0.14,
+      "lane": "sad-hours"
+    },
+    {
+      "name": "Phoebe Bridgers",
+      "hours": 28.4,
+      "plays": 542,
+      "skip_rate": 0.12,
+      "lane": "sad-hours"
+    },
+    {
+      "name": "Lana Del Rey",
+      "hours": 46.8,
+      "plays": 862,
+      "skip_rate": 0.15,
+      "lane": "sad-hours"
+    },
+    {
+      "name": "Lorde",
+      "hours": 34.2,
+      "plays": 648,
+      "skip_rate": 0.13,
+      "lane": "sad-hours"
+    },
+    {
+      "name": "Britney Spears",
+      "hours": 42.6,
+      "plays": 968,
+      "skip_rate": 0.17,
+      "lane": "throwback-2000s"
+    },
+    {
+      "name": "Usher",
+      "hours": 36.4,
+      "plays": 824,
+      "skip_rate": 0.15,
+      "lane": "throwback-2000s"
+    },
+    {
+      "name": "Destiny's Child",
+      "hours": 28.8,
+      "plays": 662,
+      "skip_rate": 0.14,
+      "lane": "throwback-2000s"
+    },
+    {
+      "name": "Beyonce",
+      "hours": 68.4,
+      "plays": 1424,
+      "skip_rate": 0.12,
+      "lane": "throwback-2000s"
+    },
+    {
+      "name": "Rihanna",
+      "hours": 54.2,
+      "plays": 1186,
+      "skip_rate": 0.16,
+      "lane": "throwback-2000s"
+    },
+    {
+      "name": "Justin Timberlake",
+      "hours": 24.6,
+      "plays": 568,
+      "skip_rate": 0.22,
+      "lane": "throwback-2000s"
+    },
+    {
+      "name": "Bad Bunny",
+      "hours": 58.6,
+      "plays": 1148,
+      "skip_rate": 0.18,
+      "lane": "latin-pop"
+    },
+    {
+      "name": "Karol G",
+      "hours": 34.2,
+      "plays": 686,
+      "skip_rate": 0.2,
+      "lane": "latin-pop"
+    },
+    {
+      "name": "Rosalía",
+      "hours": 26.8,
+      "plays": 512,
+      "skip_rate": 0.16,
+      "lane": "latin-pop"
+    },
+    {
+      "name": "Peso Pluma",
+      "hours": 18.4,
+      "plays": 386,
+      "skip_rate": 0.24,
+      "lane": "latin-pop"
+    },
+    {
+      "name": "NewJeans",
+      "hours": 32.6,
+      "plays": 748,
+      "skip_rate": 0.14,
+      "lane": "kpop"
+    },
+    {
+      "name": "Twice",
+      "hours": 24.8,
+      "plays": 596,
+      "skip_rate": 0.18,
+      "lane": "kpop"
+    },
+    {
+      "name": "Blackpink",
+      "hours": 28.4,
+      "plays": 662,
+      "skip_rate": 0.21,
+      "lane": "kpop"
+    },
+    {
+      "name": "Stray Kids",
+      "hours": 16.8,
+      "plays": 412,
+      "skip_rate": 0.26,
+      "lane": "kpop"
+    },
+    {
+      "name": "Original Broadway Cast",
+      "hours": 42.6,
+      "plays": 624,
+      "skip_rate": 0.08,
+      "lane": "musicals"
+    },
+    {
+      "name": "Lin-Manuel Miranda",
+      "hours": 28.4,
+      "plays": 442,
+      "skip_rate": 0.07,
+      "lane": "musicals"
+    },
+    {
+      "name": "Idina Menzel",
+      "hours": 14.6,
+      "plays": 268,
+      "skip_rate": 0.12,
+      "lane": "musicals"
+    },
+    {
+      "name": "Ben Platt",
+      "hours": 11.2,
+      "plays": 214,
+      "skip_rate": 0.15,
+      "lane": "musicals"
+    }
+  ],
+  "issues": [
+    {
+      "n": 1,
+      "title": "First Round",
+      "dek": "Ten songs from artists you have somehow never played, each one door away from something you play constantly."
+    },
+    {
+      "n": 2,
+      "title": "Sideways Step",
+      "dek": "The albums three of your favourite singles came from, which you have never opened."
+    },
+    {
+      "n": 3,
+      "title": "Written For You",
+      "dek": "Every pick this week was written or produced by someone behind a song you already love."
+    },
+    {
+      "n": 4,
+      "title": "Long Way Home",
+      "dek": "Country has taken over your summer, so this week follows it further in."
+    },
+    {
+      "n": 5,
+      "title": "Loud Room",
+      "dek": "Gym music with better bones, chosen for tempo and then for quality."
+    },
+    {
+      "n": 6,
+      "title": "Quiet Car",
+      "dek": "The slow end of pop, and one record that is quieter than anything you own."
+    },
+    {
+      "n": 7,
+      "title": "Old Radio",
+      "dek": "Two-thousands pop, plus the older records those songs were built out of."
+    },
+    {
+      "n": 8,
+      "title": "Second Chance",
+      "dek": "You skipped most of last issue, so this one stays closer to home."
+    },
+    {
+      "n": 9,
+      "title": "Curtain Call",
+      "dek": "Latin pop, a musical, and the best pop record of the year so far."
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Robyn",
+      "title": "Body Talk",
+      "year": 2010,
+      "label": "Konichiwa",
+      "lane": "big-pop",
+      "anchor": "Dua Lipa",
+      "pitchfork": 8.7,
+      "bnm": false,
+      "note": "The record every crying-on-the-dancefloor song since has been trying to write, and it still outruns all of them."
+    },
+    {
+      "artist": "Solange",
+      "title": "A Seat at the Table",
+      "year": 2016,
+      "label": "Saint",
+      "lane": "chart-rnb",
+      "anchor": "SZA",
+      "pitchfork": 8.9,
+      "bnm": true,
+      "note": "Quiet, careful R&B about family and anger, and one of the best-sounding records of the decade."
+    },
+    {
+      "artist": "Sade",
+      "title": "Love Deluxe",
+      "year": 1992,
+      "label": "Epic",
+      "lane": "chart-rnb",
+      "anchor": "Frank Ocean",
+      "pitchfork": 9.0,
+      "bnm": false,
+      "note": "The most confident quiet record in pop, and the space in it is the whole point."
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "title": "Golden Hour",
+      "year": 2018,
+      "label": "MCA Nashville",
+      "lane": "stadium-country",
+      "anchor": "Kacey Musgraves",
+      "pitchfork": 8.5,
+      "bnm": true,
+      "note": "Country that borrowed disco and daylight, and it won everything for good reason."
+    },
+    {
+      "artist": "Jessie Ware",
+      "title": "What's Your Pleasure?",
+      "year": 2020,
+      "label": "PMR",
+      "lane": "gym-hours",
+      "anchor": "Calvin Harris",
+      "pitchfork": 8.4,
+      "bnm": false,
+      "note": "A full disco record made with total conviction, and every song is a peak."
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas",
+      "year": 1990,
+      "label": "4AD",
+      "lane": "sad-hours",
+      "anchor": "Lana Del Rey",
+      "pitchfork": 9.1,
+      "bnm": false,
+      "note": "Vocals used as pure texture over guitars used as light, and it is genuinely soothing."
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "The Velvet Rope",
+      "year": 1997,
+      "label": "Virgin",
+      "lane": "throwback-2000s",
+      "anchor": "Beyonce",
+      "pitchfork": 8.6,
+      "bnm": false,
+      "note": "The most personal record a pop star made in the nineties, and the production still sounds current."
+    },
+    {
+      "artist": "Rosalía",
+      "title": "El Mal Querer",
+      "year": 2018,
+      "label": "Columbia",
+      "lane": "latin-pop",
+      "anchor": "Rosalía",
+      "pitchfork": 8.8,
+      "bnm": true,
+      "note": "Flamenco rebuilt as pop by someone who studied it properly, and it is thrillingly strange.",
+      "why": "Flamenco rebuilt as pop by someone who studied it properly, and it is thrillingly strange. You have 512 plays of Rosalía and most of them are the singles; this is the record they came from, with 186.4 hours of Latin Pop in your listening pointing at it. Pitchfork gave it 8.8."
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Emotion",
+      "year": 2015,
+      "label": "604",
+      "lane": "big-pop",
+      "anchor": "Sabrina Carpenter",
+      "pitchfork": 8.2,
+      "bnm": false,
+      "note": "The best pure pop album of its decade, ignored at the time and beloved ever since.",
+      "why": "The best pure pop album of its decade, ignored at the time and beloved ever since. Big Pop is 612.4 hours of your listening and Sabrina Carpenter alone is 812 plays of it; this is the record that taught that whole lane its manners. Pitchfork scored it 8.2."
+    }
+  ],
+  "critics": [
+    {
+      "artist": "Mariah Carey",
+      "title": "Butterfly",
+      "year": 1997,
+      "score": 8.7,
+      "genre": "rnb",
+      "lane": "chart-rnb",
+      "bnm": false,
+      "anchor": "Ariana Grande",
+      "note": "The record where she stopped taking notes from anyone, and the singing is untouchable."
+    },
+    {
+      "artist": "Miguel",
+      "title": "Kaleidoscope Dream",
+      "year": 2012,
+      "score": 8.6,
+      "genre": "rnb",
+      "lane": "chart-rnb",
+      "bnm": false,
+      "anchor": "Brent Faiyaz",
+      "note": "Radio R&B gone psychedelic at the edges, and Adorn is still one of the great slow-dance singles of its decade."
+    },
+    {
+      "artist": "Robyn",
+      "title": "Honey",
+      "year": 2018,
+      "score": 8.8,
+      "genre": "pop",
+      "lane": "big-pop",
+      "bnm": true,
+      "anchor": "Dua Lipa",
+      "note": "Softer and stranger than her hits, dance music that grieves first and lifts later."
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Rumours",
+      "year": 1977,
+      "score": 9.5,
+      "genre": "rock",
+      "lane": "throwback-2000s",
+      "bnm": false,
+      "anchor": "Taylor Swift",
+      "note": "The most-copied breakup album ever made, and every song is somebody's favourite."
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Whitney Houston",
+      "year": 1985,
+      "score": 8.4,
+      "genre": "pop",
+      "lane": "throwback-2000s",
+      "bnm": false,
+      "anchor": "Beyonce",
+      "note": "The voice every big pop singer since has been measured against, caught right at the start."
+    },
+    {
+      "artist": "Kelela",
+      "title": "Take Me Apart",
+      "year": 2017,
+      "score": 8.5,
+      "genre": "rnb",
+      "lane": "chart-rnb",
+      "bnm": false,
+      "anchor": "Victoria Monet",
+      "note": "R&B stripped to synths and air, sung with the kind of precision that makes quiet sound expensive."
+    },
+    {
+      "artist": "Shania Twain",
+      "title": "Come On Over",
+      "year": 1997,
+      "score": 8.3,
+      "genre": "country",
+      "lane": "stadium-country",
+      "bnm": false,
+      "anchor": "Lainey Wilson",
+      "note": "The best-selling country album in history, and it is a pure pop record wearing a hat."
+    },
+    {
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "year": 1974,
+      "score": 9.0,
+      "genre": "country",
+      "lane": "stadium-country",
+      "bnm": false,
+      "anchor": "Kacey Musgraves",
+      "note": "One quiet little album holds both Jolene and the ballad Whitney later sent into orbit."
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Off the Wall",
+      "year": 1979,
+      "score": 9.4,
+      "genre": "pop",
+      "lane": "throwback-2000s",
+      "bnm": false,
+      "anchor": "Usher",
+      "note": "Disco, funk and pop in one perfectly balanced hour, and nothing has bettered it."
+    },
+    {
+      "artist": "Prince",
+      "title": "Sign o' the Times",
+      "year": 1987,
+      "score": 9.6,
+      "genre": "pop",
+      "lane": "throwback-2000s",
+      "bnm": false,
+      "anchor": "Justin Timberlake",
+      "note": "Funk, gospel, drum machines and prayer across one sprawling double album, played mostly by one man."
+    },
+    {
+      "artist": "Amy Winehouse",
+      "title": "Back to Black",
+      "year": 2006,
+      "score": 8.9,
+      "genre": "rnb",
+      "lane": "sad-hours",
+      "bnm": false,
+      "anchor": "Lana Del Rey",
+      "note": "Sixties soul arrangements behind the sharpest lyrics of the century so far."
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Channel Orange",
+      "year": 2012,
+      "score": 9.5,
+      "genre": "rnb",
+      "lane": "chart-rnb",
+      "bnm": true,
+      "anchor": "Frank Ocean",
+      "note": "Keyboard soul and patient stories, a writer watching other people's lives with total sympathy."
+    },
+    {
+      "artist": "Lauryn Hill",
+      "title": "The Miseducation of Lauryn Hill",
+      "year": 1998,
+      "score": 9.4,
+      "genre": "rnb",
+      "lane": "top-forty-rap",
+      "bnm": false,
+      "anchor": "Doja Cat",
+      "note": "One album, no follow-up, and it still sets the bar for everyone who tries this."
+    },
+    {
+      "artist": "Outkast",
+      "title": "Aquemini",
+      "year": 1998,
+      "score": 9.7,
+      "genre": "rap",
+      "lane": "top-forty-rap",
+      "bnm": false,
+      "anchor": "Kendrick Lamar",
+      "note": "Southern rap played warm and by hand, live horns under two of the quickest minds ever to share a mic."
+    },
+    {
+      "artist": "Missy Elliott",
+      "title": "Supa Dupa Fly",
+      "year": 1997,
+      "score": 8.8,
+      "genre": "rap",
+      "lane": "top-forty-rap",
+      "bnm": false,
+      "anchor": "Nicki Minaj",
+      "note": "Timbaland at his strangest behind the most charismatic rapper of the decade."
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Late Registration",
+      "year": 2005,
+      "score": 9.4,
+      "genre": "rap",
+      "lane": "top-forty-rap",
+      "bnm": false,
+      "anchor": "Drake",
+      "note": "Rap arranged like a film score, strings over soul samples, a big album trying everything at once."
+    },
+    {
+      "artist": "Madonna",
+      "title": "Ray of Light",
+      "year": 1998,
+      "score": 8.6,
+      "genre": "pop",
+      "lane": "big-pop",
+      "bnm": false,
+      "anchor": "Britney Spears",
+      "note": "A pop star at thirty-nine making the most forward record of her life."
+    },
+    {
+      "artist": "ABBA",
+      "title": "The Visitors",
+      "year": 1981,
+      "score": 8.5,
+      "genre": "pop",
+      "lane": "big-pop",
+      "bnm": false,
+      "anchor": "Taylor Swift",
+      "note": "ABBA at their coldest and saddest, two divorces deep, and the craft never once slips."
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Hounds of Love",
+      "year": 1985,
+      "score": 9.6,
+      "genre": "pop",
+      "lane": "sad-hours",
+      "bnm": false,
+      "anchor": "Billie Eilish",
+      "note": "Half perfect pop singles, half a suite about drowning, and both halves work."
+    },
+    {
+      "artist": "Selena",
+      "title": "Amor Prohibido",
+      "year": 1994,
+      "score": 8.7,
+      "genre": "latin",
+      "lane": "latin-pop",
+      "bnm": false,
+      "anchor": "Karol G",
+      "note": "The record that made Tejano pop global, sung by someone who made it look effortless."
+    },
+    {
+      "artist": "Buena Vista Social Club",
+      "title": "Buena Vista Social Club",
+      "year": 1997,
+      "score": 8.4,
+      "genre": "latin",
+      "lane": "latin-pop",
+      "bnm": false,
+      "anchor": "Bad Bunny",
+      "note": "Havana's old guard playing the songs of their youth in one room, and you can hear how much the room mattered."
+    },
+    {
+      "artist": "Daddy Yankee",
+      "title": "Barrio Fino",
+      "year": 2004,
+      "score": 8.2,
+      "genre": "latin",
+      "lane": "latin-pop",
+      "bnm": false,
+      "anchor": "Peso Pluma",
+      "note": "The album that carried reggaeton out of San Juan and into everywhere, with Gasolina still the fastest way to start a party."
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Songs in the Key of Life",
+      "year": 1976,
+      "score": 9.8,
+      "genre": "soul",
+      "lane": "throwback-2000s",
+      "bnm": false,
+      "anchor": "Rihanna",
+      "note": "Two hours of a man at the peak of everything, and not one skippable song."
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Bad Girls",
+      "year": 1979,
+      "score": 8.5,
+      "genre": "disco",
+      "lane": "gym-hours",
+      "bnm": false,
+      "anchor": "David Guetta",
+      "note": "Moroder's machines and a voice that could outrun them, the record where dance music learned to sprint."
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Discovery",
+      "year": 2001,
+      "score": 9.2,
+      "genre": "electronic",
+      "lane": "gym-hours",
+      "bnm": false,
+      "anchor": "Calvin Harris",
+      "note": "The house record that taught pop how to feel joyful, and it has not aged a day."
+    },
+    {
+      "artist": "Jai Paul",
+      "title": "Leak 04-13",
+      "year": 2019,
+      "score": 8.6,
+      "genre": "electronic",
+      "lane": "gym-hours",
+      "bnm": false,
+      "anchor": "Megan Thee Stallion",
+      "note": "Bass pushed into the red and hooks half buried, the leak that pop production has chased ever since."
+    },
+    {
+      "artist": "Original Broadway Cast",
+      "title": "West Side Story",
+      "year": 1957,
+      "score": 9.0,
+      "genre": "musical",
+      "lane": "musicals",
+      "bnm": false,
+      "anchor": "Original Broadway Cast",
+      "note": "The score everyone quotes without knowing it, and the cast recording is still the best one."
+    }
+  ],
+  "singles": [
+    {
+      "artist": "Tinashe",
+      "title": "Nasty",
+      "lane": "chart-rnb",
+      "anchor": "SZA",
+      "note": "A whisper over a strut of a beat, R&B that wins by underplaying its hand."
+    },
+    {
+      "artist": "PinkPantheress",
+      "title": "Boy's a Liar",
+      "lane": "big-pop",
+      "anchor": "Sabrina Carpenter",
+      "note": "Two minutes flat, sung like a voice memo over a beat that never raises its voice."
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "title": "Love Me Not",
+      "lane": "chart-rnb",
+      "anchor": "Summer Walker",
+      "note": "Chicago R&B with a voice light enough to float over anything"
+    },
+    {
+      "artist": "Rema",
+      "title": "Calm Down",
+      "lane": "latin-pop",
+      "anchor": "Bad Bunny",
+      "note": "Afrobeats built for the exact hour the sun goes down, and it never once pushes."
+    },
+    {
+      "artist": "Remi Wolf",
+      "title": "Photo ID",
+      "lane": "big-pop",
+      "anchor": "Dua Lipa",
+      "note": "Funk-pop with the colour saturation cranked, sung like she is grinning the whole way through."
+    },
+    {
+      "artist": "Sudan Archives",
+      "title": "Selfish Soul",
+      "lane": "chart-rnb",
+      "anchor": "SZA",
+      "note": "A violinist who writes hooks, singing about hair like it is the whole argument."
+    },
+    {
+      "artist": "Amaarae",
+      "title": "Angels in Tibet",
+      "lane": "latin-pop",
+      "anchor": "Bad Bunny",
+      "note": "Accra pop that moves like club music, her feather-light voice riding a beat that never sits still."
+    },
+    {
+      "artist": "Baby Rose",
+      "title": "Go",
+      "lane": "chart-rnb",
+      "anchor": "Frank Ocean",
+      "note": "That voice sits so low it reads as a different decade until the drums arrive."
+    },
+    {
+      "artist": "Flo",
+      "title": "Cardboard Box",
+      "lane": "chart-rnb",
+      "anchor": "Destiny's Child",
+      "note": "Three voices arranged the way girl groups were arranged in the nineties, on purpose"
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Nike",
+      "lane": "big-pop",
+      "anchor": "Dua Lipa",
+      "note": "Club pop whispered rather than belted, which turns out to be the harder trick."
+    },
+    {
+      "artist": "Kali Uchis",
+      "title": "Moonlight",
+      "lane": "latin-pop",
+      "anchor": "Karol G",
+      "note": "Dreamy, unhurried and romantic, from a singer who makes either language sound like velvet."
+    },
+    {
+      "artist": "Jorja Smith",
+      "title": "Blue Lights",
+      "lane": "chart-rnb",
+      "anchor": "Summer Walker",
+      "note": "A debut single that already knew exactly how much space to leave around itself."
+    },
+    {
+      "artist": "Doechii",
+      "title": "Persuasive",
+      "lane": "top-forty-rap",
+      "anchor": "Doja Cat",
+      "note": "Rap that floats at a murmur, proof that charisma does not need volume."
+    },
+    {
+      "artist": "Cleo Sol",
+      "title": "Sunshine",
+      "lane": "chart-rnb",
+      "anchor": "Giveon",
+      "note": "Soul with the volume of a kitchen conversation, warm the whole way through."
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "title": "I Want You Around",
+      "lane": "chart-rnb",
+      "anchor": "Brent Faiyaz",
+      "note": "The slow one that everybody plays twice, and the strings do most of the work"
+    },
+    {
+      "artist": "Mahalia",
+      "title": "Sober",
+      "lane": "chart-rnb",
+      "anchor": "Victoria Monet",
+      "note": "The kind of breakup song that is embarrassed about itself, which is why it lands."
+    },
+    {
+      "artist": "Lucky Daye",
+      "title": "Over",
+      "lane": "chart-rnb",
+      "anchor": "Giveon",
+      "note": "New Orleans soul in a modern cut, a can't-quit-you song that glides instead of mopes."
+    },
+    {
+      "artist": "Kehlani",
+      "title": "Melt",
+      "lane": "chart-rnb",
+      "anchor": "Brent Faiyaz",
+      "note": "Guitar, patience, and a chorus that arrives late enough to feel earned."
+    },
+    {
+      "artist": "Muni Long",
+      "title": "Hrs and Hrs",
+      "lane": "chart-rnb",
+      "anchor": "Victoria Monet",
+      "note": "A first-dance ballad in the old tradition, patient and completely sincere."
+    },
+    {
+      "artist": "Ella Mai",
+      "title": "Boo'd Up",
+      "lane": "chart-rnb",
+      "anchor": "SZA",
+      "note": "A slow burn that took a year to become unavoidable, and then was."
+    },
+    {
+      "artist": "Julia Michaels",
+      "title": "Issues",
+      "lane": "big-pop",
+      "anchor": "Olivia Rodrigo",
+      "note": "She wrote half the songs you already know, and this is the one she kept"
+    },
+    {
+      "artist": "Sia",
+      "title": "Chandelier",
+      "lane": "big-pop",
+      "anchor": "Ariana Grande",
+      "note": "She wrote hits for everyone else first, then kept this one and sang it herself."
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Habits",
+      "lane": "big-pop",
+      "anchor": "Sabrina Carpenter",
+      "note": "The messy night sung completely straight, with a chorus big enough to carry it home."
+    },
+    {
+      "artist": "Bonnie McKee",
+      "title": "American Girl",
+      "lane": "big-pop",
+      "anchor": "Chappell Roan",
+      "note": "The pen behind a decade of chart pop, taking one swing under her own name."
+    },
+    {
+      "artist": "Caroline Polachek",
+      "title": "So Hot You're Hurting My Feelings",
+      "lane": "big-pop",
+      "anchor": "Chappell Roan",
+      "note": "Pop with a strange voice at the centre of it, and the strangeness is the appeal"
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Run Away With Me",
+      "lane": "big-pop",
+      "anchor": "Sabrina Carpenter",
+      "note": "Opens with a saxophone like a door kicked in, and somehow keeps that up."
+    },
+    {
+      "artist": "Sofia Carson",
+      "title": "Hero",
+      "lane": "big-pop",
+      "anchor": "Ariana Grande",
+      "note": "A big clean-lined ballad from a singer who treats pop melodrama as serious work."
+    },
+    {
+      "artist": "MUNA",
+      "title": "Silk Chiffon",
+      "lane": "big-pop",
+      "anchor": "Harry Styles",
+      "note": "Pop written by people who clearly love pop, with no apology anywhere in it."
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Party 4 U",
+      "lane": "gym-hours",
+      "anchor": "Dua Lipa",
+      "note": "Longing set inside a rave, made at home in lockdown and adopted by crowds years later."
+    },
+    {
+      "artist": "Jessie Ware",
+      "title": "Free Yourself",
+      "lane": "big-pop",
+      "anchor": "Dua Lipa",
+      "note": "Disco played straight by someone who spent years being told she was too subtle for it."
+    },
+    {
+      "artist": "Sierra Ferrell",
+      "title": "In Dreams",
+      "lane": "stadium-country",
+      "anchor": "Kacey Musgraves",
+      "note": "Old-time country sung by someone who actually rode the trains, and it shows"
+    },
+    {
+      "artist": "Zach Top",
+      "title": "I Never Lie",
+      "lane": "stadium-country",
+      "anchor": "Morgan Wallen",
+      "note": "Nineties country revived so exactly it feels like a reissue rather than a debut."
+    },
+    {
+      "artist": "Charley Crockett",
+      "title": "Welcome to Hard Times",
+      "lane": "stadium-country",
+      "anchor": "Chris Stapleton",
+      "note": "Old-fashioned country noir from a Texan who sounds beamed in from a black-and-white matinee."
+    },
+    {
+      "artist": "Kaitlin Butts",
+      "title": "She's Using",
+      "lane": "stadium-country",
+      "anchor": "Lainey Wilson",
+      "note": "A murder ballad turned inside out, sung sweetly enough that it takes a verse to notice."
+    },
+    {
+      "artist": "Tyler Childers",
+      "title": "Feathered Indians",
+      "lane": "stadium-country",
+      "anchor": "Zach Bryan",
+      "note": "Kentucky songwriting with a voice that has no interest in being polished"
+    },
+    {
+      "artist": "Nikki Lane",
+      "title": "Jackpot",
+      "lane": "stadium-country",
+      "anchor": "Kacey Musgraves",
+      "note": "Outlaw country with the swagger intact and none of the costume."
+    },
+    {
+      "artist": "Margo Price",
+      "title": "Hurtin' on the Bottle",
+      "lane": "stadium-country",
+      "anchor": "Lainey Wilson",
+      "note": "Honky-tonk with sawdust on the floor, a drinking song that plays it for truth instead of a wink."
+    },
+    {
+      "artist": "Turnpike Troubadours",
+      "title": "Long Hot Summer Day",
+      "lane": "stadium-country",
+      "anchor": "Zach Bryan",
+      "note": "A fiddle, a river, and a band that plays like they have done this a thousand nights."
+    },
+    {
+      "artist": "Colter Wall",
+      "title": "Sleeping on the Blacktop",
+      "lane": "stadium-country",
+      "anchor": "Morgan Wallen",
+      "note": "A voice deep as a well over a sparse, stomping blues, cowboy music with the lights off."
+    },
+    {
+      "artist": "Wyatt Flores",
+      "title": "Please Don't Go",
+      "lane": "stadium-country",
+      "anchor": "Chris Stapleton",
+      "note": "Young, plain, and unguarded, which is most of what this corner of country is for."
+    },
+    {
+      "artist": "Fred again..",
+      "title": "Turn On the Lights again",
+      "lane": "gym-hours",
+      "anchor": "Calvin Harris",
+      "note": "Built out of somebody's voice memo and it still fills a room completely"
+    },
+    {
+      "artist": "Jamie xx",
+      "title": "Gosh",
+      "lane": "gym-hours",
+      "anchor": "Calvin Harris",
+      "note": "Built from a rave sample and a lot of restraint, and it still empties the room forward."
+    },
+    {
+      "artist": "Peggy Gou",
+      "title": "It Goes Like",
+      "lane": "gym-hours",
+      "anchor": "David Guetta",
+      "note": "Piano house straight out of the nineties, sunshine you can set your watch to."
+    },
+    {
+      "artist": "Barry Can't Swim",
+      "title": "Sonder",
+      "lane": "gym-hours",
+      "anchor": "David Guetta",
+      "note": "House with a piano player's hands, going somewhere rather than just going."
+    },
+    {
+      "artist": "Overmono",
+      "title": "So U Kno",
+      "lane": "gym-hours",
+      "anchor": "Calvin Harris",
+      "note": "Two brothers chopping a soul vocal into a heartbeat, tenderness at running tempo."
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "If U Need It",
+      "lane": "gym-hours",
+      "anchor": "David Guetta",
+      "note": "UK garage rebuilt for a generation that never went to the original nights."
+    },
+    {
+      "artist": "Confidence Man",
+      "title": "Holiday",
+      "lane": "gym-hours",
+      "anchor": "Lil Nas X",
+      "note": "Deadpan camp over a filthy house groove, from a band that treats fun as a discipline."
+    },
+    {
+      "artist": "KAYTRANADA",
+      "title": "Intimidated",
+      "lane": "gym-hours",
+      "anchor": "Calvin Harris",
+      "note": "The drums swing so hard the vocal barely has to try, and it does not."
+    },
+    {
+      "artist": "Latto",
+      "title": "Big Energy",
+      "lane": "gym-hours",
+      "anchor": "Megan Thee Stallion",
+      "note": "Built on the same shimmer as Mariah's Fantasy, rap-pop that walks in already smiling."
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "Baianá",
+      "lane": "gym-hours",
+      "anchor": "Megan Thee Stallion",
+      "note": "Jungle built on a Brazilian sample and a breakbeat that refuses to sit still."
+    },
+    {
+      "artist": "Faye Webster",
+      "title": "Kingston",
+      "lane": "sad-hours",
+      "anchor": "Gracie Abrams",
+      "note": "Slide guitar under a pop song, sung like she is barely awake, and it is perfect"
+    },
+    {
+      "artist": "Laufey",
+      "title": "From the Start",
+      "lane": "sad-hours",
+      "anchor": "Gracie Abrams",
+      "note": "Jazz standards rewritten by someone born decades after the standards were."
+    },
+    {
+      "artist": "Adrianne Lenker",
+      "title": "Anything",
+      "lane": "sad-hours",
+      "anchor": "Phoebe Bridgers",
+      "note": "An acoustic guitar, a voice close enough to hear breath, and a love song made of small details."
+    },
+    {
+      "artist": "Samia",
+      "title": "Kill Her Freak Out",
+      "lane": "sad-hours",
+      "anchor": "Phoebe Bridgers",
+      "note": "An organ, a confession, and a title that means exactly what it sounds like."
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Eugene",
+      "lane": "sad-hours",
+      "anchor": "Billie Eilish",
+      "note": "A diary page set to warm bass and brushed drums, jealousy handled with unusual kindness."
+    },
+    {
+      "artist": "Indigo De Souza",
+      "title": "Younger & Dumber",
+      "lane": "sad-hours",
+      "anchor": "Lana Del Rey",
+      "note": "Starts small and ends up somewhere much louder, without ever changing key."
+    },
+    {
+      "artist": "Beabadoobee",
+      "title": "The Perfect Pair",
+      "lane": "sad-hours",
+      "anchor": "Gracie Abrams",
+      "note": "A bossa nova sway under bedroom vocals, the gentlest possible way to admit two people are bad for each other."
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "Body",
+      "lane": "sad-hours",
+      "anchor": "Phoebe Bridgers",
+      "note": "One long held thought about leaving, sung at walking pace the entire way."
+    },
+    {
+      "artist": "Clairo",
+      "title": "Sexy to Someone",
+      "lane": "sad-hours",
+      "anchor": "Lorde",
+      "note": "Recorded to sound like an old record on purpose, and the songs hold up to it"
+    },
+    {
+      "artist": "Weyes Blood",
+      "title": "Andromeda",
+      "lane": "sad-hours",
+      "anchor": "Lana Del Rey",
+      "note": "Seventies soft rock aimed at the sky, and the reverb is doing real work."
+    },
+    {
+      "artist": "Aaliyah",
+      "title": "Are You That Somebody",
+      "lane": "throwback-2000s",
+      "anchor": "Usher",
+      "note": "The strangest drum programming ever to reach number one, and it still sounds like the future"
+    },
+    {
+      "artist": "Mýa",
+      "title": "Case of the Ex",
+      "lane": "throwback-2000s",
+      "anchor": "Beyonce",
+      "note": "The bassline is the whole song and it knows it, which is why it still works."
+    },
+    {
+      "artist": "Brandy",
+      "title": "Full Moon",
+      "lane": "throwback-2000s",
+      "anchor": "Beyonce",
+      "note": "Runs stacked like lacework over clockwork production, the reason singers call her the vocal bible."
+    },
+    {
+      "artist": "Ashanti",
+      "title": "Foolish",
+      "lane": "throwback-2000s",
+      "anchor": "Rihanna",
+      "note": "A loop lifted from a soul record, sung like a diary entry over the top of it."
+    },
+    {
+      "artist": "Craig David",
+      "title": "Fill Me In",
+      "lane": "throwback-2000s",
+      "anchor": "Justin Timberlake",
+      "note": "UK garage smuggled onto pop radio by a teenager, still the smoothest sneaking-around song ever cut."
+    },
+    {
+      "artist": "Cassie",
+      "title": "Me & U",
+      "lane": "throwback-2000s",
+      "anchor": "Usher",
+      "note": "Almost nothing in the arrangement, and that emptiness is the entire hook."
+    },
+    {
+      "artist": "Blu Cantrell",
+      "title": "Hit 'Em Up Style",
+      "lane": "throwback-2000s",
+      "anchor": "Rihanna",
+      "note": "Revenge served over a swinging jazz loop, his credit cards footing the bill."
+    },
+    {
+      "artist": "Ciara",
+      "title": "Goodies",
+      "lane": "throwback-2000s",
+      "anchor": "Britney Spears",
+      "note": "Crunk production under a pop vocal, back when that was a genuinely strange idea."
+    },
+    {
+      "artist": "Amerie",
+      "title": "1 Thing",
+      "lane": "throwback-2000s",
+      "anchor": "Britney Spears",
+      "note": "One drum break, one vocal, and one of the great singles of the decade"
+    },
+    {
+      "artist": "Mario",
+      "title": "Let Me Love You",
+      "lane": "throwback-2000s",
+      "anchor": "Justin Timberlake",
+      "note": "A ballad engineered so cleanly it has outlived everything around it on the chart."
+    },
+    {
+      "artist": "Normani",
+      "title": "Wild Side",
+      "lane": "chart-rnb",
+      "anchor": "SZA",
+      "note": "A comeback single that bets everything on the dancing, and wins it.",
+      "why": "A comeback single that bets everything on the dancing, and wins it. SZA, 1,342 plays deep in your record, is the anchor, and this is the same late-night R&B with the lights a little lower."
+    },
+    {
+      "artist": "Ari Lennox",
+      "title": "Shea Butter Baby",
+      "lane": "chart-rnb",
+      "anchor": "SZA",
+      "note": "Soul that sounds recorded in one room on a warm afternoon, because it nearly was.",
+      "why": "Soul that sounds recorded in one room on a warm afternoon, because it nearly was. Your 68.4 hours of SZA are the same register, and you skip her only 12% of the time."
+    },
+    {
+      "artist": "Coco Jones",
+      "title": "ICU",
+      "lane": "chart-rnb",
+      "anchor": "Summer Walker",
+      "note": "A big old-school R&B ballad, no gimmicks, just range and patience.",
+      "why": "A big old-school R&B ballad, no gimmicks, just range and patience. Summer Walker at 886 plays is the neighbour; this one does not whisper."
+    },
+    {
+      "artist": "Alex Isley",
+      "title": "Good & Plenty",
+      "lane": "chart-rnb",
+      "anchor": "Frank Ocean",
+      "note": "Featherweight vocals over chords that keep resolving somewhere unexpected.",
+      "why": "Featherweight vocals over chords that keep resolving somewhere unexpected. Frank Ocean is 44.2 hours of your life, and this is the same harmonic curiosity with a softer landing."
+    },
+    {
+      "artist": "Tems",
+      "title": "Free Mind",
+      "lane": "chart-rnb",
+      "anchor": "Frank Ocean",
+      "note": "A Nigerian voice with enormous patience, and the song never once rushes",
+      "why": "A Nigerian voice with enormous patience, and the song never once rushes. You have played Frank Ocean 812 times and skip him 9% of the time; this asks for exactly that patience."
+    },
+    {
+      "artist": "Eladio Carrión",
+      "title": "Flores en Anónimo",
+      "lane": "latin-pop",
+      "anchor": null,
+      "label": {
+        "name": "Rimas Entertainment",
+        "hours": 61.3,
+        "artists": 4,
+        "releases": 7
+      },
+      "note": "Bad Bunny's label, a slower cut from the Sauce Boyz sequel, trap drums under a melody that sounds half asleep on purpose.",
+      "why": "A slower cut from the Sauce Boyz sequel, trap drums under a melody that sounds half asleep on purpose. The door is Rimas Entertainment, Bad Bunny's label: 61.3 hours of it in your listening across 4 artists, and Eladio Carrión has 7 releases there you have never opened."
+    },
+    {
+      "artist": "Ayra Starr",
+      "title": "Rush",
+      "lane": "latin-pop",
+      "anchor": "Bad Bunny",
+      "note": "Lagos pop with a hook that flicks like a wrist, easy confidence from a singer barely out of her teens.",
+      "why": "Lagos pop with a hook that flicks like a wrist, easy confidence from a singer barely out of her teens. Bad Bunny, 1,148 plays on your shelf, is the anchor: same swagger, different coast."
+    },
+    {
+      "artist": "Destin Conrad",
+      "title": "Same Room",
+      "lane": "chart-rnb",
+      "anchor": "Brent Faiyaz",
+      "note": "Quiet, close, and unhurried, the sound of somebody thinking out loud.",
+      "why": "Quiet, close, and unhurried, the sound of somebody thinking out loud. Brent Faiyaz at 748 plays is the nearest thing you own, and this is even quieter."
+    },
+    {
+      "artist": "Tyla",
+      "title": "Water",
+      "lane": "chart-rnb",
+      "anchor": "Doja Cat",
+      "note": "The song that carried amapiano's log drums and shakers onto every radio, sung with total cool.",
+      "why": "The song that carried amapiano's log drums and shakers onto every radio, sung with total cool. Doja Cat, 1,042 plays deep, is the anchor; this has the same ease and none of the jokes."
+    },
+    {
+      "artist": "Libianca",
+      "title": "People",
+      "lane": "chart-rnb",
+      "anchor": "Doja Cat",
+      "note": "A question repeated until it stops being small talk and starts being the song.",
+      "why": "A question repeated until it stops being small talk and starts being the song. It comes through your 48.6 hours of Doja Cat, and it is the sadder room next door."
+    },
+    {
+      "artist": "Feid",
+      "title": "Feliz Cumpleaños Ferxxo",
+      "lane": "latin-pop",
+      "anchor": "Karol G",
+      "note": "Medellín reggaeton gone soft in the middle, a birthday song that plays like a love letter.",
+      "why": "Medellín reggaeton gone soft in the middle, a birthday song that plays like a love letter. Karol G, 686 plays on your shelf, is the anchor, and this is the same city with a softer voice."
+    },
+    {
+      "artist": "Rauw Alejandro",
+      "title": "Todo de Ti",
+      "lane": "latin-pop",
+      "anchor": "Bad Bunny",
+      "note": "Disco bones under a reggaeton vocal, and it moves like it was built to.",
+      "why": "Disco bones under a reggaeton vocal, and it moves like it was built to. You have played Bad Bunny 1,148 times and skip him 18% of the time; this is what his radio sounds like between his songs."
+    },
+    {
+      "artist": "Young Miko",
+      "title": "Classy 101",
+      "lane": "latin-pop",
+      "anchor": "Bad Bunny",
+      "note": "A Puerto Rican newcomer trading verses with Feid, cool as the other side of the pillow.",
+      "why": "A Puerto Rican newcomer trading verses with Feid, cool as the other side of the pillow. Bad Bunny is 58.6 hours of your life, and this is the next voice out of the same island."
+    },
+    {
+      "artist": "Natanael Cano",
+      "title": "Amor Tumbado",
+      "lane": "latin-pop",
+      "anchor": "Peso Pluma",
+      "note": "Corridos rewritten for a much younger room, guitars first and everything else after.",
+      "why": "Corridos rewritten for a much younger room, guitars first and everything else after. Peso Pluma at 386 plays is the anchor, and this is the record that opened his door."
+    },
+    {
+      "artist": "Silvana Estrada",
+      "title": "Marchita",
+      "lane": "latin-pop",
+      "anchor": "Rosalía",
+      "note": "One voice and one cuatro, recorded close, and it is completely disarming",
+      "why": "One voice and one cuatro, recorded close, and it is completely disarming. Rosalía, 512 plays deep, is the neighbour; this is the same seriousness with all the production removed."
+    },
+    {
+      "artist": "Nathy Peluso",
+      "title": "Mafiosa",
+      "lane": "latin-pop",
+      "anchor": "Rosalía",
+      "note": "Somewhere between salsa and a threat, delivered with total commitment.",
+      "why": "Somewhere between salsa and a threat, delivered with total commitment. Your 26.8 hours of Rosalía are the same theatre, and this one bites."
+    },
+    {
+      "artist": "Sara Bareilles",
+      "title": "She Used to Be Mine",
+      "lane": "musicals",
+      "anchor": "Original Broadway Cast",
+      "note": "She wrote the show and then sang its saddest song better than the cast did.",
+      "why": "She wrote the show and then sang its saddest song better than the cast did. You have 624 plays of cast recordings and skip them 8% of the time; this is the songwriter stepping out from behind them."
+    },
+    {
+      "artist": "Anaïs Mitchell",
+      "title": "Why We Build the Wall",
+      "lane": "musicals",
+      "anchor": "Original Broadway Cast",
+      "note": "Written years before the stage version, and it has only got heavier since.",
+      "why": "Written years before the stage version, and it has only got heavier since. Your 42.6 hours of cast recordings almost certainly include the show; this is where it started."
+    },
+    {
+      "artist": "Carly Pearce",
+      "title": "What He Didn't Do",
+      "lane": "stadium-country",
+      "anchor": null,
+      "label": {
+        "name": "Big Machine",
+        "hours": 96.2,
+        "artists": 6,
+        "releases": 3
+      },
+      "note": "Nashville heartbreak with the details left in, from the label that pressed the country records you still play the most.",
+      "why": "Nashville heartbreak with the details left in. Big Machine runs 96.2 hours deep in your listening, 6 of its artists in rotation, and Carly Pearce has 3 releases there you have never opened."
+    },
+    {
+      "artist": "Reneé Rapp",
+      "title": "Snow Angel",
+      "lane": "musicals",
+      "anchor": "Ben Platt",
+      "note": "Came off a Broadway stage and into pop without softening any of the delivery.",
+      "why": "Came off a Broadway stage and into pop without softening any of the delivery. Ben Platt, 214 plays on your shelf, made the same crossing, and you skip him 15% of the time, so you know the risk."
+    }
+  ],
+  "mixes": [
+    {
+      "show": "BBC Radio 1",
+      "host": "Jack Saunders",
+      "date": "2026-06-13",
+      "lane": "big-pop",
+      "tracks_total": 22,
+      "known": 8,
+      "anchor": "Dua Lipa",
+      "note": "Radio One's new music flagship, where next spring's choruses turn up before anyone has agreed on them."
+    },
+    {
+      "show": "Apple Music 1",
+      "host": "Zane Lowe",
+      "date": "2026-06-17",
+      "lane": "top-forty-rap",
+      "tracks_total": 20,
+      "known": 9,
+      "anchor": "Drake",
+      "note": "The interview show, but the records either side of the talking are the reason to stay"
+    },
+    {
+      "show": "BBC Radio 1",
+      "host": "Future Sounds",
+      "date": "2026-06-20",
+      "lane": "big-pop",
+      "tracks_total": 24,
+      "known": 7,
+      "anchor": "Olivia Rodrigo",
+      "note": "The evening premiere show, big pop treated as news the moment it lands."
+    },
+    {
+      "show": "Apple Music Hits",
+      "host": "Nadeska",
+      "date": "2026-06-24",
+      "lane": "chart-rnb",
+      "tracks_total": 18,
+      "known": 6,
+      "anchor": "SZA",
+      "note": "R&B radio with a long memory, current names threaded between the ones they grew up on."
+    },
+    {
+      "show": "BBC Radio 1",
+      "host": "Sian Eleri",
+      "date": "2026-06-27",
+      "lane": "sad-hours",
+      "tracks_total": 16,
+      "known": 5,
+      "anchor": "Billie Eilish",
+      "note": "The late show, built for driving home, and it never once gets loud"
+    },
+    {
+      "show": "Apple Music Country",
+      "host": "Kelleigh Bannen",
+      "date": "2026-07-01",
+      "lane": "stadium-country",
+      "tracks_total": 21,
+      "known": 8,
+      "anchor": "Kacey Musgraves",
+      "note": "Nashville radio hosted by a songwriter, so the big names arrive with their credits showing."
+    },
+    {
+      "show": "BBC Radio 1",
+      "host": "Danny Howard",
+      "date": "2026-07-04",
+      "lane": "gym-hours",
+      "tracks_total": 26,
+      "known": 10,
+      "anchor": "Calvin Harris",
+      "note": "Peak-time dance radio with no slow patches, exactly the tempo a hard hour asks for."
+    },
+    {
+      "show": "Apple Music 1",
+      "host": "Ebro Darden",
+      "date": "2026-07-08",
+      "lane": "top-forty-rap",
+      "tracks_total": 23,
+      "known": 11,
+      "anchor": "Travis Scott",
+      "note": "New York rap radio done properly, with actual opinions between the records"
+    },
+    {
+      "show": "BBC Radio 1",
+      "host": "Jamz Supernova",
+      "date": "2026-07-11",
+      "lane": "chart-rnb",
+      "tracks_total": 19,
+      "known": 6,
+      "anchor": "Brent Faiyaz",
+      "note": "Left-of-centre R&B from a host who hears singers a year before everyone else does."
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Tina Edwards",
+      "date": "2026-07-15",
+      "lane": "chart-rnb",
+      "tracks_total": 17,
+      "known": 5,
+      "anchor": "Frank Ocean",
+      "note": "Jazz-leaning radio from the station Gilles Peterson built, the slow-burning end of the soul you already love."
+    },
+    {
+      "show": "Apple Music 1",
+      "host": "Travis Mills",
+      "date": "2026-07-18",
+      "lane": "big-pop",
+      "tracks_total": 22,
+      "known": 9,
+      "anchor": "Harry Styles",
+      "note": "Daytime pop radio done properly, big records played loud with an actual person between them."
+    },
+    {
+      "show": "BBC Radio 1",
+      "host": "Arielle Free",
+      "date": "2026-07-22",
+      "lane": "gym-hours",
+      "tracks_total": 25,
+      "known": 9,
+      "anchor": "David Guetta",
+      "note": "Dance anthems back to back with real glee, radio that assumes you are already moving."
+    },
+    {
+      "show": "Apple Music Latin",
+      "host": "Ezra Sutton",
+      "date": "2026-07-25",
+      "lane": "latin-pop",
+      "tracks_total": 20,
+      "known": 7,
+      "anchor": "Bad Bunny",
+      "note": "Two hours of reggaeton and its neighbours, sequenced by someone who loves all of it"
+    },
+    {
+      "show": "BBC Radio 1",
+      "host": "Charlie Hedges",
+      "date": "2026-07-29",
+      "lane": "big-pop",
+      "tracks_total": 23,
+      "known": 8,
+      "anchor": "Ariana Grande",
+      "note": "Pop with its dancing shoes on, hosted like a night out that starts early."
+    },
+    {
+      "show": "A. G. Cook",
+      "host": "A. G. Cook",
+      "episode": "Britpop Past",
+      "station": "NTS",
+      "date": "2024-04-22",
+      "lane": "big-pop",
+      "tracks_total": 20,
+      "known": 4,
+      "anchor": "Chappell Roan",
+      "url": "https://www.nts.live/shows/a-g-cook/episodes/a-g-cook-22nd-april-2024",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/d70e4fc5-e8d3-4938-9013-4d198ec7fc5e_1713484800.jpeg",
+      "note": "The PC Music founder digging through the British pop that made him, one disc of his album at a time. Half of this you danced to in a kitchen.",
+      "why": "The PC Music founder on NTS with the British pop that made him, Caroline Polachek next to Hudson Mohawke, one disc of his album at a time. 20 tracks, 4 by artists you play and 16 you have never heard, and the maximalism you already play, Chappell Roan 684 times over, is the way in."
+    },
+    {
+      "show": "El Sonido",
+      "host": "Goyri",
+      "episode": "with Goyri",
+      "station": "KEXP",
+      "date": "2026-08-03",
+      "lane": "latin-pop",
+      "tracks_total": 38,
+      "known": 5,
+      "anchor": "Bad Bunny",
+      "url": "https://www.kexp.org/playlist/2026/8/3/#show-67432",
+      "listen_urls": [],
+      "cover_url": "https://www.kexp.org/media/filer_public/28/4b/284b0019-605f-47fd-a35f-6ea8ac527e58/goyri_800x800.jpg",
+      "note": "Goyri's three-hour trip through Latin music on KEXP, reggaeton next to cumbia next to whatever came out this week. Bad Bunny is the way in.",
+      "why": "Goyri's trip through Latin music on KEXP, Los Fabulosos Cadillacs next to Ed Maverick next to whatever came out this week. 38 tracks, 5 by artists you play and 33 you do not, and Bad Bunny at 1,148 plays is the door."
+    },
+    {
+      "show": "Country Hayride",
+      "host": "Country Hayride",
+      "episode": "Western Swing Takeover",
+      "station": "NTS",
+      "date": "2026-08-09",
+      "lane": "stadium-country",
+      "tracks_total": 16,
+      "known": 2,
+      "anchor": "Kacey Musgraves",
+      "url": "https://www.nts.live/shows/country-hayride/episodes/country-hayride-9th-august-2026",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/4b8e955d-bd7a-482b-8ce9-6ec966429240_1786147200.jpeg",
+      "note": "Western swing from the vaults, the fiddles and steel that the arena names still borrow from. Kacey Musgraves is the closest thing on your shelf.",
+      "why": "NTS's Country Hayride given over to western swing, Bob Wills and Spade Cooley, the fiddles and steel the arena names still borrow from. 16 tracks, 2 by artists you play and 14 you have never heard, with Kacey Musgraves at 682 plays as the closest thing on your shelf."
+    },
+    {
+      "show": "Essential Mix",
+      "host": "Max Styler",
+      "episode": "Max Styler",
+      "station": "BBC Radio 1",
+      "date": "2026-08-08",
+      "lane": "gym-hours",
+      "tracks_total": 31,
+      "known": 7,
+      "anchor": "Calvin Harris",
+      "url": "https://www.mixesdb.com/w/2026-08-08_-_Max_Styler_-_Essential_Mix",
+      "listen_urls": [
+        "https://www.mixcloud.com/funkytone/radio-1-essential-mix-2026-08-08-max-styler/"
+      ],
+      "cover_url": "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/5/0/6/acae-fb1c-48c0-a25b-ec0f9b1274a9",
+      "note": "Two hours of tech house built for the last set of the night, or the last set at the gym. Calvin Harris is the name you know; the rest hit harder.",
+      "why": "Two hours of tech house built for the last set of the night, or the last set at the gym. 31 tracks, 7 by names you play and 24 you have never heard, and Calvin Harris at 848 plays is the one you know; the rest hit harder."
+    }
+  ],
+  "revivals": [
+    {
+      "artist": "Taylor Swift",
+      "title": "Cruel Summer",
+      "album": "Lover",
+      "plays": 96,
+      "last_played": "2024-07-18",
+      "lane": "big-pop",
+      "note": "Played more than any other song in your entire listening, and then nothing for a year"
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "album": "Future Nostalgia",
+      "plays": 78,
+      "last_played": "2024-05-22",
+      "lane": "big-pop",
+      "note": "Disco-pop with springs in its heels, still the easiest yes in her catalogue."
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "positions",
+      "album": null,
+      "plays": 64,
+      "last_played": "2024-03-14",
+      "lane": "big-pop",
+      "note": "Plucked strings over soft drums, Ariana at her most weightless."
+    },
+    {
+      "artist": "SZA",
+      "title": "Kill Bill",
+      "album": "SOS",
+      "plays": 82,
+      "last_played": "2024-08-04",
+      "lane": "chart-rnb",
+      "note": "The song of one whole summer, worn completely smooth and then retired"
+    },
+    {
+      "artist": "Summer Walker",
+      "title": "Girls Need Love",
+      "album": null,
+      "plays": 52,
+      "last_played": "2024-04-08",
+      "lane": "chart-rnb",
+      "note": "A slow bedroom plea with all the air left in, the song that made understatement her signature."
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Pink + White",
+      "album": "Blonde",
+      "plays": 58,
+      "last_played": "2024-06-26",
+      "lane": "chart-rnb",
+      "note": "A warm tumble of piano and strings with Beyonce humming underneath, an album cut people treat like a single."
+    },
+    {
+      "artist": "Drake",
+      "title": "God's Plan",
+      "album": "Scorpion",
+      "plays": 74,
+      "last_played": "2024-02-19",
+      "lane": "top-forty-rap",
+      "note": "The friendliest Drake has ever sounded on record, a victory lap you can hum."
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Sicko Mode",
+      "album": "Astroworld",
+      "plays": 68,
+      "last_played": "2024-07-02",
+      "lane": "top-forty-rap",
+      "note": "The gym song for two straight years, and it stopped working all at once"
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Say So",
+      "album": null,
+      "plays": 56,
+      "last_played": "2023-12-11",
+      "lane": "top-forty-rap",
+      "note": "Roller-rink disco with the guitar doing half the flirting."
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "title": "Slow Burn",
+      "album": "Golden Hour",
+      "plays": 42,
+      "last_played": "2024-05-16",
+      "lane": "stadium-country",
+      "note": "The unhurried opener that sets Golden Hour's whole temperature, country with its shoulders down."
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "Something in the Orange",
+      "album": null,
+      "plays": 61,
+      "last_played": "2024-08-11",
+      "lane": "stadium-country",
+      "note": "A campfire ballad sung close to breaking, heartland heartbreak with no gloss on it."
+    },
+    {
+      "artist": "Chris Stapleton",
+      "title": "Tennessee Whiskey",
+      "album": null,
+      "plays": 46,
+      "last_played": "2024-03-28",
+      "lane": "stadium-country",
+      "note": "A voice like worn leather over a slow soul sway, the cover that outgrew its original."
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Titanium",
+      "album": null,
+      "plays": 54,
+      "last_played": "2023-11-20",
+      "lane": "gym-hours",
+      "note": "Sia hitting the chorus like a flare, the template for a decade of arena-sized hope."
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Savage",
+      "album": null,
+      "plays": 62,
+      "last_played": "2024-06-10",
+      "lane": "gym-hours",
+      "note": "Sparse drums and total command, confidence you can borrow for an hour."
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Feels",
+      "album": null,
+      "plays": 48,
+      "last_played": "2024-01-22",
+      "lane": "gym-hours",
+      "note": "Sunshine funk-pop with Pharrell at his breeziest, built for open windows."
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "when the party's over",
+      "album": null,
+      "plays": 66,
+      "last_played": "2024-04-24",
+      "lane": "sad-hours",
+      "note": "A song for one specific kind of night, played through a whole year of them"
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "I miss you, I'm sorry",
+      "album": null,
+      "plays": 44,
+      "last_played": "2024-02-06",
+      "lane": "sad-hours",
+      "note": "A whispered apology of a song, the diary entry that built her audience."
+    },
+    {
+      "artist": "Lana Del Rey",
+      "title": "Mariners Apartment Complex",
+      "album": null,
+      "plays": 38,
+      "last_played": "2024-07-26",
+      "lane": "sad-hours",
+      "note": "Lana in warm folk-rock mode, steadier and kinder than her reputation lets on."
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Toxic",
+      "album": null,
+      "plays": 58,
+      "last_played": "2024-05-08",
+      "lane": "throwback-2000s",
+      "note": "Surf strings and a spy-film hook, pop engineering that has never dated."
+    },
+    {
+      "artist": "Usher",
+      "title": "U Got It Bad",
+      "album": null,
+      "plays": 41,
+      "last_played": "2023-12-28",
+      "lane": "throwback-2000s",
+      "note": "The lovesick slow jam other lovesick slow jams measure themselves against."
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Love on Top",
+      "album": null,
+      "plays": 72,
+      "last_played": "2024-08-16",
+      "lane": "throwback-2000s",
+      "note": "The key changes that used to get played on every good morning, and not once lately"
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Desperado",
+      "album": "Anti",
+      "plays": 49,
+      "last_played": "2024-03-05",
+      "lane": "throwback-2000s",
+      "note": "Moody and dusty, built for night highways, proof that Anti runs deeper than its singles."
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Tití Me Preguntó",
+      "album": null,
+      "plays": 68,
+      "last_played": "2024-06-18",
+      "lane": "latin-pop",
+      "note": "A dembow that keeps changing shape mid-song, mischief with a sad heart underneath."
+    },
+    {
+      "artist": "Karol G",
+      "title": "Provenza",
+      "album": null,
+      "plays": 51,
+      "last_played": "2024-04-30",
+      "lane": "latin-pop",
+      "note": "Reggaeton slowed to beach pace, an invitation of a song."
+    },
+    {
+      "artist": "NewJeans",
+      "title": "Ditto",
+      "album": null,
+      "plays": 47,
+      "last_played": "2024-05-28",
+      "lane": "kpop",
+      "note": "Played constantly all spring and then dropped the moment the group went quiet"
+    },
+    {
+      "artist": "Twice",
+      "title": "Feel Special",
+      "album": null,
+      "plays": 34,
+      "last_played": "2024-01-16",
+      "lane": "kpop",
+      "note": "A comfort anthem under all the gloss, one of K-pop's kindest choruses."
+    },
+    {
+      "artist": "Original Broadway Cast",
+      "title": "Satisfied",
+      "album": "Hamilton",
+      "plays": 39,
+      "last_played": "2024-07-14",
+      "lane": "musicals",
+      "note": "The showstopper that rewinds the wedding to tell the truth about it, rap-speed and heartbroken."
+    }
+  ],
+  "releases": [
+    {
+      "artist": "Taylor Swift",
+      "title": "The Tortured Poets Department Anthology",
+      "release_type": "album",
+      "note": "There will be nothing else on for a fortnight and that is fine."
+    },
+    {
+      "artist": "SZA",
+      "title": "Lana",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Radical Optimism Deluxe",
+      "release_type": "album",
+      "note": "The dance-floor album back with its pockets emptied out."
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Short n' Sweet Deluxe",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "The Giver",
+      "release_type": "single",
+      "note": "Chappell goes full country romp, fiddle out front, and it fits her."
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "Eternal Sunshine Brighter Days",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "Guts Spilled",
+      "release_type": "album",
+      "note": "Four extra songs and one of them is the best thing she has written."
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Harry's House Live",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Hit Me Hard and Soft Tour",
+      "release_type": "compilation",
+      "note": "The quietest arena show in pop, finally captured."
+    },
+    {
+      "artist": "Gracie Abrams",
+      "title": "The Secret of Us Deluxe",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Punisher Anniversary",
+      "release_type": "compilation",
+      "note": "A reissue with demos, and the demos are somehow sadder."
+    },
+    {
+      "artist": "Lana Del Rey",
+      "title": "Lasso",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Lorde",
+      "title": "Virgin",
+      "release_type": "album",
+      "note": "Lorde stripped back down to nerves and synths."
+    },
+    {
+      "artist": "Frank Ocean",
+      "title": "Blonde Instrumentals",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "title": "Larger Than Life Deluxe",
+      "release_type": "album",
+      "note": "More late-night R&B from the smoothest pessimist working."
+    },
+    {
+      "artist": "Summer Walker",
+      "title": "Finally Over It",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Giveon",
+      "title": "Beloved",
+      "release_type": "album",
+      "note": "That baritone again, set in older and warmer soul arrangements."
+    },
+    {
+      "artist": "Victoria Monet",
+      "title": "Jaguar III",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Drake",
+      "title": "For All the Dogs Scary Hours",
+      "release_type": "album",
+      "note": "Drake rolls his sleeves up for the rap-heavy expansion."
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Jackboys 2",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Doja Cat",
+      "title": "Vie",
+      "release_type": "album",
+      "note": "Doja pivots again, this time toward gleaming eighties pop."
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "title": "GNX Deluxe",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Nicki Minaj",
+      "title": "Pink Friday 2 Gag City",
+      "release_type": "album",
+      "note": "An extended stay in the pink city her fans dreamed up."
+    },
+    {
+      "artist": "Future",
+      "title": "Mixtape Pluto",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Megan Act II",
+      "release_type": "album",
+      "note": "A second act for the self-titled album."
+    },
+    {
+      "artist": "Cardi B",
+      "title": "Am I the Drama",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Funk Wav Bounces Vol. 3",
+      "release_type": "album",
+      "note": "A third summer of sunlit funk with a long guest list."
+    },
+    {
+      "artist": "David Guetta",
+      "title": "Future Rave II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Lil Nas X",
+      "title": "Dreamboy",
+      "release_type": "album",
+      "note": "The next costume change, worn with total commitment."
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "title": "Deeper Well Deluxe",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Zach Bryan",
+      "title": "The Great American Bar Scene",
+      "release_type": "album",
+      "note": "Barroom hymns, mostly quiet, occasionally huge."
+    },
+    {
+      "artist": "Chris Stapleton",
+      "title": "Higher Live",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Morgan Wallen",
+      "title": "One Thing at a Time Encore",
+      "release_type": "album",
+      "note": "An encore for the album that would not leave the charts."
+    },
+    {
+      "artist": "Lainey Wilson",
+      "title": "Whirlwind",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "Debí Tirar Más Fotos",
+      "release_type": "album",
+      "note": "A whole record about missing home, and it is his best in years."
+    },
+    {
+      "artist": "Karol G",
+      "title": "Tropicoqueta",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Rosalía",
+      "title": "Lux",
+      "release_type": "album",
+      "note": "Recorded with an orchestra in thirteen languages, apparently."
+    },
+    {
+      "artist": "Peso Pluma",
+      "title": "Exodo Deluxe",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "NewJeans",
+      "title": "Supernatural",
+      "release_type": "single",
+      "note": "The first release since the group went quiet, so this matters."
+    },
+    {
+      "artist": "Twice",
+      "title": "This Is For",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Blackpink",
+      "title": "Jump",
+      "release_type": "single",
+      "note": "All four back on one track, chorus aimed at stadiums."
+    },
+    {
+      "artist": "Stray Kids",
+      "title": "Karma",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Cowboy Carter Act III",
+      "release_type": "album",
+      "note": "The last part of the trilogy, and the country one was extraordinary."
+    },
+    {
+      "artist": "Rihanna",
+      "title": "R9",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Usher",
+      "title": "Coming Home Live",
+      "release_type": "compilation",
+      "note": "The homecoming set from a showman who still does it on skates."
+    }
+  ],
+  "catalogs": [
+    {
+      "artist": "Taylor Swift",
+      "unique_tracks": 148,
+      "top3_share": 34,
+      "heard": [
+        "Cruel Summer",
+        "All Too Well",
+        "Style",
+        "August"
+      ],
+      "unheard": [
+        {
+          "title": "Evermore",
+          "year": 2020
+        },
+        {
+          "title": "Speak Now Taylor's Version",
+          "year": 2023
+        }
+      ],
+      "note": "The most-played artist in your listening by a mile, and two whole albums have never been opened."
+    },
+    {
+      "artist": "Beyonce",
+      "unique_tracks": 52,
+      "top3_share": 44,
+      "heard": [
+        "Love on Top",
+        "Formation",
+        "Halo"
+      ],
+      "unheard": [
+        {
+          "title": "Cowboy Carter",
+          "year": 2024
+        },
+        {
+          "title": "4",
+          "year": 2011
+        }
+      ],
+      "note": "You play the singles constantly and skip the albums, which she would take personally."
+    },
+    {
+      "artist": "Drake",
+      "unique_tracks": 86,
+      "top3_share": 31,
+      "heard": [
+        "God's Plan",
+        "Passionfruit",
+        "Hotline Bling",
+        "Nice for What"
+      ],
+      "unheard": [
+        {
+          "title": "Take Care",
+          "year": 2011
+        },
+        {
+          "title": "If You're Reading This It's Too Late",
+          "year": 2015
+        }
+      ],
+      "note": "Hundreds of plays and the two records everyone agrees are his best are untouched."
+    },
+    {
+      "artist": "SZA",
+      "unique_tracks": 38,
+      "top3_share": 48,
+      "heard": [
+        "Kill Bill",
+        "Good Days",
+        "Snooze"
+      ],
+      "unheard": [
+        {
+          "title": "Ctrl",
+          "year": 2017
+        },
+        {
+          "title": "SOS Deluxe",
+          "year": 2023
+        }
+      ],
+      "note": "The songs from the album get played and the album never does."
+    },
+    {
+      "artist": "Bad Bunny",
+      "unique_tracks": 44,
+      "top3_share": 42,
+      "heard": [
+        "Tití Me Preguntó",
+        "Me Porto Bonito",
+        "Moscow Mule"
+      ],
+      "unheard": [
+        {
+          "title": "YHLQMDLG",
+          "year": 2020
+        },
+        {
+          "title": "Un Verano Sin Ti Deluxe",
+          "year": 2022
+        }
+      ],
+      "note": "One summer of singles, and the records they came from still sealed."
+    },
+    {
+      "artist": "Billie Eilish",
+      "unique_tracks": 46,
+      "top3_share": 39,
+      "heard": [
+        "when the party's over",
+        "Birds of a Feather",
+        "Ocean Eyes"
+      ],
+      "unheard": [
+        {
+          "title": "Happier Than Ever",
+          "year": 2021
+        },
+        {
+          "title": "Hit Me Hard and Soft",
+          "year": 2024
+        }
+      ],
+      "note": "You know every single and have never sat with either album end to end."
+    }
+  ]
+}

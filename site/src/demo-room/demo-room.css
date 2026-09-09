@@ -1,0 +1,260 @@
+/* The demo room's chrome, lifted from the first reader (archive/demo-reader-v1)
+   when that reader was retired. Only the picker page uses it. */
+
+/* Clanker.CD — locked 2026-08-22. Figtree only; neutral white/black; rounded
+   frames; soft hairlines above sections; glass-fade header; lane dots as the
+   one non-artwork colour. No mono, no caps, no eyebrows. */
+
+:root {
+  --paper: #ffffff; --ink: #0a0a0a; --body: #1a1a1a; --grey: #6e6e6e;
+  --panel: #f6f6f5; --sep: rgba(10, 10, 10, .06); --tile: #f4f4f4;
+  --sans: 'Figtree', 'Helvetica Neue', Arial, sans-serif;
+  --r-lead: 16px; --r: 12px; --r-sm: 10px;
+  --lane-text-l: 0.44; --lane-text-c: 0.1;
+  color-scheme: light dark;
+}
+html { background: var(--paper); }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans);
+  -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+img { max-width: 100%; }
+::selection { background: #e6e6e6; color: var(--ink); }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.skip { position: absolute; left: 50%; transform: translateX(-50%); top: -48px; z-index: 40; padding: 10px 14px; background: var(--ink);
+  color: var(--paper); border-radius: 10px; font: 500 13px/1 var(--sans); }
+.skip:focus-visible { top: 16px; outline-offset: 2px; }
+a { color: var(--ink); text-decoration: none; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; border-radius: 6px; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+.board { max-width: 1440px; margin: 0 auto; padding: 0 clamp(20px, 4.4vw, 64px); }
+.blink { font: 500 13px/1 var(--sans); letter-spacing: .01em; white-space: nowrap;
+  display: inline-block; padding: 16px 0; margin: -16px 0; }
+.blink:hover { text-decoration: underline; text-underline-offset: 4px; }
+.blink--flat { color: var(--grey); }
+.blink--flat:hover { text-decoration: none; }
+/* header zone: liquid glass fading out. Blur + saturate + a frosted white
+   tint, all strongest at the top and gone by the bottom; the tint is what
+   keeps blurred type bright instead of grey. -------------------------------- */
+.mast { position: sticky; top: 0; z-index: 30; height: 104px;
+  margin: 0 calc(-1 * clamp(20px, 4.4vw, 64px)); padding: 0 clamp(20px, 4.4vw, 64px);
+  display: flex; align-items: center; pointer-events: none; }
+.mast-blur, .mast-tint { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+.mast-blur.b1 { -webkit-backdrop-filter: blur(38px) saturate(1.8) brightness(1.12);
+  backdrop-filter: blur(38px) saturate(1.8) brightness(1.12);
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 46%, rgba(0,0,0,0) 88%);
+  mask-image: linear-gradient(to bottom, #000 0%, #000 46%, rgba(0,0,0,0) 88%); }
+.mast-blur.b2 { -webkit-backdrop-filter: blur(16px) saturate(1.4) brightness(1.05);
+  backdrop-filter: blur(16px) saturate(1.4) brightness(1.05);
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 28%, #000 64%, rgba(0,0,0,0) 100%);
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,0) 28%, #000 64%, rgba(0,0,0,0) 100%); }
+.mast-tint { background: linear-gradient(to bottom, rgba(255,255,255,.16) 0%, rgba(255,255,255,.06) 50%, rgba(255,255,255,0) 100%); }
+.mast .blink { pointer-events: auto; position: relative; text-shadow: 0 0 10px #fff, 0 0 22px #fff; }
+.mast-brand { pointer-events: auto; position: relative; display: inline-flex; align-items: center; gap: 10px;
+  font: 600 15px/1 var(--sans); letter-spacing: -.01em; padding: 14px 0; margin: -14px 0;
+  text-shadow: 0 0 10px #fff, 0 0 22px #fff; }
+.mast-brand img { width: 27px; height: 27px; display: block; }
+/* page states ------------------------------------------------------------ */
+.page-status { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+  font: 500 13px/1.6 var(--sans); color: var(--grey); text-align: center; padding: 40px; }
+.page-status.error { color: var(--body); max-width: 520px; margin: 0 auto; font-weight: 400; }
+.act { margin-top: 20px; display: flex; gap: 20px; align-items: center; flex-wrap: wrap; }
+.pattr a { display: inline-block; padding: 13px 0; margin: -13px 0; }
+.pattr a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.art-frame img { display: block; width: 100%; height: 100%; object-fit: cover;
+  transition: transform .5s cubic-bezier(.2, .6, .2, 1); }
+.art:hover .art-frame img { transform: scale(1.025); }
+.art--still:hover .art-frame img { transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .art-frame img, .art-cue { transition: none; }
+  .art:hover .art-frame img { transform: none; }
+}
+.colo .blink { font-size: 12.5px; }
+/* archive ---------------------------------------------------------------- */
+.archive-head { display: flex; align-items: baseline; gap: 16px; margin-top: 28px; }
+.archive-title { font: 600 28px/1.1 var(--sans); letter-spacing: -.015em; }
+.archive-meta { font: 500 13px/1 var(--sans); color: var(--grey); font-variant-numeric: tabular-nums; }
+.switch button.off { color: var(--grey); display: inline-flex; align-items: center; min-height: 44px; }
+.switch button.off:hover { color: var(--ink); }
+.flow:focus-visible .flow-card.is-front img,
+.flow:focus-visible .flow-card.is-front .art-missing { outline: 2px solid var(--ink); outline-offset: 5px; }
+.flow-card img { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: cover;
+  border-radius: 14px; background: var(--tile); }
+.flow-mirror img { transform: scaleY(-1); }
+.ls-thumb img { display: block; width: 64px; height: 64px; object-fit: cover; border-radius: 8px; background: var(--tile); }
+.archive-empty { font: italic 400 15px/1.6 var(--sans); color: var(--grey); text-align: center; padding: 120px 0; }
+.page-status.error p { font: 400 15px/1.6 var(--sans); color: var(--body); }
+.lab .act + .act { margin-top: 32px; }
+.lab-opts button { min-height: 32px; color: var(--grey); }
+.lab-opts button.on { color: var(--ink); text-decoration: underline; text-underline-offset: 5px; }
+.lab-opts button.off:hover { color: var(--ink); }
+.lp-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.lp-pick-meta .blink { font-size: 12px; }
+@media (max-width: 759px) {
+  .lp-pick > .blink { grid-column: 2; justify-self: start; }
+}
+/* demo badge + demo room (?view=demo) ------------------------------------- */
+/* The demo pair sits where the badge used to: who you are reading as, and
+   the way out. Both carry the mast's own text glow so they stay legible over
+   artwork scrolling under the glass. */
+.mast-demo { margin-left: auto; pointer-events: auto; position: relative;
+  display: inline-flex; align-items: center; gap: 14px; }
+.mast-leave { pointer-events: auto; padding: 16px 0; margin: -16px 0;
+  font: 500 12.5px/1 var(--sans); color: var(--grey);
+  text-shadow: 0 0 10px var(--paper), 0 0 22px var(--paper); }
+.mast-leave:hover { color: var(--ink); }
+.mast-badge { pointer-events: auto; position: relative; display: inline-flex;
+  align-items: center; gap: 8px; padding: 16px 0; margin-top: -16px; margin-bottom: -16px;
+  font: 500 12.5px/1 var(--sans); color: var(--grey);
+  text-shadow: 0 0 10px var(--paper), 0 0 22px var(--paper); }
+.mast-badge:hover { color: var(--ink); }
+.mb-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--ink); flex: none; }
+.mb-name { color: var(--ink); font-weight: 600; }
+.mb-tag { color: var(--grey); }
+.demo-room { padding-top: 24px; padding-bottom: 80px; }
+.dr-intro { font: 400 17px/1.6 var(--sans); color: var(--body); max-width: 620px; margin-top: 20px; }
+.dr-switches { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; margin: 26px 0 8px; }
+.dr-toggle { font: 500 13px/1 var(--sans); color: var(--grey); padding: 14px 0; margin: -14px 0; }
+.dr-toggle:hover { color: var(--ink); }
+.dr-toggle.is-on { color: var(--ink); }
+.dr-hint { font: 400 12.5px/1.6 var(--sans); color: var(--grey); }
+.dr-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-top: 28px; }
+.dr-card { background: var(--panel); border-radius: 20px; padding: 22px 26px 26px;
+  display: flex; flex-direction: column; gap: 18px; }
+.dr-card.is-on { outline: 2px solid var(--ink); outline-offset: 3px; }
+.dr-covers { display: flex; gap: 8px; }
+.dr-thumb { display: block; width: 64px; height: 64px; object-fit: cover; border-radius: 10px;
+  background: var(--tile); }
+.dr-thumb--none { display: block; width: 64px; height: 64px; border-radius: 10px;
+  background: var(--tile); }
+.dr-name { font: 600 22px/1.15 var(--sans); letter-spacing: -.01em; display: flex;
+  align-items: baseline; gap: 10px; }
+.dr-now { font: 500 11.5px/1 var(--sans); color: var(--grey); }
+.dr-persona { font: 400 14.5px/1.55 var(--sans); color: var(--body); margin-top: 8px; }
+.dr-blurb { font: 400 13.5px/1.6 var(--sans); color: var(--grey); margin-top: 8px; }
+.dr-stats { font: 400 12px/1.7 var(--sans); color: var(--grey); margin-top: 12px;
+  font-variant-numeric: tabular-nums; }
+.dr-lanes { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 14px; }
+.dr-lane { display: inline-flex; align-items: center; gap: 6px; font: 500 12px/1.5 var(--sans);
+  color: oklch(var(--lane-text-l) var(--lane-text-c) var(--lh, 0)); }
+.dr-lane i { display: inline-block; width: 7px; height: 7px; border-radius: 50%; flex: none;
+  background: oklch(0.7 0.16 var(--lh, 0)); }
+.dr-latest { font: italic 400 13px/1.5 var(--sans); color: var(--grey); margin-top: 14px; }
+.dr-card .act { margin-top: auto; padding-top: 6px; }
+.dr-exit { margin-top: 40px; }
+@media (max-width: 1179px) {
+  .dr-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 759px) {
+  .dr-card { padding: 18px 20px 22px; border-radius: 16px; }
+  .dr-thumb, .dr-thumb--none { width: 52px; height: 52px; }
+}
+/* dark — follows the system, no manual switch yet. The same neutral system
+   inverted: near-black paper, off-white ink, panels a half-step up; artwork
+   and the lane hues carry the colour. The glass header dims what it blurs
+   instead of brightening it, and its glow goes dark so header type still
+   floats clear of scrolled content. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #101010; --ink: #f2f2f2; --body: #d8d8d8; --grey: #969696;
+    --panel: #1b1b1a; --sep: rgba(255, 255, 255, .09); --tile: #1e1e1e;
+    --lane-text-l: 0.78; --lane-text-c: 0.11;
+  }
+  ::selection { background: #3c3c3c; }
+  /* No brightness change in dark: over plain paper the blurred backdrop,
+     the tint, and the text glow all resolve to exactly the paper colour,
+     so the header machinery is invisible until artwork scrolls beneath it.
+     (A brightness() here paints a visible halo where the glow overlaps
+     the re-lit backdrop.) The tint alone does the dimming. */
+  .mast-blur.b1 { -webkit-backdrop-filter: blur(38px) saturate(1.6);
+    backdrop-filter: blur(38px) saturate(1.6); }
+  .mast-blur.b2 { -webkit-backdrop-filter: blur(16px) saturate(1.3);
+    backdrop-filter: blur(16px) saturate(1.3); }
+  .mast-tint { background: linear-gradient(to bottom, rgba(16, 16, 16, .45) 0%, rgba(16, 16, 16, .16) 50%, rgba(16, 16, 16, 0) 100%); }
+  .mast .blink { text-shadow: 0 0 10px #101010, 0 0 22px #101010; }
+  .mast-brand { text-shadow: 0 0 10px #101010, 0 0 22px #101010; }
+  @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+    .mast-tint { background: linear-gradient(to bottom, rgba(16, 16, 16, .96) 0%, rgba(16, 16, 16, .7) 60%, rgba(16, 16, 16, 0) 100%); }
+  }
+}
+.home-acts .blink { font-size: 15px; }
+.home-acts .quiet .blink { color: var(--grey); }
+.home-acts .quiet .blink:hover, .home-acts .quiet .blink:focus-visible { color: var(--ink); }
+.home-acts .blink:hover { text-decoration: none; }
+.home-acts .blink:hover .glabel, .home-acts .blink:focus-visible .glabel { background-image: var(--g); }
+@media (max-width: 759px) {
+  .mast-brand img { width: 23px; height: 23px; }
+}
+.wtile img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 14px; background: var(--tile);
+  display: block; margin-bottom: 7px; transition: transform .45s cubic-bezier(.2, .6, .2, 1); }
+.wtile:hover img, .wtile:focus-visible img { transform: scale(1.02); }
+@media (prefers-reduced-motion: reduce) {
+  .wtile img, .spine { transition: none; }
+  .wtile:hover img { transform: none; }
+}
+.rel-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; }
+@media (max-width: 759px) {
+  .rel-row > .blink { grid-column: 2; justify-self: start; }
+}
+/* The hero owns a screen. Sized to the viewport rather than to a fixed
+   measure: on a large display the old padding left the robot and the
+   headline stranded in the top third with the rest of the screen empty. */
+/* One measure for the landing. Every section is this wide and starts at this
+   left edge; only running text stops short of it, for line length. The page
+   used to run three widths (hero centred, press broken out to 1180, the rest
+   at the 860 reading measure), so the eye lost the spine after the demo and
+   the last two sections read as an afterthought. The hero centres inside the
+   same box, which is why it can be the one centred moment without drifting. */
+.ld { width: min(1180px, 100%); margin: 0 auto; }
+/* The caret is a real control, not decoration: it takes you to the first
+   section, which is the only thing below the fold on a tall screen. */
+.ld-caret { position: absolute; bottom: 26px; left: 50%; transform: translateX(-50%);
+  color: var(--grey); padding: 12px 20px; line-height: 0; }
+.ld-ctas .blink { font-size: 15px; font-weight: 600; }
+.ld-ctas .quiet .blink { color: var(--grey); font-weight: 500; }
+.ld-ctas .quiet .blink:hover, .ld-ctas .quiet .blink:focus-visible { color: var(--ink); }
+/* Each section gets most of a screen and sits centred in it, so scrolling
+   arrives on one thing at a time instead of on three blocks of equal weight
+   separated by identical gaps. */
+.ld-beat { margin-top: clamp(88px, 11vh, 150px); padding-top: clamp(36px, 4.4vh, 60px);
+  border-top: 1px solid var(--sep); scroll-margin-top: 112px;
+  display: flex; flex-direction: column; justify-content: center;
+  min-height: min(74svh, 820px); }
+/* The reel: one clip per feature, cut back to back. Hovering a feature in
+   the list holds its clip; the caption names whatever is on screen. */
+.reel-wrap { position: relative; }
+/* Once the plane has claimed the card the box keeps only its layout: an
+   opaque backdrop, a border or a shadow behind a plane that tilts in true 3D
+   pokes out around it as a dark rim. */
+.reel.card-live { transform: none; background: transparent; box-shadow: none;
+  border-color: transparent; }
+/* The plane's canvas reaches past its card on every side, which on a narrow
+   screen is enough to widen the document. Clip rather than hide: hidden makes
+   a scroll container and the sticky header stops sticking. */
+html { overflow-x: clip; }
+/* The caption sits under the frame, not over it: a scrim across the bottom
+   of a scrolling page reads as a rendering fault, not as a label. */
+.reel-cap { margin-top: 15px; text-align: center; color: var(--ink); pointer-events: none; }
+/* A real button, so Enter and Space work, the row announces itself, and the
+   page's own focus ring applies. It used to be a focusable div with
+   outline:none whose only focus cue was a --panel tint at 1.08:1, well under
+   the 3:1 a non-text indicator needs, and cursor:default told pointer users
+   it was inert. The tint stays as the hover and pressed state; the ring is
+   what marks focus. */
+.ld-mod { position: relative; display: grid; grid-template-columns: 1fr; gap: 3px;
+  padding: 12px 0; border-top: 1px solid var(--sep); text-align: start;
+  font: 400 14.5px/1.55 var(--sans); color: var(--body); }
+/* The hover tint is a pseudo-element so the hairlines stay aligned with the
+   text while the tint itself can bleed past them. */
+.ld-mod::before { content: ""; position: absolute; inset: 4px -12px; z-index: -1;
+  border-radius: var(--r-sm); background: var(--panel);
+  opacity: 0; transition: opacity .18s ease; }
+.ld-person .blink { font-size: 13px; }
+/* The last beat is a pair: everything you read and act on stacked in the
+   left column, and the clanker alone in the right, studying a record. */
+.ld-gesture { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 300px);
+  gap: 48px; align-items: center; margin-top: 26px; }
+.ld-url .blink { font-size: 13px; }
+@media (max-width: 759px) {
+  /* On a phone a screen-height section is mostly empty space to thumb past. */
+  .ld-beat { margin-top: 72px; min-height: 0; }
+}

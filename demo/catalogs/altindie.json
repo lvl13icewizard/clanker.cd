@@ -1,0 +1,3377 @@
+{
+  "slug": "altindie",
+  "name": "June",
+  "persona": "Twelve years of records, mostly guitars, always the whole album.",
+  "blurb": "Post-punk, shoegaze, slowcore and the songwriters underneath all of it, played start to finish rather than shuffled. One lane went quiet in July and a folk habit grew into the gap.",
+  "issue_count": 11,
+  "first_date": "2026-06-06",
+  "palette": [
+    "#c9a7a0",
+    "#8a9a7b",
+    "#e8e2d5",
+    "#3f4a58",
+    "#b5713f"
+  ],
+  "history": {
+    "plays": 96200,
+    "hours": 3452.0,
+    "tracks": 27400,
+    "artists": 9140,
+    "window_start": "2014-06-21",
+    "window_end": "2026-08-15"
+  },
+  "per_issue": {
+    "singles": 10,
+    "mixes": 2,
+    "revivals": 3,
+    "critics": 3,
+    "releases": 5
+  },
+  "lanes": [
+    {
+      "id": "post-punk",
+      "name": "Post-Punk",
+      "hue": 20,
+      "description": "Angular guitars and spoken threat, from the first wave through whatever London is doing now.",
+      "state": "active",
+      "members": 40,
+      "hours": 486.3,
+      "seeds": [
+        "Television",
+        "Wire",
+        "Dry Cleaning"
+      ],
+      "arc": "The anchor lane, steady through all eleven weeks and still taking new names every issue.",
+      "top": [
+        {
+          "artist": "Television",
+          "hours": 42.6,
+          "plays": 618,
+          "skip_rate": 0.06,
+          "affinity": 0.918,
+          "via": "seed"
+        },
+        {
+          "artist": "The Fall",
+          "hours": 38.2,
+          "plays": 742,
+          "skip_rate": 0.19,
+          "affinity": 0.863,
+          "via": "playlist"
+        },
+        {
+          "artist": "Wire",
+          "hours": 34.8,
+          "plays": 682,
+          "skip_rate": 0.11,
+          "affinity": 0.863,
+          "via": "seed"
+        },
+        {
+          "artist": "Dry Cleaning",
+          "hours": 28.4,
+          "plays": 496,
+          "skip_rate": 0.13,
+          "affinity": 0.824,
+          "via": "seed"
+        },
+        {
+          "artist": "Gang of Four",
+          "hours": 24.6,
+          "plays": 448,
+          "skip_rate": 0.12,
+          "affinity": 0.8,
+          "via": "playlist"
+        },
+        {
+          "artist": "Protomartyr",
+          "hours": 21.8,
+          "plays": 386,
+          "skip_rate": 0.14,
+          "affinity": 0.772,
+          "via": "playlist"
+        },
+        {
+          "artist": "bar italia",
+          "hours": 18.4,
+          "plays": 342,
+          "skip_rate": 0.16,
+          "affinity": 0.737,
+          "via": "session"
+        },
+        {
+          "artist": "Squid",
+          "hours": 16.2,
+          "plays": 294,
+          "skip_rate": 0.18,
+          "affinity": 0.708,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "shoegaze-dream",
+      "name": "Shoegaze & Dream Pop",
+      "hue": 265,
+      "description": "Guitars as weather: reverb, tremolo and vocals used as another layer of texture.",
+      "state": "active",
+      "members": 38,
+      "hours": 412.7,
+      "seeds": [
+        "My Bloody Valentine",
+        "Slowdive",
+        "Cocteau Twins"
+      ],
+      "arc": "Grew all summer on the back of the reissue campaigns and the newer bands copying them.",
+      "top": [
+        {
+          "artist": "My Bloody Valentine",
+          "hours": 44.8,
+          "plays": 624,
+          "skip_rate": 0.08,
+          "affinity": 0.92,
+          "via": "seed"
+        },
+        {
+          "artist": "Slowdive",
+          "hours": 39.2,
+          "plays": 548,
+          "skip_rate": 0.05,
+          "affinity": 0.902,
+          "via": "seed"
+        },
+        {
+          "artist": "Beach House",
+          "hours": 36.4,
+          "plays": 562,
+          "skip_rate": 0.09,
+          "affinity": 0.874,
+          "via": "playlist"
+        },
+        {
+          "artist": "Cocteau Twins",
+          "hours": 32.6,
+          "plays": 486,
+          "skip_rate": 0.07,
+          "affinity": 0.857,
+          "via": "seed"
+        },
+        {
+          "artist": "Ride",
+          "hours": 22.4,
+          "plays": 384,
+          "skip_rate": 0.13,
+          "affinity": 0.786,
+          "via": "playlist"
+        },
+        {
+          "artist": "Wednesday",
+          "hours": 19.6,
+          "plays": 348,
+          "skip_rate": 0.15,
+          "affinity": 0.756,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "slowcore",
+      "name": "Slowcore",
+      "hue": 210,
+      "description": "Quiet, slow, deliberate music where the silence between notes is the instrument.",
+      "state": "active",
+      "members": 26,
+      "hours": 268.4,
+      "seeds": [
+        "Low",
+        "Codeine",
+        "Duster"
+      ],
+      "arc": "Small but immovable, and the lane with the lowest skip rate in the whole record.",
+      "top": [
+        {
+          "artist": "Low",
+          "hours": 34.2,
+          "plays": 486,
+          "skip_rate": 0.05,
+          "affinity": 0.892,
+          "via": "seed"
+        },
+        {
+          "artist": "Duster",
+          "hours": 26.8,
+          "plays": 512,
+          "skip_rate": 0.06,
+          "affinity": 0.85,
+          "via": "seed"
+        },
+        {
+          "artist": "Red House Painters",
+          "hours": 24.4,
+          "plays": 312,
+          "skip_rate": 0.06,
+          "affinity": 0.83,
+          "via": "playlist"
+        },
+        {
+          "artist": "Codeine",
+          "hours": 18.6,
+          "plays": 268,
+          "skip_rate": 0.07,
+          "affinity": 0.785,
+          "via": "seed"
+        }
+      ]
+    },
+    {
+      "id": "nineties-indie",
+      "name": "Nineties Indie",
+      "hue": 45,
+      "description": "American indie rock from the Pavement decade: loose, tuneful, allergic to polish.",
+      "state": "active",
+      "members": 40,
+      "hours": 524.8,
+      "seeds": [
+        "Pavement",
+        "Yo La Tengo",
+        "Built to Spill"
+      ],
+      "arc": "The biggest lane by hours, and the one most likely to be playing on a weekday.",
+      "top": [
+        {
+          "artist": "Pavement",
+          "hours": 48.6,
+          "plays": 862,
+          "skip_rate": 0.1,
+          "affinity": 0.925,
+          "via": "seed"
+        },
+        {
+          "artist": "Yo La Tengo",
+          "hours": 41.2,
+          "plays": 668,
+          "skip_rate": 0.08,
+          "affinity": 0.901,
+          "via": "seed"
+        },
+        {
+          "artist": "Sonic Youth",
+          "hours": 34.6,
+          "plays": 524,
+          "skip_rate": 0.16,
+          "affinity": 0.85,
+          "via": "playlist"
+        },
+        {
+          "artist": "Built to Spill",
+          "hours": 28.6,
+          "plays": 468,
+          "skip_rate": 0.11,
+          "affinity": 0.83,
+          "via": "seed"
+        },
+        {
+          "artist": "Dinosaur Jr.",
+          "hours": 26.4,
+          "plays": 442,
+          "skip_rate": 0.14,
+          "affinity": 0.804,
+          "via": "playlist"
+        },
+        {
+          "artist": "Modest Mouse",
+          "hours": 24.2,
+          "plays": 418,
+          "skip_rate": 0.15,
+          "affinity": 0.783,
+          "via": "playlist"
+        },
+        {
+          "artist": "Guided by Voices",
+          "hours": 22.8,
+          "plays": 596,
+          "skip_rate": 0.22,
+          "affinity": 0.749,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "art-pop",
+      "name": "Art Pop",
+      "hue": 310,
+      "description": "Pop structures pulled out of shape: studio-built, unafraid of prettiness.",
+      "state": "rising",
+      "members": 24,
+      "hours": 196.5,
+      "seeds": [
+        "Kate Bush",
+        "Talk Talk",
+        "Weyes Blood"
+      ],
+      "arc": "Rising steadily, mostly through the older records rather than the current ones.",
+      "top": [
+        {
+          "artist": "Kate Bush",
+          "hours": 31.4,
+          "plays": 452,
+          "skip_rate": 0.08,
+          "affinity": 0.874,
+          "via": "seed"
+        },
+        {
+          "artist": "Talk Talk",
+          "hours": 27.8,
+          "plays": 286,
+          "skip_rate": 0.05,
+          "affinity": 0.857,
+          "via": "seed"
+        },
+        {
+          "artist": "Weyes Blood",
+          "hours": 19.4,
+          "plays": 312,
+          "skip_rate": 0.09,
+          "affinity": 0.793,
+          "via": "seed"
+        },
+        {
+          "artist": "Broadcast",
+          "hours": 18.2,
+          "plays": 296,
+          "skip_rate": 0.1,
+          "affinity": 0.775,
+          "via": "session"
+        },
+        {
+          "artist": "Julia Holter",
+          "hours": 16.8,
+          "plays": 248,
+          "skip_rate": 0.12,
+          "affinity": 0.752,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "folk-edges",
+      "name": "Folk & Its Edges",
+      "hue": 90,
+      "description": "British and American folk, plus the stranger corners: private press, drone folk, freak folk.",
+      "state": "rising",
+      "members": 22,
+      "hours": 174.2,
+      "seeds": [
+        "Vashti Bunyan",
+        "Bert Jansch",
+        "Bill Fay"
+      ],
+      "arc": "The newest habit in the record, and it has grown every single week since July.",
+      "top": [
+        {
+          "artist": "Nick Drake",
+          "hours": 22.6,
+          "plays": 342,
+          "skip_rate": 0.04,
+          "affinity": 0.841,
+          "via": "session"
+        },
+        {
+          "artist": "Bert Jansch",
+          "hours": 16.4,
+          "plays": 242,
+          "skip_rate": 0.09,
+          "affinity": 0.78,
+          "via": "seed"
+        },
+        {
+          "artist": "Vashti Bunyan",
+          "hours": 12.6,
+          "plays": 184,
+          "skip_rate": 0.06,
+          "affinity": 0.747,
+          "via": "seed"
+        },
+        {
+          "artist": "Bill Fay",
+          "hours": 11.8,
+          "plays": 168,
+          "skip_rate": 0.05,
+          "affinity": 0.733,
+          "via": "seed"
+        },
+        {
+          "artist": "Linda Perhacs",
+          "hours": 8.4,
+          "plays": 124,
+          "skip_rate": 0.07,
+          "affinity": 0.679,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "noise-math",
+      "name": "Noise & Math Rock",
+      "hue": 130,
+      "description": "Loud, technical, unsentimental: guitars used as percussion and time signatures as jokes.",
+      "state": "dormant",
+      "members": 19,
+      "hours": 142.6,
+      "seeds": [
+        "Slint",
+        "Shellac",
+        "Hella"
+      ],
+      "arc": "Went quiet in July after two years of steady listening, with no obvious reason.",
+      "top": [
+        {
+          "artist": "Slint",
+          "hours": 21.4,
+          "plays": 268,
+          "skip_rate": 0.09,
+          "affinity": 0.822,
+          "via": "seed"
+        },
+        {
+          "artist": "Shellac",
+          "hours": 16.8,
+          "plays": 284,
+          "skip_rate": 0.15,
+          "affinity": 0.768,
+          "via": "seed"
+        },
+        {
+          "artist": "Unwound",
+          "hours": 14.8,
+          "plays": 262,
+          "skip_rate": 0.16,
+          "affinity": 0.742,
+          "via": "playlist"
+        },
+        {
+          "artist": "Don Caballero",
+          "hours": 12.4,
+          "plays": 208,
+          "skip_rate": 0.18,
+          "affinity": 0.707,
+          "via": "session"
+        },
+        {
+          "artist": "Hella",
+          "hours": 9.6,
+          "plays": 176,
+          "skip_rate": 0.24,
+          "affinity": 0.653,
+          "via": "seed"
+        }
+      ]
+    },
+    {
+      "id": "americana",
+      "name": "Americana",
+      "hue": 65,
+      "description": "Country-adjacent songwriting by people who came to it sideways.",
+      "state": "active",
+      "members": 21,
+      "hours": 158.9,
+      "seeds": [
+        "Lucinda Williams",
+        "Jason Molina",
+        "Big Thief"
+      ],
+      "arc": "Reliable and growing slowly, mostly late at night and mostly the sadder end.",
+      "top": [
+        {
+          "artist": "Big Thief",
+          "hours": 32.4,
+          "plays": 512,
+          "skip_rate": 0.08,
+          "affinity": 0.878,
+          "via": "seed"
+        },
+        {
+          "artist": "Jason Molina",
+          "hours": 24.8,
+          "plays": 386,
+          "skip_rate": 0.06,
+          "affinity": 0.84,
+          "via": "seed"
+        },
+        {
+          "artist": "Bonnie Prince Billy",
+          "hours": 19.2,
+          "plays": 296,
+          "skip_rate": 0.11,
+          "affinity": 0.787,
+          "via": "playlist"
+        },
+        {
+          "artist": "Lucinda Williams",
+          "hours": 18.6,
+          "plays": 268,
+          "skip_rate": 0.07,
+          "affinity": 0.785,
+          "via": "seed"
+        },
+        {
+          "artist": "Gillian Welch",
+          "hours": 14.6,
+          "plays": 208,
+          "skip_rate": 0.05,
+          "affinity": 0.752,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "ambient-retreat",
+      "name": "Ambient Retreat",
+      "hue": 240,
+      "description": "The room this reader goes to when guitars are too much: minimal, patient, wordless.",
+      "state": "active",
+      "members": 18,
+      "hours": 128.4,
+      "seeds": [
+        "Brian Eno",
+        "Grouper",
+        "Hiroshi Yoshimura"
+      ],
+      "arc": "A small retreat that gets used most in the weeks the loud lanes get heavy rotation.",
+      "top": [
+        {
+          "artist": "Brian Eno",
+          "hours": 26.2,
+          "plays": 312,
+          "skip_rate": 0.07,
+          "affinity": 0.853,
+          "via": "seed"
+        },
+        {
+          "artist": "Grouper",
+          "hours": 21.2,
+          "plays": 264,
+          "skip_rate": 0.04,
+          "affinity": 0.825,
+          "via": "seed"
+        },
+        {
+          "artist": "Hiroshi Yoshimura",
+          "hours": 14.8,
+          "plays": 168,
+          "skip_rate": 0.03,
+          "affinity": 0.774,
+          "via": "seed"
+        },
+        {
+          "artist": "Harold Budd",
+          "hours": 12.4,
+          "plays": 142,
+          "skip_rate": 0.05,
+          "affinity": 0.739,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "soul-corner",
+      "name": "Soul Corner",
+      "hue": 350,
+      "description": "The personal outlier: sixties and seventies soul inherited and never let go of.",
+      "state": "active",
+      "members": 16,
+      "hours": 112.7,
+      "seeds": [
+        "Bill Withers",
+        "Curtis Mayfield",
+        "Ann Peebles"
+      ],
+      "arc": "Never large and never absent, the lane that proves this is a person and not a genre chart.",
+      "top": [
+        {
+          "artist": "Bill Withers",
+          "hours": 22.8,
+          "plays": 386,
+          "skip_rate": 0.04,
+          "affinity": 0.842,
+          "via": "seed"
+        },
+        {
+          "artist": "Curtis Mayfield",
+          "hours": 19.6,
+          "plays": 312,
+          "skip_rate": 0.06,
+          "affinity": 0.81,
+          "via": "seed"
+        },
+        {
+          "artist": "Bobby Womack",
+          "hours": 13.2,
+          "plays": 214,
+          "skip_rate": 0.09,
+          "affinity": 0.745,
+          "via": "playlist"
+        },
+        {
+          "artist": "Ann Peebles",
+          "hours": 11.4,
+          "plays": 196,
+          "skip_rate": 0.08,
+          "affinity": 0.722,
+          "via": "seed"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "name": "Television",
+      "hours": 42.6,
+      "plays": 618,
+      "skip_rate": 0.06,
+      "lane": "post-punk"
+    },
+    {
+      "name": "Wire",
+      "hours": 34.8,
+      "plays": 682,
+      "skip_rate": 0.11,
+      "lane": "post-punk"
+    },
+    {
+      "name": "Dry Cleaning",
+      "hours": 28.4,
+      "plays": 496,
+      "skip_rate": 0.13,
+      "lane": "post-punk"
+    },
+    {
+      "name": "The Fall",
+      "hours": 38.2,
+      "plays": 742,
+      "skip_rate": 0.19,
+      "lane": "post-punk"
+    },
+    {
+      "name": "Gang of Four",
+      "hours": 24.6,
+      "plays": 448,
+      "skip_rate": 0.12,
+      "lane": "post-punk"
+    },
+    {
+      "name": "Protomartyr",
+      "hours": 21.8,
+      "plays": 386,
+      "skip_rate": 0.14,
+      "lane": "post-punk"
+    },
+    {
+      "name": "bar italia",
+      "hours": 18.4,
+      "plays": 342,
+      "skip_rate": 0.16,
+      "lane": "post-punk"
+    },
+    {
+      "name": "Squid",
+      "hours": 16.2,
+      "plays": 294,
+      "skip_rate": 0.18,
+      "lane": "post-punk"
+    },
+    {
+      "name": "My Bloody Valentine",
+      "hours": 44.8,
+      "plays": 624,
+      "skip_rate": 0.08,
+      "lane": "shoegaze-dream"
+    },
+    {
+      "name": "Slowdive",
+      "hours": 39.2,
+      "plays": 548,
+      "skip_rate": 0.05,
+      "lane": "shoegaze-dream"
+    },
+    {
+      "name": "Cocteau Twins",
+      "hours": 32.6,
+      "plays": 486,
+      "skip_rate": 0.07,
+      "lane": "shoegaze-dream"
+    },
+    {
+      "name": "Ride",
+      "hours": 22.4,
+      "plays": 384,
+      "skip_rate": 0.13,
+      "lane": "shoegaze-dream"
+    },
+    {
+      "name": "Wednesday",
+      "hours": 19.6,
+      "plays": 348,
+      "skip_rate": 0.15,
+      "lane": "shoegaze-dream"
+    },
+    {
+      "name": "Beach House",
+      "hours": 36.4,
+      "plays": 562,
+      "skip_rate": 0.09,
+      "lane": "shoegaze-dream"
+    },
+    {
+      "name": "Duster",
+      "hours": 26.8,
+      "plays": 512,
+      "skip_rate": 0.06,
+      "lane": "slowcore"
+    },
+    {
+      "name": "Low",
+      "hours": 34.2,
+      "plays": 486,
+      "skip_rate": 0.05,
+      "lane": "slowcore"
+    },
+    {
+      "name": "Codeine",
+      "hours": 18.6,
+      "plays": 268,
+      "skip_rate": 0.07,
+      "lane": "slowcore"
+    },
+    {
+      "name": "Red House Painters",
+      "hours": 24.4,
+      "plays": 312,
+      "skip_rate": 0.06,
+      "lane": "slowcore"
+    },
+    {
+      "name": "Grouper",
+      "hours": 21.2,
+      "plays": 264,
+      "skip_rate": 0.04,
+      "lane": "ambient-retreat"
+    },
+    {
+      "name": "Pavement",
+      "hours": 48.6,
+      "plays": 862,
+      "skip_rate": 0.1,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Yo La Tengo",
+      "hours": 41.2,
+      "plays": 668,
+      "skip_rate": 0.08,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Built to Spill",
+      "hours": 28.6,
+      "plays": 468,
+      "skip_rate": 0.11,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Dinosaur Jr.",
+      "hours": 26.4,
+      "plays": 442,
+      "skip_rate": 0.14,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Guided by Voices",
+      "hours": 22.8,
+      "plays": 596,
+      "skip_rate": 0.22,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Sonic Youth",
+      "hours": 34.6,
+      "plays": 524,
+      "skip_rate": 0.16,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Modest Mouse",
+      "hours": 24.2,
+      "plays": 418,
+      "skip_rate": 0.15,
+      "lane": "nineties-indie"
+    },
+    {
+      "name": "Kate Bush",
+      "hours": 31.4,
+      "plays": 452,
+      "skip_rate": 0.08,
+      "lane": "art-pop"
+    },
+    {
+      "name": "Talk Talk",
+      "hours": 27.8,
+      "plays": 286,
+      "skip_rate": 0.05,
+      "lane": "art-pop"
+    },
+    {
+      "name": "Weyes Blood",
+      "hours": 19.4,
+      "plays": 312,
+      "skip_rate": 0.09,
+      "lane": "art-pop"
+    },
+    {
+      "name": "Julia Holter",
+      "hours": 16.8,
+      "plays": 248,
+      "skip_rate": 0.12,
+      "lane": "art-pop"
+    },
+    {
+      "name": "Broadcast",
+      "hours": 18.2,
+      "plays": 296,
+      "skip_rate": 0.1,
+      "lane": "art-pop"
+    },
+    {
+      "name": "Vashti Bunyan",
+      "hours": 12.6,
+      "plays": 184,
+      "skip_rate": 0.06,
+      "lane": "folk-edges"
+    },
+    {
+      "name": "Bert Jansch",
+      "hours": 16.4,
+      "plays": 242,
+      "skip_rate": 0.09,
+      "lane": "folk-edges"
+    },
+    {
+      "name": "Bill Fay",
+      "hours": 11.8,
+      "plays": 168,
+      "skip_rate": 0.05,
+      "lane": "folk-edges"
+    },
+    {
+      "name": "Nick Drake",
+      "hours": 22.6,
+      "plays": 342,
+      "skip_rate": 0.04,
+      "lane": "folk-edges"
+    },
+    {
+      "name": "Linda Perhacs",
+      "hours": 8.4,
+      "plays": 124,
+      "skip_rate": 0.07,
+      "lane": "folk-edges"
+    },
+    {
+      "name": "Slint",
+      "hours": 21.4,
+      "plays": 268,
+      "skip_rate": 0.09,
+      "lane": "noise-math"
+    },
+    {
+      "name": "Shellac",
+      "hours": 16.8,
+      "plays": 284,
+      "skip_rate": 0.15,
+      "lane": "noise-math"
+    },
+    {
+      "name": "Hella",
+      "hours": 9.6,
+      "plays": 176,
+      "skip_rate": 0.24,
+      "lane": "noise-math"
+    },
+    {
+      "name": "Don Caballero",
+      "hours": 12.4,
+      "plays": 208,
+      "skip_rate": 0.18,
+      "lane": "noise-math"
+    },
+    {
+      "name": "Unwound",
+      "hours": 14.8,
+      "plays": 262,
+      "skip_rate": 0.16,
+      "lane": "noise-math"
+    },
+    {
+      "name": "Lucinda Williams",
+      "hours": 18.6,
+      "plays": 268,
+      "skip_rate": 0.07,
+      "lane": "americana"
+    },
+    {
+      "name": "Jason Molina",
+      "hours": 24.8,
+      "plays": 386,
+      "skip_rate": 0.06,
+      "lane": "americana"
+    },
+    {
+      "name": "Big Thief",
+      "hours": 32.4,
+      "plays": 512,
+      "skip_rate": 0.08,
+      "lane": "americana"
+    },
+    {
+      "name": "Bonnie Prince Billy",
+      "hours": 19.2,
+      "plays": 296,
+      "skip_rate": 0.11,
+      "lane": "americana"
+    },
+    {
+      "name": "Gillian Welch",
+      "hours": 14.6,
+      "plays": 208,
+      "skip_rate": 0.05,
+      "lane": "americana"
+    },
+    {
+      "name": "Brian Eno",
+      "hours": 26.2,
+      "plays": 312,
+      "skip_rate": 0.07,
+      "lane": "ambient-retreat"
+    },
+    {
+      "name": "Hiroshi Yoshimura",
+      "hours": 14.8,
+      "plays": 168,
+      "skip_rate": 0.03,
+      "lane": "ambient-retreat"
+    },
+    {
+      "name": "Harold Budd",
+      "hours": 12.4,
+      "plays": 142,
+      "skip_rate": 0.05,
+      "lane": "ambient-retreat"
+    },
+    {
+      "name": "Bill Withers",
+      "hours": 22.8,
+      "plays": 386,
+      "skip_rate": 0.04,
+      "lane": "soul-corner"
+    },
+    {
+      "name": "Curtis Mayfield",
+      "hours": 19.6,
+      "plays": 312,
+      "skip_rate": 0.06,
+      "lane": "soul-corner"
+    },
+    {
+      "name": "Ann Peebles",
+      "hours": 11.4,
+      "plays": 196,
+      "skip_rate": 0.08,
+      "lane": "soul-corner"
+    },
+    {
+      "name": "Bobby Womack",
+      "hours": 13.2,
+      "plays": 214,
+      "skip_rate": 0.09,
+      "lane": "soul-corner"
+    }
+  ],
+  "issues": [
+    {
+      "n": 1,
+      "title": "Coil and Spring",
+      "dek": "Post-punk from three decades, and the newest one is the loudest."
+    },
+    {
+      "n": 2,
+      "title": "Blue Weather",
+      "dek": "Guitars used as weather, mostly from the years when that was a new idea."
+    },
+    {
+      "n": 3,
+      "title": "Whole Rooms Quiet",
+      "dek": "The slowest week yet on purpose, with nothing on it above a certain volume."
+    },
+    {
+      "n": 4,
+      "title": "Loose Change",
+      "dek": "Nineties indie by bands who were allergic to sounding expensive."
+    },
+    {
+      "n": 5,
+      "title": "Kitchen Radio",
+      "dek": "Art pop and studio records that took prettiness seriously."
+    },
+    {
+      "n": 6,
+      "title": "Field Recording",
+      "dek": "The folk habit that keeps growing, traced back to where it came from."
+    },
+    {
+      "n": 7,
+      "title": "Hard Angles",
+      "dek": "You stopped playing math rock in July, so this is a case for going back."
+    },
+    {
+      "n": 8,
+      "title": "Long Drive",
+      "dek": "Country-adjacent songwriting, and every one of these is about leaving."
+    },
+    {
+      "n": 9,
+      "title": "Small Hours",
+      "dek": "Ambient and almost-ambient, for the weeks when guitars are too much."
+    },
+    {
+      "n": 10,
+      "title": "Second Look",
+      "dek": "Most of last issue went unplayed, so this one is warmer and shorter."
+    },
+    {
+      "n": 11,
+      "title": "Late Summer",
+      "dek": "Closing out with soul records, folk records, and one that is both."
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Television",
+      "title": "Adventure",
+      "year": 1978,
+      "label": "Elektra",
+      "lane": "post-punk",
+      "anchor": "Television",
+      "pitchfork": 8.4,
+      "bnm": false,
+      "note": "The second record, quieter and stranger than the first, and unfairly ignored for fifty years."
+    },
+    {
+      "artist": "Slowdive",
+      "title": "Pygmalion",
+      "year": 1995,
+      "label": "Creation",
+      "lane": "shoegaze-dream",
+      "anchor": "Slowdive",
+      "pitchfork": 8.8,
+      "bnm": false,
+      "note": "The band dissolving their own sound into almost nothing, and it is the best thing they made."
+    },
+    {
+      "artist": "Codeine",
+      "title": "The White Birch",
+      "year": 1994,
+      "label": "Sub Pop",
+      "lane": "slowcore",
+      "anchor": "Codeine",
+      "pitchfork": 8.6,
+      "bnm": false,
+      "note": "Slowcore at its most severe, with every note given far more room than seems wise."
+    },
+    {
+      "artist": "Yo La Tengo",
+      "title": "And Then Nothing Turned Itself Inside-Out",
+      "year": 2000,
+      "label": "Matador",
+      "lane": "nineties-indie",
+      "anchor": "Yo La Tengo",
+      "pitchfork": 9.0,
+      "bnm": false,
+      "note": "A whispered record about a long marriage, and the warmest thing in their catalogue."
+    },
+    {
+      "artist": "Talk Talk",
+      "title": "Spirit of Eden",
+      "year": 1988,
+      "label": "Parlophone",
+      "lane": "art-pop",
+      "anchor": "Talk Talk",
+      "pitchfork": 9.3,
+      "bnm": false,
+      "note": "A pop band spending a fortune to make something almost silent, and getting away with it."
+    },
+    {
+      "artist": "Bill Fay",
+      "title": "Time of the Last Persecution",
+      "year": 1971,
+      "label": "Deram",
+      "lane": "folk-edges",
+      "anchor": "Bill Fay",
+      "pitchfork": 8.7,
+      "bnm": false,
+      "note": "English folk with a jazz band behind it and the end of the world in the lyrics."
+    },
+    {
+      "artist": "Unwound",
+      "title": "Leaves Turn Inside You",
+      "year": 2001,
+      "label": "Kill Rock Stars",
+      "lane": "noise-math",
+      "anchor": "Unwound",
+      "pitchfork": 9.1,
+      "bnm": false,
+      "note": "A noise band making their double album and finding real beauty in it before breaking up."
+    },
+    {
+      "artist": "Jason Molina",
+      "title": "Pyramid Electric Co.",
+      "year": 2004,
+      "label": "Secretly Canadian",
+      "lane": "americana",
+      "anchor": "Jason Molina",
+      "pitchfork": 7.9,
+      "bnm": false,
+      "note": "One voice, one piano, one room, and almost too much honesty to sit through."
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Green",
+      "year": 1986,
+      "label": "Air Records",
+      "lane": "ambient-retreat",
+      "anchor": "Hiroshi Yoshimura",
+      "pitchfork": 8.6,
+      "bnm": false,
+      "note": "Japanese environmental music written for a house rather than a stage, and it works perfectly."
+    },
+    {
+      "artist": "Wednesday",
+      "title": "Rat Saw God",
+      "year": 2023,
+      "label": "Dead Oceans",
+      "lane": "shoegaze-dream",
+      "anchor": "Wednesday",
+      "pitchfork": 8.5,
+      "bnm": true,
+      "note": "Country songs played through shoegaze amps, sung by the best young lyricist in the format.",
+      "why": "Country songs played through shoegaze amps, sung by the best young lyricist in the format. You have 348 plays of Wednesday already, so this is the record behind the singles, and Shoegaze & Dream Pop is 412.7 hours of your listening waiting for it. Pitchfork scored it 8.5."
+    },
+    {
+      "artist": "Ann Peebles",
+      "title": "I Can't Stand the Rain",
+      "year": 1974,
+      "label": "Hi Records",
+      "lane": "soul-corner",
+      "anchor": "Ann Peebles",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "Memphis soul with the tightest rhythm section on earth and a voice that never oversells.",
+      "why": "Memphis soul with the tightest rhythm section on earth and a voice that never oversells. You have played Ann Peebles 196 times without ever sitting through the album, and Soul Corner is 112.7 hours of your listening that this record quietly underwrites."
+    }
+  ],
+  "critics": [
+    {
+      "artist": "Television",
+      "title": "Marquee Moon",
+      "year": 1977,
+      "score": 10.0,
+      "genre": "rock",
+      "lane": "post-punk",
+      "bnm": false,
+      "anchor": "Television",
+      "note": "The record that made guitars conversational, and the reason half this lane exists."
+    },
+    {
+      "artist": "The Feelies",
+      "title": "Crazy Rhythms",
+      "year": 1980,
+      "score": 9.2,
+      "genre": "rock",
+      "lane": "post-punk",
+      "bnm": false,
+      "anchor": "Wire",
+      "note": "Two guitars from suburban New Jersey playing like the coffee never wears off."
+    },
+    {
+      "artist": "Galaxie 500",
+      "title": "On Fire",
+      "year": 1989,
+      "score": 9.1,
+      "genre": "rock",
+      "lane": "shoegaze-dream",
+      "bnm": false,
+      "anchor": "Slowdive",
+      "note": "Three people playing as slowly and simply as possible, and it aches."
+    },
+    {
+      "artist": "Slint",
+      "title": "Spiderland",
+      "year": 1991,
+      "score": 9.4,
+      "genre": "rock",
+      "lane": "noise-math",
+      "bnm": false,
+      "anchor": "Slint",
+      "note": "Louisville kids whispering stories over guitars that circle and circle, then break open."
+    },
+    {
+      "artist": "Talk Talk",
+      "title": "Laughing Stock",
+      "year": 1991,
+      "score": 9.5,
+      "genre": "rock",
+      "lane": "art-pop",
+      "bnm": false,
+      "anchor": "Talk Talk",
+      "note": "The furthest a pop band has ever travelled from pop, recorded in near darkness."
+    },
+    {
+      "artist": "Vashti Bunyan",
+      "title": "Just Another Diamond Day",
+      "year": 1970,
+      "score": 8.7,
+      "genre": "folk",
+      "lane": "folk-edges",
+      "bnm": false,
+      "anchor": "Vashti Bunyan",
+      "note": "Songs written on a wagon ride to the Hebrides, sung barely above a whisper."
+    },
+    {
+      "artist": "Karate",
+      "title": "Some Boots",
+      "year": 2002,
+      "score": 8.2,
+      "genre": "rock",
+      "lane": "slowcore",
+      "bnm": false,
+      "anchor": "Codeine",
+      "note": "A Boston trio playing rock songs at jazz volume, every note placed rather than hit."
+    },
+    {
+      "artist": "Sibylle Baier",
+      "title": "Colour Green",
+      "year": 2006,
+      "score": 8.4,
+      "genre": "folk",
+      "lane": "folk-edges",
+      "bnm": false,
+      "anchor": "Linda Perhacs",
+      "note": "Recorded at home in the seventies, found thirty years later, and completely intact."
+    },
+    {
+      "artist": "Bill Withers",
+      "title": "Live at Carnegie Hall",
+      "year": 1973,
+      "score": 9.3,
+      "genre": "soul",
+      "lane": "soul-corner",
+      "bnm": false,
+      "anchor": "Bill Withers",
+      "note": "He talks to Carnegie Hall like family and sings like it too, the warmest live record in soul."
+    },
+    {
+      "artist": "Low",
+      "title": "Things We Lost in the Fire",
+      "year": 2001,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "slowcore",
+      "bnm": false,
+      "anchor": "Low",
+      "note": "The quietest band in America learning to use a studio, and losing none of the restraint."
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Hounds of Love",
+      "year": 1985,
+      "score": 9.6,
+      "genre": "pop",
+      "lane": "art-pop",
+      "bnm": false,
+      "anchor": "Kate Bush",
+      "note": "Hit singles up front and a night lost at sea on the flip, all of it made in a studio she built herself."
+    },
+    {
+      "artist": "Pavement",
+      "title": "Wowee Zowee",
+      "year": 1995,
+      "score": 9.2,
+      "genre": "rock",
+      "lane": "nineties-indie",
+      "bnm": false,
+      "anchor": "Pavement",
+      "note": "The sprawling one, which is the one that keeps rewarding you twenty years later."
+    },
+    {
+      "artist": "Nick Drake",
+      "title": "Pink Moon",
+      "year": 1972,
+      "score": 9.2,
+      "genre": "folk",
+      "lane": "folk-edges",
+      "bnm": false,
+      "anchor": "Nick Drake",
+      "note": "Guitar, voice, and one piano line, recorded across two late nights."
+    },
+    {
+      "artist": "Broadcast",
+      "title": "Haha Sound",
+      "year": 2003,
+      "score": 8.6,
+      "genre": "art-pop",
+      "lane": "art-pop",
+      "bnm": false,
+      "anchor": "Broadcast",
+      "note": "Sixties toy-box melodies run through old machines, Trish Keenan calm at the center of the swirl."
+    },
+    {
+      "artist": "Shellac",
+      "title": "At Action Park",
+      "year": 1994,
+      "score": 8.8,
+      "genre": "rock",
+      "lane": "noise-math",
+      "bnm": false,
+      "anchor": "Shellac",
+      "note": "Three men and the loudest, driest recording ever made, and not a wasted second."
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Treasure",
+      "year": 1984,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "shoegaze-dream",
+      "bnm": false,
+      "anchor": "Cocteau Twins",
+      "note": "Elizabeth Fraser inventing a language of her own because English was too small for these songs."
+    },
+    {
+      "artist": "Gillian Welch",
+      "title": "Time (The Revelator)",
+      "year": 2001,
+      "score": 9.1,
+      "genre": "folk",
+      "lane": "americana",
+      "bnm": false,
+      "anchor": "Gillian Welch",
+      "note": "Two people and two instruments telling American history sideways."
+    },
+    {
+      "artist": "Songs: Ohia",
+      "title": "Didn't It Rain",
+      "year": 2002,
+      "score": 8.9,
+      "genre": "rock",
+      "lane": "americana",
+      "bnm": false,
+      "anchor": "Jason Molina",
+      "note": "Cut live in one dark room, the band feeling out songs they had only just been shown."
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Ambient 1: Music for Airports",
+      "year": 1978,
+      "score": 9.4,
+      "genre": "ambient",
+      "lane": "ambient-retreat",
+      "bnm": false,
+      "anchor": "Brian Eno",
+      "note": "The record that invented the category, and still the most useful one in it."
+    },
+    {
+      "artist": "Sonic Youth",
+      "title": "Daydream Nation",
+      "year": 1988,
+      "score": 9.4,
+      "genre": "rock",
+      "lane": "nineties-indie",
+      "bnm": false,
+      "anchor": "Sonic Youth",
+      "note": "Teenage Riot first, then a whole city of detuned guitar behind it."
+    },
+    {
+      "artist": "Curtis Mayfield",
+      "title": "There's No Place Like America Today",
+      "year": 1975,
+      "score": 9.0,
+      "genre": "soul",
+      "lane": "soul-corner",
+      "bnm": false,
+      "anchor": "Curtis Mayfield",
+      "note": "The bleakest and best of his records, and the arrangements are astonishing."
+    },
+    {
+      "artist": "Bert Jansch",
+      "title": "Bert Jansch",
+      "year": 1965,
+      "score": 8.8,
+      "genre": "folk",
+      "lane": "folk-edges",
+      "bnm": false,
+      "anchor": "Bert Jansch",
+      "note": "The debut, taped on a borrowed guitar in an engineer's kitchen, and guitarists have chased it since."
+    },
+    {
+      "artist": "Dinosaur Jr.",
+      "title": "You're Living All Over Me",
+      "year": 1987,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "nineties-indie",
+      "bnm": false,
+      "anchor": "Dinosaur Jr.",
+      "note": "The loudest record about exhaustion, and a generation of guitarists stopped tuning up because of it."
+    },
+    {
+      "artist": "Red House Painters",
+      "title": "Down Colorful Hill",
+      "year": 1992,
+      "score": 8.7,
+      "genre": "rock",
+      "lane": "slowcore",
+      "bnm": false,
+      "anchor": "Red House Painters",
+      "note": "Demo tapes released as the finished album because nothing on them needed fixing."
+    },
+    {
+      "artist": "This Heat",
+      "title": "Deceit",
+      "year": 1981,
+      "score": 8.9,
+      "genre": "rock",
+      "lane": "post-punk",
+      "bnm": false,
+      "anchor": "Gang of Four",
+      "note": "Cold War dread taped in a disused meat locker, and it still sounds like next week."
+    },
+    {
+      "artist": "Young Marble Giants",
+      "title": "Colossal Youth",
+      "year": 1980,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "post-punk",
+      "bnm": false,
+      "anchor": "Dry Cleaning",
+      "note": "Post-punk reduced to bass, guitar, drum machine and a whisper, which turns out to be plenty."
+    },
+    {
+      "artist": "Harold Budd",
+      "title": "The Pavilion of Dreams",
+      "year": 1978,
+      "score": 8.6,
+      "genre": "ambient",
+      "lane": "ambient-retreat",
+      "bnm": false,
+      "anchor": "Harold Budd",
+      "note": "Piano and harp produced by Brian Eno into pure weather, music with no edges on it anywhere."
+    },
+    {
+      "artist": "Julia Holter",
+      "title": "Have You in My Wilderness",
+      "year": 2015,
+      "score": 8.5,
+      "genre": "art-pop",
+      "lane": "art-pop",
+      "bnm": false,
+      "anchor": "Julia Holter",
+      "note": "Her clearest set of songs, chamber pop with all the windows open"
+    },
+    {
+      "artist": "Built to Spill",
+      "title": "Perfect From Now On",
+      "year": 1997,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "nineties-indie",
+      "bnm": false,
+      "anchor": "Built to Spill",
+      "note": "Six long songs with real guitar solos, made when that was deeply unfashionable."
+    },
+    {
+      "artist": "Lucinda Williams",
+      "title": "Car Wheels on a Gravel Road",
+      "year": 1998,
+      "score": 9.2,
+      "genre": "americana",
+      "lane": "americana",
+      "bnm": false,
+      "anchor": "Lucinda Williams",
+      "note": "She remade this record until every syllable of the South in it sat exactly right."
+    },
+    {
+      "artist": "Don Caballero",
+      "title": "American Don",
+      "year": 2000,
+      "score": 8.4,
+      "genre": "rock",
+      "lane": "noise-math",
+      "bnm": false,
+      "anchor": "Don Caballero",
+      "note": "Instrumental math rock that finally smiles, guitar loops tangling like conversation."
+    },
+    {
+      "artist": "Grouper",
+      "title": "Dragging a Dead Deer Up a Hill",
+      "year": 2008,
+      "score": 8.8,
+      "genre": "ambient",
+      "lane": "ambient-retreat",
+      "bnm": false,
+      "anchor": "Grouper",
+      "note": "Songs buried under so much tape hiss that finding them is the experience."
+    },
+    {
+      "artist": "The Fall",
+      "title": "This Nation's Saving Grace",
+      "year": 1985,
+      "score": 9.1,
+      "genre": "rock",
+      "lane": "post-punk",
+      "bnm": false,
+      "anchor": "The Fall",
+      "note": "Mark E. Smith at his most tuneful, which still means threat over a groove."
+    }
+  ],
+  "singles": [
+    {
+      "artist": "Sorry",
+      "title": "Right Round the Clock",
+      "lane": "post-punk",
+      "anchor": "Dry Cleaning",
+      "note": "Warped North London pop, two deadpan voices trading lines over a smear of samples."
+    },
+    {
+      "artist": "Shopping",
+      "title": "The Hype",
+      "lane": "post-punk",
+      "anchor": "Gang of Four",
+      "note": "Three people, no fat on any of it, and a bassline that does most of the arguing."
+    },
+    {
+      "artist": "Lice",
+      "title": "Arbiter",
+      "lane": "post-punk",
+      "anchor": "Squid",
+      "note": "Bristol clatter with a ranting narrator, more ideas per verse than most bands manage per album."
+    },
+    {
+      "artist": "METZ",
+      "title": "Wet Blanket",
+      "lane": "post-punk",
+      "anchor": "Protomartyr",
+      "note": "Loud in the way a room is loud, not the way a mix is."
+    },
+    {
+      "artist": "Deeper",
+      "title": "Willing",
+      "lane": "post-punk",
+      "anchor": "Protomartyr",
+      "note": "Chicago post-punk with the guitars wound tight enough to snap"
+    },
+    {
+      "artist": "Pylon",
+      "title": "Cool",
+      "lane": "post-punk",
+      "anchor": "Wire",
+      "note": "Athens art students who accidentally made the tightest rhythm section of their decade."
+    },
+    {
+      "artist": "Preoccupations",
+      "title": "Espionage",
+      "lane": "post-punk",
+      "anchor": "Wire",
+      "note": "Calgary gloom at a sprint, bass leading, synths like sleet."
+    },
+    {
+      "artist": "Sprints",
+      "title": "Up and Comer",
+      "lane": "post-punk",
+      "anchor": "Dry Cleaning",
+      "note": "Dublin, furious, and completely uninterested in being clever about it."
+    },
+    {
+      "artist": "Public Body",
+      "title": "Naderia",
+      "lane": "post-punk",
+      "anchor": "Gang of Four",
+      "note": "Brighton wire and elastic, guitars doing the talking in short sharp strokes."
+    },
+    {
+      "artist": "Girls in Synthesis",
+      "title": "Shift",
+      "lane": "post-punk",
+      "anchor": "Squid",
+      "note": "Recorded like it is trying to get out of the speaker, which is the intended effect."
+    },
+    {
+      "artist": "Flyying Colours",
+      "title": "It's Tomorrow Now",
+      "lane": "shoegaze-dream",
+      "anchor": "Ride",
+      "note": "Melbourne shoegaze in love with melody, pedals set to morning rather than fog"
+    },
+    {
+      "artist": "Swirlies",
+      "title": "Bell",
+      "lane": "shoegaze-dream",
+      "anchor": "My Bloody Valentine",
+      "note": "Tape damage used as an instrument, back when that meant actual tape."
+    },
+    {
+      "artist": "Whirr",
+      "title": "Home Is Where",
+      "lane": "shoegaze-dream",
+      "anchor": "My Bloody Valentine",
+      "note": "Guitars poured slow and thick, drums barely awake, heaviness as comfort"
+    },
+    {
+      "artist": "Lush",
+      "title": "De-Luxe",
+      "lane": "shoegaze-dream",
+      "anchor": "Cocteau Twins",
+      "note": "Two voices braided so tightly the guitars have to work around them."
+    },
+    {
+      "artist": "Nothing",
+      "title": "Vertigo Flowers",
+      "lane": "shoegaze-dream",
+      "anchor": "Slowdive",
+      "note": "Philadelphia shoegaze that keeps the melody right at the front where it belongs"
+    },
+    {
+      "artist": "Chapterhouse",
+      "title": "Pearl",
+      "lane": "shoegaze-dream",
+      "anchor": "Ride",
+      "note": "A dance beat under all that guitar, which almost nobody else was doing then."
+    },
+    {
+      "artist": "Astrobrite",
+      "title": "Whitenoise Superstar",
+      "lane": "shoegaze-dream",
+      "anchor": "My Bloody Valentine",
+      "note": "Scott Cortez burying a bubblegum melody under an avalanche of red-lined guitar."
+    },
+    {
+      "artist": "Drop Nineteens",
+      "title": "Winona",
+      "lane": "shoegaze-dream",
+      "anchor": "Slowdive",
+      "note": "Sung half asleep over a riff that keeps threatening to become a pop song."
+    },
+    {
+      "artist": "Airiel",
+      "title": "Sugar Crystals",
+      "lane": "shoegaze-dream",
+      "anchor": "Cocteau Twins",
+      "note": "Chicago shoegaze that chooses glitter over murk, every guitar dipped in sugar."
+    },
+    {
+      "artist": "Medicine",
+      "title": "Aruca",
+      "lane": "shoegaze-dream",
+      "anchor": "My Bloody Valentine",
+      "note": "American, harsher, and more willing to let the noise win the mix."
+    },
+    {
+      "artist": "Sun Kil Moon",
+      "title": "Carry Me Ohio",
+      "lane": "slowcore",
+      "anchor": "Red House Painters",
+      "note": "Mark Kozelek missing Ohio the way he used to miss everything, slow and golden."
+    },
+    {
+      "artist": "Idaho",
+      "title": "God's Green Earth",
+      "lane": "slowcore",
+      "anchor": "Codeine",
+      "note": "Four strings on the guitar and no hurry anywhere in the arrangement."
+    },
+    {
+      "artist": "Bedhead",
+      "title": "Bedside Table",
+      "lane": "slowcore",
+      "anchor": "Codeine",
+      "note": "Texas slowcore played so quietly you lean in, which is the entire trick"
+    },
+    {
+      "artist": "Seam",
+      "title": "Sweet Pea",
+      "lane": "slowcore",
+      "anchor": "Duster",
+      "note": "Quiet, then briefly not, then quiet again, and it earns both."
+    },
+    {
+      "artist": "Hood",
+      "title": "The Lost You",
+      "lane": "slowcore",
+      "anchor": "Low",
+      "note": "Leeds slowcore gone half electronic, winter air in every gap between the notes."
+    },
+    {
+      "artist": "Acetone",
+      "title": "Chills",
+      "lane": "slowcore",
+      "anchor": "Low",
+      "note": "A trio playing at the volume of a conversation in the next room."
+    },
+    {
+      "artist": "Julie Byrne",
+      "title": "Natural Blue",
+      "lane": "slowcore",
+      "anchor": "Grouper",
+      "note": "Fingerpicked and hushed, sung like someone describing a sky they can hardly believe."
+    },
+    {
+      "artist": "Karate",
+      "title": "Diazepam",
+      "lane": "slowcore",
+      "anchor": "Codeine",
+      "note": "Jazz chords smuggled into a slowcore record by someone who could actually play them."
+    },
+    {
+      "artist": "Ida",
+      "title": "Maybelle",
+      "lane": "slowcore",
+      "anchor": "Duster",
+      "note": "Close harmony at whisper volume, from the quiet band other quiet bands defer to"
+    },
+    {
+      "artist": "Mojave 3",
+      "title": "Love Songs on the Radio",
+      "lane": "slowcore",
+      "anchor": "Low",
+      "note": "What the Slowdive players did next, with the pedals off and the tunes forward."
+    },
+    {
+      "artist": "Silver Jews",
+      "title": "Random Rules",
+      "lane": "nineties-indie",
+      "anchor": "Pavement",
+      "note": "David Berman writing the funniest sad lines in the format, over the loosest band possible"
+    },
+    {
+      "artist": "Unrest",
+      "title": "Cath Carroll",
+      "lane": "nineties-indie",
+      "anchor": "Pavement",
+      "note": "A love song to a music journalist, played faster than the sentiment deserves."
+    },
+    {
+      "artist": "The Feelies",
+      "title": "Higher Ground",
+      "lane": "nineties-indie",
+      "anchor": "Yo La Tengo",
+      "note": "The calmer later Feelies, that nervous strum relaxed into something like sunlight."
+    },
+    {
+      "artist": "Bettie Serveert",
+      "title": "Kid's Alright",
+      "lane": "nineties-indie",
+      "anchor": "Yo La Tengo",
+      "note": "Dutch, jangly, and carried entirely by a vocal that refuses to smooth itself out."
+    },
+    {
+      "artist": "Chavez",
+      "title": "Break Up Your Band",
+      "lane": "nineties-indie",
+      "anchor": "Built to Spill",
+      "note": "Matt Sweeney's first great band, riffs stacked like firewood and twice as warm."
+    },
+    {
+      "artist": "Superchunk",
+      "title": "Precision Auto",
+      "lane": "nineties-indie",
+      "anchor": "Dinosaur Jr.",
+      "note": "Under two minutes and it still finds room for a guitar solo."
+    },
+    {
+      "artist": "Polvo",
+      "title": "Thermal Treasure",
+      "lane": "nineties-indie",
+      "anchor": "Sonic Youth",
+      "note": "Chapel Hill guitars bent out of tune on purpose, a riff that keeps changing its mind."
+    },
+    {
+      "artist": "Versus",
+      "title": "Yeah You",
+      "lane": "nineties-indie",
+      "anchor": "Guided by Voices",
+      "note": "Boy and girl vocals trading lines over a rhythm section that never lets up."
+    },
+    {
+      "artist": "Archers of Loaf",
+      "title": "Web in Front",
+      "lane": "nineties-indie",
+      "anchor": "Modest Mouse",
+      "note": "Buzzing strings, a shouted hook, and not an ounce of fat on it."
+    },
+    {
+      "artist": "Eric's Trip",
+      "title": "Sunlight",
+      "lane": "nineties-indie",
+      "anchor": "Modest Mouse",
+      "note": "Recorded on whatever was lying around in New Brunswick, and better for it."
+    },
+    {
+      "artist": "Cate Le Bon",
+      "title": "Daylight Matters",
+      "lane": "art-pop",
+      "anchor": "Julia Holter",
+      "note": "Welsh art pop where every instrument sounds slightly wrong on purpose"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "French Disko",
+      "lane": "art-pop",
+      "anchor": "Broadcast",
+      "note": "A motorik pulse, a Marxist lyric, and a melody sweet enough to carry both."
+    },
+    {
+      "artist": "Aldous Harding",
+      "title": "The Barrel",
+      "lane": "art-pop",
+      "anchor": "Weyes Blood",
+      "note": "New Zealand art folk that moves like a marionette, calm on top, strange underneath."
+    },
+    {
+      "artist": "Jane Weaver",
+      "title": "Slow Motion",
+      "lane": "art-pop",
+      "anchor": "Julia Holter",
+      "note": "Synth pop with a folk singer's phrasing underneath it, which is the whole trick."
+    },
+    {
+      "artist": "Molly Nilsson",
+      "title": "Hey Moon",
+      "lane": "art-pop",
+      "anchor": "Broadcast",
+      "note": "A homemade synth ballad addressed to the moon, and it is completely sincere."
+    },
+    {
+      "artist": "Laurie Anderson",
+      "title": "O Superman",
+      "lane": "art-pop",
+      "anchor": "Kate Bush",
+      "note": "Eight minutes of a single vocal loop that somehow charted in Britain."
+    },
+    {
+      "artist": "Anna Domino",
+      "title": "Rythm",
+      "lane": "art-pop",
+      "anchor": "Kate Bush",
+      "note": "Cool mid eighties pop from the Brussels label world, drum machine soft as carpet."
+    },
+    {
+      "artist": "Anna Meredith",
+      "title": "Nautilus",
+      "lane": "art-pop",
+      "anchor": "Kate Bush",
+      "note": "Composed rather than written, and it builds like something being constructed in front of you."
+    },
+    {
+      "artist": "Virginia Wing",
+      "title": "Rider",
+      "lane": "art-pop",
+      "anchor": "Broadcast",
+      "note": "Manchester synth pop delivered deadpan, the warmth kept just under the surface."
+    },
+    {
+      "artist": "Tirzah",
+      "title": "Devotion",
+      "lane": "art-pop",
+      "anchor": "Broadcast",
+      "note": "Sung so close to the microphone the room disappears entirely."
+    },
+    {
+      "artist": "Shirley Collins",
+      "title": "Death and the Lady",
+      "lane": "folk-edges",
+      "anchor": "Vashti Bunyan",
+      "note": "An old English ballad about meeting Death on the road, sung like plain fact."
+    },
+    {
+      "artist": "Sandy Denny",
+      "title": "Who Knows Where the Time Goes?",
+      "lane": "folk-edges",
+      "anchor": "Vashti Bunyan",
+      "note": "Written at nineteen, and nobody has improved on it since."
+    },
+    {
+      "artist": "Michael Chapman",
+      "title": "Postcards of Scarborough",
+      "lane": "folk-edges",
+      "anchor": "Bert Jansch",
+      "note": "A Yorkshireman playing guitar like a session man and singing like a bricklayer"
+    },
+    {
+      "artist": "John Martyn",
+      "title": "Solid Air",
+      "lane": "folk-edges",
+      "anchor": "Nick Drake",
+      "note": "Written for Nick Drake, and it sounds like it was recorded underwater on purpose."
+    },
+    {
+      "artist": "Anne Briggs",
+      "title": "Blackwaterside",
+      "lane": "folk-edges",
+      "anchor": "Vashti Bunyan",
+      "note": "The song Bert Jansch learned from her, sung with no varnish on it at all."
+    },
+    {
+      "artist": "Pentangle",
+      "title": "Light Flight",
+      "lane": "folk-edges",
+      "anchor": "Bert Jansch",
+      "note": "Folk played by a jazz rhythm section, in a time signature nobody warned you about."
+    },
+    {
+      "artist": "Nathan Salsburg",
+      "title": "Bluffs",
+      "lane": "folk-edges",
+      "anchor": "Bert Jansch",
+      "note": "Solo acoustic guitar from Kentucky, unhurried and bright, straight down the line from Jansch."
+    },
+    {
+      "artist": "Sibylle Baier",
+      "title": "Tonight",
+      "lane": "folk-edges",
+      "anchor": "Linda Perhacs",
+      "note": "Taped at home and left in a drawer for thirty years before anyone heard it."
+    },
+    {
+      "artist": "Meg Baird",
+      "title": "Stars Climb Up the Vine",
+      "lane": "folk-edges",
+      "anchor": "Linda Perhacs",
+      "note": "Meg Baird half singing to herself, melodies climbing exactly the way the title promises."
+    },
+    {
+      "artist": "Alasdair Roberts",
+      "title": "The Whole House Is Singing",
+      "lane": "folk-edges",
+      "anchor": "Bill Fay",
+      "note": "Traditional Scottish song handled by someone who refuses to treat it as an antique."
+    },
+    {
+      "artist": "June of 44",
+      "title": "Have a Safe Trip Dear",
+      "lane": "noise-math",
+      "anchor": "Slint",
+      "note": "Nautical post-hardcore with the bass leading, and the tension never resolves"
+    },
+    {
+      "artist": "Bitch Magnet",
+      "title": "Motor",
+      "lane": "noise-math",
+      "anchor": "Slint",
+      "note": "The blueprint half these bands were working from, and it still sounds unfinished in the right way."
+    },
+    {
+      "artist": "Rodan",
+      "title": "Bible Silver Corner",
+      "lane": "noise-math",
+      "anchor": "Slint",
+      "note": "The quiet instrumental opening their only album, proof all the loudness afterward was a choice."
+    },
+    {
+      "artist": "Battles",
+      "title": "Atlas",
+      "lane": "noise-math",
+      "anchor": "Don Caballero",
+      "note": "A math rock band accidentally writing a glam stomp, and committing to it fully."
+    },
+    {
+      "artist": "Storm & Stress",
+      "title": "Orbit Cadabra",
+      "lane": "noise-math",
+      "anchor": "Don Caballero",
+      "note": "Ian Williams pulling math rock apart until the beat is only a rumor."
+    },
+    {
+      "artist": "Fugazi",
+      "title": "Waiting Room",
+      "lane": "noise-math",
+      "anchor": "Shellac",
+      "note": "That bassline has been borrowed so often it is easy to forget where it started."
+    },
+    {
+      "artist": "Lightning Bolt",
+      "title": "Dracula Mountain",
+      "lane": "noise-math",
+      "anchor": "Hella",
+      "note": "Providence bass and drums at demolition speed, joy disguised as assault"
+    },
+    {
+      "artist": "Trans Am",
+      "title": "Futureworld",
+      "lane": "noise-math",
+      "anchor": "Don Caballero",
+      "note": "Krautrock and vocoders played by a band who could also just riff when they wanted."
+    },
+    {
+      "artist": "Drive Like Jehu",
+      "title": "Here Come the Rome Plows",
+      "lane": "noise-math",
+      "anchor": "Unwound",
+      "note": "Two San Diego guitars arguing at full tilt, neither willing to resolve first."
+    },
+    {
+      "artist": "Big Black",
+      "title": "Kerosene",
+      "lane": "noise-math",
+      "anchor": "Shellac",
+      "note": "A drum machine, two guitars, and nothing pleasant anywhere in six minutes."
+    },
+    {
+      "artist": "Terry Allen",
+      "title": "Amarillo Highway",
+      "lane": "americana",
+      "anchor": "Lucinda Williams",
+      "note": "A sculptor writing the best Texas songs of the seventies, entirely by accident"
+    },
+    {
+      "artist": "Townes Van Zandt",
+      "title": "Pancho and Lefty",
+      "lane": "americana",
+      "anchor": "Lucinda Williams",
+      "note": "Everyone covers it and nobody has found the bottom of it yet."
+    },
+    {
+      "artist": "Blaze Foley",
+      "title": "Clay Pigeons",
+      "lane": "americana",
+      "anchor": "Jason Molina",
+      "note": "Austin outsider country, a starting-over song sung soft enough to believe."
+    },
+    {
+      "artist": "Sturgill Simpson",
+      "title": "Turtles All the Way Down",
+      "lane": "americana",
+      "anchor": "Gillian Welch",
+      "note": "A country song about psychedelics and love, delivered completely straight faced."
+    },
+    {
+      "artist": "Karen Dalton",
+      "title": "Something on Your Mind",
+      "lane": "americana",
+      "anchor": "Gillian Welch",
+      "note": "A voice like a hard year, singing other people's songs better than they did"
+    },
+    {
+      "artist": "Vic Chesnutt",
+      "title": "Flirted With You All My Life",
+      "lane": "americana",
+      "anchor": "Jason Molina",
+      "note": "A breakup song addressed to death, and it is somehow the warmest thing here."
+    },
+    {
+      "artist": "Michael Hurley",
+      "title": "Werewolf",
+      "lane": "americana",
+      "anchor": "Bonnie Prince Billy",
+      "note": "The saddest werewolf in American folk music, sung like a lullaby."
+    },
+    {
+      "artist": "Richard Buckner",
+      "title": "Blue and Wonder",
+      "lane": "americana",
+      "anchor": "Bonnie Prince Billy",
+      "note": "Half the words are swallowed and the song is better for what it withholds."
+    },
+    {
+      "artist": "Adrianne Lenker",
+      "title": "Anything",
+      "lane": "americana",
+      "anchor": "Big Thief",
+      "note": "Recorded close enough to hear her hands move on the strings, a love song made of small particulars."
+    },
+    {
+      "artist": "Emmylou Harris",
+      "title": "Boulder to Birmingham",
+      "lane": "americana",
+      "anchor": "Lucinda Williams",
+      "note": "Grief written into a travel itinerary, which is the only way she could get it out."
+    },
+    {
+      "artist": "Gigi Masin",
+      "title": "Clouds",
+      "lane": "ambient-retreat",
+      "anchor": "Harold Budd",
+      "note": "Venetian ambient, piano and soft electronics moving at canal speed"
+    },
+    {
+      "artist": "Susumu Yokota",
+      "title": "Blue Sky and Yellow Sunflower",
+      "lane": "ambient-retreat",
+      "anchor": "Hiroshi Yoshimura",
+      "note": "Loops that decay a little each pass, so the piece is never quite where you left it."
+    },
+    {
+      "artist": "Midori Takada",
+      "title": "Mr. Henri Rousseau's Dream",
+      "lane": "ambient-retreat",
+      "anchor": "Hiroshi Yoshimura",
+      "note": "Percussion recorded in one take in a Japanese studio, and it sounds like a whole forest"
+    },
+    {
+      "artist": "Stars of the Lid",
+      "title": "Requiem for Dying Mothers",
+      "lane": "ambient-retreat",
+      "anchor": "Brian Eno",
+      "note": "Strings slowed until the harmony is the only event, and it takes its time getting there."
+    },
+    {
+      "artist": "Laraaji",
+      "title": "Dance No. 1",
+      "lane": "ambient-retreat",
+      "anchor": "Brian Eno",
+      "note": "Hammered zither taped by Brian Eno for his ambient series, and it shimmers more than it floats."
+    },
+    {
+      "artist": "William Basinski",
+      "title": "dlp 1.1",
+      "lane": "ambient-retreat",
+      "anchor": "Harold Budd",
+      "note": "A tape loop disintegrating in real time, recorded because it was disintegrating."
+    },
+    {
+      "artist": "Ana Roxanne",
+      "title": "Camille",
+      "lane": "ambient-retreat",
+      "anchor": "Grouper",
+      "note": "Voice and drone held at bath temperature, ambient music that remembers it can sing."
+    },
+    {
+      "artist": "Sarah Davachi",
+      "title": "Chorus Scene",
+      "lane": "ambient-retreat",
+      "anchor": "Grouper",
+      "note": "Organ tones held long enough that the beating between them becomes the melody."
+    },
+    {
+      "artist": "Chihei Hatakeyama",
+      "title": "Towards a Tone",
+      "lane": "ambient-retreat",
+      "anchor": "Harold Budd",
+      "note": "Guitar dissolved into slow Japanese drone, nothing to hold onto and no need to."
+    },
+    {
+      "artist": "Satoshi Ashikawa",
+      "title": "Still Space",
+      "lane": "ambient-retreat",
+      "anchor": "Hiroshi Yoshimura",
+      "note": "From the same Tokyo circle as the record you already keep on repeat."
+    },
+    {
+      "artist": "Horsegirl",
+      "title": "Anti-Glory",
+      "lane": "nineties-indie",
+      "anchor": "Sonic Youth",
+      "note": "Three teenagers who clearly own every record in this lane, and play like it",
+      "why": "Three teenagers who clearly own every record in this lane, and play like it. Sonic Youth, 524 plays deep on your shelf, is the record they own most."
+    },
+    {
+      "artist": "Squirrel Flower",
+      "title": "Hurt a Fly",
+      "lane": "nineties-indie",
+      "anchor": "Big Thief",
+      "note": "Big guitars used sparingly, so they land when they finally show up.",
+      "why": "Big guitars used sparingly, so they land when they finally show up. Your 32.4 hours of Big Thief are the same restraint, and you skip them only 8% of the time."
+    },
+    {
+      "artist": "MJ Lenderman",
+      "title": "Rudolph",
+      "lane": "americana",
+      "anchor": "Big Thief",
+      "note": "Sloppy warm guitar and a wry sad verse, the Asheville kid making it look easy.",
+      "why": "Sloppy warm guitar and a wry sad verse, the Asheville kid making it look easy. Big Thief at 512 plays is the anchor, and this is the same slack in a different accent."
+    },
+    {
+      "artist": "Momma",
+      "title": "Speeding 72",
+      "lane": "nineties-indie",
+      "anchor": "Sonic Youth",
+      "note": "Two songwriters trading a hook that sounds like it has always existed.",
+      "why": "Two songwriters trading a hook that sounds like it has always existed. It leans on Sonic Youth, 34.6 hours of your life, but keeps the tune up front."
+    },
+    {
+      "artist": "Water From Your Eyes",
+      "title": "Barley",
+      "lane": "post-punk",
+      "anchor": "bar italia",
+      "note": "Brooklyn art rock built from a few repeated parts, funny and menacing at once.",
+      "why": "Brooklyn art rock built from a few repeated parts, funny and menacing at once. bar italia, 342 plays on your shelf, is the nearest neighbour, and this is the drier side of the street."
+    },
+    {
+      "artist": "Alvvays",
+      "title": "Belinda Says",
+      "lane": "shoegaze-dream",
+      "anchor": "Ride",
+      "note": "A pop song wearing a wall of guitar as a coat, and the tune never suffers.",
+      "why": "A pop song wearing a wall of guitar as a coat, and the tune never suffers. You have played Ride 384 times; this is what that sound learned to do next."
+    },
+    {
+      "artist": "Feeble Little Horse",
+      "title": "Freak",
+      "lane": "shoegaze-dream",
+      "anchor": "Wednesday",
+      "note": "Noise pop assembled out of broken parts, and the melodies survive it",
+      "why": "Noise pop assembled out of broken parts, and the melodies survive it. Wednesday is the door at 348 plays, the same rust with less country in it."
+    },
+    {
+      "artist": "Mitski",
+      "title": "Bug Like an Angel",
+      "lane": "art-pop",
+      "anchor": null,
+      "label": {
+        "name": "Dead Oceans",
+        "hours": 52.1,
+        "artists": 9,
+        "releases": 6
+      },
+      "note": "A hymn-shaped song with a choir that arrives like a slap, from a label you have lived on for years without meeting its best-known name.",
+      "why": "A hymn-shaped song with a choir that arrives like a slap. Dead Oceans is 52.1 hours of your listening across 9 of its artists, and Mitski has 6 releases there you have never opened, which is a strange gap for a label you live on."
+    },
+    {
+      "artist": "Hotline TNT",
+      "title": "Protocol",
+      "lane": "shoegaze-dream",
+      "anchor": "Ride",
+      "note": "Fuzz stacked on fuzz with a power pop heart, the hook intact under the weather.",
+      "why": "Fuzz stacked on fuzz with a power pop heart, the hook intact under the weather. Ride is 22.4 hours of your listening and you skip them 13% of the time; this will not push that number up."
+    },
+    {
+      "artist": "Been Stellar",
+      "title": "Passing Judgment",
+      "lane": "post-punk",
+      "anchor": "bar italia",
+      "note": "New York guitars again, played by people young enough to mean it sincerely.",
+      "why": "New York guitars again, played by people young enough to mean it sincerely. bar italia at 342 plays is the anchor, and this is the same sulk with the amps turned up."
+    },
+    {
+      "artist": "Shuggie Otis",
+      "title": "Aht Uh Mi Hed",
+      "lane": "soul-corner",
+      "anchor": "Bill Withers",
+      "note": "A teenager playing every instrument himself, and it swings harder than the session bands",
+      "why": "A teenager playing every instrument himself, and it swings harder than the session bands. Bill Withers, 386 plays and a 4% skip rate, is the anchor, and this is the stranger cousin."
+    },
+    {
+      "artist": "Charles Bradley",
+      "title": "Changes",
+      "lane": "soul-corner",
+      "anchor": "Bill Withers",
+      "note": "A Black Sabbath song sung as gospel by a man who waited sixty years for the microphone.",
+      "why": "A Black Sabbath song sung as gospel by a man who waited sixty years for the microphone. Your 22.8 hours of Bill Withers are the same ache, better rested."
+    },
+    {
+      "artist": "Syl Johnson",
+      "title": "Is It Because I'm Black",
+      "lane": "soul-corner",
+      "anchor": "Curtis Mayfield",
+      "note": "Chicago soul asking its title question slow and level, one of the heaviest songs of its era.",
+      "why": "Chicago soul asking its title question slow and level, one of the heaviest songs of its era. Curtis Mayfield at 312 plays is the neighbour, and this is the room where he kept the hard questions."
+    },
+    {
+      "artist": "Ex:Re",
+      "title": "Romance",
+      "lane": "slowcore",
+      "anchor": null,
+      "label": {
+        "name": "4AD",
+        "hours": 88.4,
+        "artists": 12,
+        "releases": 2
+      },
+      "note": "Elena Tonra of Daughter on her own, slower and closer to the microphone, a breakup record that never raises its voice.",
+      "why": "Elena Tonra of Daughter on her own, slower and closer to the microphone, a breakup record that never raises its voice. The door is 4AD: 88.4 hours of the label in your listening, 12 of its artists you play, and Ex:Re with 2 releases there you have never touched."
+    },
+    {
+      "artist": "Bobbie Gentry",
+      "title": "Ode to Billie Joe",
+      "lane": "soul-corner",
+      "anchor": "Ann Peebles",
+      "note": "Southern gothic delivered flat over one guitar, and nobody has bettered it",
+      "why": "Southern gothic delivered flat over one guitar, and nobody has bettered it. Ann Peebles, 196 plays on your shelf, is the anchor, another Southern woman who knew when not to sing."
+    },
+    {
+      "artist": "Rotary Connection",
+      "title": "I Am the Black Gold of the Sun",
+      "lane": "soul-corner",
+      "anchor": "Bobby Womack",
+      "note": "Psychedelic soul with a string section and Minnie Riperton going somewhere nobody followed.",
+      "why": "Psychedelic soul with a string section and Minnie Riperton going somewhere nobody followed. Bobby Womack is the bridge at 214 plays, the same grit with the roof taken off."
+    },
+    {
+      "artist": "Betty Davis",
+      "title": "If I'm in Luck I Might Get Picked Up",
+      "lane": "soul-corner",
+      "anchor": "Bobby Womack",
+      "note": "Funk with its teeth bared, and a voice that made everyone else sound polite.",
+      "why": "Funk with its teeth bared, and a voice that made everyone else sound polite. Your 13.2 hours of Bobby Womack say you like it raw; this is rawer."
+    },
+    {
+      "artist": "Linda Jones",
+      "title": "Hypnotized",
+      "lane": "soul-corner",
+      "anchor": "Ann Peebles",
+      "note": "A vocal that keeps climbing past where the song seemed to end.",
+      "why": "A vocal that keeps climbing past where the song seemed to end. It comes through Ann Peebles, 11.4 hours of your listening, and it out-sings her, which is saying something."
+    },
+    {
+      "artist": "Terry Callier",
+      "title": "Dancing Girl",
+      "lane": "folk-edges",
+      "anchor": "Bill Fay",
+      "note": "Chicago folk jazz that swells like a film score, patient verses opening into strings.",
+      "why": "Chicago folk jazz that swells like a film score, patient verses opening into strings. Bill Fay, 168 plays and almost never skipped, is the anchor, and this is the same stillness with a rhythm section."
+    },
+    {
+      "artist": "Terry Reid",
+      "title": "Seed of Memory",
+      "lane": "folk-edges",
+      "anchor": "Bill Fay",
+      "note": "He turned down two of the biggest bands in the world and made this instead.",
+      "why": "He turned down two of the biggest bands in the world and made this instead. Your 11.8 hours of Bill Fay are the nearest thing you own to it."
+    }
+  ],
+  "mixes": [
+    {
+      "show": "NTS Radio",
+      "host": "Nabihah Iqbal",
+      "date": "2026-05-30",
+      "lane": "post-punk",
+      "tracks_total": 24,
+      "known": 7,
+      "anchor": "Wire",
+      "note": "Nabihah Iqbal pulling wiry singles off the post-punk shelf, old London talking to new."
+    },
+    {
+      "show": "Dublab",
+      "host": "Carlos Niño",
+      "date": "2026-06-03",
+      "lane": "ambient-retreat",
+      "tracks_total": 16,
+      "known": 4,
+      "anchor": "Brian Eno",
+      "note": "Carlos Niño doing what he always does, chimes and friends and no hurry in it anywhere."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Charlie Bones",
+      "date": "2026-06-06",
+      "lane": "nineties-indie",
+      "tracks_total": 26,
+      "known": 9,
+      "anchor": "Pavement",
+      "note": "The breakfast show as a record collection, wandering wherever it likes for three hours"
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Lauren Laverne",
+      "date": "2026-06-10",
+      "lane": "art-pop",
+      "tracks_total": 22,
+      "known": 8,
+      "anchor": "Kate Bush",
+      "note": "Daytime radio with an art pop heart, familiar songs set beside new ones until they rhyme."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Wednesday",
+      "date": "2026-06-13",
+      "lane": "shoegaze-dream",
+      "tracks_total": 20,
+      "known": 5,
+      "anchor": "Wednesday",
+      "note": "A band playing the records they stole from, which is always the most honest kind of show"
+    },
+    {
+      "show": "The Lot Radio",
+      "host": "Adrianne Lenker",
+      "date": "2026-06-17",
+      "lane": "americana",
+      "tracks_total": 18,
+      "known": 6,
+      "anchor": "Big Thief",
+      "note": "Adrianne Lenker as host, playing the old weird American songs her own come from."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Shirley Collins",
+      "date": "2026-06-20",
+      "lane": "folk-edges",
+      "tracks_total": 15,
+      "known": 4,
+      "anchor": "Vashti Bunyan",
+      "note": "An eighty-year-old folk singer playing field recordings and explaining every one"
+    },
+    {
+      "show": "Dublab",
+      "host": "Julia Holter",
+      "date": "2026-06-24",
+      "lane": "art-pop",
+      "tracks_total": 19,
+      "known": 5,
+      "anchor": "Julia Holter",
+      "note": "Julia Holter on air sounds like her records, art songs and early music with air around everything."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Slowdive",
+      "date": "2026-06-27",
+      "lane": "shoegaze-dream",
+      "tracks_total": 23,
+      "known": 7,
+      "anchor": "Slowdive",
+      "note": "Slowdive spending an hour in the weather systems their own records came out of."
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Gilles Peterson",
+      "date": "2026-07-01",
+      "lane": "soul-corner",
+      "tracks_total": 25,
+      "known": 8,
+      "anchor": "Bill Withers",
+      "note": "Gilles Peterson deep in the soul crates, drawing lines between decades like it costs nothing."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Iceage",
+      "date": "2026-07-04",
+      "lane": "post-punk",
+      "tracks_total": 28,
+      "known": 6,
+      "anchor": "Protomartyr",
+      "note": "The Copenhagen band as selectors, gloom with excellent taste in its record bag."
+    },
+    {
+      "show": "The Lot Radio",
+      "host": "Grouper",
+      "date": "2026-07-08",
+      "lane": "ambient-retreat",
+      "tracks_total": 14,
+      "known": 3,
+      "anchor": "Grouper",
+      "note": "Two hours of near-silence programmed by someone who understands why that is generous"
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Steve Albini",
+      "date": "2026-07-11",
+      "lane": "noise-math",
+      "tracks_total": 21,
+      "known": 6,
+      "anchor": "Shellac",
+      "note": "An hour with the man who recorded so much of this music, all treble, gristle, and conviction."
+    },
+    {
+      "show": "Dublab",
+      "host": "Meg Baird",
+      "date": "2026-07-15",
+      "lane": "folk-edges",
+      "tracks_total": 17,
+      "known": 5,
+      "anchor": "Bert Jansch",
+      "note": "Meg Baird spinning the folk records behind her own, British guitars and American porches side by side."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Yo La Tengo",
+      "date": "2026-07-18",
+      "lane": "nineties-indie",
+      "tracks_total": 24,
+      "known": 10,
+      "anchor": "Yo La Tengo",
+      "note": "Three people who have heard everything, playing the parts of it nobody else remembers"
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Emma Warren",
+      "date": "2026-07-22",
+      "lane": "post-punk",
+      "tracks_total": 20,
+      "known": 6,
+      "anchor": "Gang of Four",
+      "note": "A music writer's ear for the sharp end of British guitars, played with the context left in."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "MJ Lenderman",
+      "date": "2026-07-25",
+      "lane": "americana",
+      "tracks_total": 22,
+      "known": 7,
+      "anchor": "Jason Molina",
+      "note": "MJ Lenderman playing the country and sad rock he grew up inside, not a wink anywhere."
+    },
+    {
+      "show": "Dublab",
+      "host": "Laraaji",
+      "date": "2026-07-29",
+      "lane": "ambient-retreat",
+      "tracks_total": 13,
+      "known": 3,
+      "anchor": "Harold Budd",
+      "note": "Laraaji on the radio, which mostly means light: zither, chimes, laughter, long tones."
+    },
+    {
+      "show": "Cate Le Bon",
+      "host": "Cate Le Bon",
+      "episode": "Cate Le Bon",
+      "station": "NTS",
+      "date": "2025-09-25",
+      "lane": "art-pop",
+      "tracks_total": 19,
+      "known": 5,
+      "anchor": "Kate Bush",
+      "url": "https://www.nts.live/shows/cate-le-bon/episodes/cate-le-bon-25th-september-2025",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/2fed4887-e629-4ae6-9268-0222f5652675_1757376000.jpeg",
+      "note": "Cate Le Bon closing her Cardiff residency, songs arranged like furniture in a strange and lovely house. Kate Bush is the nearest neighbour on your shelf.",
+      "why": "Cate Le Bon closing her NTS residency, songs arranged like furniture in a strange and lovely house, Aksak Maboul next to The Germs. 19 tracks, 5 by artists you play and 14 you have never heard, with Kate Bush's 452 plays as the nearest neighbour."
+    },
+    {
+      "show": "The Roadhouse",
+      "host": "Hans",
+      "episode": "with Hans",
+      "station": "KEXP",
+      "date": "2026-08-02",
+      "lane": "americana",
+      "tracks_total": 44,
+      "known": 9,
+      "anchor": "Lucinda Williams",
+      "url": "https://www.kexp.org/playlist/2026/8/2/#show-67419",
+      "listen_urls": [],
+      "cover_url": "https://www.kexp.org/media/filer_public/09/43/09432e5c-b172-481a-a230-9fb34e1963ae/hans_800x800.jpg",
+      "note": "KEXP's Sunday roots programme, blues and country played from the original pressings. Lucinda Williams is the bridge from what you play to what you have not.",
+      "why": "Hans on KEXP's Sunday roots hour, Charley Pride and Reverend Gary Davis played from the original pressings. 44 tracks, 9 by artists you play and 35 you do not, and Lucinda Williams at 268 plays is the bridge."
+    },
+    {
+      "show": "Disco Pickles",
+      "host": "Dry Cleaning",
+      "episode": "with Dry Cleaning",
+      "station": "NTS",
+      "date": "2026-07-24",
+      "lane": "post-punk",
+      "tracks_total": 16,
+      "known": 6,
+      "anchor": "Dry Cleaning",
+      "url": "https://www.nts.live/shows/dry-cleaning/episodes/dry-cleaning-24th-july-2026",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/ab3d2fcb-6730-466d-a231-05b5d327cf2a_1784592000.jpeg",
+      "note": "Dry Cleaning with the records that explain them, talkers and clatterers first. You already play the hosts; this is their record bag.",
+      "why": "Dry Cleaning with the records that explain them, Arthur Russell and Motörhead in the same hour. 16 tracks, 6 by artists you play and 10 you have never heard, and you have played the hosts themselves 496 times, so this is their record bag opened for you."
+    },
+    {
+      "show": "Sunday Soul",
+      "host": "Reverend Dollars",
+      "episode": "with Reverend Dollars",
+      "station": "KEXP",
+      "date": "2026-08-09",
+      "lane": "soul-corner",
+      "tracks_total": 38,
+      "known": 8,
+      "anchor": "Bill Withers",
+      "url": "https://www.kexp.org/playlist/2026/8/9/#show-67482",
+      "listen_urls": [],
+      "cover_url": "https://www.kexp.org/media/filer_public/26/67/26679b5e-2008-4836-9fed-d71b9ddee1b5/reverenddollars_800x800.jpg",
+      "note": "Reverend Dollars on KEXP's Sunday soul hour, warm old pressings sequenced for the volume a Sunday can take. Bill Withers is the foothold.",
+      "why": "Reverend Dollars on KEXP's Sunday soul hour, Donny Hathaway and Leroy Hutson sequenced for the volume a Sunday can take. 38 tracks, 8 by artists you play and 30 you have not, with Bill Withers at 386 plays as the foothold."
+    }
+  ],
+  "revivals": [
+    {
+      "artist": "Slowdive",
+      "title": "Alison",
+      "album": "Souvlaki",
+      "plays": 58,
+      "last_played": "2024-06-18",
+      "lane": "shoegaze-dream",
+      "note": "Played more than anything else you own one autumn, then set down completely"
+    },
+    {
+      "artist": "Pavement",
+      "title": "Gold Soundz",
+      "album": "Crooked Rain",
+      "plays": 52,
+      "last_played": "2024-04-22",
+      "lane": "nineties-indie",
+      "note": "The most-played song in your record for two straight years, and silent since"
+    },
+    {
+      "artist": "Duster",
+      "title": "Inside Out",
+      "album": "Stratosphere",
+      "plays": 46,
+      "last_played": "2023-11-14",
+      "lane": "slowcore",
+      "note": "The quietest thing you have ever played this many times"
+    },
+    {
+      "artist": "Television",
+      "title": "Venus",
+      "album": "Marquee Moon",
+      "plays": 41,
+      "last_played": "2024-02-08",
+      "lane": "post-punk",
+      "note": "One of the great guitar conversations, and it has been off the shelf for a while"
+    },
+    {
+      "artist": "Low",
+      "title": "Sunflower",
+      "album": "Things We Lost in the Fire",
+      "plays": 38,
+      "last_played": "2024-05-30",
+      "lane": "slowcore",
+      "note": "Two voices and almost nothing else, and it used to be a weekly habit"
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "title": "Only Shallow",
+      "album": "Loveless",
+      "plays": 49,
+      "last_played": "2024-07-11",
+      "lane": "shoegaze-dream",
+      "note": "Played until the opening drums stopped landing, which takes some doing"
+    },
+    {
+      "artist": "Yo La Tengo",
+      "title": "Autumn Sweater",
+      "album": null,
+      "plays": 44,
+      "last_played": "2024-03-19",
+      "lane": "nineties-indie",
+      "note": "A song about being uncomfortable at a party, played through an entire uncomfortable year"
+    },
+    {
+      "artist": "Talk Talk",
+      "title": "New Grass",
+      "album": "Laughing Stock",
+      "plays": 27,
+      "last_played": "2024-08-02",
+      "lane": "art-pop",
+      "note": "Brushed drums and organ opening like a field, the Talk Talk you reached for when even quiet records felt loud."
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill",
+      "album": "Hounds of Love",
+      "plays": 36,
+      "last_played": "2024-01-25",
+      "lane": "art-pop",
+      "note": "All pulse and plea, a song about trading places that never wears out no matter who borrows it."
+    },
+    {
+      "artist": "Nick Drake",
+      "title": "Place to Be",
+      "album": "Pink Moon",
+      "plays": 33,
+      "last_played": "2023-12-09",
+      "lane": "folk-edges",
+      "note": "Nick Drake sounding older than he ever got to be, in a song small enough to fit in a pocket."
+    },
+    {
+      "artist": "Vashti Bunyan",
+      "title": "Diamond Day",
+      "album": null,
+      "plays": 24,
+      "last_played": "2024-04-06",
+      "lane": "folk-edges",
+      "note": "A tiny bright song about a simple day, and you once kept it very close."
+    },
+    {
+      "artist": "Slint",
+      "title": "Good Morning, Captain",
+      "album": "Spiderland",
+      "plays": 42,
+      "last_played": "2024-06-27",
+      "lane": "noise-math",
+      "note": "The loudest thing in a quiet record collection, and it has been silent since July"
+    },
+    {
+      "artist": "Shellac",
+      "title": "Prayer to God",
+      "album": "1000 Hurts",
+      "plays": 31,
+      "last_played": "2024-02-29",
+      "lane": "noise-math",
+      "note": "The nastiest prayer in rock delivered completely deadpan, and the restraint is the threat."
+    },
+    {
+      "artist": "Unwound",
+      "title": "Corpse Pose",
+      "album": null,
+      "plays": 26,
+      "last_played": "2023-10-21",
+      "lane": "noise-math",
+      "note": "Bass carrying the melody while the guitar smolders, the Northwest at its most overcast."
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Not",
+      "album": "Two Hands",
+      "plays": 47,
+      "last_played": "2024-05-14",
+      "lane": "americana",
+      "note": "A guitar solo you used to wait all song for, untouched for over a year"
+    },
+    {
+      "artist": "Jason Molina",
+      "title": "Farewell Transmission",
+      "album": "Magnolia Electric Co",
+      "plays": 39,
+      "last_played": "2024-07-23",
+      "lane": "americana",
+      "note": "Eight minutes that used to get played weekly, and have not been touched in over a year"
+    },
+    {
+      "artist": "Lucinda Williams",
+      "title": "Right in Time",
+      "album": null,
+      "plays": 22,
+      "last_played": "2024-03-11",
+      "lane": "americana",
+      "note": "Lucinda at her most unguarded, a slow burn about wanting someone who is not in the room."
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "1/1",
+      "album": "Music for Airports",
+      "plays": 29,
+      "last_played": "2024-08-08",
+      "lane": "ambient-retreat",
+      "note": "The piece that opens Music for Airports, piano dropped into long air, patience you used to practice."
+    },
+    {
+      "artist": "Grouper",
+      "title": "Heavy Water",
+      "album": null,
+      "plays": 34,
+      "last_played": "2024-06-04",
+      "lane": "ambient-retreat",
+      "note": "Liz Harris letting a melody surface all the way for once, tape hiss as bedding."
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Creek",
+      "album": "Green",
+      "plays": 21,
+      "last_played": "2024-01-16",
+      "lane": "ambient-retreat",
+      "note": "Synthesizer water from the Green album, music that asks nothing and improves every room it enters."
+    },
+    {
+      "artist": "Bill Withers",
+      "title": "Hope She'll Be Happier",
+      "album": null,
+      "plays": 28,
+      "last_played": "2024-05-21",
+      "lane": "soul-corner",
+      "note": "A live recording of a man alone on stage, and it gets harder to play the older you get"
+    },
+    {
+      "artist": "Curtis Mayfield",
+      "title": "The Makings of You",
+      "album": null,
+      "plays": 25,
+      "last_played": "2024-02-18",
+      "lane": "soul-corner",
+      "note": "Curtis at his most tender, strings and falsetto counting a lover's virtues like beads."
+    },
+    {
+      "artist": "Ann Peebles",
+      "title": "Breaking Up Somebody's Home",
+      "album": null,
+      "plays": 23,
+      "last_played": "2023-11-28",
+      "lane": "soul-corner",
+      "note": "The organ simmers, the band waits, and she talks herself into trouble in real time."
+    },
+    {
+      "artist": "Wire",
+      "title": "Outdoor Miner",
+      "album": "Chairs Missing",
+      "plays": 32,
+      "last_played": "2024-04-30",
+      "lane": "post-punk",
+      "note": "The prettiest song Wire ever allowed themselves, a pop melody about an insect."
+    },
+    {
+      "artist": "The Fall",
+      "title": "Bill Is Dead",
+      "album": null,
+      "plays": 30,
+      "last_played": "2024-07-16",
+      "lane": "post-punk",
+      "note": "The tender one, Mark E. Smith almost crooning, and he means it."
+    },
+    {
+      "artist": "Dry Cleaning",
+      "title": "Scratchcard Lanyard",
+      "album": "New Long Leg",
+      "plays": 37,
+      "last_played": "2024-06-11",
+      "lane": "post-punk",
+      "note": "Played constantly the month it came out and then filed away entirely"
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Cherry-Coloured Funk",
+      "album": "Heaven or Las Vegas",
+      "plays": 35,
+      "last_played": "2024-03-26",
+      "lane": "shoegaze-dream",
+      "note": "The opener of their warmest record, the one where the fog finally sounds like joy."
+    },
+    {
+      "artist": "Beach House",
+      "title": "Myth",
+      "album": "Bloom",
+      "plays": 43,
+      "last_played": "2024-08-13",
+      "lane": "shoegaze-dream",
+      "note": "Worn down by repetition rather than boredom, which is a different kind of ending"
+    },
+    {
+      "artist": "Ride",
+      "title": "Vapour Trail",
+      "album": null,
+      "plays": 26,
+      "last_played": "2024-01-09",
+      "lane": "shoegaze-dream",
+      "note": "Chiming Oxford guitars dissolving into strings, still the gentlest landing that scene managed."
+    },
+    {
+      "artist": "Built to Spill",
+      "title": "Carry the Zero",
+      "album": null,
+      "plays": 29,
+      "last_played": "2024-05-07",
+      "lane": "nineties-indie",
+      "note": "Doug Martsch turning a small grievance into one long unhurried unspooling of guitar."
+    },
+    {
+      "artist": "Dinosaur Jr.",
+      "title": "Feel the Pain",
+      "album": null,
+      "plays": 27,
+      "last_played": "2023-12-19",
+      "lane": "nineties-indie",
+      "note": "J Mascis mumbling through the verses so the solo can do the feeling."
+    },
+    {
+      "artist": "Red House Painters",
+      "title": "Katy Song",
+      "album": null,
+      "plays": 31,
+      "last_played": "2024-04-16",
+      "lane": "slowcore",
+      "note": "Mark Kozelek at his most wounded, a long song that refuses to hurry its own grief."
+    },
+    {
+      "artist": "Codeine",
+      "title": "Tom",
+      "album": null,
+      "plays": 20,
+      "last_played": "2024-02-06",
+      "lane": "slowcore",
+      "note": "Glacier tempo and enormous patience, drums hitting like doors closing in an empty house"
+    }
+  ],
+  "releases": [
+    {
+      "artist": "Dry Cleaning",
+      "title": "Stumpwork Sessions",
+      "release_type": "ep",
+      "note": "The band's oddest material, which is usually the best."
+    },
+    {
+      "artist": "Wednesday",
+      "title": "Bleeds",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Double Infinity",
+      "release_type": "album",
+      "note": "A Big Thief record is still an event in this house."
+    },
+    {
+      "artist": "bar italia",
+      "title": "Tracey Denim Deluxe",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Slowdive",
+      "title": "Everything Is Alive Remixes",
+      "release_type": "compilation",
+      "note": "The late songs handed to other hands, and they were half electronic to begin with."
+    },
+    {
+      "artist": "Beach House",
+      "title": "Once Twice Melody Live",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Protomartyr",
+      "title": "Formal Growth in the Desert",
+      "release_type": "album",
+      "note": "Detroit's great grumblers letting some light in, and Joe Casey wears hope surprisingly well."
+    },
+    {
+      "artist": "Squid",
+      "title": "Cowards",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Yo La Tengo",
+      "title": "This Stupid World Live",
+      "release_type": "compilation",
+      "note": "Still touring, still improvising, still worth it."
+    },
+    {
+      "artist": "Pavement",
+      "title": "Wowee Zowee Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Sonic Youth",
+      "title": "Walls Have Ears Reissue",
+      "release_type": "compilation",
+      "note": "The bootleg they hated, finally released properly."
+    },
+    {
+      "artist": "Built to Spill",
+      "title": "When the Wind Forgets Your Name",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Modest Mouse",
+      "title": "The Golden Casket B-Sides",
+      "release_type": "ep",
+      "note": "Offcuts from the strange late one, Isaac Brock still yelping at the cosmos."
+    },
+    {
+      "artist": "Guided by Voices",
+      "title": "Strut of Kings",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "The Other Sides",
+      "release_type": "compilation",
+      "note": "A drawer of b-sides and covers, and even the leftovers hold whole worlds."
+    },
+    {
+      "artist": "Weyes Blood",
+      "title": "In Holy Flux",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Julia Holter",
+      "title": "Something in the Room She Moves",
+      "release_type": "album",
+      "note": "Warm and bodily this time, fretless bass and breath, her prettiest record in a long while."
+    },
+    {
+      "artist": "Broadcast",
+      "title": "Distant Call Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Talk Talk",
+      "title": "Spirit of Eden Remaster",
+      "release_type": "compilation",
+      "note": "Remastered from the original tapes, which matters on a record this quiet."
+    },
+    {
+      "artist": "Low",
+      "title": "Hey What Sessions",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Duster",
+      "title": "In Dreams",
+      "release_type": "album",
+      "note": "They reunited and the records are somehow just as bleak."
+    },
+    {
+      "artist": "Red House Painters",
+      "title": "Ocean Beach Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Codeine",
+      "title": "Dessau Reissue",
+      "release_type": "compilation",
+      "note": "An album shelved in the early nineties finally surfacing whole, and it sits right between their two classics."
+    },
+    {
+      "artist": "Grouper",
+      "title": "Ruins Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Vashti Bunyan",
+      "title": "Lookaftering Reissue",
+      "release_type": "compilation",
+      "note": "Her return after decades of silence, quieter than the legend and lovelier for it."
+    },
+    {
+      "artist": "Bert Jansch",
+      "title": "Live at the 12 Bar",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Bill Fay",
+      "title": "Tomorrow Tomorrow and Tomorrow",
+      "release_type": "album",
+      "note": "Songs taped through the years when nobody was asking, hymn-shaped and unhurried."
+    },
+    {
+      "artist": "Nick Drake",
+      "title": "The Making of Five Leaves Left",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Linda Perhacs",
+      "title": "Parallelograms Reissue",
+      "release_type": "compilation",
+      "note": "Made by a working dental hygienist, ignored on release, and it still sounds like light through leaves."
+    },
+    {
+      "artist": "Slint",
+      "title": "Spiderland Deluxe",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Shellac",
+      "title": "To All Trains",
+      "release_type": "album",
+      "note": "The final Shellac record, lean and precise as the first one, nothing softened at the end."
+    },
+    {
+      "artist": "Unwound",
+      "title": "Empire Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Don Caballero",
+      "title": "American Don Reissue",
+      "release_type": "compilation",
+      "note": "A reissue for their lightest record, the one where the knots loosen into play."
+    },
+    {
+      "artist": "Hella",
+      "title": "Hold Your Horse Is Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Lucinda Williams",
+      "title": "Stories From a Rock N Roll Heart",
+      "release_type": "album",
+      "note": "She keeps writing after everything, which is the whole point of her."
+    },
+    {
+      "artist": "Jason Molina",
+      "title": "Live at Third Man",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Bonnie Prince Billy",
+      "title": "Keeping Secrets Will Destroy You",
+      "release_type": "album",
+      "note": "Will Oldham in his gentlest register, hushed songs about friendship and mortality."
+    },
+    {
+      "artist": "Gillian Welch",
+      "title": "Woodland",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Forever and Ever No More",
+      "release_type": "album",
+      "note": "Eno singing again after decades of mostly not, slow songs for a warming world."
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Flora Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Harold Budd",
+      "title": "The Room Reissue",
+      "release_type": "compilation",
+      "note": "Late Budd, every piece a different room in the same soft house."
+    },
+    {
+      "artist": "Bill Withers",
+      "title": "Live at Carnegie Hall Deluxe",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Curtis Mayfield",
+      "title": "Roots Remaster",
+      "release_type": "compilation",
+      "note": "Message soul in full orchestral bloom, the early solo run at its peak."
+    },
+    {
+      "artist": "Ann Peebles",
+      "title": "Straight From the Heart Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Bobby Womack",
+      "title": "Understanding Reissue",
+      "release_type": "compilation",
+      "note": "Rough and warm in the same phrase, preacher's soul with grit under every note."
+    },
+    {
+      "artist": "Television",
+      "title": "Live at the Old Waldorf",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Wire",
+      "title": "Not About to Die",
+      "release_type": "compilation",
+      "note": "Demos from the first rush, art school punks sketching fast and throwing nothing away."
+    },
+    {
+      "artist": "The Fall",
+      "title": "Live at St Helens",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Gang of Four",
+      "title": "Entertainment Reissue",
+      "release_type": "compilation",
+      "note": "Scratched guitar and cold funk, still the record every angular band gets measured against."
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "title": "Loveless Remaster",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Treasure Reissue",
+      "release_type": "compilation",
+      "note": "A new pressing for the ornate one, every song titled with a name."
+    },
+    {
+      "artist": "Ride",
+      "title": "Interplay",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Dinosaur Jr.",
+      "title": "Sweep It Into Space Live",
+      "release_type": "compilation",
+      "note": "The reunion lineup on stage, where every song eventually becomes a J Mascis solo, as it should be."
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Vampire Empire",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Bright Future Sessions",
+      "release_type": "ep",
+      "note": "Recorded to tape in a cabin, and you can hear the chair creak."
+    }
+  ],
+  "catalogs": [
+    {
+      "artist": "Pavement",
+      "unique_tracks": 44,
+      "top3_share": 38,
+      "heard": [
+        "Gold Soundz",
+        "Range Life",
+        "Cut Your Hair",
+        "Summer Babe"
+      ],
+      "unheard": [
+        {
+          "title": "Brighten the Corners",
+          "year": 1997
+        },
+        {
+          "title": "Terror Twilight",
+          "year": 1999
+        }
+      ],
+      "note": "Two albums played to death and the two strangest ones never opened."
+    },
+    {
+      "artist": "Yo La Tengo",
+      "unique_tracks": 38,
+      "top3_share": 34,
+      "heard": [
+        "Autumn Sweater",
+        "Our Way to Fall",
+        "Tom Courtenay"
+      ],
+      "unheard": [
+        {
+          "title": "I Can Hear the Heart Beating as One",
+          "year": 1997
+        },
+        {
+          "title": "Fakebook",
+          "year": 1990
+        }
+      ],
+      "note": "A catalogue of fifteen records reduced to the two everyone recommends."
+    },
+    {
+      "artist": "Talk Talk",
+      "unique_tracks": 14,
+      "top3_share": 58,
+      "heard": [
+        "New Grass",
+        "It's My Life",
+        "Life's What You Make It"
+      ],
+      "unheard": [
+        {
+          "title": "The Party's Over",
+          "year": 1982
+        },
+        {
+          "title": "The Colour of Spring",
+          "year": 1986
+        }
+      ],
+      "note": "The pop singles get played and the two records they are famous for do not."
+    },
+    {
+      "artist": "Kate Bush",
+      "unique_tracks": 26,
+      "top3_share": 47,
+      "heard": [
+        "Running Up That Hill",
+        "Cloudbusting",
+        "Hounds of Love"
+      ],
+      "unheard": [
+        {
+          "title": "The Dreaming",
+          "year": 1982
+        },
+        {
+          "title": "Aerial",
+          "year": 2005
+        }
+      ],
+      "note": "One album in heavy rotation and the weirder, better ones untouched."
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "unique_tracks": 18,
+      "top3_share": 52,
+      "heard": [
+        "Only Shallow",
+        "Soon",
+        "When You Sleep"
+      ],
+      "unheard": [
+        {
+          "title": "Isn't Anything",
+          "year": 1988
+        },
+        {
+          "title": "EPs 1988-1991",
+          "year": 2012
+        }
+      ],
+      "note": "Loveless is the whole relationship, and the record before it is nearly as good."
+    },
+    {
+      "artist": "Sonic Youth",
+      "unique_tracks": 41,
+      "top3_share": 31,
+      "heard": [
+        "Teen Age Riot",
+        "Schizophrenia",
+        "Kool Thing"
+      ],
+      "unheard": [
+        {
+          "title": "Sister",
+          "year": 1987
+        },
+        {
+          "title": "Washing Machine",
+          "year": 1995
+        }
+      ],
+      "note": "A thirty-year catalogue and you have played four years of it."
+    },
+    {
+      "artist": "Low",
+      "unique_tracks": 29,
+      "top3_share": 42,
+      "heard": [
+        "Sunflower",
+        "Dinosaur Act",
+        "Words"
+      ],
+      "unheard": [
+        {
+          "title": "Double Negative",
+          "year": 2018
+        },
+        {
+          "title": "Hey What",
+          "year": 2021
+        }
+      ],
+      "note": "The quiet albums get played constantly and the loud late ones never do."
+    }
+  ]
+}

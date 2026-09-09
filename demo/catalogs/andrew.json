@@ -1,0 +1,5203 @@
+{
+  "slug": "andrew",
+  "name": "Andrew",
+  "persona": "The owner's own listening, eleven years of it, carried four months forward.",
+  "blurb": "Eleven years of listening across ambient, instrumental hip hop, loop-digger rap, global groove and a late-arriving house habit. Four months of issues, with one lane burning out and another growing into the gap.",
+  "issue_count": 18,
+  "first_date": "2026-04-18",
+  "palette": [
+    "#c08a66",
+    "#3d4f63",
+    "#a8452c",
+    "#e0d3c1",
+    "#6b4f3a"
+  ],
+  "history": {
+    "plays": 161000,
+    "hours": 5404.0,
+    "tracks": 46700,
+    "artists": 12300,
+    "window_start": "2015-04-23",
+    "window_end": "2026-08-15"
+  },
+  "per_issue": {
+    "singles": 10,
+    "mixes": 2,
+    "revivals": 3,
+    "critics": 3,
+    "releases": 5
+  },
+  "lanes": [
+    {
+      "id": "the-mist",
+      "name": "The Mist",
+      "hue": 240,
+      "description": "The devotional ambient room: drone, downtempo and the long quiet records that get the most patient listening.",
+      "state": "active",
+      "members": 42,
+      "hours": 505.8,
+      "seeds": [
+        "Tycho",
+        "Bonobo",
+        "Maribou State",
+        "Nightmares On Wax"
+      ],
+      "arc": "Held its place as the widest room in the record and gained a little ground, mostly through the slower end of it.",
+      "top": [
+        {
+          "artist": "Tycho",
+          "hours": 54.2,
+          "plays": 986,
+          "skip_rate": 0.12,
+          "affinity": 0.935,
+          "via": "seed"
+        },
+        {
+          "artist": "Nightmares On Wax",
+          "hours": 51.4,
+          "plays": 921,
+          "skip_rate": 0.09,
+          "affinity": 0.927,
+          "via": "seed"
+        },
+        {
+          "artist": "Bonobo",
+          "hours": 22.3,
+          "plays": 449,
+          "skip_rate": 0.11,
+          "affinity": 0.806,
+          "via": "seed"
+        },
+        {
+          "artist": "Maribou State",
+          "hours": 20.1,
+          "plays": 397,
+          "skip_rate": 0.16,
+          "affinity": 0.772,
+          "via": "seed"
+        },
+        {
+          "artist": "Above & Beyond",
+          "hours": 15.2,
+          "plays": 268,
+          "skip_rate": 0.19,
+          "affinity": 0.722,
+          "via": "playlist"
+        },
+        {
+          "artist": "Sampha",
+          "hours": 10.4,
+          "plays": 214,
+          "skip_rate": 0.07,
+          "affinity": 0.697,
+          "via": "playlist"
+        },
+        {
+          "artist": "Ana Roxanne",
+          "hours": 6.8,
+          "plays": 96,
+          "skip_rate": 0.05,
+          "affinity": 0.643,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "beats-idm",
+      "name": "Beats & IDM",
+      "hue": 280,
+      "description": "Instrumental hip hop and its electronic cousins: sample-built, head-nodding, producer-first listening.",
+      "state": "active",
+      "members": 41,
+      "hours": 792.4,
+      "seeds": [
+        "Nightmares On Wax",
+        "Flying Lotus",
+        "Bibio",
+        "Blockhead"
+      ],
+      "arc": "Still the biggest lane by hours, steady rather than growing, with the newer picks leaning further toward jazz.",
+      "top": [
+        {
+          "artist": "Flying Lotus",
+          "hours": 36.9,
+          "plays": 742,
+          "skip_rate": 0.13,
+          "affinity": 0.882,
+          "via": "seed"
+        },
+        {
+          "artist": "Boards of Canada",
+          "hours": 19.8,
+          "plays": 361,
+          "skip_rate": 0.08,
+          "affinity": 0.806,
+          "via": "playlist"
+        },
+        {
+          "artist": "Emancipator",
+          "hours": 18.4,
+          "plays": 428,
+          "skip_rate": 0.11,
+          "affinity": 0.782,
+          "via": "playlist"
+        },
+        {
+          "artist": "Blockhead",
+          "hours": 15.9,
+          "plays": 336,
+          "skip_rate": 0.1,
+          "affinity": 0.758,
+          "via": "seed"
+        },
+        {
+          "artist": "Bibio",
+          "hours": 12.7,
+          "plays": 241,
+          "skip_rate": 0.07,
+          "affinity": 0.729,
+          "via": "seed"
+        },
+        {
+          "artist": "The Field",
+          "hours": 11.2,
+          "plays": 176,
+          "skip_rate": 0.15,
+          "affinity": 0.686,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "underground-rap",
+      "name": "Underground Rap",
+      "hue": 65,
+      "description": "Loop-digger rap and the Griselda axis: dusty, unhurried, rapped over one idea.",
+      "state": "active",
+      "members": 40,
+      "hours": 604.7,
+      "seeds": [
+        "MF DOOM",
+        "Westside Gunn",
+        "The Alchemist",
+        "Larry June"
+      ],
+      "arc": "Gained a handful of hours and kept its shape, with the Alchemist thread pulling in most of the new names.",
+      "top": [
+        {
+          "artist": "MF DOOM",
+          "hours": 41.7,
+          "plays": 869,
+          "skip_rate": 0.14,
+          "affinity": 0.895,
+          "via": "seed"
+        },
+        {
+          "artist": "Denzel Curry",
+          "hours": 25.7,
+          "plays": 748,
+          "skip_rate": 0.23,
+          "affinity": 0.802,
+          "via": "playlist"
+        },
+        {
+          "artist": "Westside Gunn",
+          "hours": 24.6,
+          "plays": 512,
+          "skip_rate": 0.21,
+          "affinity": 0.794,
+          "via": "seed"
+        },
+        {
+          "artist": "The Alchemist",
+          "hours": 22.9,
+          "plays": 476,
+          "skip_rate": 0.12,
+          "affinity": 0.799,
+          "via": "seed"
+        },
+        {
+          "artist": "Larry June",
+          "hours": 14.1,
+          "plays": 298,
+          "skip_rate": 0.16,
+          "affinity": 0.72,
+          "via": "seed"
+        },
+        {
+          "artist": "Pusha T",
+          "hours": 12.8,
+          "plays": 289,
+          "skip_rate": 0.17,
+          "affinity": 0.697,
+          "via": "playlist"
+        },
+        {
+          "artist": "Griselda",
+          "hours": 9.4,
+          "plays": 201,
+          "skip_rate": 0.22,
+          "affinity": 0.639,
+          "via": "session"
+        },
+        {
+          "artist": "Estee Nack",
+          "hours": 7.2,
+          "plays": 156,
+          "skip_rate": 0.18,
+          "affinity": 0.609,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "cosmic-groove",
+      "name": "Cosmic Groove",
+      "hue": 155,
+      "description": "Global groove and psych-funk: Thai funk, Brazilian lineage, low-skip sunlit music.",
+      "state": "dormant",
+      "members": 40,
+      "hours": 358.9,
+      "seeds": [
+        "Khruangbin",
+        "Jai Paul",
+        "The Blaze",
+        "Arthur Verocai"
+      ],
+      "arc": "Went quiet after years as the anchor lane, a couple of hours a month against a lifetime of devotion.",
+      "top": [
+        {
+          "artist": "Khruangbin",
+          "hours": 58.9,
+          "plays": 1180,
+          "skip_rate": 0.09,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "The Pharcyde",
+          "hours": 22.7,
+          "plays": 519,
+          "skip_rate": 0.12,
+          "affinity": 0.814,
+          "via": "playlist"
+        },
+        {
+          "artist": "Jai Paul",
+          "hours": 21.4,
+          "plays": 428,
+          "skip_rate": 0.06,
+          "affinity": 0.813,
+          "via": "seed"
+        },
+        {
+          "artist": "The Blaze",
+          "hours": 16.1,
+          "plays": 341,
+          "skip_rate": 0.06,
+          "affinity": 0.769,
+          "via": "seed"
+        },
+        {
+          "artist": "Thievery Corporation",
+          "hours": 13.6,
+          "plays": 281,
+          "skip_rate": 0.13,
+          "affinity": 0.723,
+          "via": "playlist"
+        },
+        {
+          "artist": "Rebelution",
+          "hours": 13.1,
+          "plays": 274,
+          "skip_rate": 0.03,
+          "affinity": 0.735,
+          "via": "playlist"
+        },
+        {
+          "artist": "The Donkeys",
+          "hours": 12.3,
+          "plays": 244,
+          "skip_rate": 0.03,
+          "affinity": 0.719,
+          "via": "session"
+        },
+        {
+          "artist": "Yves Tumor",
+          "hours": 9.1,
+          "plays": 187,
+          "skip_rate": 0.09,
+          "affinity": 0.66,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "club-continuum",
+      "name": "Club Continuum",
+      "hue": 320,
+      "description": "Leftfield dance across the decades: house that is not quite house, techno that is not quite techno.",
+      "state": "active",
+      "members": 40,
+      "hours": 241.3,
+      "seeds": [
+        "DJ Koze",
+        "Four Tet",
+        "Jacques Greene",
+        "Floating Points"
+      ],
+      "arc": "Reliable all four months, feeding the house lane more than it fed itself.",
+      "top": [
+        {
+          "artist": "Four Tet",
+          "hours": 30.6,
+          "plays": 604,
+          "skip_rate": 0.27,
+          "affinity": 0.823,
+          "via": "seed"
+        },
+        {
+          "artist": "DJ Koze",
+          "hours": 15.4,
+          "plays": 296,
+          "skip_rate": 0.09,
+          "affinity": 0.772,
+          "via": "seed"
+        },
+        {
+          "artist": "Floating Points",
+          "hours": 14.9,
+          "plays": 259,
+          "skip_rate": 0.11,
+          "affinity": 0.755,
+          "via": "seed"
+        },
+        {
+          "artist": "Jacques Greene",
+          "hours": 13.8,
+          "plays": 274,
+          "skip_rate": 0.07,
+          "affinity": 0.748,
+          "via": "seed"
+        },
+        {
+          "artist": "Caribou",
+          "hours": 10.7,
+          "plays": 214,
+          "skip_rate": 0.14,
+          "affinity": 0.691,
+          "via": "playlist"
+        },
+        {
+          "artist": "Todd Terje",
+          "hours": 8.3,
+          "plays": 162,
+          "skip_rate": 0.1,
+          "affinity": 0.662,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "bass-edm",
+      "name": "Bass & EDM",
+      "hue": 200,
+      "description": "Sound-design bass music and the festival end of electronic listening.",
+      "state": "burned",
+      "members": 40,
+      "hours": 216.5,
+      "seeds": [
+        "Skrillex",
+        "KOAN Sound",
+        "Space Laces"
+      ],
+      "arc": "Hammered hard in the spring and then abandoned, which is the clearest burnout in the whole record.",
+      "top": [
+        {
+          "artist": "Skrillex",
+          "hours": 38.2,
+          "plays": 1604,
+          "skip_rate": 0.28,
+          "affinity": 0.849,
+          "via": "seed"
+        },
+        {
+          "artist": "KOAN Sound",
+          "hours": 27.8,
+          "plays": 566,
+          "skip_rate": 0.14,
+          "affinity": 0.835,
+          "via": "seed"
+        },
+        {
+          "artist": "Zeds Dead",
+          "hours": 11.4,
+          "plays": 342,
+          "skip_rate": 0.31,
+          "affinity": 0.672,
+          "via": "playlist"
+        },
+        {
+          "artist": "Burial",
+          "hours": 9.7,
+          "plays": 164,
+          "skip_rate": 0.17,
+          "affinity": 0.679,
+          "via": "session"
+        },
+        {
+          "artist": "Space Laces",
+          "hours": 8.9,
+          "plays": 271,
+          "skip_rate": 0.24,
+          "affinity": 0.644,
+          "via": "seed"
+        }
+      ]
+    },
+    {
+      "id": "house-garage",
+      "name": "House & Garage",
+      "hue": 260,
+      "description": "UK garage, deep house and the after-hours end of four-to-the-floor.",
+      "state": "active",
+      "members": 27,
+      "hours": 96.4,
+      "seeds": [
+        "Disclosure",
+        "Fred again..",
+        "Folamour",
+        "ANOTR"
+      ],
+      "arc": "The big riser: went from a handful of artists to a real room, and it now takes most of the new listening.",
+      "top": [
+        {
+          "artist": "Disclosure",
+          "hours": 19.6,
+          "plays": 421,
+          "skip_rate": 0.13,
+          "affinity": 0.801,
+          "via": "seed"
+        },
+        {
+          "artist": "Fred again..",
+          "hours": 16.8,
+          "plays": 372,
+          "skip_rate": 0.15,
+          "affinity": 0.768,
+          "via": "seed"
+        },
+        {
+          "artist": "Folamour",
+          "hours": 11.3,
+          "plays": 198,
+          "skip_rate": 0.08,
+          "affinity": 0.728,
+          "via": "seed"
+        },
+        {
+          "artist": "ANOTR",
+          "hours": 7.6,
+          "plays": 154,
+          "skip_rate": 0.12,
+          "affinity": 0.663,
+          "via": "seed"
+        },
+        {
+          "artist": "Joe Goddard",
+          "hours": 6.4,
+          "plays": 131,
+          "skip_rate": 0.11,
+          "affinity": 0.637,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "liquid",
+      "name": "Liquid",
+      "hue": 178,
+      "description": "Liquid drum and bass: rolling, melodic, built for long stretches rather than drops.",
+      "state": "active",
+      "members": 40,
+      "hours": 158.2,
+      "seeds": [
+        "High Contrast",
+        "Netsky",
+        "Calibre",
+        "Hybrid Minds"
+      ],
+      "arc": "Consolidated into a genuine habit, with the picks moving from the melodic end toward the deeper rollers.",
+      "top": [
+        {
+          "artist": "High Contrast",
+          "hours": 21.8,
+          "plays": 462,
+          "skip_rate": 0.1,
+          "affinity": 0.822,
+          "via": "seed"
+        },
+        {
+          "artist": "Netsky",
+          "hours": 17.2,
+          "plays": 386,
+          "skip_rate": 0.14,
+          "affinity": 0.774,
+          "via": "seed"
+        },
+        {
+          "artist": "Sub Focus",
+          "hours": 14.6,
+          "plays": 338,
+          "skip_rate": 0.18,
+          "affinity": 0.735,
+          "via": "playlist"
+        },
+        {
+          "artist": "Calibre",
+          "hours": 13.4,
+          "plays": 231,
+          "skip_rate": 0.07,
+          "affinity": 0.744,
+          "via": "seed"
+        },
+        {
+          "artist": "Hybrid Minds",
+          "hours": 11.9,
+          "plays": 254,
+          "skip_rate": 0.09,
+          "affinity": 0.716,
+          "via": "seed"
+        },
+        {
+          "artist": "London Elektricity",
+          "hours": 8.7,
+          "plays": 178,
+          "skip_rate": 0.12,
+          "affinity": 0.663,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "dad-rock",
+      "name": "Dad Rock",
+      "hue": 40,
+      "description": "Classic and boomer rock inherited and kept: session-tight seventies records and the jam-band shelf.",
+      "state": "active",
+      "members": 36,
+      "hours": 131.6,
+      "seeds": [
+        "Steely Dan",
+        "Dire Straits",
+        "Grateful Dead",
+        "Fleetwood Mac"
+      ],
+      "arc": "Quietly grew all summer, mostly late at night and mostly on records older than the listener.",
+      "top": [
+        {
+          "artist": "Steely Dan",
+          "hours": 28.4,
+          "plays": 512,
+          "skip_rate": 0.06,
+          "affinity": 0.866,
+          "via": "seed"
+        },
+        {
+          "artist": "Dire Straits",
+          "hours": 24.1,
+          "plays": 396,
+          "skip_rate": 0.05,
+          "affinity": 0.839,
+          "via": "seed"
+        },
+        {
+          "artist": "Grateful Dead",
+          "hours": 22.6,
+          "plays": 318,
+          "skip_rate": 0.11,
+          "affinity": 0.808,
+          "via": "seed"
+        },
+        {
+          "artist": "Fleetwood Mac",
+          "hours": 16.3,
+          "plays": 314,
+          "skip_rate": 0.08,
+          "affinity": 0.766,
+          "via": "seed"
+        },
+        {
+          "artist": "Bob Dylan",
+          "hours": 12.9,
+          "plays": 241,
+          "skip_rate": 0.13,
+          "affinity": 0.716,
+          "via": "playlist"
+        },
+        {
+          "artist": "Creedence Clearwater Revival",
+          "hours": 9.8,
+          "plays": 213,
+          "skip_rate": 0.07,
+          "affinity": 0.69,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "punk-turn",
+      "name": "The Punk Turn",
+      "hue": 20,
+      "description": "Post-punk and its loud descendants: pub-argument vocals, guitars played like arguments.",
+      "state": "active",
+      "members": 24,
+      "hours": 88.3,
+      "seeds": [
+        "Viagra Boys",
+        "Turnstile",
+        "Fontaines D.C."
+      ],
+      "arc": "Rose out of a rising lane into a settled one, which is the newest real change in the record.",
+      "top": [
+        {
+          "artist": "Viagra Boys",
+          "hours": 18.7,
+          "plays": 471,
+          "skip_rate": 0.16,
+          "affinity": 0.787,
+          "via": "seed"
+        },
+        {
+          "artist": "Turnstile",
+          "hours": 14.2,
+          "plays": 386,
+          "skip_rate": 0.12,
+          "affinity": 0.755,
+          "via": "seed"
+        },
+        {
+          "artist": "Fontaines D.C.",
+          "hours": 11.6,
+          "plays": 246,
+          "skip_rate": 0.14,
+          "affinity": 0.717,
+          "via": "seed"
+        },
+        {
+          "artist": "Dry Cleaning",
+          "hours": 8.4,
+          "plays": 176,
+          "skip_rate": 0.19,
+          "affinity": 0.657,
+          "via": "session"
+        },
+        {
+          "artist": "bar italia",
+          "hours": 6.1,
+          "plays": 128,
+          "skip_rate": 0.21,
+          "affinity": 0.607,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "french-electronic",
+      "name": "French Electronic",
+      "hue": 350,
+      "description": "French touch and its inheritance: filtered disco, house with its collar up.",
+      "state": "rising",
+      "members": 13,
+      "hours": 84.9,
+      "seeds": [
+        "Étienne de Crécy",
+        "Cassius",
+        "Breakbot"
+      ],
+      "arc": "Still rising, still small, and the one lane where nearly every pick lands.",
+      "top": [
+        {
+          "artist": "Justice",
+          "hours": 12.4,
+          "plays": 268,
+          "skip_rate": 0.15,
+          "affinity": 0.738,
+          "via": "session"
+        },
+        {
+          "artist": "Étienne de Crécy",
+          "hours": 9.3,
+          "plays": 191,
+          "skip_rate": 0.11,
+          "affinity": 0.705,
+          "via": "seed"
+        },
+        {
+          "artist": "Cassius",
+          "hours": 7.8,
+          "plays": 158,
+          "skip_rate": 0.13,
+          "affinity": 0.671,
+          "via": "seed"
+        },
+        {
+          "artist": "Breakbot",
+          "hours": 6.9,
+          "plays": 143,
+          "skip_rate": 0.1,
+          "affinity": 0.656,
+          "via": "seed"
+        }
+      ]
+    },
+    {
+      "id": "jazz-bridge",
+      "name": "Jazz Bridge",
+      "hue": 95,
+      "description": "The jazz side door: spiritual jazz, modern London players, and the records the beats lane samples.",
+      "state": "active",
+      "members": 21,
+      "hours": 141.7,
+      "seeds": [
+        "Nujabes",
+        "Robert Glasper",
+        "Butcher Brown",
+        "Yussef Dayes"
+      ],
+      "arc": "Grew steadily as the beats lane pushed into it, and now stands on its own rather than as an annex.",
+      "top": [
+        {
+          "artist": "Nujabes",
+          "hours": 46.3,
+          "plays": 902,
+          "skip_rate": 0.25,
+          "affinity": 0.881,
+          "via": "seed"
+        },
+        {
+          "artist": "KAYTRANADA",
+          "hours": 28.9,
+          "plays": 631,
+          "skip_rate": 0.14,
+          "affinity": 0.84,
+          "via": "playlist"
+        },
+        {
+          "artist": "Yussef Dayes",
+          "hours": 8.2,
+          "plays": 149,
+          "skip_rate": 0.09,
+          "affinity": 0.687,
+          "via": "seed"
+        },
+        {
+          "artist": "Robert Glasper",
+          "hours": 7.1,
+          "plays": 138,
+          "skip_rate": 0.2,
+          "affinity": 0.635,
+          "via": "seed"
+        },
+        {
+          "artist": "Butcher Brown",
+          "hours": 6.8,
+          "plays": 124,
+          "skip_rate": 0.08,
+          "affinity": 0.652,
+          "via": "seed"
+        },
+        {
+          "artist": "Hiatus Kaiyote",
+          "hours": 6.2,
+          "plays": 118,
+          "skip_rate": 0.06,
+          "affinity": 0.638,
+          "via": "playlist"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "name": "Tycho",
+      "hours": 54.2,
+      "plays": 986,
+      "skip_rate": 0.12,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Nightmares On Wax",
+      "hours": 51.4,
+      "plays": 921,
+      "skip_rate": 0.09,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Maribou State",
+      "hours": 20.1,
+      "plays": 397,
+      "skip_rate": 0.16,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Bonobo",
+      "hours": 22.3,
+      "plays": 449,
+      "skip_rate": 0.11,
+      "lane": "the-mist"
+    },
+    {
+      "name": "KOAN Sound",
+      "hours": 27.8,
+      "plays": 566,
+      "skip_rate": 0.14,
+      "lane": "bass-edm"
+    },
+    {
+      "name": "Above & Beyond",
+      "hours": 15.2,
+      "plays": 268,
+      "skip_rate": 0.19,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Sampha",
+      "hours": 10.4,
+      "plays": 214,
+      "skip_rate": 0.07,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Ana Roxanne",
+      "hours": 6.8,
+      "plays": 96,
+      "skip_rate": 0.05,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Flying Lotus",
+      "hours": 36.9,
+      "plays": 742,
+      "skip_rate": 0.13,
+      "lane": "beats-idm"
+    },
+    {
+      "name": "Bibio",
+      "hours": 12.7,
+      "plays": 241,
+      "skip_rate": 0.07,
+      "lane": "beats-idm"
+    },
+    {
+      "name": "Blockhead",
+      "hours": 15.9,
+      "plays": 336,
+      "skip_rate": 0.1,
+      "lane": "beats-idm"
+    },
+    {
+      "name": "Emancipator",
+      "hours": 18.4,
+      "plays": 428,
+      "skip_rate": 0.11,
+      "lane": "beats-idm"
+    },
+    {
+      "name": "Four Tet",
+      "hours": 30.6,
+      "plays": 604,
+      "skip_rate": 0.27,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Boards of Canada",
+      "hours": 19.8,
+      "plays": 361,
+      "skip_rate": 0.08,
+      "lane": "beats-idm"
+    },
+    {
+      "name": "Nujabes",
+      "hours": 46.3,
+      "plays": 902,
+      "skip_rate": 0.25,
+      "lane": "jazz-bridge"
+    },
+    {
+      "name": "The Field",
+      "hours": 11.2,
+      "plays": 176,
+      "skip_rate": 0.15,
+      "lane": "beats-idm"
+    },
+    {
+      "name": "MF DOOM",
+      "hours": 41.7,
+      "plays": 869,
+      "skip_rate": 0.14,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Westside Gunn",
+      "hours": 24.6,
+      "plays": 512,
+      "skip_rate": 0.21,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "The Alchemist",
+      "hours": 22.9,
+      "plays": 476,
+      "skip_rate": 0.12,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Larry June",
+      "hours": 14.1,
+      "plays": 298,
+      "skip_rate": 0.16,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Denzel Curry",
+      "hours": 25.7,
+      "plays": 748,
+      "skip_rate": 0.23,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Estee Nack",
+      "hours": 7.2,
+      "plays": 156,
+      "skip_rate": 0.18,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Pusha T",
+      "hours": 12.8,
+      "plays": 289,
+      "skip_rate": 0.17,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Griselda",
+      "hours": 9.4,
+      "plays": 201,
+      "skip_rate": 0.22,
+      "lane": "underground-rap"
+    },
+    {
+      "name": "Khruangbin",
+      "hours": 58.9,
+      "plays": 1180,
+      "skip_rate": 0.09,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "Jai Paul",
+      "hours": 21.4,
+      "plays": 428,
+      "skip_rate": 0.06,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "The Blaze",
+      "hours": 16.1,
+      "plays": 341,
+      "skip_rate": 0.06,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "The Pharcyde",
+      "hours": 22.7,
+      "plays": 519,
+      "skip_rate": 0.12,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "The Donkeys",
+      "hours": 12.3,
+      "plays": 244,
+      "skip_rate": 0.03,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "Yves Tumor",
+      "hours": 9.1,
+      "plays": 187,
+      "skip_rate": 0.09,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "Thievery Corporation",
+      "hours": 13.6,
+      "plays": 281,
+      "skip_rate": 0.13,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "DJ Koze",
+      "hours": 15.4,
+      "plays": 296,
+      "skip_rate": 0.09,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Jacques Greene",
+      "hours": 13.8,
+      "plays": 274,
+      "skip_rate": 0.07,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Floating Points",
+      "hours": 14.9,
+      "plays": 259,
+      "skip_rate": 0.11,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Caribou",
+      "hours": 10.7,
+      "plays": 214,
+      "skip_rate": 0.14,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Todd Terje",
+      "hours": 8.3,
+      "plays": 162,
+      "skip_rate": 0.1,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Skrillex",
+      "hours": 38.2,
+      "plays": 1604,
+      "skip_rate": 0.28,
+      "lane": "bass-edm"
+    },
+    {
+      "name": "Space Laces",
+      "hours": 8.9,
+      "plays": 271,
+      "skip_rate": 0.24,
+      "lane": "bass-edm"
+    },
+    {
+      "name": "Zeds Dead",
+      "hours": 11.4,
+      "plays": 342,
+      "skip_rate": 0.31,
+      "lane": "bass-edm"
+    },
+    {
+      "name": "Burial",
+      "hours": 9.7,
+      "plays": 164,
+      "skip_rate": 0.17,
+      "lane": "bass-edm"
+    },
+    {
+      "name": "Disclosure",
+      "hours": 19.6,
+      "plays": 421,
+      "skip_rate": 0.13,
+      "lane": "house-garage"
+    },
+    {
+      "name": "Fred again..",
+      "hours": 16.8,
+      "plays": 372,
+      "skip_rate": 0.15,
+      "lane": "house-garage"
+    },
+    {
+      "name": "Folamour",
+      "hours": 11.3,
+      "plays": 198,
+      "skip_rate": 0.08,
+      "lane": "house-garage"
+    },
+    {
+      "name": "ANOTR",
+      "hours": 7.6,
+      "plays": 154,
+      "skip_rate": 0.12,
+      "lane": "house-garage"
+    },
+    {
+      "name": "Joe Goddard",
+      "hours": 6.4,
+      "plays": 131,
+      "skip_rate": 0.11,
+      "lane": "house-garage"
+    },
+    {
+      "name": "High Contrast",
+      "hours": 21.8,
+      "plays": 462,
+      "skip_rate": 0.1,
+      "lane": "liquid"
+    },
+    {
+      "name": "Netsky",
+      "hours": 17.2,
+      "plays": 386,
+      "skip_rate": 0.14,
+      "lane": "liquid"
+    },
+    {
+      "name": "Calibre",
+      "hours": 13.4,
+      "plays": 231,
+      "skip_rate": 0.07,
+      "lane": "liquid"
+    },
+    {
+      "name": "Hybrid Minds",
+      "hours": 11.9,
+      "plays": 254,
+      "skip_rate": 0.09,
+      "lane": "liquid"
+    },
+    {
+      "name": "Sub Focus",
+      "hours": 14.6,
+      "plays": 338,
+      "skip_rate": 0.18,
+      "lane": "liquid"
+    },
+    {
+      "name": "London Elektricity",
+      "hours": 8.7,
+      "plays": 178,
+      "skip_rate": 0.12,
+      "lane": "liquid"
+    },
+    {
+      "name": "Steely Dan",
+      "hours": 28.4,
+      "plays": 512,
+      "skip_rate": 0.06,
+      "lane": "dad-rock"
+    },
+    {
+      "name": "Dire Straits",
+      "hours": 24.1,
+      "plays": 396,
+      "skip_rate": 0.05,
+      "lane": "dad-rock"
+    },
+    {
+      "name": "Grateful Dead",
+      "hours": 22.6,
+      "plays": 318,
+      "skip_rate": 0.11,
+      "lane": "dad-rock"
+    },
+    {
+      "name": "Fleetwood Mac",
+      "hours": 16.3,
+      "plays": 314,
+      "skip_rate": 0.08,
+      "lane": "dad-rock"
+    },
+    {
+      "name": "Bob Dylan",
+      "hours": 12.9,
+      "plays": 241,
+      "skip_rate": 0.13,
+      "lane": "dad-rock"
+    },
+    {
+      "name": "Creedence Clearwater Revival",
+      "hours": 9.8,
+      "plays": 213,
+      "skip_rate": 0.07,
+      "lane": "dad-rock"
+    },
+    {
+      "name": "Viagra Boys",
+      "hours": 18.7,
+      "plays": 471,
+      "skip_rate": 0.16,
+      "lane": "punk-turn"
+    },
+    {
+      "name": "Turnstile",
+      "hours": 14.2,
+      "plays": 386,
+      "skip_rate": 0.12,
+      "lane": "punk-turn"
+    },
+    {
+      "name": "Fontaines D.C.",
+      "hours": 11.6,
+      "plays": 246,
+      "skip_rate": 0.14,
+      "lane": "punk-turn"
+    },
+    {
+      "name": "Dry Cleaning",
+      "hours": 8.4,
+      "plays": 176,
+      "skip_rate": 0.19,
+      "lane": "punk-turn"
+    },
+    {
+      "name": "bar italia",
+      "hours": 6.1,
+      "plays": 128,
+      "skip_rate": 0.21,
+      "lane": "punk-turn"
+    },
+    {
+      "name": "Étienne de Crécy",
+      "hours": 9.3,
+      "plays": 191,
+      "skip_rate": 0.11,
+      "lane": "french-electronic"
+    },
+    {
+      "name": "Cassius",
+      "hours": 7.8,
+      "plays": 158,
+      "skip_rate": 0.13,
+      "lane": "french-electronic"
+    },
+    {
+      "name": "Breakbot",
+      "hours": 6.9,
+      "plays": 143,
+      "skip_rate": 0.1,
+      "lane": "french-electronic"
+    },
+    {
+      "name": "Justice",
+      "hours": 12.4,
+      "plays": 268,
+      "skip_rate": 0.15,
+      "lane": "french-electronic"
+    },
+    {
+      "name": "Robert Glasper",
+      "hours": 7.1,
+      "plays": 138,
+      "skip_rate": 0.2,
+      "lane": "jazz-bridge"
+    },
+    {
+      "name": "Butcher Brown",
+      "hours": 6.8,
+      "plays": 124,
+      "skip_rate": 0.08,
+      "lane": "jazz-bridge"
+    },
+    {
+      "name": "Yussef Dayes",
+      "hours": 8.2,
+      "plays": 149,
+      "skip_rate": 0.09,
+      "lane": "jazz-bridge"
+    },
+    {
+      "name": "KAYTRANADA",
+      "hours": 28.9,
+      "plays": 631,
+      "skip_rate": 0.14,
+      "lane": "jazz-bridge"
+    },
+    {
+      "name": "Hiatus Kaiyote",
+      "hours": 6.2,
+      "plays": 118,
+      "skip_rate": 0.06,
+      "lane": "jazz-bridge"
+    },
+    {
+      "name": "Rebelution",
+      "hours": 13.1,
+      "plays": 274,
+      "skip_rate": 0.03,
+      "lane": "cosmic-groove"
+    },
+    {
+      "name": "Kiasmos",
+      "hours": 5.5,
+      "plays": 101,
+      "skip_rate": 0.06,
+      "lane": "the-mist"
+    },
+    {
+      "name": "Kink",
+      "hours": 0.8,
+      "plays": 23,
+      "skip_rate": 0.09,
+      "lane": "club-continuum"
+    },
+    {
+      "name": "Junior Jack",
+      "hours": 0.5,
+      "plays": 26,
+      "skip_rate": 0.04,
+      "lane": "house-garage"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Green",
+      "year": 1986,
+      "label": "Air Records",
+      "lane": "the-mist",
+      "anchor": "Tycho",
+      "pitchfork": 8.6,
+      "bnm": false,
+      "note": "Japanese environmental music at its warmest, written for a house rather than a concert hall, and it works exactly as intended."
+    },
+    {
+      "artist": "Matt Duncan",
+      "title": "Beacon",
+      "year": 2013,
+      "label": "Fake Four",
+      "lane": "cosmic-groove",
+      "anchor": "Khruangbin",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "Ohio soul that moves like the Thai funk you live in, unhurried and sung a little behind the beat."
+    },
+    {
+      "artist": "Deathprod",
+      "title": "Occulting Disk",
+      "year": 2019,
+      "label": "Smalltown Supersound",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "pitchfork": 7.9,
+      "bnm": false,
+      "note": "Anti-fascist drone, the composer's word for it, and the heaviest quiet record you will hear this year."
+    },
+    {
+      "artist": "Folamour",
+      "title": "Ordinary Drugs",
+      "year": 2018,
+      "label": "FHUO",
+      "lane": "house-garage",
+      "anchor": "Folamour",
+      "pitchfork": 7.4,
+      "bnm": false,
+      "note": "French house made out of live playing rather than loops, generous and a little sweaty."
+    },
+    {
+      "artist": "Mach-Hommy",
+      "title": "Pray for Haiti",
+      "year": 2021,
+      "label": "Griselda",
+      "lane": "underground-rap",
+      "anchor": "Westside Gunn",
+      "pitchfork": 8.3,
+      "bnm": true,
+      "note": "The best-produced record the Buffalo axis has put out, and the one where the rapping is genuinely strange."
+    },
+    {
+      "artist": "Yussef Kamaal",
+      "title": "Black Focus",
+      "year": 2016,
+      "label": "Brownswood",
+      "lane": "jazz-bridge",
+      "anchor": "Yussef Dayes",
+      "pitchfork": 7.8,
+      "bnm": false,
+      "note": "London jazz with a broken-beat engine, recorded fast and sounding like it."
+    },
+    {
+      "artist": "Flying Saucer Attack",
+      "title": "Further",
+      "year": 1995,
+      "label": "Domino",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "pitchfork": 8.1,
+      "bnm": false,
+      "note": "Rural English psychedelia built from acoustic guitars and feedback, recorded in a bedroom on purpose."
+    },
+    {
+      "artist": "Nala Sinephro",
+      "title": "Space 1.8",
+      "year": 2021,
+      "label": "Warp",
+      "lane": "jazz-bridge",
+      "anchor": "Robert Glasper",
+      "pitchfork": 8.0,
+      "bnm": true,
+      "note": "Harp, modular synth and saxophone arranged as weather, with nothing hurried anywhere in it."
+    },
+    {
+      "artist": "Little Feat",
+      "title": "Sailin' Shoes",
+      "year": 1972,
+      "label": "Warner Bros.",
+      "lane": "dad-rock",
+      "anchor": "Steely Dan",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "The loosest tight band of the seventies, all slide guitar and New Orleans piano."
+    },
+    {
+      "artist": "Lord of the Isles",
+      "title": "Eluvium",
+      "year": 2023,
+      "label": "ESP Institute",
+      "lane": "club-continuum",
+      "anchor": "Floating Points",
+      "pitchfork": 7.6,
+      "bnm": false,
+      "note": "Scottish dance music with the beats half-buried, closer to a landscape than a set."
+    },
+    {
+      "artist": "Cassius",
+      "title": "1999",
+      "year": 1999,
+      "label": "Virgin",
+      "lane": "french-electronic",
+      "anchor": "Étienne de Crécy",
+      "pitchfork": 8.2,
+      "bnm": false,
+      "note": "The other great French filter record, funkier and messier than the one everyone quotes."
+    },
+    {
+      "artist": "Chubby and the Gang",
+      "title": "Speed Kills",
+      "year": 2020,
+      "label": "Partisan",
+      "lane": "punk-turn",
+      "anchor": "Viagra Boys",
+      "pitchfork": 7.7,
+      "bnm": false,
+      "note": "West London punk played at pub-brawl speed with genuine pop songs underneath."
+    },
+    {
+      "artist": "Rhythm & Sound",
+      "title": "With the Artists",
+      "year": 2003,
+      "label": "Burial Mix",
+      "lane": "beats-idm",
+      "anchor": "Burial",
+      "pitchfork": 8.8,
+      "bnm": false,
+      "note": "Berlin dub techno with Jamaican singers on top, the coldest warm record ever made."
+    },
+    {
+      "artist": "Alix Perez",
+      "title": "1984",
+      "year": 2009,
+      "label": "Shogun Audio",
+      "lane": "liquid",
+      "anchor": "Calibre",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "Liquid drum and bass with soul-record patience, from the era when the genre still had songs in it."
+    },
+    {
+      "artist": "Michael Chapman",
+      "title": "Fully Qualified Survivor",
+      "year": 1970,
+      "label": "Harvest",
+      "lane": "dad-rock",
+      "anchor": "Bob Dylan",
+      "pitchfork": 8.4,
+      "bnm": false,
+      "note": "A Yorkshireman playing guitar like a session man and singing like a bricklayer, which is the appeal."
+    },
+    {
+      "artist": "Loraine James",
+      "title": "Reflection",
+      "year": 2021,
+      "label": "Hyperdub",
+      "lane": "beats-idm",
+      "anchor": "Flying Lotus",
+      "pitchfork": 8.1,
+      "bnm": true,
+      "note": "Club music made in a bedroom during a year with no clubs, and it sounds exactly that lonely."
+    },
+    {
+      "artist": "Jessica Pratt",
+      "title": "Here in the Pitch",
+      "year": 2024,
+      "label": "Mexican Summer",
+      "lane": "cosmic-groove",
+      "anchor": "The Donkeys",
+      "pitchfork": 8.2,
+      "bnm": true,
+      "note": "Sixties Los Angeles pop rebuilt by someone who only half believes in it, and better for the doubt.",
+      "why": "Sixties Los Angeles pop rebuilt by someone who only half believes in it, and better for the doubt. The Donkeys are the nearest thing on your shelf, 244 plays and a 3% skip rate, the same sun-faded California, and Cosmic Groove is 358.9 hours of your listening that this record slows right down. Pitchfork gave it 8.2."
+    },
+    {
+      "artist": "Gas",
+      "title": "Pop",
+      "year": 2000,
+      "label": "Mille Plateaux",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "pitchfork": 9.0,
+      "bnm": false,
+      "note": "Forest techno: an orchestra buried under a kick drum, four tracks, no titles, total submersion.",
+      "why": "Forest techno: an orchestra buried under a kick drum, four tracks, no titles, total submersion. The Field is the way in, 176 plays and 11.2 hours of the same idea at a faster pulse, and The Mist is 505.8 hours of your listening that this record sits underneath. Pitchfork gave it 9.0."
+    }
+  ],
+  "critics": [
+    {
+      "artist": "Basic Channel",
+      "title": "BCD",
+      "year": 1995,
+      "score": 9.4,
+      "genre": "electronic",
+      "lane": "beats-idm",
+      "bnm": false,
+      "anchor": "The Field",
+      "note": "The Berlin plates every ambient techno producer you love has been quietly rebuilding for thirty years."
+    },
+    {
+      "artist": "Arthur Verocai",
+      "title": "Arthur Verocai",
+      "year": 1972,
+      "score": 9.1,
+      "genre": "global",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Khruangbin",
+      "note": "One Brazilian record, pressed once, sampled forever, and the root of the groove lane."
+    },
+    {
+      "artist": "Talk Talk",
+      "title": "Laughing Stock",
+      "year": 1991,
+      "score": 9.5,
+      "genre": "rock",
+      "lane": "punk-turn",
+      "bnm": false,
+      "anchor": "bar italia",
+      "note": "The band walked away from pop and recorded silence as an instrument, and every quiet guitar record since owes it something."
+    },
+    {
+      "artist": "Alice Coltrane",
+      "title": "Journey in Satchidananda",
+      "year": 1971,
+      "score": 9.3,
+      "genre": "jazz",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "Nujabes",
+      "note": "Harp, oud and drone as devotional music, and the source most spiritual jazz still drinks from."
+    },
+    {
+      "artist": "Geto Boys",
+      "title": "The Diary",
+      "year": 1994,
+      "score": 9.2,
+      "genre": "rap",
+      "lane": "underground-rap",
+      "bnm": false,
+      "anchor": "MF DOOM",
+      "note": "Houston rap at its most haunted, Scarface writing paranoia like a diary entry over slow soul loops."
+    },
+    {
+      "artist": "Young Marble Giants",
+      "title": "Colossal Youth",
+      "year": 1980,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "punk-turn",
+      "bnm": false,
+      "anchor": "Dry Cleaning",
+      "note": "Post-punk stripped to bass, guitar, drum machine and a whisper, which turns out to be plenty."
+    },
+    {
+      "artist": "Pharoah Sanders",
+      "title": "Karma",
+      "year": 1969,
+      "score": 9.1,
+      "genre": "jazz",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "Robert Glasper",
+      "note": "Most of it is one long prayer, Leon Thomas yodeling over the warmest tenor sound ever recorded, and it earns every minute."
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "Waveform Transmission Vol. 1",
+      "year": 1992,
+      "score": 8.9,
+      "genre": "electronic",
+      "lane": "club-continuum",
+      "bnm": false,
+      "anchor": "DJ Koze",
+      "note": "Detroit techno at its most machine-minded, still faster and harder than most things made since."
+    },
+    {
+      "artist": "Fela Kuti",
+      "title": "Zombie",
+      "year": 1976,
+      "score": 9.2,
+      "genre": "global",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "The Pharcyde",
+      "note": "A protest record you can dance to for the length of a side, the horns doing the arguing."
+    },
+    {
+      "artist": "The Congos",
+      "title": "Heart of the Congos",
+      "year": 1977,
+      "score": 9.4,
+      "genre": "reggae",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Rebelution",
+      "note": "Lee Perry's strangest production and the best-sounding reggae record ever made, in that order."
+    },
+    {
+      "artist": "Slint",
+      "title": "Spiderland",
+      "year": 1991,
+      "score": 9.4,
+      "genre": "rock",
+      "lane": "punk-turn",
+      "bnm": false,
+      "anchor": "Turnstile",
+      "note": "Louisville teenagers whispering ghost stories over guitars that keep threatening to explode, the blueprint for every quiet-loud band after."
+    },
+    {
+      "artist": "Madlib",
+      "title": "Shades of Blue",
+      "year": 2003,
+      "score": 8.7,
+      "genre": "rap",
+      "lane": "beats-idm",
+      "bnm": false,
+      "anchor": "Blockhead",
+      "note": "A producer given the Blue Note vaults and enough rope, which is the whole jazz-rap argument settled."
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Selected Ambient Works Volume II",
+      "year": 1994,
+      "score": 9.0,
+      "genre": "electronic",
+      "lane": "the-mist",
+      "bnm": false,
+      "anchor": "Tycho",
+      "note": "Ambient music with the temperature turned down, less melody than weather, and it rewards the patience you already bring."
+    },
+    {
+      "artist": "Terry Riley",
+      "title": "A Rainbow in Curved Air",
+      "year": 1969,
+      "score": 8.8,
+      "genre": "experimental",
+      "lane": "the-mist",
+      "bnm": false,
+      "anchor": "Ana Roxanne",
+      "note": "One man, one organ, one delay unit, and most of ambient music downstream of it."
+    },
+    {
+      "artist": "Gang Starr",
+      "title": "Moment of Truth",
+      "year": 1998,
+      "score": 8.9,
+      "genre": "rap",
+      "lane": "underground-rap",
+      "bnm": false,
+      "anchor": "Westside Gunn",
+      "note": "Premier at his sharpest and Guru at his calmest, New York rap as craft rather than spectacle."
+    },
+    {
+      "artist": "Steve Reich",
+      "title": "Music for 18 Musicians",
+      "year": 1978,
+      "score": 9.1,
+      "genre": "experimental",
+      "lane": "the-mist",
+      "bnm": false,
+      "anchor": "The Field",
+      "note": "Pulse music played by humans, which is why it breathes in a way the sequenced version never does."
+    },
+    {
+      "artist": "Sade",
+      "title": "Love Deluxe",
+      "year": 1992,
+      "score": 9.0,
+      "genre": "rnb",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Sampha",
+      "note": "The quietest confident record in pop, and the one every downtempo producer steals the space from."
+    },
+    {
+      "artist": "Massive Attack",
+      "title": "Blue Lines",
+      "year": 1991,
+      "score": 9.1,
+      "genre": "electronic",
+      "lane": "beats-idm",
+      "bnm": false,
+      "anchor": "Nightmares On Wax",
+      "note": "Bristol sound-system soul slowed to a walking pace, the record that taught British rap to smolder instead of shout."
+    },
+    {
+      "artist": "Dr. Octagon",
+      "title": "Dr. Octagonecologyst",
+      "year": 1996,
+      "score": 8.8,
+      "genre": "rap",
+      "lane": "underground-rap",
+      "bnm": false,
+      "anchor": "MF DOOM",
+      "note": "Kool Keith and Dan the Automator inventing a whole lineage of weird rap in one afternoon."
+    },
+    {
+      "artist": "Milton Nascimento",
+      "title": "Clube da Esquina",
+      "year": 1972,
+      "score": 9.3,
+      "genre": "global",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Jai Paul",
+      "note": "Milton and Lô Borges trading melodies on a street corner in Minas, Brazilian songwriting at its most generous."
+    },
+    {
+      "artist": "Photek",
+      "title": "Modus Operandi",
+      "year": 1997,
+      "score": 8.9,
+      "genre": "electronic",
+      "lane": "liquid",
+      "bnm": false,
+      "anchor": "Calibre",
+      "note": "Drum and bass engineered like architecture, and the record that taught the genre restraint."
+    },
+    {
+      "artist": "The Blue Nile",
+      "title": "Hats",
+      "year": 1989,
+      "score": 8.9,
+      "genre": "rock",
+      "lane": "dad-rock",
+      "bnm": false,
+      "anchor": "Dire Straits",
+      "note": "Paul Buchanan sings like a man watching the city from a bus window, and the synthesizers glow like wet streetlights."
+    },
+    {
+      "artist": "Roy Ayers",
+      "title": "Everybody Loves the Sunshine",
+      "year": 1976,
+      "score": 8.7,
+      "genre": "jazz",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "KAYTRANADA",
+      "note": "The most-sampled warm afternoon in music, and the original still beats every borrowing."
+    },
+    {
+      "artist": "Neu!",
+      "title": "Neu!",
+      "year": 1972,
+      "score": 9.2,
+      "genre": "rock",
+      "lane": "dad-rock",
+      "bnm": false,
+      "anchor": "Grateful Dead",
+      "note": "Two Kraftwerk defectors locking into one forward gear and holding it, krautrock's most patient groove."
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas",
+      "year": 1990,
+      "score": 9.1,
+      "genre": "rock",
+      "lane": "the-mist",
+      "bnm": false,
+      "anchor": "Maribou State",
+      "note": "Vocals used as pure texture, guitars used as light, and neither missed for meaning."
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Head Hunters",
+      "year": 1973,
+      "score": 9.0,
+      "genre": "jazz",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "Butcher Brown",
+      "note": "Herbie plugging in and chasing Sly Stone, jazz-funk with a groove so deep the fusion argument ended on the spot."
+    },
+    {
+      "artist": "Burial",
+      "title": "Untrue",
+      "year": 2007,
+      "score": 9.4,
+      "genre": "electronic",
+      "lane": "bass-edm",
+      "bnm": false,
+      "anchor": "Burial",
+      "note": "The record that made London rain into a genre, and it still has not aged a day."
+    },
+    {
+      "artist": "Isaac Hayes",
+      "title": "Hot Buttered Soul",
+      "year": 1969,
+      "score": 8.9,
+      "genre": "soul",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "The Pharcyde",
+      "note": "Four songs stretched into orchestral sermons, and the source of half the loops your rap shelf is built on."
+    },
+    {
+      "artist": "Autechre",
+      "title": "Amber",
+      "year": 1994,
+      "score": 8.8,
+      "genre": "electronic",
+      "lane": "beats-idm",
+      "bnm": false,
+      "anchor": "Boards of Canada",
+      "note": "The last Autechre record you can put on at a dinner party, and their most beautiful by a distance."
+    },
+    {
+      "artist": "Nick Drake",
+      "title": "Pink Moon",
+      "year": 1972,
+      "score": 9.2,
+      "genre": "folk",
+      "lane": "dad-rock",
+      "bnm": false,
+      "anchor": "Bob Dylan",
+      "note": "Just guitar, a voice, and one piano overdub, the barest record on the folk shelf and the one that lasts."
+    },
+    {
+      "artist": "Jai Paul",
+      "title": "Leak 04-13 (Bait Ones)",
+      "year": 2019,
+      "score": 8.6,
+      "genre": "electronic",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Jai Paul",
+      "note": "An unfinished album stolen and released by accident, and still more forward than most finished ones."
+    },
+    {
+      "artist": "Sun Ra",
+      "title": "Lanquidity",
+      "year": 1978,
+      "score": 8.8,
+      "genre": "jazz",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "Yussef Dayes",
+      "note": "The Arkestra at its most horizontal, space jazz you can actually put on at midnight and float in."
+    },
+    {
+      "artist": "Prince Far I",
+      "title": "Cry Tuff Dub Encounter Chapter III",
+      "year": 1980,
+      "score": 8.7,
+      "genre": "reggae",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Rebelution",
+      "note": "Dub as an architectural practice: everything removed until the space itself is the hook."
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Emperor Tomato Ketchup",
+      "year": 1996,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "french-electronic",
+      "bnm": false,
+      "anchor": "Breakbot",
+      "note": "French pop cool over motorik pulse and warm analogue hum, repetition turned into luxury."
+    },
+    {
+      "artist": "Larry Heard",
+      "title": "Alien",
+      "year": 1996,
+      "score": 8.8,
+      "genre": "electronic",
+      "lane": "house-garage",
+      "bnm": false,
+      "anchor": "Folamour",
+      "note": "Deep house by the man who invented it, made when he had stopped caring whether anyone danced."
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "title": "Enter the Wu-Tang (36 Chambers)",
+      "year": 1993,
+      "score": 9.5,
+      "genre": "rap",
+      "lane": "underground-rap",
+      "bnm": false,
+      "anchor": "Griselda",
+      "note": "Nine voices crowding one dusty RZA loop after another, the grimy sound Griselda still swears by."
+    },
+    {
+      "artist": "Portishead",
+      "title": "Third",
+      "year": 2008,
+      "score": 9.1,
+      "genre": "electronic",
+      "lane": "beats-idm",
+      "bnm": false,
+      "anchor": "Flying Lotus",
+      "note": "A trip-hop band coming back as something harder and more frightened, eleven years late and completely right."
+    },
+    {
+      "artist": "Bill Evans",
+      "title": "Sunday at the Village Vanguard",
+      "year": 1961,
+      "score": 9.0,
+      "genre": "jazz",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "Nujabes",
+      "note": "The trio listening to each other harder than any band ever has, with Scott LaFaro's bass singing the counter-melodies."
+    },
+    {
+      "artist": "Dinosaur Jr.",
+      "title": "You're Living All Over Me",
+      "year": 1987,
+      "score": 9.0,
+      "genre": "rock",
+      "lane": "punk-turn",
+      "bnm": false,
+      "anchor": "Turnstile",
+      "note": "The loudest record about being tired, and the reason a generation of guitarists stopped tuning up."
+    },
+    {
+      "artist": "Chic",
+      "title": "Risqué",
+      "year": 1979,
+      "score": 8.9,
+      "genre": "disco",
+      "lane": "french-electronic",
+      "bnm": false,
+      "anchor": "Cassius",
+      "note": "The rhythm section every French house producer sampled, playing better than any of the samples."
+    },
+    {
+      "artist": "Can",
+      "title": "Ege Bamyasi",
+      "year": 1972,
+      "score": 9.1,
+      "genre": "rock",
+      "lane": "dad-rock",
+      "bnm": false,
+      "anchor": "Fleetwood Mac",
+      "note": "Cologne's loosest rhythm section grooving under Damo Suzuki's half-language singing, funk from a parallel universe."
+    },
+    {
+      "artist": "DJ Rashad",
+      "title": "Double Cup",
+      "year": 2013,
+      "score": 8.9,
+      "genre": "electronic",
+      "lane": "bass-edm",
+      "bnm": false,
+      "anchor": "Space Laces",
+      "note": "Chicago footwork's masterpiece: impossible drum programming that somehow feels relaxed."
+    },
+    {
+      "artist": "Betty Davis",
+      "title": "They Say I'm Different",
+      "year": 1974,
+      "score": 8.7,
+      "genre": "soul",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Yves Tumor",
+      "note": "Funk with the polish sanded off, Betty growling over riffs her band can barely keep caged."
+    },
+    {
+      "artist": "Kraftwerk",
+      "title": "Trans-Europe Express",
+      "year": 1977,
+      "score": 9.4,
+      "genre": "electronic",
+      "lane": "french-electronic",
+      "bnm": false,
+      "anchor": "Justice",
+      "note": "The blueprint for electro, techno and half of hip hop, delivered deadpan from a German train."
+    },
+    {
+      "artist": "Erykah Badu",
+      "title": "Mama's Gun",
+      "year": 2000,
+      "score": 9.0,
+      "genre": "rnb",
+      "lane": "jazz-bridge",
+      "bnm": false,
+      "anchor": "Hiatus Kaiyote",
+      "note": "Badu loose in the studio with the Soulquarians, neo-soul played like jazz and sung like a private conversation."
+    },
+    {
+      "artist": "Omni Trio",
+      "title": "The Deepest Cut Vol. 1",
+      "year": 1995,
+      "score": 8.6,
+      "genre": "electronic",
+      "lane": "liquid",
+      "bnm": false,
+      "anchor": "High Contrast",
+      "note": "Where liquid drum and bass actually starts, piano lines and amen breaks and no shame about either."
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "title": "Exodus",
+      "year": 1977,
+      "score": 9.0,
+      "genre": "reggae",
+      "lane": "cosmic-groove",
+      "bnm": false,
+      "anchor": "Rebelution",
+      "note": "Recorded in London exile, half righteous and half romantic, and the grooves stay unhurried either way."
+    },
+    {
+      "artist": "This Heat",
+      "title": "Deceit",
+      "year": 1981,
+      "score": 8.9,
+      "genre": "rock",
+      "lane": "punk-turn",
+      "bnm": false,
+      "anchor": "Dry Cleaning",
+      "note": "Post-punk made by people who had heard tape music, and the most paranoid record on this list."
+    },
+    {
+      "artist": "Vashti Bunyan",
+      "title": "Just Another Diamond Day",
+      "year": 1970,
+      "score": 8.7,
+      "genre": "folk",
+      "lane": "dad-rock",
+      "bnm": false,
+      "anchor": "Creedence Clearwater Revival",
+      "note": "A record made on the way to a commune, lost for thirty years, and worth the wait."
+    },
+    {
+      "artist": "Underground Resistance",
+      "title": "Interstellar Fugitives",
+      "year": 1998,
+      "score": 8.6,
+      "genre": "electronic",
+      "lane": "club-continuum",
+      "bnm": false,
+      "anchor": "Jacques Greene",
+      "note": "Detroit techno as resistance movement, masked producers passing one dark groove between them."
+    },
+    {
+      "artist": "Sault",
+      "title": "Untitled (Rise)",
+      "year": 2020,
+      "score": 8.8,
+      "genre": "soul",
+      "lane": "cosmic-groove",
+      "bnm": true,
+      "anchor": "The Blaze",
+      "note": "Anonymous London soul with a disco engine, released in a week when it was needed."
+    },
+    {
+      "artist": "Curtis Mayfield",
+      "title": "Superfly",
+      "year": 1972,
+      "score": 9.2,
+      "genre": "soul",
+      "lane": "underground-rap",
+      "bnm": false,
+      "anchor": "Larry June",
+      "note": "Curtis scoring the hustle and quietly disapproving of it, lush falsetto soul that rap has been mining ever since."
+    },
+    {
+      "artist": "Actress",
+      "title": "R.I.P.",
+      "year": 2012,
+      "score": 8.7,
+      "genre": "electronic",
+      "lane": "club-continuum",
+      "bnm": false,
+      "anchor": "Four Tet",
+      "note": "House music left out in the rain until the surfaces came off, which turned out to be an improvement."
+    },
+    {
+      "artist": "Fugees",
+      "title": "The Score",
+      "year": 1996,
+      "score": 9.0,
+      "genre": "rap",
+      "lane": "underground-rap",
+      "bnm": false,
+      "anchor": "Pusha T",
+      "note": "Three voices, dusty loops, and Lauryn Hill making singing and rapping the same job."
+    }
+  ],
+  "issues": [
+    {
+      "n": 1,
+      "title": "Long Grass",
+      "dek": "Four records that all move at walking pace, and one that refuses to. Start with the Kankyo Ongaku reissue and let it run."
+    },
+    {
+      "n": 2,
+      "title": "Sunlit Rust",
+      "dek": "A week built out of guitars playing rhythm rather than lead, from Thai funk to Cleveland soul."
+    },
+    {
+      "n": 3,
+      "title": "Weight of Water",
+      "dek": "Slower, heavier, more patient than last week on purpose. The Deathprod is the one to sit with."
+    },
+    {
+      "n": 4,
+      "title": "Small Hours Garage",
+      "dek": "House and garage keep pulling more of your attention, so this week leans into it properly."
+    },
+    {
+      "n": 5,
+      "title": "Paper Trail",
+      "dek": "The rap picks here all come from the same few rooms in Buffalo and Los Angeles, which is the point."
+    },
+    {
+      "n": 6,
+      "title": "Green Room",
+      "dek": "Jazz that borders the beats you already play, chosen because the border is where you actually listen."
+    },
+    {
+      "n": 7,
+      "title": "Static Bloom",
+      "dek": "Guitars processed until they behave like weather. Not one of these records was made this decade."
+    },
+    {
+      "n": 8,
+      "title": "Held Note",
+      "dek": "Last week's picks went almost entirely unplayed, so this one is shorter, warmer, and easier to say yes to."
+    },
+    {
+      "n": 9,
+      "title": "Low Sun",
+      "dek": "Seventies session players and the modern records that quietly copy them."
+    },
+    {
+      "n": 10,
+      "title": "Reservoir",
+      "dek": "A week of long-form listening: nothing under six minutes, everything worth the room."
+    },
+    {
+      "n": 11,
+      "title": "Copper Wire",
+      "dek": "French filter house and its children, which is the smallest lane you have and the one that never misses."
+    },
+    {
+      "n": 12,
+      "title": "Night Kitchen",
+      "dek": "Loud, cheap, fast. The punk corner has stopped being an experiment and become a habit."
+    },
+    {
+      "n": 13,
+      "title": "Salt Print",
+      "dek": "Records built from other records, from Bristol dub plates to a Detroit sample library."
+    },
+    {
+      "n": 14,
+      "title": "Cold Front",
+      "dek": "The rolling end of drum and bass, plus one ambient record to put out the fire afterward."
+    },
+    {
+      "n": 15,
+      "title": "Open Tuning",
+      "dek": "Folk and country played by people who came from somewhere else entirely."
+    },
+    {
+      "n": 16,
+      "title": "Second Wind",
+      "dek": "Two of the artists you skipped last month turned up again in different company, so here they are properly."
+    },
+    {
+      "n": 17,
+      "title": "Last Light",
+      "dek": "A summer's worth of listening, closed out with the record you would have found yourself eventually."
+    },
+    {
+      "n": 18,
+      "title": "Glass Field",
+      "dek": "Ambient techno that keeps a pulse, which is the version of ambient you actually finish."
+    }
+  ],
+  "singles": [
+    {
+      "artist": "Sam Gendel",
+      "title": "Saint Cloud",
+      "lane": "jazz-bridge",
+      "anchor": "Nujabes",
+      "note": "Saxophone run through a dream filter, jazz so soft-edged it drifts toward the beat tapes you love."
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Blink",
+      "lane": "the-mist",
+      "anchor": "Tycho",
+      "note": "Written to be played in a model home, and it still works anywhere quiet."
+    },
+    {
+      "artist": "Green-House",
+      "title": "Peperomia",
+      "lane": "the-mist",
+      "anchor": "Tycho",
+      "note": "Synth miniatures written as much for houseplants as for people, gentle enough to loop all afternoon."
+    },
+    {
+      "artist": "Haruomi Hosono",
+      "title": "Talking",
+      "lane": "the-mist",
+      "anchor": "Bonobo",
+      "note": "The quietest possible version of a pop song, from someone who could write either."
+    },
+    {
+      "artist": "Sault",
+      "title": "Wildfires",
+      "lane": "cosmic-groove",
+      "anchor": "The Blaze",
+      "note": "A protest sung barely above a whisper over one padding bassline, soul that trusts restraint to carry the weight."
+    },
+    {
+      "artist": "Jonny Nash",
+      "title": "Eden",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "note": "Guitar figures left mostly alone, with the reverb doing the arranging."
+    },
+    {
+      "artist": "Kelly Lee Owens",
+      "title": "Melt!",
+      "lane": "club-continuum",
+      "anchor": "Four Tet",
+      "note": "Club techno threaded with the sound of ice breaking up, cold materials, warm intent."
+    },
+    {
+      "artist": "Gigi Masin",
+      "title": "Clouds",
+      "lane": "the-mist",
+      "anchor": "Nightmares On Wax",
+      "note": "A Venetian record that sat unheard for decades and then turned up in everyone's crate."
+    },
+    {
+      "artist": "Fatima",
+      "title": "Family",
+      "lane": "jazz-bridge",
+      "anchor": "KAYTRANADA",
+      "note": "London soul with a beat-scene backbone, Fatima singing like the band is set up in her living room."
+    },
+    {
+      "artist": "Suzanne Kraft",
+      "title": "Two Chords",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "note": "The title is honest and the song is better for keeping its promise."
+    },
+    {
+      "artist": "Durand Jones & The Indications",
+      "title": "Long Way Home",
+      "lane": "cosmic-groove",
+      "anchor": "Khruangbin",
+      "note": "Indiana retro soul with real falsetto and real strings, made for the golden hour drive home."
+    },
+    {
+      "artist": "Altın Gün",
+      "title": "Yüce Dağ Başında",
+      "lane": "cosmic-groove",
+      "anchor": "Khruangbin",
+      "note": "Turkish folk played by an Amsterdam band with a rhythm section that never rushes."
+    },
+    {
+      "artist": "Mildlife",
+      "title": "Downstream",
+      "lane": "cosmic-groove",
+      "anchor": "The Donkeys",
+      "note": "Melbourne jazz-funk that flows exactly like the title says, flutes and Rhodes drifting on a steady current."
+    },
+    {
+      "artist": "The Budos Band",
+      "title": "Chicago Falcon",
+      "lane": "cosmic-groove",
+      "anchor": "The Pharcyde",
+      "note": "Afrobeat horns recorded in Staten Island, and the drums sit exactly where you want them."
+    },
+    {
+      "artist": "Kiefer",
+      "title": "Bridges",
+      "lane": "beats-idm",
+      "anchor": "Blockhead",
+      "note": "A jazz pianist raised on Dilla, chords that smile and drums that lean back."
+    },
+    {
+      "artist": "Menahan Street Band",
+      "title": "Make the Road by Walking",
+      "lane": "cosmic-groove",
+      "anchor": "The Donkeys",
+      "note": "Sampled to death by rappers, and the original is still the better listen."
+    },
+    {
+      "artist": "Tatsuro Yamashita",
+      "title": "Sparkle",
+      "lane": "cosmic-groove",
+      "anchor": "Jai Paul",
+      "note": "The city pop guitar strut everything else gets measured against, sunlight pressed onto tape."
+    },
+    {
+      "artist": "El Michels Affair",
+      "title": "Glaciers of Ice",
+      "lane": "cosmic-groove",
+      "anchor": "Thievery Corporation",
+      "note": "A Wu-Tang beat played live by a soul band, straight faced the whole way."
+    },
+    {
+      "artist": "Say She She",
+      "title": "Forget Me Not",
+      "lane": "cosmic-groove",
+      "anchor": "The Pharcyde",
+      "note": "Three-part harmonies over discofied soul, New York women doing Rotary Connection things."
+    },
+    {
+      "artist": "Ebo Taylor",
+      "title": "Love and Death",
+      "lane": "cosmic-groove",
+      "anchor": "Yves Tumor",
+      "note": "Ghanaian highlife with a guitar tone that has aged better than most of its decade."
+    },
+    {
+      "artist": "Ulla",
+      "title": "Something Made of Nothing",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Ambient that sounds recorded inside a pillow, hiss and breath doing the work of instruments."
+    },
+    {
+      "artist": "Thomas Köner",
+      "title": "Nuuk",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "Recorded as if from a long way off, and the cold is part of the arrangement."
+    },
+    {
+      "artist": "Huerco S.",
+      "title": "A Sea of Love",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "Loops that decay a little more with every pass, ambient that feels lived-in rather than composed."
+    },
+    {
+      "artist": "Kara-Lis Coverdale",
+      "title": "Grafts",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "A church organist writing for synthesizers, and the training is audible in every bar."
+    },
+    {
+      "artist": "claire rousay",
+      "title": "peak chroma",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Field recordings and small confessions arranged into ambient, diary pages set to tone."
+    },
+    {
+      "artist": "Sarah Davachi",
+      "title": "Third Hour",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Tones held until the interference between them turns into the melody."
+    },
+    {
+      "artist": "Hania Rani",
+      "title": "Glass",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Piano recorded close enough that the pedal is part of the piece."
+    },
+    {
+      "artist": "Loscil",
+      "title": "Container Ships",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "note": "Vancouver harbour rendered as a slow harmonic drift with a pulse buried in it."
+    },
+    {
+      "artist": "Pauline Anna Strom",
+      "title": "Marking Time",
+      "lane": "the-mist",
+      "anchor": "Tycho",
+      "note": "Private-press synth visions from a Bay Area mystic, patient sequences that glow at the edges."
+    },
+    {
+      "artist": "Stars of the Lid",
+      "title": "Requiem for Dying Mothers",
+      "lane": "the-mist",
+      "anchor": "Bonobo",
+      "note": "Strings slowed until the harmony is the only thing happening, and it takes its time."
+    },
+    {
+      "artist": "Sammy Virji",
+      "title": "Shella's Riddim",
+      "lane": "house-garage",
+      "anchor": "Disclosure",
+      "note": "UK garage built for a soundsystem rather than a laptop, and it swings hard enough to prove it"
+    },
+    {
+      "artist": "Joy Orbison",
+      "title": "flight fm",
+      "lane": "house-garage",
+      "anchor": "Disclosure",
+      "note": "A bassline and almost nothing else, and it ran the whole summer on that."
+    },
+    {
+      "artist": "Interplanetary Criminal",
+      "title": "Tell Me",
+      "lane": "house-garage",
+      "anchor": "Fred again..",
+      "note": "Bassline house with a vocal chopped into pure rhythm, made by someone who clearly loves the nineties"
+    },
+    {
+      "artist": "Chaos in the CBD",
+      "title": "Midnight in Peckham",
+      "lane": "house-garage",
+      "anchor": "Folamour",
+      "note": "Deep house from two New Zealand brothers, mixed like a late train home."
+    },
+    {
+      "artist": "Salute",
+      "title": "Deep Cuts",
+      "lane": "house-garage",
+      "anchor": "ANOTR",
+      "note": "Rave euphoria with the edges polished, house built by someone chasing joy at full sprint."
+    },
+    {
+      "artist": "DJ Boring",
+      "title": "Winona",
+      "lane": "house-garage",
+      "anchor": "ANOTR",
+      "note": "Lo-fi house that is far more carefully built than the name lets on."
+    },
+    {
+      "artist": "Barry Can't Swim",
+      "title": "Sunsleeper",
+      "lane": "house-garage",
+      "anchor": "Folamour",
+      "note": "Edinburgh piano house with the warmth turned all the way up, melodies that feel like late summer."
+    },
+    {
+      "artist": "Ross From Friends",
+      "title": "Talk To Me You'll Understand",
+      "lane": "house-garage",
+      "anchor": "Joe Goddard",
+      "note": "Tape wobble used as a hook, with a melody strong enough to survive it."
+    },
+    {
+      "artist": "India Jordan",
+      "title": "For You",
+      "lane": "house-garage",
+      "anchor": "Joe Goddard",
+      "note": "Filter-house joy dedicated to the dancefloor itself, one loop ridden until it becomes a feeling."
+    },
+    {
+      "artist": "Mall Grab",
+      "title": "Sunflower",
+      "lane": "house-garage",
+      "anchor": "Fred again..",
+      "note": "Lo-fi house with the sample left ragged, because tidying it would ruin the point."
+    },
+    {
+      "artist": "Rome Streetz",
+      "title": "Long Story Short",
+      "lane": "underground-rap",
+      "anchor": "Westside Gunn",
+      "note": "Harlem rapping at the pace of a man telling you something in confidence, over one loop that never changes"
+    },
+    {
+      "artist": "billy woods",
+      "title": "Spongebob",
+      "lane": "underground-rap",
+      "anchor": "Westside Gunn",
+      "note": "Dense, funny and bleak in the same bar, over a loop that refuses to settle."
+    },
+    {
+      "artist": "Boldy James",
+      "title": "Brickmile to Montana",
+      "lane": "underground-rap",
+      "anchor": "The Alchemist",
+      "note": "The flattest, calmest delivery in rap over beats that keep getting further out"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "title": "Riot!",
+      "lane": "underground-rap",
+      "anchor": "Pusha T",
+      "note": "No hook, no chorus, and a beat that sounds like it is being remembered."
+    },
+    {
+      "artist": "Nicholas Craven",
+      "title": "Craven N",
+      "lane": "underground-rap",
+      "anchor": "Larry June",
+      "note": "Montreal soul loops chopped with a light touch, instrumental rap that trusts the sample to sing."
+    },
+    {
+      "artist": "Benny the Butcher",
+      "title": "Crowns for Kings",
+      "lane": "underground-rap",
+      "anchor": "Estee Nack",
+      "note": "Buffalo again, and the delivery is calm in a way that makes it worse."
+    },
+    {
+      "artist": "al.divino",
+      "title": "Vermont",
+      "lane": "underground-rap",
+      "anchor": "Estee Nack",
+      "note": "Raw Massachusetts loop rap, verses mumbled like secrets over samples left deliberately dusty."
+    },
+    {
+      "artist": "Conway the Machine",
+      "title": "Front Lines",
+      "lane": "underground-rap",
+      "anchor": "Griselda",
+      "note": "Buffalo again, and the delivery has more range than the subject matter suggests."
+    },
+    {
+      "artist": "Stove God Cooks",
+      "title": "Panda Bear",
+      "lane": "underground-rap",
+      "anchor": "Pusha T",
+      "note": "Syracuse kitchen talk delivered half-sung, over beats that barely need drums to move."
+    },
+    {
+      "artist": "Roc Marciano",
+      "title": "Snow",
+      "lane": "underground-rap",
+      "anchor": "The Alchemist",
+      "note": "He built this template on his own and half the room is still borrowing it."
+    },
+    {
+      "artist": "Kokoroko",
+      "title": "Abusey Junction",
+      "lane": "jazz-bridge",
+      "anchor": "Yussef Dayes",
+      "note": "West African highlife guitar recorded in London, and it takes its time getting anywhere"
+    },
+    {
+      "artist": "Yazmin Lacey",
+      "title": "Bad Company",
+      "lane": "jazz-bridge",
+      "anchor": "Robert Glasper",
+      "note": "Nottingham soul sung so low and close it barely registers as effort."
+    },
+    {
+      "artist": "Emma-Jean Thackray",
+      "title": "Say Something",
+      "lane": "jazz-bridge",
+      "anchor": "Robert Glasper",
+      "note": "A trumpeter who arranges like a producer, which is why this sounds like a band and a machine at once"
+    },
+    {
+      "artist": "Shabaka Hutchings",
+      "title": "Black Skin, Black Masks",
+      "lane": "jazz-bridge",
+      "anchor": "Yussef Dayes",
+      "note": "London jazz with the volume of a punk record and the discipline of neither."
+    },
+    {
+      "artist": "Joe Armon-Jones",
+      "title": "Icy Roads",
+      "lane": "jazz-bridge",
+      "anchor": "Butcher Brown",
+      "note": "Ezra Collective's keys player on his own time, London jazz with dub smoke in the room."
+    },
+    {
+      "artist": "Theon Cross",
+      "title": "Activate",
+      "lane": "jazz-bridge",
+      "anchor": "Butcher Brown",
+      "note": "A tuba used as a bass rig, which turns out to be exactly the right idea."
+    },
+    {
+      "artist": "Alfa Mist",
+      "title": "Keep On",
+      "lane": "jazz-bridge",
+      "anchor": "Nujabes",
+      "note": "Grey-sky London jazz with hip hop posture, Rhodes chords that think before they speak."
+    },
+    {
+      "artist": "Makaya McCraven",
+      "title": "Black Lion",
+      "lane": "jazz-bridge",
+      "anchor": "Nujabes",
+      "note": "Live jazz cut up afterwards like a beat tape, by a drummer who thinks that way anyway."
+    },
+    {
+      "artist": "Nubya Garcia",
+      "title": "Source",
+      "lane": "jazz-bridge",
+      "anchor": "Hiatus Kaiyote",
+      "note": "Tenor sax over dub bass weight, London jazz that remembers the sound system came first."
+    },
+    {
+      "artist": "Ezra Collective",
+      "title": "Victory Dance",
+      "lane": "jazz-bridge",
+      "anchor": "Hiatus Kaiyote",
+      "note": "Afrobeat and jazz played by people who clearly enjoy each other's company."
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Time to Find Me",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "note": "Shoegaze fed through early Warp electronics, and the guitars stop behaving like guitars entirely"
+    },
+    {
+      "artist": "Flying Saucer Attack",
+      "title": "My Dreaming Hill",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "note": "Recorded at home in Bristol with the guitar buried under weather."
+    },
+    {
+      "artist": "Windy & Carl",
+      "title": "Fainting in Coils",
+      "lane": "the-mist",
+      "anchor": "Bonobo",
+      "note": "Guitar drone from a Michigan couple who have spent decades letting chords hang in the air until they shimmer."
+    },
+    {
+      "artist": "Main",
+      "title": "Rail",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "Guitar processed until the instrument is unrecognisable and the intent is not."
+    },
+    {
+      "artist": "Bark Psychosis",
+      "title": "Big Shot",
+      "lane": "punk-turn",
+      "anchor": "bar italia",
+      "note": "The London band that made post-rock before the word existed, whispering where everyone else shouted."
+    },
+    {
+      "artist": "Loop",
+      "title": "Collision",
+      "lane": "punk-turn",
+      "anchor": "bar italia",
+      "note": "One riff repeated past the point of politeness, which is the whole argument."
+    },
+    {
+      "artist": "Slowdive",
+      "title": "Souvlaki Space Station",
+      "lane": "the-mist",
+      "anchor": "Tycho",
+      "note": "The band at their most weightless, which is the mode everything since has tried to copy"
+    },
+    {
+      "artist": "Disco Inferno",
+      "title": "Second Language",
+      "lane": "the-mist",
+      "anchor": "Bonobo",
+      "note": "Samplers wired into a rock band before anyone else thought to try it."
+    },
+    {
+      "artist": "Labradford",
+      "title": "Twenty",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "Richmond drone held at whisper volume, guitar and analogue synth sustaining one long thought."
+    },
+    {
+      "artist": "Third Eye Foundation",
+      "title": "Semtex",
+      "lane": "beats-idm",
+      "anchor": "Burial",
+      "note": "Breakbeats buried under so much noise they read as texture."
+    },
+    {
+      "artist": "Yaeji",
+      "title": "Raingurl",
+      "lane": "house-garage",
+      "anchor": "Fred again..",
+      "note": "Half-whispered in two languages over a house beat, and somehow enormous"
+    },
+    {
+      "artist": "Tom Misch",
+      "title": "It Runs Through Me",
+      "lane": "beats-idm",
+      "anchor": "Sampha",
+      "note": "Guitar, a horn, and a groove that never once raises its voice."
+    },
+    {
+      "artist": "Men I Trust",
+      "title": "Show Me How",
+      "lane": "cosmic-groove",
+      "anchor": "The Blaze",
+      "note": "Slow-motion dream pop with a bassline doing all the talking, soft focus on everything else."
+    },
+    {
+      "artist": "Puma Blue",
+      "title": "Only Trying 2 Tell U",
+      "lane": "cosmic-groove",
+      "anchor": "Jai Paul",
+      "note": "Late night guitar music sung in a register that should not carry and does."
+    },
+    {
+      "artist": "Nilüfer Yanya",
+      "title": "Stabilise",
+      "lane": "punk-turn",
+      "anchor": "Dry Cleaning",
+      "note": "Wiry guitar pop wound tight around an anxious hook, sung in a voice that frays beautifully at the edges."
+    },
+    {
+      "artist": "Westerman",
+      "title": "Confirmation",
+      "lane": "cosmic-groove",
+      "anchor": "The Blaze",
+      "note": "Folk phrasing over programmed drums, and the seam never shows."
+    },
+    {
+      "artist": "Tirzah",
+      "title": "Devotion",
+      "lane": "beats-idm",
+      "anchor": "Sampha",
+      "note": "Love songs stripped to bare loops and left slightly out of focus, intimacy as a production style."
+    },
+    {
+      "artist": "Sudan Archives",
+      "title": "Confessions",
+      "lane": "cosmic-groove",
+      "anchor": "Yves Tumor",
+      "note": "Violin, drum machine, and an arrangement that keeps rearranging itself."
+    },
+    {
+      "artist": "Erika de Casier",
+      "title": "Do My Thing",
+      "lane": "cosmic-groove",
+      "anchor": "Jai Paul",
+      "note": "Whispered R&B in the old two-step tradition, seduction conducted entirely at low volume."
+    },
+    {
+      "artist": "Toro y Moi",
+      "title": "Ordinary Pleasure",
+      "lane": "beats-idm",
+      "anchor": "Bibio",
+      "note": "Funk played with a bedroom producer's ear for the wrong sound in the right place."
+    },
+    {
+      "artist": "Michael McDonald",
+      "title": "I Keep Forgettin'",
+      "lane": "dad-rock",
+      "anchor": "Steely Dan",
+      "note": "The most expensive-sounding four minutes of the early eighties, played by the same session men you already love"
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "Lowdown",
+      "lane": "dad-rock",
+      "anchor": "Steely Dan",
+      "note": "The same Los Angeles session players, doing the same thing on somebody else's clock."
+    },
+    {
+      "artist": "Ned Doheny",
+      "title": "Get It Up for Love",
+      "lane": "dad-rock",
+      "anchor": "Fleetwood Mac",
+      "note": "Laurel Canyon soft rock with a real groove under it, ignored at the time and perfect now"
+    },
+    {
+      "artist": "Nicolette Larson",
+      "title": "Lotta Love",
+      "lane": "dad-rock",
+      "anchor": "Fleetwood Mac",
+      "note": "A Neil Young song sung better than Neil Young sang it, with a warmer band behind it."
+    },
+    {
+      "artist": "Pages",
+      "title": "Clearly Kim",
+      "lane": "dad-rock",
+      "anchor": "Steely Dan",
+      "note": "Los Angeles session-pop with jazz-school chords, exactly the polished deep cut the Steely Dan shelf asks for."
+    },
+    {
+      "artist": "Little Feat",
+      "title": "Dixie Chicken",
+      "lane": "dad-rock",
+      "anchor": "Grateful Dead",
+      "note": "New Orleans piano and a slide guitar player who never showed off once."
+    },
+    {
+      "artist": "Bill LaBounty",
+      "title": "Livin' It Up",
+      "lane": "dad-rock",
+      "anchor": "Dire Straits",
+      "note": "Smooth Nashville-by-way-of-LA soft rock, a voice like leather upholstery and a chorus that glides."
+    },
+    {
+      "artist": "Judee Sill",
+      "title": "The Kiss",
+      "lane": "dad-rock",
+      "anchor": "Bob Dylan",
+      "note": "Written like a hymn and arranged like one, by somebody who meant all of it."
+    },
+    {
+      "artist": "Gene Clark",
+      "title": "Some Misunderstanding",
+      "lane": "dad-rock",
+      "anchor": "Bob Dylan",
+      "note": "The ex-Byrd at his most cosmic, a long ache of a song with gospel singers and canyon-country strings."
+    },
+    {
+      "artist": "Terry Callier",
+      "title": "Ordinary Joe",
+      "lane": "dad-rock",
+      "anchor": "Creedence Clearwater Revival",
+      "note": "Folk and soul in the same three minutes, and neither side gives ground."
+    },
+    {
+      "artist": "Donato Dozzy",
+      "title": "Vaporware 04",
+      "lane": "club-continuum",
+      "anchor": "Floating Points",
+      "note": "One idea turned very slowly for eight minutes, which is the whole appeal"
+    },
+    {
+      "artist": "Gas",
+      "title": "Pop 1",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "A forest recorded as a loop, and it stays there for the full duration."
+    },
+    {
+      "artist": "Wolfgang Voigt",
+      "title": "Königsforst",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "The forest techno he made under the GAS name, strings looping like fog with a heartbeat kick underneath."
+    },
+    {
+      "artist": "Aleksi Perälä",
+      "title": "UK74R1712142",
+      "lane": "beats-idm",
+      "anchor": "Boards of Canada",
+      "note": "Tuned to its own system and released in volumes nobody expects you to finish."
+    },
+    {
+      "artist": "Vladislav Delay",
+      "title": "Raamat",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Finnish dub techno dissolved into weather, clicks and bass drifting loose of any grid."
+    },
+    {
+      "artist": "Rrose",
+      "title": "Waterfall",
+      "lane": "club-continuum",
+      "anchor": "Floating Points",
+      "note": "Techno built out of one slowly opening sound, and it never resolves."
+    },
+    {
+      "artist": "Skee Mask",
+      "title": "Rev8617",
+      "lane": "beats-idm",
+      "anchor": "Boards of Canada",
+      "note": "Breakbeats and grey ambience in the same track, from the most reliable producer in Munich"
+    },
+    {
+      "artist": "Actress",
+      "title": "Hubble",
+      "lane": "beats-idm",
+      "anchor": "Burial",
+      "note": "Everything here sounds recovered from a corrupted drive, on purpose."
+    },
+    {
+      "artist": "Lawrence",
+      "title": "Along the Wall",
+      "lane": "club-continuum",
+      "anchor": "DJ Koze",
+      "note": "Hamburg deep house at its most melancholy, chords that fall like light through a curtain."
+    },
+    {
+      "artist": "Terrence Dixon",
+      "title": "Minimalism",
+      "lane": "club-continuum",
+      "anchor": "DJ Koze",
+      "note": "Detroit stripped back until only the ghost of the groove is left."
+    },
+    {
+      "artist": "Alan Braxe",
+      "title": "Vertigo",
+      "lane": "french-electronic",
+      "anchor": "Étienne de Crécy",
+      "note": "French touch at its most elegant, one filtered loop and absolute confidence"
+    },
+    {
+      "artist": "Modjo",
+      "title": "Lady (Hear Me Tonight)",
+      "lane": "french-electronic",
+      "anchor": "Cassius",
+      "note": "One Chic guitar loop and a vocal, and it has never once sounded dated."
+    },
+    {
+      "artist": "Fred Falke",
+      "title": "Untitled Love",
+      "lane": "french-electronic",
+      "anchor": "Breakbot",
+      "note": "Glossy French disco from the bass player's chair, arpeggios that sparkle exactly on cue."
+    },
+    {
+      "artist": "Stardust",
+      "title": "Music Sounds Better With You",
+      "lane": "french-electronic",
+      "anchor": "Étienne de Crécy",
+      "note": "The whole filter house idea compressed into a single record that they never followed up."
+    },
+    {
+      "artist": "Bob Sinclar",
+      "title": "My Only Love",
+      "lane": "french-electronic",
+      "anchor": "Cassius",
+      "note": "Filter disco from Sinclar's early crate-digging years, the Paris sound with its collar up."
+    },
+    {
+      "artist": "Sebastien Tellier",
+      "title": "La Ritournelle",
+      "lane": "french-electronic",
+      "anchor": "Breakbot",
+      "note": "Seven minutes of drums, strings and patience, recorded with a jazz rhythm section."
+    },
+    {
+      "artist": "Le Knight Club",
+      "title": "Hysteria",
+      "lane": "french-electronic",
+      "anchor": "Justice",
+      "note": "One of Guy-Manuel's Crydamoure plates, looped disco joy compressed until it squeaks."
+    },
+    {
+      "artist": "Kavinsky",
+      "title": "Nightcall",
+      "lane": "french-electronic",
+      "anchor": "Justice",
+      "note": "Made for a film that had not been written yet, and it fits anyway."
+    },
+    {
+      "artist": "Demon",
+      "title": "You Are My High",
+      "lane": "french-electronic",
+      "anchor": "Étienne de Crécy",
+      "note": "A single bass loop and a sigh, French house proof that one good idea can carry a whole night."
+    },
+    {
+      "artist": "Alex Gopher",
+      "title": "The Child",
+      "lane": "french-electronic",
+      "anchor": "Cassius",
+      "note": "A Billie Holiday sample cut into a house record, and it earns the borrowing."
+    },
+    {
+      "artist": "Sniffany & The Nits",
+      "title": "The Gnats",
+      "lane": "punk-turn",
+      "anchor": "Viagra Boys",
+      "note": "Genuinely unhinged London punk that is also very funny, which is a rare combination"
+    },
+    {
+      "artist": "Amyl and The Sniffers",
+      "title": "Hertz",
+      "lane": "punk-turn",
+      "anchor": "Viagra Boys",
+      "note": "Melbourne pub rock with no interest whatsoever in your comfort."
+    },
+    {
+      "artist": "Been Stellar",
+      "title": "Sweet",
+      "lane": "punk-turn",
+      "anchor": "Fontaines D.C.",
+      "note": "New York guitars with that grey overdriven shimmer, a young band already sounding like rush hour."
+    },
+    {
+      "artist": "Chubby and the Gang",
+      "title": "All Along the Uxbridge Road",
+      "lane": "punk-turn",
+      "anchor": "Turnstile",
+      "note": "West London hardcore that keeps accidentally writing pop choruses."
+    },
+    {
+      "artist": "Militarie Gun",
+      "title": "Do It Faster",
+      "lane": "punk-turn",
+      "anchor": "Turnstile",
+      "note": "Hardcore that decided to write choruses, and the choruses are good"
+    },
+    {
+      "artist": "Shame",
+      "title": "Concrete",
+      "lane": "punk-turn",
+      "anchor": "Fontaines D.C.",
+      "note": "Two voices arguing across the mix, and the band never picks a side."
+    },
+    {
+      "artist": "Sprints",
+      "title": "Literary Mind",
+      "lane": "punk-turn",
+      "anchor": "Dry Cleaning",
+      "note": "Dublin garage punk strung tight and released in one shout-along chorus."
+    },
+    {
+      "artist": "Squid",
+      "title": "Narrator",
+      "lane": "punk-turn",
+      "anchor": "Dry Cleaning",
+      "note": "Eight minutes that start as a groove and end somewhere considerably less calm."
+    },
+    {
+      "artist": "Gilla Band",
+      "title": "Eight Bells",
+      "lane": "punk-turn",
+      "anchor": "bar italia",
+      "note": "Dublin noise rock that treats the mixing desk as a weapon, riffs bent until they hiss."
+    },
+    {
+      "artist": "Model/Actriz",
+      "title": "Mosquito",
+      "lane": "punk-turn",
+      "anchor": "bar italia",
+      "note": "Industrial drums under a vocal delivered like it is being read at you."
+    },
+    {
+      "artist": "Smith & Mighty",
+      "title": "Walk On",
+      "lane": "beats-idm",
+      "anchor": "Nightmares On Wax",
+      "note": "The Bristol sound before anyone named it, dub weight under a pop song"
+    },
+    {
+      "artist": "Massive Attack",
+      "title": "Karmacoma",
+      "lane": "beats-idm",
+      "anchor": "Nightmares On Wax",
+      "note": "Bristol at its most patient, and the bass is carrying the entire mood."
+    },
+    {
+      "artist": "Andy Stott",
+      "title": "Numb",
+      "lane": "beats-idm",
+      "anchor": "Burial",
+      "note": "Manchester dub techno dragged to half speed, his old piano teacher's voice hanging in the murk."
+    },
+    {
+      "artist": "Tricky",
+      "title": "Aftermath",
+      "lane": "beats-idm",
+      "anchor": "Burial",
+      "note": "Two voices whispering over a loop that never quite lands where you expect."
+    },
+    {
+      "artist": "Moritz von Oswald Trio",
+      "title": "Structure 1",
+      "lane": "beats-idm",
+      "anchor": "The Field",
+      "note": "The Basic Channel elder statesman playing dub techno as chamber music, live hands on a machine pulse."
+    },
+    {
+      "artist": "Madlib",
+      "title": "Slim's Return",
+      "lane": "beats-idm",
+      "anchor": "Flying Lotus",
+      "note": "A jazz library record turned inside out by somebody who owns all of them."
+    },
+    {
+      "artist": "Theo Parrish",
+      "title": "Falling Up",
+      "lane": "house-garage",
+      "anchor": "Folamour",
+      "note": "Detroit house mixed like a jazz record, deliberately rough, and it never stops moving"
+    },
+    {
+      "artist": "Pete Rock",
+      "title": "They Reminisce Over You",
+      "lane": "underground-rap",
+      "anchor": "MF DOOM",
+      "note": "A horn sample, a eulogy, and one of the cleanest drum sounds ever pressed."
+    },
+    {
+      "artist": "Omar S",
+      "title": "Psychotic Photosynthesis",
+      "lane": "house-garage",
+      "anchor": "ANOTR",
+      "note": "Detroit house made stubbornly by hand, one strange loop blooming for as long as it needs."
+    },
+    {
+      "artist": "Moodymann",
+      "title": "I Can't Kick This Feeling When It Hits",
+      "lane": "house-garage",
+      "anchor": "Folamour",
+      "note": "A Chic loop stretched out for as long as Detroit felt like stretching it."
+    },
+    {
+      "artist": "Lenzman",
+      "title": "Open Page",
+      "lane": "liquid",
+      "anchor": "Calibre",
+      "note": "Dutch liquid with a hip hop producer's ear for space between the drums"
+    },
+    {
+      "artist": "Alix Perez",
+      "title": "Forsaken",
+      "lane": "liquid",
+      "anchor": "Calibre",
+      "note": "Half-time weight under a melody that would sit comfortably on a soul record."
+    },
+    {
+      "artist": "dBridge",
+      "title": "Inner Disbelief",
+      "lane": "liquid",
+      "anchor": "Netsky",
+      "note": "The colder, more introverted end of drum and bass, made by one of its architects"
+    },
+    {
+      "artist": "Seba",
+      "title": "Painted Alive",
+      "lane": "liquid",
+      "anchor": "High Contrast",
+      "note": "Swedish, warm, and built from pads that take their time arriving."
+    },
+    {
+      "artist": "Hydro",
+      "title": "The Chase",
+      "lane": "liquid",
+      "anchor": "High Contrast",
+      "note": "Drum and bass that rolls rather than drops, bass kept warm, drums like brushed steel."
+    },
+    {
+      "artist": "Makoto",
+      "title": "Golden Girl",
+      "lane": "liquid",
+      "anchor": "Netsky",
+      "note": "Tokyo drum and bass with a rhythm section borrowed straight from disco."
+    },
+    {
+      "artist": "Break",
+      "title": "Hurt You",
+      "lane": "liquid",
+      "anchor": "Sub Focus",
+      "note": "Surgical drum work from one of the cleanest engineers in drum and bass, power without shouting."
+    },
+    {
+      "artist": "Logistics",
+      "title": "Cosmonaut",
+      "lane": "liquid",
+      "anchor": "Sub Focus",
+      "note": "Pads first, drums second, which is the order this end of the tempo works in."
+    },
+    {
+      "artist": "LSB",
+      "title": "Missing You",
+      "lane": "liquid",
+      "anchor": "Hybrid Minds",
+      "note": "Rolling, unhurried drum and bass with a soul vocal buried in the middle distance, which is the version of this you actually finish."
+    },
+    {
+      "artist": "Etherwood",
+      "title": "Weightless",
+      "lane": "liquid",
+      "anchor": "Hybrid Minds",
+      "note": "Sung rather than sampled, and it is unembarrassed about being gentle."
+    },
+    {
+      "artist": "Bill Callahan",
+      "title": "Jim Cain",
+      "lane": "dad-rock",
+      "anchor": "Bob Dylan",
+      "note": "A deep, dry voice singing plain sentences over almost nothing, and somehow the warmest thing here."
+    },
+    {
+      "artist": "Michael Chapman",
+      "title": "Postcards of Scarborough",
+      "lane": "dad-rock",
+      "anchor": "Bob Dylan",
+      "note": "A Yorkshire guitarist who spent fifty years being discovered by younger people."
+    },
+    {
+      "artist": "Ryley Walker",
+      "title": "Primrose Green",
+      "lane": "dad-rock",
+      "anchor": "Grateful Dead",
+      "note": "Chicago guitar playing that runs straight through British folk and comes out jazz."
+    },
+    {
+      "artist": "Jim O'Rourke",
+      "title": "Ghost Ship in a Storm",
+      "lane": "dad-rock",
+      "anchor": "Grateful Dead",
+      "note": "An experimental musician writing a straight folk song, and playing it completely straight."
+    },
+    {
+      "artist": "Hiss Golden Messenger",
+      "title": "Red Rose Nantahala",
+      "lane": "dad-rock",
+      "anchor": "Creedence Clearwater Revival",
+      "note": "North Carolina roots rock loose at the seams, a river song with electric mud on its boots."
+    },
+    {
+      "artist": "Nap Eyes",
+      "title": "Every Time the Feeling",
+      "lane": "dad-rock",
+      "anchor": "Creedence Clearwater Revival",
+      "note": "Halifax songwriting that sounds offhand until you notice how tight the band is."
+    },
+    {
+      "artist": "Nathan Salsburg",
+      "title": "Bluffs",
+      "lane": "dad-rock",
+      "anchor": "Bob Dylan",
+      "note": "Kentucky fingerstyle guitar with an archivist's ear, old-time melody played plain and left unadorned."
+    },
+    {
+      "artist": "Steve Gunn",
+      "title": "Wildwood",
+      "lane": "dad-rock",
+      "anchor": "Grateful Dead",
+      "note": "Guitar playing that keeps circling rather than resolving, and never gets boring."
+    },
+    {
+      "artist": "Sarah Louise",
+      "title": "Gestures in Kind",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Twelve-string guitar recorded like ambient music, which is the trick nobody else pulls off."
+    },
+    {
+      "artist": "Cassandra Jenkins",
+      "title": "Hard Drive",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Spoken word over a saxophone, and it should be unbearable and is the opposite."
+    },
+    {
+      "artist": "Jessica Pratt",
+      "title": "Back, Baby",
+      "lane": "cosmic-groove",
+      "anchor": "The Donkeys",
+      "note": "Sung close to the microphone in a voice from another decade, and it holds a room instantly."
+    },
+    {
+      "artist": "Joy Orbison",
+      "title": "Hyph Mngo",
+      "lane": "house-garage",
+      "anchor": "Fred again..",
+      "note": "The record that pulled dubstep and house into the same room and left them there."
+    },
+    {
+      "artist": "Duval Timothy",
+      "title": "Through the Night",
+      "lane": "jazz-bridge",
+      "anchor": "Sampha",
+      "note": "Piano recorded with the room left in, made by the man who plays on the Sampha records you know."
+    },
+    {
+      "artist": "Vegyn",
+      "title": "It's Nice To Be Alive",
+      "lane": "beats-idm",
+      "anchor": "Flying Lotus",
+      "note": "Warm, cluttered, and put together by someone with a very good ear for mess."
+    },
+    {
+      "artist": "Iglooghost",
+      "title": "Sylph Fables",
+      "lane": "beats-idm",
+      "anchor": "Flying Lotus",
+      "note": "Drums that keep falling over and getting back up, arranged with real tenderness underneath."
+    },
+    {
+      "artist": "Blood Orange",
+      "title": "Charcoal Baby",
+      "lane": "cosmic-groove",
+      "anchor": "Jai Paul",
+      "note": "Guitar, saxophone and a groove that sounds thrown together and is not."
+    },
+    {
+      "artist": "Bicep",
+      "title": "Glue",
+      "lane": "house-garage",
+      "anchor": "Fred again..",
+      "note": "A breakbeat and one held chord, and it has outlasted everything around it."
+    },
+    {
+      "artist": "Nicolas Jaar",
+      "title": "Space Is Only Noise if You Can See",
+      "lane": "club-continuum",
+      "anchor": "Jacques Greene",
+      "note": "House tempo abandoned entirely, and the record is stronger for the refusal."
+    },
+    {
+      "artist": "Overmono",
+      "title": "So U Kno",
+      "lane": "house-garage",
+      "anchor": "Disclosure",
+      "note": "Welsh brothers turning a hardcore rave sample into something patient and huge."
+    },
+    {
+      "artist": "Leon Vynehall",
+      "title": "Movements (Chapter III)",
+      "lane": "house-garage",
+      "anchor": "Disclosure",
+      "note": "House written as a family history, with strings where the drums usually go."
+    },
+    {
+      "artist": "Nala Sinephro",
+      "title": "Continuum 1",
+      "lane": "jazz-bridge",
+      "anchor": "Robert Glasper",
+      "note": "Harp and modular synth breathing in the same tempo, recorded in one room with nothing rushed.",
+      "why": "Harp and modular synth breathing in the same tempo, recorded in one room with nothing rushed. Robert Glasper, 138 plays on your shelf, is the door, and you skip him 20% of the time; you will not skip this."
+    },
+    {
+      "artist": "Alabaster DePlume",
+      "title": "Visit Croatia",
+      "lane": "jazz-bridge",
+      "anchor": "Yussef Dayes",
+      "note": "A saxophone played like somebody speaking carefully in a second language.",
+      "why": "A saxophone played like somebody speaking carefully in a second language. Yussef Dayes at 149 plays is the anchor, the same London jazz circle with the drums taken away."
+    },
+    {
+      "artist": "Vegyn",
+      "title": "Blue Verb",
+      "lane": "beats-idm",
+      "anchor": "Flying Lotus",
+      "note": "London beat music with the glow of a screensaver, melodies smudged just past legible.",
+      "why": "London beat music with the glow of a screensaver, melodies smudged just past legible. You have played Flying Lotus 742 times; this is what that idea sounds like from Peckham."
+    },
+    {
+      "artist": "Carmen Villain",
+      "title": "Subtle Bodies",
+      "lane": "the-mist",
+      "anchor": "Maribou State",
+      "note": "Flute, dub space and a rhythm that only half commits, which is the appeal.",
+      "why": "Flute, dub space and a rhythm that only half commits, which is the appeal. Maribou State, 20.1 hours of your listening, is the neighbour, and this is the same haze without the hooks."
+    },
+    {
+      "artist": "Yu Su",
+      "title": "Xiu",
+      "lane": "club-continuum",
+      "anchor": "Jacques Greene",
+      "note": "Dance music built from field recordings and patience, made in Vancouver and sounding like nowhere.",
+      "why": "Dance music built from field recordings and patience, made in Vancouver and sounding like nowhere. Jacques Greene at 274 plays is the anchor; this is the softer Canadian room."
+    },
+    {
+      "artist": "Mount Kimbie",
+      "title": "Made to Stray",
+      "lane": "beats-idm",
+      "anchor": "Burial",
+      "note": "Two people building a pop song out of parts that should not fit together.",
+      "why": "Two people building a pop song out of parts that should not fit together. Burial, 164 plays on your shelf, is the bridge, and this is what his generation did with daylight."
+    },
+    {
+      "artist": "Nabihah Iqbal",
+      "title": "Sunflower",
+      "lane": "the-mist",
+      "anchor": null,
+      "label": {
+        "name": "Ninja Tune",
+        "hours": 55.7,
+        "artists": 18,
+        "releases": 4
+      },
+      "note": "Late-summer guitar pop from a London producer who came up through NTS, sunlit and a little sad, which is the exact register of this issue.",
+      "why": "Late-summer guitar pop from a London producer who came up through NTS, sunlit and a little sad, which is the exact register of this issue. Ninja Tune is 55.7 hours of your listening across 18 of its artists, and she has 4 releases there you have never opened."
+    },
+    {
+      "artist": "Ulla",
+      "title": "Leaves",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "Barely there, and every element sounds like it wandered in by accident.",
+      "why": "Barely there, and every element sounds like it wandered in by accident. Ana Roxanne, 96 plays and a 5% skip rate, is the anchor, the same held breath."
+    },
+    {
+      "artist": "Blue Lake",
+      "title": "Sun Arcs",
+      "lane": "the-mist",
+      "anchor": "Tycho",
+      "note": "A zither built by hand in Copenhagen, played until it sounds like a small orchestra.",
+      "why": "A zither built by hand in Copenhagen, played until it sounds like a small orchestra. Tycho is 986 plays of your listening, and this is that warmth with the drum machine unplugged."
+    },
+    {
+      "artist": "John Talabot",
+      "title": "Destiny",
+      "lane": "club-continuum",
+      "anchor": "Jacques Greene",
+      "note": "Barcelona house with a vocal that keeps dissolving back into the pads.",
+      "why": "Barcelona house with a vocal that keeps dissolving back into the pads. Your 13.8 hours of Jacques Greene are the same trick from Montreal."
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Kobresia",
+      "lane": "the-mist",
+      "anchor": "The Field",
+      "note": "An orchestra buried under a kick drum in a German forest, and the most total immersion on this list.",
+      "why": "Arctic ambient from Tromsø, a loop that moves like weather. The Field at 11.2 hours is the anchor, and this is what his loops sound like with the pulse removed."
+    },
+    {
+      "artist": "Recondite",
+      "title": "Levo",
+      "lane": "club-continuum",
+      "anchor": "The Field",
+      "note": "Bavarian techno with a melody line that stays just under the surface.",
+      "why": "Bavarian techno with a melody line that stays just under the surface. You have played The Field 176 times and skip him 15% of the time; this keeps the same patience and loses the skips."
+    },
+    {
+      "artist": "Isolée",
+      "title": "Beau Mot Plage",
+      "lane": "beats-idm",
+      "anchor": "The Field",
+      "note": "Microhouse with a guitar figure that has long outlived the genre name.",
+      "why": "Microhouse with a guitar figure that has long outlived the genre name. It comes through The Field, 11.2 hours of your listening, the same loop logic with a smile."
+    },
+    {
+      "artist": "Objekt",
+      "title": "Ganzfeld",
+      "lane": "club-continuum",
+      "anchor": "Floating Points",
+      "note": "Every sound engineered to within an inch of itself, and it still swings.",
+      "why": "Every sound engineered to within an inch of itself, and it still swings. Floating Points, 259 plays on your shelf, is the neighbour, the same precision with the jazz swapped for dread."
+    },
+    {
+      "artist": "Marcel Dettmann",
+      "title": "Seduction",
+      "lane": "club-continuum",
+      "anchor": "DJ Koze",
+      "note": "Berlin techno with the mid-range scooped out, which leaves an enormous amount of space to sit in.",
+      "why": "Berlin techno with the mid-range scooped out, which leaves an enormous amount of space to sit in. DJ Koze at 296 plays is the door, and this is the Berghain end of the same city."
+    },
+    {
+      "artist": "Heathered Pearls",
+      "title": "Steady Veil",
+      "lane": "the-mist",
+      "anchor": null,
+      "label": {
+        "name": "Ghostly International",
+        "hours": 36.0,
+        "artists": 4,
+        "releases": 21
+      },
+      "note": "Ghostly's in-house ambient project, a loop that thickens slowly and never once asks for your attention, which is why it gets it.",
+      "why": "Ghostly's in-house ambient project, a loop that thickens slowly and never once asks for your attention, which is why it gets it. Ghostly International is 36.0 hours of your listening across 4 of its artists, and Heathered Pearls has 21 releases there you have never opened."
+    },
+    {
+      "artist": "Barker",
+      "title": "Hedonic Treadmill",
+      "lane": "club-continuum",
+      "anchor": "Floating Points",
+      "note": "Techno with no kick drum at all, and it still moves, which is the whole argument.",
+      "why": "Techno with no kick drum at all, and it still moves, which is the whole argument. Your 14.9 hours of Floating Points are the same argument made more politely."
+    },
+    {
+      "artist": "Grouper",
+      "title": "Heavy Water/I'd Rather Be Sleeping",
+      "lane": "the-mist",
+      "anchor": "Ana Roxanne",
+      "note": "A piano, a voice, and tape hiss doing as much work as either.",
+      "why": "A piano, a voice, and tape hiss doing as much work as either. Ana Roxanne, 96 plays and a 5% skip rate, is the anchor, and this is where that sound came from."
+    },
+    {
+      "artist": "Helena Hauff",
+      "title": "Panegyric",
+      "lane": "club-continuum",
+      "anchor": null,
+      "label": {
+        "name": "Ninja Tune",
+        "hours": 55.7,
+        "artists": 18,
+        "releases": 3
+      },
+      "note": "Hamburg techno with the lights off, acid lines that refuse to resolve, from a producer who has been on Ninja Tune for years without ever surfacing in your listening.",
+      "why": "Hamburg techno with the lights off, acid lines that refuse to resolve, from a producer who has been on Ninja Tune for years without ever surfacing in your listening. The label is 55.7 hours of your record across 18 artists, and she has 3 releases there you have never touched."
+    },
+    {
+      "artist": "Anthony Naples",
+      "title": "Mad Disrespect",
+      "lane": "club-continuum",
+      "anchor": "DJ Koze",
+      "note": "New York house that sounds like it was recorded through a wall on purpose.",
+      "why": "New York house that sounds like it was recorded through a wall on purpose. DJ Koze, 15.4 hours of your listening, is the anchor, and this is his lo-fi cousin."
+    }
+  ],
+  "mixes": [
+    {
+      "show": "Beats in Space",
+      "host": "Tim Sweeney",
+      "date": "2026-03-14",
+      "lane": "club-continuum",
+      "tracks_total": 22,
+      "known": 6,
+      "anchor": "DJ Koze",
+      "note": "Sweeney has run this show from New York for decades, and this hour drifts between loose disco edits and the kind of woozy house Koze would sign off on. Worth a whole evening."
+    },
+    {
+      "show": "Sounds of the Dawn",
+      "host": "Nate Scheible",
+      "date": "2026-03-21",
+      "lane": "the-mist",
+      "tracks_total": 14,
+      "known": 4,
+      "anchor": "Tycho",
+      "note": "Early-morning new age and private-press ambient, cassette synth washes and the odd flute, sitting a little further out than Tycho but in the same sunlit register. Play it before anyone else in the house is up."
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Sherelle",
+      "date": "2026-03-28",
+      "lane": "bass-edm",
+      "tracks_total": 31,
+      "known": 8,
+      "anchor": "Skrillex",
+      "note": "Footwork and jungle at a speed that makes most bass music sound sleepy, and the Skrillex side of you will recognise the sound design under all that tempo. Sherelle does not let up."
+    },
+    {
+      "show": "Do!! You!!! Breakfast Show",
+      "host": "Charlie Bones",
+      "date": "2026-04-04",
+      "lane": "cosmic-groove",
+      "tracks_total": 26,
+      "known": 7,
+      "anchor": "Khruangbin",
+      "note": "Hours of Charlie Bones talking over records, mostly library funk and dusty soul with the occasional Thai or Brazilian cut, which is more or less the crate Khruangbin built a career on."
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Gilles Peterson",
+      "date": "2026-04-11",
+      "lane": "jazz-bridge",
+      "tracks_total": 24,
+      "known": 9,
+      "anchor": "Nujabes",
+      "note": "The man who has been building the bridge between jazz and everything else for forty years"
+    },
+    {
+      "show": "NTS Breakfast Show",
+      "host": "Flo Dill",
+      "date": "2026-04-18",
+      "lane": "house-garage",
+      "tracks_total": 28,
+      "known": 8,
+      "anchor": "Disclosure",
+      "note": "Garage, soulful house and a few pop edits, kept light enough to follow with coffee. If Disclosure was your way into two-step, this is the fuller picture."
+    },
+    {
+      "show": "Balamii",
+      "host": "Sam Binga",
+      "date": "2026-04-25",
+      "lane": "liquid",
+      "tracks_total": 33,
+      "known": 10,
+      "anchor": "High Contrast",
+      "note": "Bristol bass across every tempo it comes in, mixed like someone who plays out every week"
+    },
+    {
+      "show": "The Lot Radio",
+      "host": "Anthony Naples",
+      "date": "2026-05-02",
+      "lane": "club-continuum",
+      "tracks_total": 19,
+      "known": 5,
+      "anchor": "Four Tet",
+      "note": "Anthony Naples plays house with the edges sanded down and the bass left warm, and he moves the way Four Tet does behind decks rather than in a studio. Late-afternoon Brooklyn in a shipping container."
+    },
+    {
+      "show": "Dublab",
+      "host": "Carlos Niño",
+      "date": "2026-05-09",
+      "lane": "jazz-bridge",
+      "tracks_total": 17,
+      "known": 5,
+      "anchor": "Robert Glasper",
+      "note": "The connective tissue of the Los Angeles spiritual jazz scene, drifting on air from harp records to Glasper-adjacent piano to whatever his friends recorded that week. Loose, generous and long."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Ben UFO",
+      "date": "2026-05-16",
+      "lane": "house-garage",
+      "tracks_total": 35,
+      "known": 11,
+      "anchor": "Fred again..",
+      "note": "The most trusted selector in UK dance music, moving between decades without a seam"
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Alix Perez",
+      "date": "2026-05-23",
+      "lane": "liquid",
+      "tracks_total": 29,
+      "known": 9,
+      "anchor": "Calibre",
+      "note": "Two hours of the deeper, moodier side of drum and bass from someone who helped define it"
+    },
+    {
+      "show": "Mixmag Lab",
+      "host": "Folamour",
+      "date": "2026-05-30",
+      "lane": "house-garage",
+      "tracks_total": 21,
+      "known": 6,
+      "anchor": "Folamour",
+      "note": "Folamour in his element, which is a room full of people and an hour of disco-leaning house that never gets cynical. You already play him at home, so hear what he does with a crowd."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Shy One",
+      "date": "2026-06-06",
+      "lane": "beats-idm",
+      "tracks_total": 27,
+      "known": 7,
+      "anchor": "Flying Lotus",
+      "note": "Broken beats, grime instrumentals and the kind of off-grid drum programming Flying Lotus made respectable, from a London producer who plays like she makes. Head-nod music with the timing slightly askew."
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Bradley Zero",
+      "date": "2026-06-13",
+      "lane": "cosmic-groove",
+      "tracks_total": 23,
+      "known": 8,
+      "anchor": "The Pharcyde",
+      "note": "The Rhythm Section founder plays the way his label sounds: jazz-funk, Brazilian boogie and a few rap instrumentals that would sit happily beside your Pharcyde. Sunlit and unhurried."
+    },
+    {
+      "show": "Sounds of the Dawn",
+      "host": "Nate Scheible",
+      "date": "2026-06-20",
+      "lane": "the-mist",
+      "tracks_total": 16,
+      "known": 4,
+      "anchor": "Ana Roxanne",
+      "note": "New age obscurities pulled from tape, sequenced for actual listening rather than novelty"
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Loraine James",
+      "date": "2026-06-27",
+      "lane": "beats-idm",
+      "tracks_total": 25,
+      "known": 6,
+      "anchor": "Boards of Canada",
+      "note": "A producer playing the records that made her, which is always the most revealing kind of show"
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Interplanetary Criminal",
+      "date": "2026-07-04",
+      "lane": "house-garage",
+      "tracks_total": 30,
+      "known": 9,
+      "anchor": "ANOTR",
+      "note": "Skippy drums and pitched-up vocals from the current face of the garage revival, and it sits well beside the tech-house bounce you get from ANOTR. Faster than you play at home, and worth it."
+    },
+    {
+      "show": "Beats in Space",
+      "host": "Todd Terje",
+      "date": "2026-07-11",
+      "lane": "club-continuum",
+      "tracks_total": 20,
+      "known": 7,
+      "anchor": "Todd Terje",
+      "note": "Terje as a guest DJ rather than a producer, so expect Norwegian space disco, Italo oddities and edits he has never released. You play his own records, and this is the shelf they came from."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Ossia",
+      "date": "2026-07-18",
+      "lane": "bass-edm",
+      "tracks_total": 26,
+      "known": 6,
+      "anchor": "Burial",
+      "note": "Bristol dub weight played at half speed, with more space in it than anything else on the dial."
+    },
+    {
+      "show": "Dublab",
+      "host": "Jerry Paper",
+      "date": "2026-07-25",
+      "lane": "cosmic-groove",
+      "tracks_total": 18,
+      "known": 5,
+      "anchor": "The Donkeys",
+      "note": "Soft-rock and lounge oddities played with a straight face, the kind of gentle Californian strangeness The Donkeys trade in. Good for a slow afternoon with the windows open."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Anz",
+      "date": "2026-08-01",
+      "lane": "house-garage",
+      "tracks_total": 32,
+      "known": 10,
+      "anchor": "Joe Goddard",
+      "note": "Manchester club radio that keeps changing its mind, which is why the hour never sags."
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Nabihah Iqbal",
+      "date": "2026-08-08",
+      "lane": "punk-turn",
+      "tracks_total": 22,
+      "known": 6,
+      "anchor": "Dry Cleaning",
+      "note": "Nabihah Iqbal makes her own post-punk and plays the records that made her, which means a lot of dry guitar and bored-sounding vocals in the Dry Cleaning tradition. A warm host for a cold sound."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Yussef Dayes",
+      "date": "2026-08-15",
+      "lane": "jazz-bridge",
+      "tracks_total": 19,
+      "known": 7,
+      "anchor": "Yussef Dayes",
+      "note": "A drummer programming a radio show, which means the sequencing is about feel and nothing else."
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Nia Archives",
+      "date": "2026-03-07",
+      "lane": "liquid",
+      "tracks_total": 28,
+      "known": 8,
+      "anchor": "Netsky",
+      "note": "Jungle played like it never went away, breakbeats chopped fine and vocals soaked in reverb. Rougher than Netsky, but the melody is still doing the work underneath."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Object Blue",
+      "date": "2026-02-28",
+      "lane": "club-continuum",
+      "tracks_total": 24,
+      "known": 5,
+      "anchor": "Jacques Greene",
+      "note": "Object Blue plays techno that keeps changing its mind, tracks that start as club music and end somewhere stranger. Jacques Greene at his most melancholy is the nearest thing you already play."
+    },
+    {
+      "show": "Balamii",
+      "host": "Kessler",
+      "date": "2026-02-21",
+      "lane": "house-garage",
+      "tracks_total": 27,
+      "known": 7,
+      "anchor": "Fred again..",
+      "note": "Garage and breaks from a producer with an ear for the low end, Peckham radio doing what it does best. The sets carry the same emotional lift, minus the stadium, that you get from Fred again.."
+    },
+    {
+      "show": "The Lot Radio",
+      "host": "DJ Python",
+      "date": "2026-02-14",
+      "lane": "the-mist",
+      "tracks_total": 21,
+      "known": 6,
+      "anchor": "Maribou State",
+      "note": "DJ Python calls his sound deep reggaeton, and here he plays the ambient side of it: dembow rhythms slowed to a haze and synth pads that go nowhere in particular. It shares more with Maribou State than with anything from a club."
+    },
+    {
+      "show": "Do!! You!!! Breakfast Show",
+      "host": "Charlie Bones",
+      "date": "2026-02-07",
+      "lane": "dad-rock",
+      "tracks_total": 25,
+      "known": 9,
+      "anchor": "Grateful Dead",
+      "note": "A rock morning on the breakfast show, which means Little Feat, private-press folk and long jam-band cuts that live beside your Grateful Dead shelf. He plays these like he grew up on them."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Moxie",
+      "date": "2026-01-31",
+      "lane": "house-garage",
+      "tracks_total": 29,
+      "known": 8,
+      "anchor": "Disclosure",
+      "note": "Moxie plays house with a pop sensibility, big vocal hooks over proper drums, and it lands where Disclosure would if they DJed more than they produced. Light on its feet the whole way."
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Emma-Jean Thackray",
+      "date": "2026-01-24",
+      "lane": "jazz-bridge",
+      "tracks_total": 20,
+      "known": 6,
+      "anchor": "Butcher Brown",
+      "note": "A trumpeter who plays spiritual jazz and seventies fusion with a grin, working the same funk-forward corner Butcher Brown do from Richmond. A lot of horns, a lot of groove."
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Sicaria",
+      "date": "2026-01-17",
+      "lane": "bass-edm",
+      "tracks_total": 31,
+      "known": 7,
+      "anchor": "Space Laces",
+      "note": "Sicaria plays dubstep and halftime with real weight, sub-bass built to be felt through a floor, and the sound design will be familiar from Space Laces. This is the heavy end of what you already play."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Tim Reaper",
+      "date": "2026-01-10",
+      "lane": "liquid",
+      "tracks_total": 34,
+      "known": 9,
+      "anchor": "London Elektricity",
+      "note": "Jungle played by someone who never stopped making it, and the tempo never once relents."
+    },
+    {
+      "show": "Aisha Devi",
+      "host": null,
+      "episode": "Aisha Devi",
+      "station": "NTS",
+      "date": "2016-12-19",
+      "lane": "beats-idm",
+      "tracks_total": 17,
+      "known": 3,
+      "anchor": "Yves Tumor",
+      "url": "https://www.nts.live/shows/aisha-devi/episodes/aisha-devi-19th-december-2016",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/16a8a1ef-fd9f-4da2-9afc-ee722a0893d7_1458000000.jpeg",
+      "note": "A Geneva producer who treats the voice as an instrument to be bent, over drums that never quite settle. Yves Tumor is the nearest neighbour in your record, and this is the stranger room next door.",
+      "why": "A Geneva producer who treats the voice as an instrument to be bent, over drums that never quite settle. 17 tracks, 3 by artists you play and 14 you have never heard, and Yves Tumor at 187 plays is the nearest neighbour in your record; this is the stranger room next door."
+    },
+    {
+      "show": "Essential Mix",
+      "host": null,
+      "episode": "East End Dubs @ Eastenderz, Hï Ibiza",
+      "station": "BBC Radio 1",
+      "date": "2026-06-09",
+      "lane": "house-garage",
+      "tracks_total": 41,
+      "known": 17,
+      "anchor": "Junior Jack",
+      "url": "https://www.mixesdb.com/w/2026-06-09_-_East_End_Dubs_%40_Eastenderz%2C_H%C3%AF_Ibiza_%28Essential_Mix%2C_2026-06-27%29",
+      "listen_urls": [
+        "https://youtu.be/9Sae3qLHBTY"
+      ],
+      "cover_url": "https://i.ytimg.com/vi/9Sae3qLHBTY/maxresdefault.jpg",
+      "note": "Recorded at Hï Ibiza in June and it sounds like it, big rooms and small hours. Junior Jack is the one name you will know, which is the point of the rest.",
+      "why": "Recorded at Hï Ibiza in June and it sounds like it, big rooms and small hours. 41 tracks, 17 by artists you already play and 24 you have never heard, and Junior Jack, all 26 plays of him, is the one name you will know, which is the point of the rest."
+    },
+    {
+      "show": "Pacific Notions",
+      "host": "DJ Alex",
+      "episode": "with DJ Alex",
+      "station": "KEXP",
+      "date": "2026-08-09",
+      "lane": "the-mist",
+      "tracks_total": 38,
+      "known": 7,
+      "anchor": "Kiasmos",
+      "url": "https://www.kexp.org/playlist/2026/8/9/#show-67478",
+      "listen_urls": [],
+      "cover_url": "https://www.kexp.org/media/filer_public/7a/94/7a94f031-06c5-4102-90d8-d4d6ce4a577d/pacificnotions-800x800.jpg",
+      "note": "KEXP's Sunday-morning ambient hour, played low and slow, the way this music is meant to sit in a room. Kiasmos opens the door and the rest keeps walking.",
+      "why": "KEXP's Sunday-morning ambient hour, played low and slow, the way this music is meant to sit in a room. 38 tracks, 7 by artists you play and 31 you have never heard, and Kiasmos, 101 plays on your shelf, opens the door; the rest keeps walking."
+    },
+    {
+      "show": "Essential Mix",
+      "host": null,
+      "episode": "Patrick Topping",
+      "station": "BBC Radio 1",
+      "date": "2026-07-25",
+      "lane": "club-continuum",
+      "tracks_total": 31,
+      "known": 8,
+      "anchor": "Kink",
+      "url": "https://www.mixesdb.com/w/2026-07-25_-_Patrick_Topping_-_Essential_Mix",
+      "listen_urls": [
+        "https://youtu.be/5_Pci2RwLGA"
+      ],
+      "cover_url": "https://i.ytimg.com/vi/5_Pci2RwLGA/maxresdefault.jpg",
+      "note": "Two hours of Newcastle house with the tempo pinned and no interest in a drop for its own sake. Kink is the familiar name; the rest is the good kind of unfamiliar.",
+      "why": "Two hours of Newcastle house with the tempo pinned and no interest in a drop for its own sake. 31 tracks, 8 by artists you play and 23 you have never heard, and Kink, 23 plays deep, is the familiar name; the rest is the good kind of unfamiliar."
+    }
+  ],
+  "revivals": [
+    {
+      "artist": "Sewerslvt",
+      "title": "Mr. Kill Myself",
+      "album": null,
+      "plays": 52,
+      "last_played": "2024-06-27",
+      "lane": "bass-edm",
+      "note": "Breakcore with a wounded heart, amen breaks under a piano loop that feels like a bedroom at three in the morning. You wore this out once, and it still hits the same nerve."
+    },
+    {
+      "artist": "Groundislava",
+      "title": "Girl Behind the Glass",
+      "album": "Feel Me",
+      "plays": 47,
+      "last_played": "2023-11-02",
+      "lane": "beats-idm",
+      "note": "Los Angeles beat scene at its most tender, chiptune melodies and a vocal that sounds sent from a distance. This is what those headphone years felt like, and you have not visited in a while."
+    },
+    {
+      "artist": "Emancipator",
+      "title": "Anthem",
+      "album": "Safe in the Steep Cliffs",
+      "plays": 41,
+      "last_played": "2024-02-18",
+      "lane": "beats-idm",
+      "note": "Emancipator's most cinematic moment, strings and a slow break that build like a sunrise over a long drive. You leaned on this for years, and it still does the job."
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Ragga Bomb",
+      "album": "Recess",
+      "plays": 63,
+      "last_played": "2023-08-14",
+      "lane": "bass-edm",
+      "note": "The loudest thing in your listening for one long stretch, then complete silence"
+    },
+    {
+      "artist": "KOAN Sound",
+      "title": "Sly Fox",
+      "album": "Dynasty",
+      "plays": 38,
+      "last_played": "2024-01-09",
+      "lane": "bass-edm",
+      "note": "Neuro-funk from Bristol that swings instead of stomping, the bass patches doing something like a horn section. You played this hard through your festival years, and it has aged better than most of its neighbours."
+    },
+    {
+      "artist": "Nujabes",
+      "title": "Aruarian Dance",
+      "album": "Departure",
+      "plays": 55,
+      "last_played": "2024-09-30",
+      "lane": "jazz-bridge",
+      "note": "The most-played song in a whole era of your listening, and untouched since"
+    },
+    {
+      "artist": "Tycho",
+      "title": "A Walk",
+      "album": "Dive",
+      "plays": 44,
+      "last_played": "2023-12-11",
+      "lane": "the-mist",
+      "note": "The Tycho track everyone knows, and for good reason: a guitar line and a synth pad that feel like warm weather. It was the front door to the whole ambient side of your listening, and it is still open."
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Kiara",
+      "album": "Black Sands",
+      "plays": 39,
+      "last_played": "2024-03-22",
+      "lane": "the-mist",
+      "note": "Bonobo at the point where he stopped being trip hop and started being something bigger, a sampled string figure looping over drums that feel handmade. Your gateway to the patient records, and worth a return."
+    },
+    {
+      "artist": "Four Tet",
+      "title": "Angel Echoes",
+      "album": "There Is Love in You",
+      "plays": 36,
+      "last_played": "2023-10-05",
+      "lane": "club-continuum",
+      "note": "A gospel vocal cut into pieces and reassembled over the softest kick drum Four Tet ever used. It opens his best album, and it was your way into the idea that dance music could be tender."
+    },
+    {
+      "artist": "Khruangbin",
+      "title": "White Gloves",
+      "album": "The Universe Smiles Upon You",
+      "plays": 58,
+      "last_played": "2024-05-19",
+      "lane": "cosmic-groove",
+      "note": "Played more than almost anything else you own, and then set down mid-sentence"
+    },
+    {
+      "artist": "The Blaze",
+      "title": "Territory",
+      "album": "Dancehall",
+      "plays": 42,
+      "last_played": "2023-09-27",
+      "lane": "cosmic-groove",
+      "note": "Two French cousins making house that swells like a film score, with a vocal that barely holds together. It was built for the video, but on its own it is still enormous, and you have not played it in a long time."
+    },
+    {
+      "artist": "Jai Paul",
+      "title": "BTSTU",
+      "album": null,
+      "plays": 34,
+      "last_played": "2024-04-13",
+      "lane": "cosmic-groove",
+      "note": "The demo that changed how a decade of R&B was mixed, falsetto and a bassline that seems to be leaking out of another room. It has lost none of its strangeness, and you have been away from it too long."
+    },
+    {
+      "artist": "MF DOOM",
+      "title": "Rapp Snitch Knishes",
+      "album": "Mm..Food",
+      "plays": 49,
+      "last_played": "2024-07-08",
+      "lane": "underground-rap",
+      "note": "DOOM at his loosest, trading bars with Mr Fantastik over a soul loop that sounds found rather than made. It was one of your most-played rap songs for a reason, and the reason has not changed."
+    },
+    {
+      "artist": "Westside Gunn",
+      "title": "Dr. Birds",
+      "album": "Pray for Paris",
+      "plays": 31,
+      "last_played": "2024-02-29",
+      "lane": "underground-rap",
+      "note": "A slow loop, a slow-motion flow and a lot of talk about designer everything. It is Griselda in miniature, and it was your first real foothold in that whole Buffalo world."
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "Ricky",
+      "album": "ZUU",
+      "plays": 46,
+      "last_played": "2023-11-16",
+      "lane": "underground-rap",
+      "note": "Denzel over a bounce beat, rapping his father's advice like scripture. The most energetic thing on your rap shelf and still one of the warmest."
+    },
+    {
+      "artist": "High Contrast",
+      "title": "Racing Green",
+      "album": "Tough Guys Don't Dance",
+      "plays": 37,
+      "last_played": "2024-01-27",
+      "lane": "liquid",
+      "note": "High Contrast doing what he does best: a string sample, a rolling break and a vocal chopped just enough to feel like a memory. It was your liquid template for years."
+    },
+    {
+      "artist": "Netsky",
+      "title": "Iron Heart",
+      "album": "Netsky",
+      "plays": 33,
+      "last_played": "2023-12-30",
+      "lane": "liquid",
+      "note": "Belgian liquid with a pop heart, pianos and a vocal built to be sung back at a festival. You played it into the ground once, which is what it was made for."
+    },
+    {
+      "artist": "Sub Focus",
+      "title": "Rock It",
+      "album": "Sub Focus",
+      "plays": 40,
+      "last_played": "2024-06-04",
+      "lane": "liquid",
+      "note": "Sub Focus at his most direct, a drum and bass tune built around a single riff and a drop that does not apologise for itself. It sits at the louder edge of your liquid listening, and it earned its place."
+    },
+    {
+      "artist": "Steely Dan",
+      "title": "Aja",
+      "album": "Aja",
+      "plays": 29,
+      "last_played": "2024-08-21",
+      "lane": "dad-rock",
+      "note": "Eight minutes of session players being shown off, with a Steve Gadd drum solo that people still argue about. It is the most patient thing on your rock shelf and the most jazz-adjacent, which is why it belongs to you."
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Telegraph Road",
+      "album": "Love Over Gold",
+      "plays": 26,
+      "last_played": "2024-05-08",
+      "lane": "dad-rock",
+      "note": "A fourteen-minute song about a town being built and then emptied, played by a band who could actually sustain it. Knopfler at his most novelistic, and one you clearly grew up on."
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "Eyes of the World",
+      "album": "Wake of the Flood",
+      "plays": 24,
+      "last_played": "2023-10-19",
+      "lane": "dad-rock",
+      "note": "The Dead's most jazz-inflected groove, bright and major-key, the kind that could run for twenty minutes without anyone minding. Of the whole jam-band shelf, this is the one that talks to the sunlit, groove-first side of you."
+    },
+    {
+      "artist": "Viagra Boys",
+      "title": "Sports",
+      "album": "Street Worms",
+      "plays": 43,
+      "last_played": "2024-03-15",
+      "lane": "punk-turn",
+      "note": "Swedish post-punk with a saxophone and a frontman listing sports like he has never seen one played. It was on constant rotation for a whole winter, and it still sounds like a pub at closing."
+    },
+    {
+      "artist": "Turnstile",
+      "title": "Blackout",
+      "album": "Glow On",
+      "plays": 51,
+      "last_played": "2024-04-27",
+      "lane": "punk-turn",
+      "note": "A song that soundtracked one specific summer and then got put away with it"
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Boys in the Better Land",
+      "album": "Dogrel",
+      "plays": 28,
+      "last_played": "2023-09-11",
+      "lane": "punk-turn",
+      "note": "Grian Chatten shouting a chorus like it is coming from a moving car, over Dublin post-punk with the accent left in. This was the start of your punk turn, and it still has the swagger that got you in."
+    },
+    {
+      "artist": "Disclosure",
+      "title": "Latch",
+      "album": "Settle",
+      "plays": 45,
+      "last_played": "2024-07-23",
+      "lane": "house-garage",
+      "note": "Everyone wore this one out, you included, and enough time has passed to hear it again"
+    },
+    {
+      "artist": "Folamour",
+      "title": "The Journey",
+      "album": "Ordinary Drugs",
+      "plays": 22,
+      "last_played": "2024-02-06",
+      "lane": "house-garage",
+      "note": "An early Folamour cut, jazzy chords over a shuffle that never quite settles, the sound of a producer finding his warmth. You came to him late and then all at once, and this one got you there."
+    },
+    {
+      "artist": "Flying Lotus",
+      "title": "Never Catch Me",
+      "album": "You're Dead!",
+      "plays": 48,
+      "last_played": "2024-06-15",
+      "lane": "beats-idm",
+      "note": "Kendrick over a drum pattern nobody else would have dared, and it still sounds like an emergency"
+    },
+    {
+      "artist": "Nightmares On Wax",
+      "title": "Les Nuits",
+      "album": "Smokers Delight",
+      "plays": 35,
+      "last_played": "2023-11-28",
+      "lane": "the-mist",
+      "note": "Leeds downtempo built from a soul sample and a bassline that feels like slow traffic at night. It was the record that taught a generation of beat producers about patience, and it taught you too."
+    },
+    {
+      "artist": "Blockhead",
+      "title": "The Music Scene",
+      "album": "The Music Scene",
+      "plays": 30,
+      "last_played": "2024-01-14",
+      "lane": "beats-idm",
+      "note": "Blockhead's best title track, a dusty sample chopped into a beat that keeps opening new doors. It was where your loop-digger taste started, and it deserves a second run."
+    },
+    {
+      "artist": "Bibio",
+      "title": "Lovers' Carvings",
+      "album": "Ambivalence Avenue",
+      "plays": 27,
+      "last_played": "2023-12-05",
+      "lane": "beats-idm",
+      "note": "An acoustic guitar figure that turns halfway into a soul song, with tape wobble on everything. Bibio's warmest moment, and the one you used to play on repeat in autumn."
+    },
+    {
+      "artist": "DJ Koze",
+      "title": "Pick Up",
+      "album": "Knock Knock",
+      "plays": 32,
+      "last_played": "2024-05-26",
+      "lane": "club-continuum",
+      "note": "Koze's most generous single, a soul loop about heartbreak stretched over six minutes until the sadness turns into something like joy. You left it behind after a long summer with it."
+    },
+    {
+      "artist": "Jacques Greene",
+      "title": "Another Girl",
+      "album": "Concealer",
+      "plays": 25,
+      "last_played": "2024-03-08",
+      "lane": "club-continuum",
+      "note": "Montreal house with an R&B vocal cut into fragments, blurred and pitched until it aches. It was one of the first tracks to make you hear house music as emotional rather than functional."
+    },
+    {
+      "artist": "Étienne de Crécy",
+      "title": "Am I Wrong",
+      "album": "Super Discount",
+      "plays": 38,
+      "last_played": "2024-08-04",
+      "lane": "french-electronic",
+      "note": "One filtered loop, six minutes, and it has not aged a day since you last played it"
+    },
+    {
+      "artist": "Justice",
+      "title": "Genesis",
+      "album": "Cross",
+      "plays": 44,
+      "last_played": "2023-10-27",
+      "lane": "french-electronic",
+      "note": "The opening of the first Justice album, a distorted brass fanfare that sounds like a cathedral organ fed through a guitar amp. Your loud French moment, and the room still shakes."
+    },
+    {
+      "artist": "Cassius",
+      "title": "Feeling for You",
+      "album": "1999",
+      "plays": 21,
+      "last_played": "2024-04-06",
+      "lane": "french-electronic",
+      "note": "A Gwen McCrae sample filtered and looped until it becomes pure French touch, the cousin of everything Daft Punk did that decade. You played it a lot in your disco-house phase, and there is no dust on it."
+    },
+    {
+      "artist": "KAYTRANADA",
+      "title": "Glowed Up",
+      "album": "99.9%",
+      "plays": 41,
+      "last_played": "2024-07-14",
+      "lane": "jazz-bridge",
+      "note": "Kaytranada with Anderson .Paak, a woozy beat that halfway through switches into something looser and funkier. It was your bridge from beat music into the modern jazz side, and it swings as hard as ever."
+    },
+    {
+      "artist": "Robert Glasper",
+      "title": "Afro Blue",
+      "album": "Black Radio",
+      "plays": 23,
+      "last_played": "2024-02-11",
+      "lane": "jazz-bridge",
+      "note": "Erykah Badu singing a Mongo Santamaría standard over Glasper's trio, the moment his Black Radio idea clicked into place. It was your way into modern jazz, and it holds up."
+    },
+    {
+      "artist": "Sampha",
+      "title": "Blood on Me",
+      "album": "Process",
+      "plays": 37,
+      "last_played": "2024-06-22",
+      "lane": "the-mist",
+      "note": "A panic attack arranged for piano and drums, and one of the best vocals of the decade"
+    },
+    {
+      "artist": "Maribou State",
+      "title": "Midas",
+      "album": "Portraits",
+      "plays": 34,
+      "last_played": "2023-11-09",
+      "lane": "the-mist",
+      "note": "Played into the ground one autumn and then dropped entirely, which is the shape of a song you used up."
+    },
+    {
+      "artist": "Yves Tumor",
+      "title": "Gospel for a New Century",
+      "album": "Heaven to a Tortured Mind",
+      "plays": 29,
+      "last_played": "2024-05-31",
+      "lane": "cosmic-groove",
+      "note": "Yves Tumor going glam, a horn fanfare and a strut that owes as much to Prince as to any experimental scene. It was the strangest thing in your groove listening, and it stayed near the top for a whole year."
+    },
+    {
+      "artist": "The Pharcyde",
+      "title": "Runnin'",
+      "album": "Labcabincalifornia",
+      "plays": 39,
+      "last_played": "2024-01-20",
+      "lane": "cosmic-groove",
+      "note": "J Dilla's most melodic beat, a Stan Getz bossa sample under the Pharcyde sounding tired and honest about it. Your most-played rap record for a long stretch, and one of the roots of your whole Brazilian thread."
+    },
+    {
+      "artist": "Pusha T",
+      "title": "Numbers on the Boards",
+      "album": "My Name Is My Name",
+      "plays": 26,
+      "last_played": "2023-12-17",
+      "lane": "underground-rap",
+      "note": "Kanye and Don Cannon stripping a beat down to a rattle and a bassline, and Pusha treating it like a runway. The most minimal thing on your rap shelf and one of the coldest."
+    },
+    {
+      "artist": "Larry June",
+      "title": "Smoothies in 1993",
+      "album": "Spaceships on the Blade",
+      "plays": 31,
+      "last_played": "2024-08-11",
+      "lane": "underground-rap",
+      "note": "Orange juice, real estate and a soft soul loop, Larry June refusing to hurry as usual. It was your summer rap record, and it is still good for you."
+    },
+    {
+      "artist": "Estee Nack",
+      "title": "Nackmatical",
+      "album": null,
+      "plays": 20,
+      "last_played": "2024-03-29",
+      "lane": "underground-rap",
+      "note": "Spanish and English rhymes over a loop so dusty it sounds like it was left outside, from the far edge of your Griselda listening. You should have kept playing this one."
+    },
+    {
+      "artist": "Calibre",
+      "title": "Mystic",
+      "album": "Second Sun",
+      "plays": 24,
+      "last_played": "2024-04-20",
+      "lane": "liquid",
+      "note": "Calibre at his most patient, a bassline and a chord change and very little else, rolling on without fuss for as long as it needs. Your quiet liquid tune, and one you set down too early."
+    },
+    {
+      "artist": "Hybrid Minds",
+      "title": "Halcyon",
+      "album": "Mountains",
+      "plays": 28,
+      "last_played": "2023-10-12",
+      "lane": "liquid",
+      "note": "A whole winter of late drives lives in this one, and it has not been played since that winter ended."
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Gold Dust Woman",
+      "album": "Rumours",
+      "plays": 22,
+      "last_played": "2024-07-06",
+      "lane": "dad-rock",
+      "note": "Stevie Nicks closing out Rumours with a song that falls apart on purpose, all rattling percussion and a voice going hoarse. It was the deepest cut on your Mac shelf, and the one that has aged best."
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Shelter from the Storm",
+      "album": "Blood on the Tracks",
+      "plays": 25,
+      "last_played": "2024-02-24",
+      "lane": "dad-rock",
+      "note": "Dylan with a guitar and a bass and nothing else, singing one of the kindest songs he ever wrote. It sat on your rock shelf for years as the one you reached for at night."
+    },
+    {
+      "artist": "Joe Goddard",
+      "title": "Gabriel",
+      "album": null,
+      "plays": 23,
+      "last_played": "2023-09-22",
+      "lane": "house-garage",
+      "note": "A Valentina vocal over a bassline that hums like a fridge, the Hot Chip man making garage-leaning house as good as anyone in London. It was a fixture of your house years, and it has not lost a step."
+    },
+    {
+      "artist": "Above & Beyond",
+      "title": "Sun & Moon",
+      "album": "Group Therapy",
+      "plays": 30,
+      "last_played": "2024-01-06",
+      "lane": "the-mist",
+      "note": "Trance with a vocal that means every word and a breakdown built for tears, the kind of thing that ends up on the ambient shelf despite itself. You played it more than you would admit, and it belongs here."
+    },
+    {
+      "artist": "Thievery Corporation",
+      "title": "Lebanese Blonde",
+      "album": "The Mirror Conspiracy",
+      "plays": 27,
+      "last_played": "2023-12-24",
+      "lane": "cosmic-groove",
+      "note": "Sitar, a dub bassline and a lounge-room drum loop, the whole Washington DC downtempo thing in one track. It was the first global groove record you leaned on, and it still sounds like an afternoon."
+    },
+    {
+      "artist": "Dry Cleaning",
+      "title": "Scratchcard Lanyard",
+      "album": "New Long Leg",
+      "plays": 33,
+      "last_played": "2024-06-08",
+      "lane": "punk-turn",
+      "note": "Florence Shaw reading shopping lists over a guitar riff that could have come from a garage band in the eighties. It made your punk turn make sense, and it still sounds like nothing else."
+    },
+    {
+      "artist": "bar italia",
+      "title": "Nurse!",
+      "album": "Tracey Denim",
+      "plays": 19,
+      "last_played": "2024-05-11",
+      "lane": "punk-turn",
+      "note": "Three voices sharing a slack guitar song that sounds recorded in a flat with the heating off. The scruffiest thing you played that spring, and the one that stuck longest."
+    },
+    {
+      "artist": "Fred again..",
+      "title": "Delilah (pull me out of this)",
+      "album": "Actual Life 3",
+      "plays": 47,
+      "last_played": "2024-08-18",
+      "lane": "house-garage",
+      "note": "Played constantly for one month and then never again, which is what happens to a song that is about a moment."
+    }
+  ],
+  "releases": [
+    {
+      "artist": "Bonobo",
+      "title": "Nowhere Diaries",
+      "release_type": "album",
+      "note": "A new Bonobo record, which historically means a fortnight of nothing else."
+    },
+    {
+      "artist": "Flying Lotus",
+      "title": "Ambient Fields",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Khruangbin",
+      "title": "Slow Return",
+      "release_type": "single",
+      "note": "Khruangbin rarely surprise, and that is the point: a reverb-soaked guitar line, a bass that walks, and a drummer who never rushes. A single that sounds like the first warm evening of the year."
+    },
+    {
+      "artist": "Fred again..",
+      "title": "Actual Life 5",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "KING OF THE MISCHIEVOUS SOUTH",
+      "release_type": "album",
+      "note": "Denzel going full Memphis, chopped vocals and slow bass and a guest list that reads like a Southern rap family tree. Rougher than his last few, and the roughness suits him."
+    },
+    {
+      "artist": "The Alchemist",
+      "title": "Flying High",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Bibio",
+      "title": "Phantom Brickworks II",
+      "release_type": "album",
+      "note": "The second volume of Bibio's piano-and-tape-hiss ambient project, long pieces that feel like walking through an empty mill. This is the quietest music he makes, and the closest to your ambient shelf."
+    },
+    {
+      "artist": "Tycho",
+      "title": "Infinite Health",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "Larry June",
+      "title": "Sunset Boulevard",
+      "release_type": "album",
+      "note": "More Larry June, which means more soul loops, more talk about health and money, and a flow that treats every beat like a slow drive down the coast. He does not change, and you have never wanted him to."
+    },
+    {
+      "artist": "Blockhead",
+      "title": "Luminous Rooms",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Disclosure",
+      "title": "Alchemy Sessions",
+      "release_type": "ep",
+      "note": "Disclosure working in the leaner mode of their recent records, house tracks with no guest vocalists and a lot of room in the mix. Nearer to their club sets than to their radio songs."
+    },
+    {
+      "artist": "Emancipator",
+      "title": "River Bend",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "Westside Gunn",
+      "title": "And Then You Pray for Me II",
+      "release_type": "album",
+      "note": "Westside Gunn's grand-opera mode, wrestling samples and Conductor Williams beats and verses that stop mid-thought to admire a painting. Sprawling, and the sprawl is where the best moments hide."
+    },
+    {
+      "artist": "Nightmares On Wax",
+      "title": "Shape the Future II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Four Tet",
+      "title": "Three Twenty",
+      "release_type": "single",
+      "note": "Four Tet in the mood of his last album: a harp-like loop, a clipped vocal and drums that arrive late and leave early. Short and glowing."
+    },
+    {
+      "artist": "Maribou State",
+      "title": "Hallucinating Love",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Viagra Boys",
+      "title": "Cave World II",
+      "release_type": "album",
+      "note": "Louder and funnier than the last one, which is the correct direction."
+    },
+    {
+      "artist": "Turnstile",
+      "title": "Never Enough",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Sampha",
+      "title": "Lahai Live",
+      "release_type": "compilation",
+      "note": "Sampha's most recent songs played by a band that treats them like jazz, drums breaking loose and the piano taking risks. His voice was always the point, and here it has more room."
+    },
+    {
+      "artist": "Netsky",
+      "title": "Second Nature",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "High Contrast",
+      "title": "Notes from the Underground",
+      "release_type": "ep",
+      "note": "The older, darker end of drum and bass, breakbeats layered thick and fewer strings than High Contrast usually allows himself. Less of the sunrise, more of the tunnel."
+    },
+    {
+      "artist": "Calibre",
+      "title": "Feeling Normal",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Hybrid Minds",
+      "title": "Elements",
+      "release_type": "single",
+      "note": "Hybrid Minds do liquid with a big vocal hook and a chord progression that aims straight for the chest. If Netsky is your liquid at its most pop, this is the next room over."
+    },
+    {
+      "artist": "Steely Dan",
+      "title": "Northeast Corridor Live",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Alchemy Remastered",
+      "release_type": "compilation",
+      "note": "A remaster of the live record, which is where that band actually lived."
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "Dave's Picks Volume 52",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Rumours Live",
+      "release_type": "compilation",
+      "note": "Rumours played on the road with the tensions still fresh and the harmonies somehow tighter for it. Gold Dust Woman stretches out and gets meaner."
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "title": "Romance",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Dry Cleaning",
+      "title": "Stumpwork Sessions",
+      "release_type": "ep",
+      "note": "Dry Cleaning revisiting their second album in a live room, Florence Shaw still narrating like a bored neighbour while the band gets looser behind her. The songs breathe more than the studio versions."
+    },
+    {
+      "artist": "bar italia",
+      "title": "The Twits",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Folamour",
+      "title": "Manifesto",
+      "release_type": "album",
+      "note": "Folamour with a full band and a message, disco and house arranged for horns and live drums, the joy turned up and the politics laid plain. His most ambitious record and still the warmest thing in your house listening."
+    },
+    {
+      "artist": "ANOTR",
+      "title": "Relentless",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Joe Goddard",
+      "title": "Harmonics II",
+      "release_type": "single",
+      "note": "Joe Goddard with another warm house single, a vocal loop and a bassline that smiles, the Hot Chip melodic instinct intact. Nothing fancy, and nothing missing."
+    },
+    {
+      "artist": "Justice",
+      "title": "Hyperdrama Remixes",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Étienne de Crécy",
+      "title": "Super Discount 4",
+      "release_type": "album",
+      "note": "The fourth Super Discount, and the formula still filters everything to the bone."
+    },
+    {
+      "artist": "Cassius",
+      "title": "Dreems Revisited",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Breakbot",
+      "title": "Remedy",
+      "release_type": "album",
+      "note": "Breakbot doing what the softer half of French touch always promised: boogie basslines, falsetto hooks and disco drums polished to a shine. It fits between your Cassius and your Justice, on the gentler side."
+    },
+    {
+      "artist": "KAYTRANADA",
+      "title": "TIMELESS",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Robert Glasper",
+      "title": "Black Radio IV",
+      "release_type": "album",
+      "note": "The series that made jazz musicians comfortable in a studio full of rappers."
+    },
+    {
+      "artist": "Butcher Brown",
+      "title": "Solar Music II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Yussef Dayes",
+      "title": "Black Classical Music Live",
+      "release_type": "compilation",
+      "note": "Yussef Dayes on stage, which is where his drumming makes the most sense, the band stretching the album's tunes into long grooves. London jazz with the tempo up and the swing loose."
+    },
+    {
+      "artist": "Hiatus Kaiyote",
+      "title": "Love Heart Cheat Code",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Nujabes",
+      "title": "Metaphorical Music Reissue",
+      "release_type": "compilation",
+      "note": "A proper reissue at last, and the mastering is finally kind to it."
+    },
+    {
+      "artist": "MF DOOM",
+      "title": "Operation Doomsday Anniversary",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Pusha T",
+      "title": "It's Not Dry Yet",
+      "release_type": "single",
+      "note": "Pusha over a minimal beat, still rapping about the same subject with the same cold precision, a verse that could be from any point in his career. Consistency as a style."
+    },
+    {
+      "artist": "Estee Nack",
+      "title": "Nacksaw Jim Duggan",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Fuck U Skrillex",
+      "release_type": "album",
+      "note": "Skrillex's most scattered record, garage and dubstep and broken pop songs thrown together with old friends, sounding like a hard drive emptied out in a rush. Messy on purpose, and the highs are very high."
+    },
+    {
+      "artist": "Space Laces",
+      "title": "Overdrive II",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Burial",
+      "title": "Dreamfear",
+      "release_type": "single",
+      "note": "Burial releases two tracks a year and both are always events."
+    },
+    {
+      "artist": "Zeds Dead",
+      "title": "Cross the Line",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "DJ Koze",
+      "title": "Music Can Hear Us",
+      "release_type": "album",
+      "note": "Koze albums arrive every five years and rearrange the furniture each time."
+    },
+    {
+      "artist": "Jacques Greene",
+      "title": "Fantasy",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Floating Points",
+      "title": "Cascade",
+      "release_type": "album",
+      "note": "A neuroscientist making dance music, and the drums are always doing something odd."
+    },
+    {
+      "artist": "Caribou",
+      "title": "Honey",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Todd Terje",
+      "title": "Spiral",
+      "release_type": "single",
+      "note": "Todd Terje with a long arpeggiated disco track that builds slowly and then keeps building, Norwegian synth-pop in the shape of a club record. Unmistakably him from the first bar."
+    },
+    {
+      "artist": "The Blaze",
+      "title": "Jungle",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Jai Paul",
+      "title": "Do You Love Her Now",
+      "release_type": "single",
+      "note": "After years of silence, a proper Jai Paul single, a falsetto slow jam with everything in the mix slightly overloaded. Stranger and sadder than the demos, and worth the wait."
+    },
+    {
+      "artist": "Yves Tumor",
+      "title": "Praise a Lord Who Bleeds",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "The Donkeys",
+      "title": "Sun Damaged Time",
+      "release_type": "album",
+      "note": "The Donkeys still sound like San Diego in a heat haze, soft-rock guitars and harmonies that slouch. Somewhere between the Dead and Khruangbin, which is your exact intersection."
+    },
+    {
+      "artist": "Thievery Corporation",
+      "title": "Symphonik II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "The Pharcyde",
+      "title": "Bizarre Ride Live",
+      "release_type": "compilation",
+      "note": "The Pharcyde performing their debut in full, the jazz-rap classic loosened up by a live band and a crowd shouting the choruses. A reminder that the record was always a party first."
+    },
+    {
+      "artist": "Rebelution",
+      "title": "In the Moment II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Ana Roxanne",
+      "title": "Poem 2",
+      "release_type": "album",
+      "note": "The sequel to the record that opened one of these issues, and it is just as still."
+    },
+    {
+      "artist": "Above & Beyond",
+      "title": "Group Therapy Reworked",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Sub Focus",
+      "title": "Evolve II",
+      "release_type": "album",
+      "note": "Big-room drum and bass done with real engineering behind it."
+    },
+    {
+      "artist": "London Elektricity",
+      "title": "Yikes!",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Transmisiones Ferox",
+      "release_type": "ep",
+      "note": "The first new Boards of Canada material in over a decade."
+    },
+    {
+      "artist": "The Field",
+      "title": "Sun and Ice",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "KOAN Sound",
+      "title": "Polychrome",
+      "release_type": "ep",
+      "note": "KOAN Sound in full colour, funk basslines and glitched drums that recall their early neuro years while pointing somewhere softer. The bass end of your listening at its most musical."
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Bootleg Series Vol. 18",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "At the Royal Albert Hall",
+      "release_type": "compilation",
+      "note": "Creedence at their peak, playing London hard and fast, the swamp-rock songs shorter and louder than the records. Fogerty's voice was never better, and the band never tighter."
+    },
+    {
+      "artist": "Griselda",
+      "title": "WWCD II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Tycho",
+      "title": "Weather Patterns",
+      "release_type": "ep",
+      "note": "Tycho with a few instrumentals that skip the vocals of his recent records and go back to the sunset synth and clean guitar. This is the Tycho your ambient shelf was built on."
+    },
+    {
+      "artist": "Bibio",
+      "title": "Sunbursting",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "Emancipator",
+      "title": "Mountain of Memory",
+      "release_type": "album",
+      "note": "Downtempo at an eleven-percent skip rate for years, and quiet since the spring."
+    },
+    {
+      "artist": "Blockhead",
+      "title": "The Aux",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Larry June",
+      "title": "Doing It for Me",
+      "release_type": "single",
+      "note": "Larry June rapping about his morning routine over a soft soul beat, unbothered and slow. He makes a lifestyle sound like a genre, and you have bought in."
+    },
+    {
+      "artist": "Denzel Curry",
+      "title": "Ultimate II",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "The Alchemist",
+      "title": "Retarded Alligator Beats",
+      "release_type": "album",
+      "note": "Loops from thrift-store records with the drums low and the samples left ragged, an Alchemist instrumental album with no rappers in the way. This is the raw material of your whole loop-digger shelf."
+    },
+    {
+      "artist": "Westside Gunn",
+      "title": "Michelle Records",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "The Blaze",
+      "title": "Territory Reworked",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "Jai Paul",
+      "title": "He",
+      "release_type": "single",
+      "note": "Jai Paul's other return single, a funk workout with the bass distorted to the point of collapse and a vocal buried in the mix. More playful than its partner, and just as odd."
+    },
+    {
+      "artist": "High Contrast",
+      "title": "The Agony & The Ecstasy II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Calibre",
+      "title": "Shelflife VI",
+      "release_type": "compilation",
+      "note": "Six volumes of offcuts now, and the offcuts are better than most people's albums."
+    },
+    {
+      "artist": "Netsky",
+      "title": "Rio",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "MF DOOM",
+      "title": "Special Herbs Remastered",
+      "release_type": "compilation",
+      "note": "The DOOM instrumentals cleaned up, the beats that carried his best verses heard on their own. Jazz loops and cartoon samples, and the best of them stand without him."
+    },
+    {
+      "artist": "Four Tet",
+      "title": "Loved",
+      "release_type": "single",
+      "note": null
+    },
+    {
+      "artist": "DJ Koze",
+      "title": "Wespennest",
+      "release_type": "single",
+      "note": "Woozy house that seems to be sung from inside a dream, the drums swaying and the melody half-lost. Koze exactly as strange and warm as you want him."
+    },
+    {
+      "artist": "Floating Points",
+      "title": "Del Oro",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Khruangbin",
+      "title": "A LA SALA Deluxe",
+      "release_type": "album",
+      "note": "More from the session that made the last record, and it is the same unhurried room."
+    }
+  ],
+  "catalogs": [
+    {
+      "artist": "Rebelution",
+      "unique_tracks": 34,
+      "top3_share": 39,
+      "heard": [
+        "Courage to Grow",
+        "Bright Side of Life",
+        "Peace of Mind",
+        "Count Me In"
+      ],
+      "unheard": [
+        {
+          "title": "In the Moment",
+          "year": 2021
+        },
+        {
+          "title": "Reflections",
+          "year": 2023
+        }
+      ],
+      "note": "Reggae you already love with most of the shelf still sealed, and the last two records never opened at all."
+    },
+    {
+      "artist": "Steely Dan",
+      "unique_tracks": 41,
+      "top3_share": 44,
+      "heard": [
+        "Aja",
+        "Peg",
+        "Deacon Blues",
+        "Do It Again"
+      ],
+      "unheard": [
+        {
+          "title": "Gaucho",
+          "year": 1980
+        },
+        {
+          "title": "The Royal Scam",
+          "year": 1976
+        },
+        {
+          "title": "Countdown to Ecstasy",
+          "year": 1973
+        }
+      ],
+      "note": "You know the hits and none of the deep cuts, which is backwards for a band whose album tracks are the point."
+    },
+    {
+      "artist": "Dire Straits",
+      "unique_tracks": 28,
+      "top3_share": 51,
+      "heard": [
+        "Sultans of Swing",
+        "Romeo and Juliet",
+        "Money for Nothing"
+      ],
+      "unheard": [
+        {
+          "title": "Love Over Gold",
+          "year": 1982
+        },
+        {
+          "title": "On Every Street",
+          "year": 1991
+        }
+      ],
+      "note": "Four albums heard, two never opened, and the unheard ones are where the long songs live."
+    },
+    {
+      "artist": "Nujabes",
+      "unique_tracks": 37,
+      "top3_share": 36,
+      "heard": [
+        "Aruarian Dance",
+        "Feather",
+        "Luv(sic) Part 3",
+        "Counting Stars"
+      ],
+      "unheard": [
+        {
+          "title": "Modal Soul",
+          "year": 2005
+        },
+        {
+          "title": "Spiritual State",
+          "year": 2011
+        }
+      ],
+      "note": "One producer's whole catalogue is short enough to finish in an afternoon, and you have not."
+    },
+    {
+      "artist": "Flying Lotus",
+      "unique_tracks": 52,
+      "top3_share": 31,
+      "heard": [
+        "Never Catch Me",
+        "Zodiac Shit",
+        "Putty Boy Strut",
+        "Getting There"
+      ],
+      "unheard": [
+        {
+          "title": "Until the Quiet Comes",
+          "year": 2012
+        },
+        {
+          "title": "Flamagra",
+          "year": 2019
+        }
+      ],
+      "note": "The singles get played and the records get skipped, which is the opposite of how he builds them."
+    },
+    {
+      "artist": "Grateful Dead",
+      "unique_tracks": 46,
+      "top3_share": 28,
+      "heard": [
+        "Eyes of the World",
+        "Sugar Magnolia",
+        "Ripple",
+        "Box of Rain"
+      ],
+      "unheard": [
+        {
+          "title": "Workingman's Dead",
+          "year": 1970
+        },
+        {
+          "title": "Europe '72",
+          "year": 1972
+        }
+      ],
+      "note": "A band whose whole argument is the live recordings, and you have only played the studio ones."
+    },
+    {
+      "artist": "MF DOOM",
+      "unique_tracks": 58,
+      "top3_share": 33,
+      "heard": [
+        "Rapp Snitch Knishes",
+        "Doomsday",
+        "Accordion",
+        "All Caps"
+      ],
+      "unheard": [
+        {
+          "title": "Vaudeville Villain",
+          "year": 2003
+        },
+        {
+          "title": "Born Like This",
+          "year": 2009
+        }
+      ],
+      "note": "Every alias is a different record and you have only been playing two of them."
+    },
+    {
+      "artist": "Disclosure",
+      "unique_tracks": 31,
+      "top3_share": 47,
+      "heard": [
+        "Latch",
+        "You & Me",
+        "White Noise"
+      ],
+      "unheard": [
+        {
+          "title": "Caracal",
+          "year": 2015
+        },
+        {
+          "title": "Energy",
+          "year": 2020
+        }
+      ],
+      "note": "The first album lives in your listening and the two after it have never been opened once."
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "unique_tracks": 24,
+      "top3_share": 55,
+      "heard": [
+        "Gold Dust Woman",
+        "Dreams",
+        "The Chain"
+      ],
+      "unheard": [
+        {
+          "title": "Tusk",
+          "year": 1979
+        },
+        {
+          "title": "Mirage",
+          "year": 1982
+        }
+      ],
+      "note": "Rumours is the whole relationship so far, and Tusk is the stranger, better record next to it."
+    },
+    {
+      "artist": "Bonobo",
+      "unique_tracks": 43,
+      "top3_share": 34,
+      "heard": [
+        "Kiara",
+        "Cirrus",
+        "Kong",
+        "Bambro Koyo Ganda"
+      ],
+      "unheard": [
+        {
+          "title": "Days to Come",
+          "year": 2006
+        },
+        {
+          "title": "The North Borders",
+          "year": 2013
+        }
+      ],
+      "note": "You play him constantly and always the same four songs, which he would find funny."
+    },
+    {
+      "artist": "Khruangbin",
+      "unique_tracks": 39,
+      "top3_share": 42,
+      "heard": [
+        "White Gloves",
+        "August 10",
+        "Friday Morning",
+        "Maria Tambien"
+      ],
+      "unheard": [
+        {
+          "title": "Con Todo El Mundo",
+          "year": 2018
+        },
+        {
+          "title": "Mordechai",
+          "year": 2020
+        }
+      ],
+      "note": "The most-played band in your record, and two of their four albums have never been played end to end."
+    }
+  ]
+}

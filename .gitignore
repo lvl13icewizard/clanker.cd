@@ -1,0 +1,24 @@
+# your data never enters the repo
+.env
+.spotify-token.json
+cache/
+out/
+served/
+issues/*.json
+!issues/.gitkeep
+site/public/issues/*
+!site/public/issues/issue-000.json
+site/public/brand/live/
+brand/mascot/out/
+
+# demo output regenerates from demo/catalogs
+site/public/demo/
+
+# scratch
+site/.reel-tmp/
+output/
+node_modules/
+dist/
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,202 @@
+{
+  "issue": 0,
+  "date": "2026-01-01",
+  "title": "Issue 000 — FIXTURE",
+  "dek": "Synthetic renderer-test issue. Every artist, number, and link below is fake.",
+  "masthead_note": "FIXTURE: hand-written to exercise every module type and edge case (missing URIs, null critics, empty receipts). No real listening data was used.",
+  "modules": [
+    {
+      "type": "front_to_back",
+      "cluster": "test-cluster-alpha",
+      "album": {
+        "artist": "Test Artist A",
+        "title": "Fixture Album (Full Data)",
+        "year": 2024,
+        "label": "Fake Label Records",
+        "spotify_album_uri": "spotify:album:0testAlbumFixture0000A",
+        "spotify_url": "https://open.spotify.com/album/0testAlbumFixture0000A",
+        "cover_url": null,
+        "odesli_url": "https://album.link/s/0testAlbumFixture0000A"
+      },
+      "why": "Fully-populated front_to_back: album embed URI, both critics present, two receipts, label and year set. The embed will show Spotify's not-found state because the id is fake — that is expected.",
+      "receipts": [
+        {
+          "stat_id": "artist_hours:test-artist-a",
+          "claim": "Test Artist A: 12.5 hours at 8% skip",
+          "value": 12.5
+        },
+        {
+          "stat_id": "rank:test-artist-a",
+          "claim": "Ranked 7 among fixture artists",
+          "value": 7
+        }
+      ],
+      "critics": {
+        "pitchfork": {
+          "score": 8.4,
+          "bnm": true,
+          "url": "https://example.com/reviews/fixture-album",
+          "author": "Fixture Reviewer",
+          "dek": "A fake dek for a fake record."
+        },
+        "fantano": {
+          "score": 9,
+          "url": "https://example.com/fantano/fixture-album"
+        }
+      }
+    },
+    {
+      "type": "front_to_back",
+      "cluster": null,
+      "album": {
+        "artist": "Test Artist B",
+        "title": "Fixture Album (Degraded)",
+        "year": null,
+        "label": null,
+        "spotify_album_uri": null,
+        "spotify_url": null,
+        "cover_url": null,
+        "odesli_url": null
+      },
+      "why": "Degraded front_to_back: no album URI (so no embed and no links row), null cluster, null critics, empty receipts, null year and label.",
+      "receipts": [],
+      "critics": null
+    },
+    {
+      "type": "singles_rack",
+      "intro": "Four fixture tracks: one with an embed URI, one link-only, one bare with nothing optional set, one artist-level lead with a null title.",
+      "tracks": [
+        {
+          "artist": "Test Artist C",
+          "title": "Track With Embed",
+          "cluster": "test-cluster-alpha",
+          "why": "Has a track URI, so the compact embed renders.",
+          "receipts": [
+            {
+              "stat_id": "artist_plays:test-artist-c",
+              "claim": "Test Artist C: 48 plays",
+              "value": 48
+            }
+          ],
+          "spotify_track_uri": "spotify:track:0testTrackFixture0000C",
+          "spotify_url": "https://open.spotify.com/track/0testTrackFixture0000C"
+        },
+        {
+          "artist": "Test Artist D",
+          "title": "Track With Link Only",
+          "cluster": "test-cluster-beta",
+          "why": "URI is null but spotify_url is present — should render a plain Open in Spotify link instead of an embed.",
+          "receipts": [
+            {
+              "stat_id": "cluster_hours:test-cluster-beta",
+              "claim": "test-cluster-beta: 4.2 hours in the fixture window",
+              "value": 4.2
+            }
+          ],
+          "spotify_track_uri": null,
+          "spotify_url": "https://open.spotify.com/track/0testTrackFixture0000D"
+        },
+        {
+          "artist": "Test Artist E",
+          "title": "Bare Track",
+          "cluster": null,
+          "why": null,
+          "receipts": [],
+          "spotify_track_uri": null,
+          "spotify_url": null
+        },
+        {
+          "artist": "Test Artist K",
+          "title": null,
+          "cluster": "test-cluster-beta",
+          "why": "Artist-level lead: title is null pre-curation, so the row shows just the artist name with an 'artist lead' tag and no dangling dash.",
+          "receipts": [],
+          "spotify_track_uri": null,
+          "spotify_url": null
+        }
+      ]
+    },
+    {
+      "type": "revival_desk",
+      "franchise": "barely_played",
+      "intro": "Two fixture revivals: one full row, one with every nullable field null.",
+      "tracks": [
+        {
+          "artist": "Test Artist F",
+          "title": "Played Once In The Fixture",
+          "album": "Fixture Compilation",
+          "plays": 1,
+          "last_played": "2024-06-01",
+          "why": "Full revival row: album tag, singular play count, last_played, one receipt, and a track embed.",
+          "receipts": [
+            {
+              "stat_id": "track_plays:test-artist-f",
+              "claim": "1 play, never skipped",
+              "value": 1
+            }
+          ],
+          "spotify_track_uri": "spotify:track:0testTrackFixture0000F"
+        },
+        {
+          "artist": "Test Artist G",
+          "title": "Null-Heavy Revival Row",
+          "album": null,
+          "plays": 2,
+          "last_played": null,
+          "why": null,
+          "receipts": [],
+          "spotify_track_uri": null
+        }
+      ]
+    },
+    {
+      "type": "new_this_week",
+      "intro": "Fixture release table: one full row, one null-heavy row, all three release types.",
+      "releases": [
+        {
+          "artist": "Test Artist H",
+          "title": "Fixture LP",
+          "release_date": "2026-01-01",
+          "release_type": "album",
+          "relationship": "played",
+          "via": null,
+          "note": "Fake note on a fake release."
+        },
+        {
+          "artist": "Test Artist I",
+          "title": "Fixture EP",
+          "release_date": "2026-01-02",
+          "release_type": "ep",
+          "relationship": "adjacent",
+          "via": "Test Artist A",
+          "note": null
+        },
+        {
+          "artist": "Test Artist J",
+          "title": "Fixture Single",
+          "release_date": null,
+          "release_type": "single",
+          "relationship": null,
+          "via": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "tracks_checked_against": 12345,
+    "artists_checked_against": 678,
+    "rounds": 2,
+    "method": "FIXTURE — no verification was actually performed on this synthetic issue."
+  },
+  "companion_playlist": {
+    "name": "Fixture Companion Vol. 0",
+    "uris": [],
+    "spotify_url": null
+  },
+  "generated": {
+    "engine_version": "0.1",
+    "generated_at": "2026-01-01T00:00:00Z",
+    "llm": false
+  }
+}

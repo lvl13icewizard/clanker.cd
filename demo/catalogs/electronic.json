@@ -1,0 +1,3866 @@
+{
+  "slug": "electronic",
+  "name": "Mara",
+  "persona": "Thirteen years of dance music, taken seriously and played loudly.",
+  "blurb": "Dub techno, UK bass, jungle and ambient, with a record collector's sense of where all of it came from. Long sessions, low skips, and one lane that burned out completely in June.",
+  "issue_count": 13,
+  "first_date": "2026-05-23",
+  "palette": [
+    "#1b2a33",
+    "#4a5a63",
+    "#8f9ea3",
+    "#c9d4d6",
+    "#a8ff3e"
+  ],
+  "history": {
+    "plays": 121400,
+    "hours": 4912.0,
+    "tracks": 31200,
+    "artists": 7840,
+    "window_start": "2013-09-14",
+    "window_end": "2026-08-15"
+  },
+  "per_issue": {
+    "singles": 10,
+    "mixes": 2,
+    "revivals": 3,
+    "critics": 3,
+    "releases": 5
+  },
+  "lanes": [
+    {
+      "id": "dub-chamber",
+      "name": "Dub Chamber",
+      "hue": 190,
+      "description": "Dub techno and deep minimal: reverb as an instrument, chords used like weather.",
+      "state": "active",
+      "members": 38,
+      "hours": 684.2,
+      "seeds": [
+        "Rhythm & Sound",
+        "Basic Channel",
+        "Vladislav Delay"
+      ],
+      "arc": "The steadiest room in the record all thirteen weeks, and the one the newer picks keep circling back to.",
+      "top": [
+        {
+          "artist": "Rhythm & Sound",
+          "hours": 96.4,
+          "plays": 1284,
+          "skip_rate": 0.05,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Basic Channel",
+          "hours": 74.2,
+          "plays": 942,
+          "skip_rate": 0.07,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Vladislav Delay",
+          "hours": 41.8,
+          "plays": 486,
+          "skip_rate": 0.11,
+          "affinity": 0.887,
+          "via": "seed"
+        },
+        {
+          "artist": "Deepchord",
+          "hours": 38.6,
+          "plays": 452,
+          "skip_rate": 0.08,
+          "affinity": 0.876,
+          "via": "session"
+        },
+        {
+          "artist": "Donato Dozzy",
+          "hours": 33.2,
+          "plays": 398,
+          "skip_rate": 0.13,
+          "affinity": 0.836,
+          "via": "playlist"
+        },
+        {
+          "artist": "Yagya",
+          "hours": 27.4,
+          "plays": 341,
+          "skip_rate": 0.09,
+          "affinity": 0.813,
+          "via": "playlist"
+        },
+        {
+          "artist": "Fluxion",
+          "hours": 22.7,
+          "plays": 284,
+          "skip_rate": 0.1,
+          "affinity": 0.779,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "uk-bass",
+      "name": "UK Bass",
+      "hue": 215,
+      "description": "Bass music from the island: garage, dubstep's deeper end, and whatever Bristol is calling it now.",
+      "state": "active",
+      "members": 40,
+      "hours": 512.6,
+      "seeds": [
+        "Pinch",
+        "Peverelist",
+        "Batu"
+      ],
+      "arc": "Grew through early summer and now takes almost as much listening as the dub room.",
+      "top": [
+        {
+          "artist": "Pinch",
+          "hours": 46.3,
+          "plays": 812,
+          "skip_rate": 0.14,
+          "affinity": 0.909,
+          "via": "seed"
+        },
+        {
+          "artist": "Peverelist",
+          "hours": 39.8,
+          "plays": 704,
+          "skip_rate": 0.11,
+          "affinity": 0.889,
+          "via": "seed"
+        },
+        {
+          "artist": "Mala",
+          "hours": 31.6,
+          "plays": 548,
+          "skip_rate": 0.09,
+          "affinity": 0.856,
+          "via": "playlist"
+        },
+        {
+          "artist": "Batu",
+          "hours": 28.4,
+          "plays": 512,
+          "skip_rate": 0.16,
+          "affinity": 0.817,
+          "via": "seed"
+        },
+        {
+          "artist": "Hodge",
+          "hours": 26.9,
+          "plays": 486,
+          "skip_rate": 0.13,
+          "affinity": 0.809,
+          "via": "playlist"
+        },
+        {
+          "artist": "Kowton",
+          "hours": 24.1,
+          "plays": 438,
+          "skip_rate": 0.15,
+          "affinity": 0.782,
+          "via": "playlist"
+        },
+        {
+          "artist": "Loefah",
+          "hours": 21.3,
+          "plays": 372,
+          "skip_rate": 0.18,
+          "affinity": 0.751,
+          "via": "session"
+        }
+      ]
+    },
+    {
+      "id": "jungle-dnb",
+      "name": "Jungle & Drum and Bass",
+      "hue": 25,
+      "description": "Breakbeat science from ninety-three onward, amen breaks and Metalheadz weight.",
+      "state": "rising",
+      "members": 31,
+      "hours": 388.4,
+      "seeds": [
+        "Photek",
+        "Source Direct",
+        "Tim Reaper"
+      ],
+      "arc": "Rising fast, mostly on the new jungle revival rather than the old records.",
+      "top": [
+        {
+          "artist": "Photek",
+          "hours": 42.1,
+          "plays": 594,
+          "skip_rate": 0.12,
+          "affinity": 0.902,
+          "via": "seed"
+        },
+        {
+          "artist": "Tim Reaper",
+          "hours": 34.2,
+          "plays": 618,
+          "skip_rate": 0.17,
+          "affinity": 0.854,
+          "via": "seed"
+        },
+        {
+          "artist": "Source Direct",
+          "hours": 28.7,
+          "plays": 412,
+          "skip_rate": 0.14,
+          "affinity": 0.831,
+          "via": "seed"
+        },
+        {
+          "artist": "Dillinja",
+          "hours": 26.4,
+          "plays": 458,
+          "skip_rate": 0.16,
+          "affinity": 0.807,
+          "via": "session"
+        },
+        {
+          "artist": "Sully",
+          "hours": 22.8,
+          "plays": 396,
+          "skip_rate": 0.13,
+          "affinity": 0.788,
+          "via": "playlist"
+        },
+        {
+          "artist": "Goldie",
+          "hours": 19.6,
+          "plays": 268,
+          "skip_rate": 0.21,
+          "affinity": 0.741,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "electro-braindance",
+      "name": "Electro & Braindance",
+      "hue": 300,
+      "description": "Electro, Rephlex-adjacent melody and the machines that never sound quite human.",
+      "state": "active",
+      "members": 27,
+      "hours": 276.8,
+      "seeds": [
+        "Drexciya",
+        "DMX Krew",
+        "Ceephax Acid Crew"
+      ],
+      "arc": "Held steady, with the acid end getting more attention than the melodic end lately.",
+      "top": [
+        {
+          "artist": "Aphex Twin",
+          "hours": 48.2,
+          "plays": 782,
+          "skip_rate": 0.19,
+          "affinity": 0.902,
+          "via": "session"
+        },
+        {
+          "artist": "Drexciya",
+          "hours": 36.8,
+          "plays": 524,
+          "skip_rate": 0.1,
+          "affinity": 0.881,
+          "via": "seed"
+        },
+        {
+          "artist": "DMX Krew",
+          "hours": 24.3,
+          "plays": 428,
+          "skip_rate": 0.15,
+          "affinity": 0.807,
+          "via": "seed"
+        },
+        {
+          "artist": "Ceephax Acid Crew",
+          "hours": 21.7,
+          "plays": 384,
+          "skip_rate": 0.18,
+          "affinity": 0.777,
+          "via": "seed"
+        },
+        {
+          "artist": "Dopplereffekt",
+          "hours": 16.4,
+          "plays": 246,
+          "skip_rate": 0.22,
+          "affinity": 0.724,
+          "via": "playlist"
+        },
+        {
+          "artist": "Gescom",
+          "hours": 12.8,
+          "plays": 194,
+          "skip_rate": 0.28,
+          "affinity": 0.67,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "ambient-drone",
+      "name": "Ambient & Drone",
+      "hue": 240,
+      "description": "Long-form ambient and drone: the records that get put on and left on.",
+      "state": "active",
+      "members": 34,
+      "hours": 431.5,
+      "seeds": [
+        "Gas",
+        "Stars of the Lid",
+        "Ulla"
+      ],
+      "arc": "Grew quietly, mostly at night and mostly as a way to come down from the club records.",
+      "top": [
+        {
+          "artist": "Gas",
+          "hours": 58.4,
+          "plays": 386,
+          "skip_rate": 0.06,
+          "affinity": 0.95,
+          "via": "seed"
+        },
+        {
+          "artist": "Stars of the Lid",
+          "hours": 44.6,
+          "plays": 312,
+          "skip_rate": 0.04,
+          "affinity": 0.921,
+          "via": "seed"
+        },
+        {
+          "artist": "Huerco S.",
+          "hours": 31.2,
+          "plays": 342,
+          "skip_rate": 0.09,
+          "affinity": 0.854,
+          "via": "playlist"
+        },
+        {
+          "artist": "Ulla",
+          "hours": 26.8,
+          "plays": 298,
+          "skip_rate": 0.08,
+          "affinity": 0.829,
+          "via": "seed"
+        },
+        {
+          "artist": "Thomas Köner",
+          "hours": 22.4,
+          "plays": 168,
+          "skip_rate": 0.12,
+          "affinity": 0.788,
+          "via": "playlist"
+        },
+        {
+          "artist": "Eliane Radigue",
+          "hours": 18.6,
+          "plays": 96,
+          "skip_rate": 0.14,
+          "affinity": 0.752,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "club-deconstructed",
+      "name": "Deconstructed Club",
+      "hue": 330,
+      "description": "Modern club music that has taken itself apart: unstable rhythm, no genre to sit in.",
+      "state": "rising",
+      "members": 22,
+      "hours": 164.3,
+      "seeds": [
+        "Objekt",
+        "Toxe",
+        "Air Max '97"
+      ],
+      "arc": "The newest room and still filling, mostly from radio rather than from records.",
+      "top": [
+        {
+          "artist": "Objekt",
+          "hours": 27.6,
+          "plays": 468,
+          "skip_rate": 0.16,
+          "affinity": 0.837,
+          "via": "seed"
+        },
+        {
+          "artist": "Toxe",
+          "hours": 14.2,
+          "plays": 268,
+          "skip_rate": 0.24,
+          "affinity": 0.725,
+          "via": "seed"
+        },
+        {
+          "artist": "Air Max '97",
+          "hours": 12.6,
+          "plays": 236,
+          "skip_rate": 0.26,
+          "affinity": 0.697,
+          "via": "seed"
+        },
+        {
+          "artist": "Lorenzo Senni",
+          "hours": 11.4,
+          "plays": 214,
+          "skip_rate": 0.29,
+          "affinity": 0.669,
+          "via": "session"
+        },
+        {
+          "artist": "Yves Tumor",
+          "hours": 9.8,
+          "plays": 186,
+          "skip_rate": 0.31,
+          "affinity": 0.638,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "house-lineage",
+      "name": "House Lineage",
+      "hue": 45,
+      "description": "House traced back through Chicago and Detroit, plus the deep end of the modern version.",
+      "state": "active",
+      "members": 33,
+      "hours": 342.7,
+      "seeds": [
+        "Larry Heard",
+        "Theo Parrish",
+        "Kerri Chandler"
+      ],
+      "arc": "Reliable and unhurried, the lane that never spikes and never dips.",
+      "top": [
+        {
+          "artist": "Larry Heard",
+          "hours": 41.6,
+          "plays": 588,
+          "skip_rate": 0.07,
+          "affinity": 0.912,
+          "via": "seed"
+        },
+        {
+          "artist": "Theo Parrish",
+          "hours": 38.2,
+          "plays": 462,
+          "skip_rate": 0.12,
+          "affinity": 0.881,
+          "via": "seed"
+        },
+        {
+          "artist": "Kerri Chandler",
+          "hours": 32.4,
+          "plays": 484,
+          "skip_rate": 0.09,
+          "affinity": 0.859,
+          "via": "seed"
+        },
+        {
+          "artist": "Moodymann",
+          "hours": 29.8,
+          "plays": 418,
+          "skip_rate": 0.11,
+          "affinity": 0.835,
+          "via": "session"
+        },
+        {
+          "artist": "Omar S",
+          "hours": 24.6,
+          "plays": 386,
+          "skip_rate": 0.15,
+          "affinity": 0.793,
+          "via": "playlist"
+        },
+        {
+          "artist": "DJ Sprinkles",
+          "hours": 21.2,
+          "plays": 214,
+          "skip_rate": 0.08,
+          "affinity": 0.783,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "techno-hard",
+      "name": "Hard Techno",
+      "hue": 130,
+      "description": "The fast, loud, functional end: warehouse techno with nothing decorative left on it.",
+      "state": "burned",
+      "members": 29,
+      "hours": 218.9,
+      "seeds": [
+        "Surgeon",
+        "Perc",
+        "SPFDJ"
+      ],
+      "arc": "Hammered through the spring and then dropped completely in June, which is the clearest break in the record.",
+      "top": [
+        {
+          "artist": "Surgeon",
+          "hours": 34.8,
+          "plays": 624,
+          "skip_rate": 0.18,
+          "affinity": 0.862,
+          "via": "seed"
+        },
+        {
+          "artist": "Perc",
+          "hours": 26.2,
+          "plays": 482,
+          "skip_rate": 0.22,
+          "affinity": 0.807,
+          "via": "seed"
+        },
+        {
+          "artist": "Blawan",
+          "hours": 24.6,
+          "plays": 452,
+          "skip_rate": 0.19,
+          "affinity": 0.799,
+          "via": "playlist"
+        },
+        {
+          "artist": "SPFDJ",
+          "hours": 18.4,
+          "plays": 348,
+          "skip_rate": 0.27,
+          "affinity": 0.734,
+          "via": "seed"
+        },
+        {
+          "artist": "Randomer",
+          "hours": 16.8,
+          "plays": 312,
+          "skip_rate": 0.25,
+          "affinity": 0.719,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "breaks-hardcore",
+      "name": "Breaks & Hardcore",
+      "hue": 90,
+      "description": "Hardcore continuum artefacts: breakbeat hardcore, rave stabs, happy accidents.",
+      "state": "dormant",
+      "members": 18,
+      "hours": 97.4,
+      "seeds": [
+        "Special Request",
+        "Bizarre Inc"
+      ],
+      "arc": "Went quiet after February and has only been touched a handful of times since.",
+      "top": [
+        {
+          "artist": "Special Request",
+          "hours": 22.4,
+          "plays": 386,
+          "skip_rate": 0.2,
+          "affinity": 0.8,
+          "via": "seed"
+        },
+        {
+          "artist": "Luke Vibert",
+          "hours": 14.8,
+          "plays": 268,
+          "skip_rate": 0.23,
+          "affinity": 0.732,
+          "via": "playlist"
+        },
+        {
+          "artist": "Tessela",
+          "hours": 13.2,
+          "plays": 242,
+          "skip_rate": 0.24,
+          "affinity": 0.708,
+          "via": "playlist"
+        },
+        {
+          "artist": "Bizarre Inc",
+          "hours": 11.6,
+          "plays": 218,
+          "skip_rate": 0.26,
+          "affinity": 0.679,
+          "via": "seed"
+        },
+        {
+          "artist": "2 Bad Mice",
+          "hours": 9.4,
+          "plays": 178,
+          "skip_rate": 0.28,
+          "affinity": 0.64,
+          "via": "playlist"
+        }
+      ]
+    },
+    {
+      "id": "dub-reggae",
+      "name": "Dub & Roots",
+      "hue": 160,
+      "description": "The Jamaican source: King Tubby's mixing desk and the records that took it seriously.",
+      "state": "active",
+      "members": 21,
+      "hours": 143.6,
+      "seeds": [
+        "King Tubby",
+        "Scientist",
+        "Augustus Pablo"
+      ],
+      "arc": "A small, personal room that grows a little every month and never gets skipped.",
+      "top": [
+        {
+          "artist": "King Tubby",
+          "hours": 31.4,
+          "plays": 428,
+          "skip_rate": 0.04,
+          "affinity": 0.884,
+          "via": "seed"
+        },
+        {
+          "artist": "Scientist",
+          "hours": 24.8,
+          "plays": 342,
+          "skip_rate": 0.06,
+          "affinity": 0.84,
+          "via": "seed"
+        },
+        {
+          "artist": "Augustus Pablo",
+          "hours": 22.6,
+          "plays": 296,
+          "skip_rate": 0.05,
+          "affinity": 0.823,
+          "via": "seed"
+        },
+        {
+          "artist": "Lee Perry",
+          "hours": 19.4,
+          "plays": 268,
+          "skip_rate": 0.09,
+          "affinity": 0.785,
+          "via": "session"
+        },
+        {
+          "artist": "Prince Jammy",
+          "hours": 12.8,
+          "plays": 178,
+          "skip_rate": 0.07,
+          "affinity": 0.73,
+          "via": "playlist"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "name": "Rhythm & Sound",
+      "hours": 96.4,
+      "plays": 1284,
+      "skip_rate": 0.05,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Basic Channel",
+      "hours": 74.2,
+      "plays": 942,
+      "skip_rate": 0.07,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Vladislav Delay",
+      "hours": 41.8,
+      "plays": 486,
+      "skip_rate": 0.11,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Deepchord",
+      "hours": 38.6,
+      "plays": 452,
+      "skip_rate": 0.08,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Yagya",
+      "hours": 27.4,
+      "plays": 341,
+      "skip_rate": 0.09,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Donato Dozzy",
+      "hours": 33.2,
+      "plays": 398,
+      "skip_rate": 0.13,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Fluxion",
+      "hours": 22.7,
+      "plays": 284,
+      "skip_rate": 0.1,
+      "lane": "dub-chamber"
+    },
+    {
+      "name": "Pinch",
+      "hours": 46.3,
+      "plays": 812,
+      "skip_rate": 0.14,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Peverelist",
+      "hours": 39.8,
+      "plays": 704,
+      "skip_rate": 0.11,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Batu",
+      "hours": 28.4,
+      "plays": 512,
+      "skip_rate": 0.16,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Kowton",
+      "hours": 24.1,
+      "plays": 438,
+      "skip_rate": 0.15,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Hodge",
+      "hours": 26.9,
+      "plays": 486,
+      "skip_rate": 0.13,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Loefah",
+      "hours": 21.3,
+      "plays": 372,
+      "skip_rate": 0.18,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Mala",
+      "hours": 31.6,
+      "plays": 548,
+      "skip_rate": 0.09,
+      "lane": "uk-bass"
+    },
+    {
+      "name": "Photek",
+      "hours": 42.1,
+      "plays": 594,
+      "skip_rate": 0.12,
+      "lane": "jungle-dnb"
+    },
+    {
+      "name": "Source Direct",
+      "hours": 28.7,
+      "plays": 412,
+      "skip_rate": 0.14,
+      "lane": "jungle-dnb"
+    },
+    {
+      "name": "Tim Reaper",
+      "hours": 34.2,
+      "plays": 618,
+      "skip_rate": 0.17,
+      "lane": "jungle-dnb"
+    },
+    {
+      "name": "Dillinja",
+      "hours": 26.4,
+      "plays": 458,
+      "skip_rate": 0.16,
+      "lane": "jungle-dnb"
+    },
+    {
+      "name": "Sully",
+      "hours": 22.8,
+      "plays": 396,
+      "skip_rate": 0.13,
+      "lane": "jungle-dnb"
+    },
+    {
+      "name": "Goldie",
+      "hours": 19.6,
+      "plays": 268,
+      "skip_rate": 0.21,
+      "lane": "jungle-dnb"
+    },
+    {
+      "name": "Drexciya",
+      "hours": 36.8,
+      "plays": 524,
+      "skip_rate": 0.1,
+      "lane": "electro-braindance"
+    },
+    {
+      "name": "DMX Krew",
+      "hours": 24.3,
+      "plays": 428,
+      "skip_rate": 0.15,
+      "lane": "electro-braindance"
+    },
+    {
+      "name": "Ceephax Acid Crew",
+      "hours": 21.7,
+      "plays": 384,
+      "skip_rate": 0.18,
+      "lane": "electro-braindance"
+    },
+    {
+      "name": "Aphex Twin",
+      "hours": 48.2,
+      "plays": 782,
+      "skip_rate": 0.19,
+      "lane": "electro-braindance"
+    },
+    {
+      "name": "Dopplereffekt",
+      "hours": 16.4,
+      "plays": 246,
+      "skip_rate": 0.22,
+      "lane": "electro-braindance"
+    },
+    {
+      "name": "Gescom",
+      "hours": 12.8,
+      "plays": 194,
+      "skip_rate": 0.28,
+      "lane": "electro-braindance"
+    },
+    {
+      "name": "Gas",
+      "hours": 58.4,
+      "plays": 386,
+      "skip_rate": 0.06,
+      "lane": "ambient-drone"
+    },
+    {
+      "name": "Stars of the Lid",
+      "hours": 44.6,
+      "plays": 312,
+      "skip_rate": 0.04,
+      "lane": "ambient-drone"
+    },
+    {
+      "name": "Ulla",
+      "hours": 26.8,
+      "plays": 298,
+      "skip_rate": 0.08,
+      "lane": "ambient-drone"
+    },
+    {
+      "name": "Huerco S.",
+      "hours": 31.2,
+      "plays": 342,
+      "skip_rate": 0.09,
+      "lane": "ambient-drone"
+    },
+    {
+      "name": "Thomas Köner",
+      "hours": 22.4,
+      "plays": 168,
+      "skip_rate": 0.12,
+      "lane": "ambient-drone"
+    },
+    {
+      "name": "Eliane Radigue",
+      "hours": 18.6,
+      "plays": 96,
+      "skip_rate": 0.14,
+      "lane": "ambient-drone"
+    },
+    {
+      "name": "Objekt",
+      "hours": 27.6,
+      "plays": 468,
+      "skip_rate": 0.16,
+      "lane": "club-deconstructed"
+    },
+    {
+      "name": "Toxe",
+      "hours": 14.2,
+      "plays": 268,
+      "skip_rate": 0.24,
+      "lane": "club-deconstructed"
+    },
+    {
+      "name": "Air Max '97",
+      "hours": 12.6,
+      "plays": 236,
+      "skip_rate": 0.26,
+      "lane": "club-deconstructed"
+    },
+    {
+      "name": "Lorenzo Senni",
+      "hours": 11.4,
+      "plays": 214,
+      "skip_rate": 0.29,
+      "lane": "club-deconstructed"
+    },
+    {
+      "name": "Yves Tumor",
+      "hours": 9.8,
+      "plays": 186,
+      "skip_rate": 0.31,
+      "lane": "club-deconstructed"
+    },
+    {
+      "name": "Larry Heard",
+      "hours": 41.6,
+      "plays": 588,
+      "skip_rate": 0.07,
+      "lane": "house-lineage"
+    },
+    {
+      "name": "Theo Parrish",
+      "hours": 38.2,
+      "plays": 462,
+      "skip_rate": 0.12,
+      "lane": "house-lineage"
+    },
+    {
+      "name": "Kerri Chandler",
+      "hours": 32.4,
+      "plays": 484,
+      "skip_rate": 0.09,
+      "lane": "house-lineage"
+    },
+    {
+      "name": "Moodymann",
+      "hours": 29.8,
+      "plays": 418,
+      "skip_rate": 0.11,
+      "lane": "house-lineage"
+    },
+    {
+      "name": "Omar S",
+      "hours": 24.6,
+      "plays": 386,
+      "skip_rate": 0.15,
+      "lane": "house-lineage"
+    },
+    {
+      "name": "DJ Sprinkles",
+      "hours": 21.2,
+      "plays": 214,
+      "skip_rate": 0.08,
+      "lane": "house-lineage"
+    },
+    {
+      "name": "Surgeon",
+      "hours": 34.8,
+      "plays": 624,
+      "skip_rate": 0.18,
+      "lane": "techno-hard"
+    },
+    {
+      "name": "Perc",
+      "hours": 26.2,
+      "plays": 482,
+      "skip_rate": 0.22,
+      "lane": "techno-hard"
+    },
+    {
+      "name": "SPFDJ",
+      "hours": 18.4,
+      "plays": 348,
+      "skip_rate": 0.27,
+      "lane": "techno-hard"
+    },
+    {
+      "name": "Blawan",
+      "hours": 24.6,
+      "plays": 452,
+      "skip_rate": 0.19,
+      "lane": "techno-hard"
+    },
+    {
+      "name": "Randomer",
+      "hours": 16.8,
+      "plays": 312,
+      "skip_rate": 0.25,
+      "lane": "techno-hard"
+    },
+    {
+      "name": "Special Request",
+      "hours": 22.4,
+      "plays": 386,
+      "skip_rate": 0.2,
+      "lane": "breaks-hardcore"
+    },
+    {
+      "name": "Bizarre Inc",
+      "hours": 11.6,
+      "plays": 218,
+      "skip_rate": 0.26,
+      "lane": "breaks-hardcore"
+    },
+    {
+      "name": "Luke Vibert",
+      "hours": 14.8,
+      "plays": 268,
+      "skip_rate": 0.23,
+      "lane": "breaks-hardcore"
+    },
+    {
+      "name": "Tessela",
+      "hours": 13.2,
+      "plays": 242,
+      "skip_rate": 0.24,
+      "lane": "breaks-hardcore"
+    },
+    {
+      "name": "2 Bad Mice",
+      "hours": 9.4,
+      "plays": 178,
+      "skip_rate": 0.28,
+      "lane": "breaks-hardcore"
+    },
+    {
+      "name": "King Tubby",
+      "hours": 31.4,
+      "plays": 428,
+      "skip_rate": 0.04,
+      "lane": "dub-reggae"
+    },
+    {
+      "name": "Scientist",
+      "hours": 24.8,
+      "plays": 342,
+      "skip_rate": 0.06,
+      "lane": "dub-reggae"
+    },
+    {
+      "name": "Augustus Pablo",
+      "hours": 22.6,
+      "plays": 296,
+      "skip_rate": 0.05,
+      "lane": "dub-reggae"
+    },
+    {
+      "name": "Lee Perry",
+      "hours": 19.4,
+      "plays": 268,
+      "skip_rate": 0.09,
+      "lane": "dub-reggae"
+    },
+    {
+      "name": "Prince Jammy",
+      "hours": 12.8,
+      "plays": 178,
+      "skip_rate": 0.07,
+      "lane": "dub-reggae"
+    }
+  ],
+  "issues": [
+    {
+      "n": 1,
+      "title": "Chain Reaction",
+      "dek": "Thirteen weeks in and the dub room is still the centre of everything, so this week goes all the way in."
+    },
+    {
+      "n": 2,
+      "title": "Amen Corner",
+      "dek": "The jungle revival keeps getting better, and two of these came out this month."
+    },
+    {
+      "n": 3,
+      "title": "Grey Water",
+      "dek": "Bristol weight, mixed down until the low end is the only thing left."
+    },
+    {
+      "n": 4,
+      "title": "Machine Language",
+      "dek": "Electro from three continents, none of it trying to sound human."
+    },
+    {
+      "n": 5,
+      "title": "Left Hand Path",
+      "dek": "Deconstructed club and the sound of rhythm falling over on purpose."
+    },
+    {
+      "n": 6,
+      "title": "Warehouse Ghost",
+      "dek": "You stopped playing hard techno in June, so this is the version of it that survives."
+    },
+    {
+      "n": 7,
+      "title": "Deep Water Mark",
+      "dek": "Chicago and Detroit house, and the modern records that understood the assignment."
+    },
+    {
+      "n": 8,
+      "title": "Kingston Rules",
+      "dek": "Dub as an engineering practice, from the desk that invented it."
+    },
+    {
+      "n": 9,
+      "title": "Slow Pressure",
+      "dek": "An hour of ambient with a pulse in it, which is the only ambient you finish."
+    },
+    {
+      "n": 10,
+      "title": "Second Frequency",
+      "dek": "Half of last issue went unplayed, so this one is shorter and stranger."
+    },
+    {
+      "n": 11,
+      "title": "Rave Artefact",
+      "dek": "Hardcore fragments and the people still building out of them."
+    },
+    {
+      "n": 12,
+      "title": "Signal Chain",
+      "dek": "Records that sound like their own studio, from Basic Channel forward."
+    },
+    {
+      "n": 13,
+      "title": "Night Ferry",
+      "dek": "Closing the summer with the deep end of everything, and one record made in Iceland."
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Rhythm & Sound",
+      "title": "See Mi Yah",
+      "year": 2005,
+      "label": "Burial Mix",
+      "lane": "dub-chamber",
+      "anchor": "Rhythm & Sound",
+      "pitchfork": 8.4,
+      "bnm": false,
+      "note": "One rhythm, ten singers, no variation permitted, and it is completely hypnotic."
+    },
+    {
+      "artist": "Tim Reaper & Kloke",
+      "title": "In Full Effect",
+      "year": 2023,
+      "label": "Future Retro",
+      "lane": "jungle-dnb",
+      "anchor": "Tim Reaper",
+      "pitchfork": 7.8,
+      "bnm": false,
+      "note": "Modern jungle made with total conviction, no irony anywhere in it."
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Tessellations",
+      "year": 2011,
+      "label": "Punch Drunk",
+      "lane": "uk-bass",
+      "anchor": "Peverelist",
+      "pitchfork": 8.0,
+      "bnm": false,
+      "note": "Bristol techno built out of dubstep parts, and the drums never resolve where you expect."
+    },
+    {
+      "artist": "Dopplereffekt",
+      "title": "Gesamtkunstwerk",
+      "year": 1999,
+      "label": "Gigolo",
+      "lane": "electro-braindance",
+      "anchor": "Drexciya",
+      "pitchfork": 8.6,
+      "bnm": false,
+      "note": "Electro delivered like a physics lecture, cold enough to be genuinely funny."
+    },
+    {
+      "artist": "Ulla",
+      "title": "Tumbling Towards a Wall",
+      "year": 2020,
+      "label": "Experiences Ltd",
+      "lane": "ambient-drone",
+      "anchor": "Ulla",
+      "pitchfork": 8.2,
+      "bnm": false,
+      "note": "Ambient made of fragments that never quite lock together, and better for the gaps."
+    },
+    {
+      "artist": "Objekt",
+      "title": "Cocoon Crush",
+      "year": 2018,
+      "label": "Pan",
+      "lane": "club-deconstructed",
+      "anchor": "Objekt",
+      "pitchfork": 8.3,
+      "bnm": true,
+      "note": "Club music engineered to the millimetre and then bent out of shape on purpose."
+    },
+    {
+      "artist": "Larry Heard",
+      "title": "Sceneries Not Songs, Volume One",
+      "year": 1994,
+      "label": "Black Market",
+      "lane": "house-lineage",
+      "anchor": "Larry Heard",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "Deep house at its most patient, made by the man who named the genre."
+    },
+    {
+      "artist": "Scientist",
+      "title": "Scientist Rids the World of the Evil Curse of the Vampires",
+      "year": 1981,
+      "label": "Greensleeves",
+      "lane": "dub-reggae",
+      "anchor": "Scientist",
+      "pitchfork": 9.0,
+      "bnm": false,
+      "note": "The best-titled record in dub and one of the best-mixed, which is a rare combination."
+    },
+    {
+      "artist": "Stars of the Lid",
+      "title": "The Tired Sounds of Stars of the Lid",
+      "year": 2001,
+      "label": "Kranky",
+      "lane": "ambient-drone",
+      "anchor": "Stars of the Lid",
+      "pitchfork": 9.1,
+      "bnm": false,
+      "note": "Two hours of guitar drone arranged like chamber music, and not one wasted minute."
+    },
+    {
+      "artist": "Batu",
+      "title": "Opal",
+      "year": 2022,
+      "label": "Timedance",
+      "lane": "uk-bass",
+      "anchor": "Batu",
+      "pitchfork": 7.7,
+      "bnm": false,
+      "note": "Bristol bass at its most abstract, with the swing still intact underneath."
+    },
+    {
+      "artist": "Luke Vibert",
+      "title": "Big Soup",
+      "year": 1997,
+      "label": "Mo Wax",
+      "lane": "breaks-hardcore",
+      "anchor": "Luke Vibert",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "Breakbeats and jazz samples made by someone who clearly finds all of this hilarious."
+    },
+    {
+      "artist": "Deepchord",
+      "title": "Vantage Isle Sessions",
+      "year": 2013,
+      "label": "Soma",
+      "lane": "dub-chamber",
+      "anchor": "Deepchord",
+      "pitchfork": 7.6,
+      "bnm": false,
+      "note": "Detroit dub techno recorded like a field trip, all rain and distant chords.",
+      "why": "Detroit dub techno recorded like a field trip, all rain and distant chords. You have 452 plays of Deepchord and skip them 8% of the time, which for a record this slow is devotion, and Dub Chamber is 684.2 hours of your life anyway. Pitchfork gave it 7.6; you will give it a whole evening."
+    },
+    {
+      "artist": "Yagya",
+      "title": "Rigning",
+      "year": 2009,
+      "label": "Sending Orbs",
+      "lane": "dub-chamber",
+      "anchor": "Yagya",
+      "pitchfork": null,
+      "bnm": false,
+      "note": "Icelandic dub techno named after rain, and it does sound exactly like that.",
+      "why": "Icelandic dub techno named after rain, and it does sound exactly like that. You have 341 plays of Yagya already and skip them 9% of the time, so this is not a leap, it is the record you should have started with. Dub Chamber runs 684.2 hours in your listening; this is the one to hear front to back."
+    }
+  ],
+  "critics": [
+    {
+      "artist": "Basic Channel",
+      "title": "BCD",
+      "year": 1995,
+      "score": 9.4,
+      "genre": "electronic",
+      "lane": "dub-chamber",
+      "bnm": false,
+      "anchor": "Basic Channel",
+      "note": "The plates the whole lane descends from, and still the cleanest low end ever pressed."
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "Waveform Transmission Vol. 1",
+      "year": 1992,
+      "score": 8.9,
+      "genre": "electronic",
+      "lane": "techno-hard",
+      "bnm": false,
+      "anchor": "Surgeon",
+      "note": "Detroit techno with nothing decorative left on it, and faster than most things made since."
+    },
+    {
+      "artist": "Drexciya",
+      "title": "Neptune's Lair",
+      "year": 1999,
+      "score": 9.0,
+      "genre": "electronic",
+      "lane": "electro-braindance",
+      "bnm": false,
+      "anchor": "Drexciya",
+      "note": "Detroit electro built on an underwater mythology, machine funk deep enough to carry it."
+    },
+    {
+      "artist": "Photek",
+      "title": "Modus Operandi",
+      "year": 1997,
+      "score": 8.9,
+      "genre": "electronic",
+      "lane": "jungle-dnb",
+      "bnm": false,
+      "anchor": "Photek",
+      "note": "Drum and bass engineered like architecture, and the record that taught the genre restraint."
+    },
+    {
+      "artist": "King Tubby",
+      "title": "King Tubby Meets Rockers Uptown",
+      "year": 1976,
+      "score": 9.3,
+      "genre": "reggae",
+      "lane": "dub-reggae",
+      "bnm": false,
+      "anchor": "Augustus Pablo",
+      "note": "The mixing desk as lead instrument, and the record every dub producer measures against."
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Selected Ambient Works 85-92",
+      "year": 1992,
+      "score": 9.5,
+      "genre": "electronic",
+      "lane": "ambient-drone",
+      "bnm": false,
+      "anchor": "Aphex Twin",
+      "note": "The early Aphex collection where ambient still had a pulse, warm tape-worn melodies over quiet drum machines."
+    },
+    {
+      "artist": "Larry Heard",
+      "title": "Alien",
+      "year": 1996,
+      "score": 8.8,
+      "genre": "electronic",
+      "lane": "house-lineage",
+      "bnm": false,
+      "anchor": "Larry Heard",
+      "note": "Larry Heard in science fiction mode, long synth pieces drifting well away from the dance floor."
+    },
+    {
+      "artist": "Autechre",
+      "title": "Incunabula",
+      "year": 1993,
+      "score": 8.6,
+      "genre": "electronic",
+      "lane": "electro-braindance",
+      "bnm": false,
+      "anchor": "Gescom",
+      "note": "The politest Autechre record, which makes it the one you can actually put on."
+    },
+    {
+      "artist": "Goldie",
+      "title": "Timeless",
+      "year": 1995,
+      "score": 9.1,
+      "genre": "electronic",
+      "lane": "jungle-dnb",
+      "bnm": false,
+      "anchor": "Goldie",
+      "note": "Jungle scaled up to orchestral length without losing the break science underneath."
+    },
+    {
+      "artist": "Theo Parrish",
+      "title": "Parallel Dimensions",
+      "year": 2000,
+      "score": 9.0,
+      "genre": "electronic",
+      "lane": "house-lineage",
+      "bnm": false,
+      "anchor": "Theo Parrish",
+      "note": "House mixed like a jazz record, deliberately rough, and it has aged into a classic."
+    },
+    {
+      "artist": "Burial",
+      "title": "Untrue",
+      "year": 2007,
+      "score": 9.4,
+      "genre": "electronic",
+      "lane": "uk-bass",
+      "bnm": false,
+      "anchor": "Loefah",
+      "note": "Pirate radio memory turned into its own genre, rained-on garage and pitched vocal ghosts."
+    },
+    {
+      "artist": "Wolfgang Voigt",
+      "title": "Gas",
+      "year": 1996,
+      "score": 8.7,
+      "genre": "electronic",
+      "lane": "ambient-drone",
+      "bnm": false,
+      "anchor": "Gas",
+      "note": "Voigt's forest ambient in its first form, strings looped into fog with a kick buried somewhere beneath."
+    },
+    {
+      "artist": "Underground Resistance",
+      "title": "Revolution for Change",
+      "year": 1992,
+      "score": 8.8,
+      "genre": "electronic",
+      "lane": "techno-hard",
+      "bnm": false,
+      "anchor": "Perc",
+      "note": "Detroit techno as an actual political position, and the music backs it up."
+    },
+    {
+      "artist": "Model 500",
+      "title": "Deep Space",
+      "year": 1995,
+      "score": 8.5,
+      "genre": "electronic",
+      "lane": "electro-braindance",
+      "bnm": false,
+      "anchor": "DMX Krew",
+      "note": "Juan Atkins stretching Detroit electro into slow orbit, machine funk with the cabin lights dimmed."
+    },
+    {
+      "artist": "Augustus Pablo",
+      "title": "East of the River Nile",
+      "year": 1978,
+      "score": 9.0,
+      "genre": "reggae",
+      "lane": "dub-reggae",
+      "bnm": false,
+      "anchor": "Lee Perry",
+      "note": "Melodica over dub plates, which should not work and turns out to be sublime."
+    },
+    {
+      "artist": "Actress",
+      "title": "Hazyville",
+      "year": 2008,
+      "score": 8.4,
+      "genre": "electronic",
+      "lane": "club-deconstructed",
+      "bnm": false,
+      "anchor": "Objekt",
+      "note": "House heard through several closed doors, and the blur was already the whole point on this debut."
+    },
+    {
+      "artist": "Omni Trio",
+      "title": "The Deepest Cut Vol. 1",
+      "year": 1995,
+      "score": 8.6,
+      "genre": "electronic",
+      "lane": "jungle-dnb",
+      "bnm": false,
+      "anchor": "Dillinja",
+      "note": "Moving Shadow jungle with piano and choir stabs, rollers built more for release than menace."
+    },
+    {
+      "artist": "Ricardo Villalobos",
+      "title": "Alcachofa",
+      "year": 2003,
+      "score": 8.9,
+      "genre": "electronic",
+      "lane": "dub-chamber",
+      "bnm": false,
+      "anchor": "Fluxion",
+      "note": "Minimal house that keeps going long past where it should and earns every minute."
+    },
+    {
+      "artist": "Moodymann",
+      "title": "Silentintroduction",
+      "year": 1997,
+      "score": 8.8,
+      "genre": "electronic",
+      "lane": "house-lineage",
+      "bnm": false,
+      "anchor": "Moodymann",
+      "note": "Detroit house assembled from loose soul loops and room noise, swinging harder for being left rough."
+    },
+    {
+      "artist": "Special Request",
+      "title": "Soul Music",
+      "year": 2013,
+      "score": 8.2,
+      "genre": "electronic",
+      "lane": "breaks-hardcore",
+      "bnm": false,
+      "anchor": "Special Request",
+      "note": "Pirate radio nostalgia made by someone who was actually there, which is why it stings."
+    },
+    {
+      "artist": "Chain Reaction",
+      "title": "Various: We Are Reasonable People",
+      "year": 1998,
+      "score": 8.5,
+      "genre": "electronic",
+      "lane": "dub-chamber",
+      "bnm": false,
+      "anchor": "Vladislav Delay",
+      "note": "A survey of the Basic Channel offshoot sound: concrete, hiss, and chords arriving like weather fronts."
+    },
+    {
+      "artist": "Sully",
+      "title": "Escape",
+      "year": 2017,
+      "score": 7.9,
+      "genre": "electronic",
+      "lane": "jungle-dnb",
+      "bnm": false,
+      "anchor": "Sully",
+      "note": "Modern jungle with old-school cuts and none of the nostalgia, breaks handled like precision tools."
+    },
+    {
+      "artist": "DJ Sprinkles",
+      "title": "Midtown 120 Blues",
+      "year": 2008,
+      "score": 9.0,
+      "genre": "electronic",
+      "lane": "house-lineage",
+      "bnm": true,
+      "anchor": "DJ Sprinkles",
+      "note": "Deep house with an essay attached, and both halves are essential."
+    },
+    {
+      "artist": "Eliane Radigue",
+      "title": "Trilogie de la Mort",
+      "year": 1998,
+      "score": 8.8,
+      "genre": "experimental",
+      "lane": "ambient-drone",
+      "bnm": false,
+      "anchor": "Eliane Radigue",
+      "note": "Hours of ARP synthesizer moving slower than perception, drone as devotional practice."
+    },
+    {
+      "artist": "Pinch",
+      "title": "Underwater Dancehall",
+      "year": 2007,
+      "score": 7.8,
+      "genre": "electronic",
+      "lane": "uk-bass",
+      "bnm": false,
+      "anchor": "Pinch",
+      "note": "Bristol dubstep stretched to album length, halftime pressure with vocalists given real room."
+    },
+    {
+      "artist": "Bizarre Inc",
+      "title": "Energique",
+      "year": 1992,
+      "score": 7.6,
+      "genre": "electronic",
+      "lane": "breaks-hardcore",
+      "bnm": false,
+      "anchor": "Bizarre Inc",
+      "note": "Piano stabs and hoover bass with chart ambitions and warehouse manners."
+    },
+    {
+      "artist": "Scientist",
+      "title": "Heavyweight Dub Champion",
+      "year": 1980,
+      "score": 8.9,
+      "genre": "reggae",
+      "lane": "dub-reggae",
+      "bnm": false,
+      "anchor": "Prince Jammy",
+      "note": "The young engineer proving himself at the desk, drums and bass carved down to outlines while the reverb does the rest."
+    },
+    {
+      "artist": "Blawan",
+      "title": "Wet Will Always Dry",
+      "year": 2018,
+      "score": 8.0,
+      "genre": "electronic",
+      "lane": "techno-hard",
+      "bnm": false,
+      "anchor": "Blawan",
+      "note": "Techno made from sounds that should not be musical, arranged with total confidence."
+    },
+    {
+      "artist": "Kerri Chandler",
+      "title": "Trionisphere",
+      "year": 2008,
+      "score": 8.1,
+      "genre": "electronic",
+      "lane": "house-lineage",
+      "bnm": false,
+      "anchor": "Kerri Chandler",
+      "note": "Kerri Chandler doing what he always does: drums that feel hand-played and chords that feel like church."
+    },
+    {
+      "artist": "Toxe",
+      "title": "Blinks",
+      "year": 2018,
+      "score": 7.5,
+      "genre": "electronic",
+      "lane": "club-deconstructed",
+      "bnm": false,
+      "anchor": "Toxe",
+      "note": "Glassy club constructions from the Swedish end of the map, melody kept sharp enough to cut."
+    },
+    {
+      "artist": "Source Direct",
+      "title": "Controlled Developments",
+      "year": 1996,
+      "score": 8.3,
+      "genre": "electronic",
+      "lane": "jungle-dnb",
+      "bnm": false,
+      "anchor": "Source Direct",
+      "note": "St Albans darkness, drum edits engineered to the millimetre under atmospheres borrowed from thrillers."
+    },
+    {
+      "artist": "Thomas Köner",
+      "title": "Permafrost",
+      "year": 1993,
+      "score": 8.4,
+      "genre": "experimental",
+      "lane": "ambient-drone",
+      "bnm": false,
+      "anchor": "Thomas Köner",
+      "note": "Drone recorded as if from inside a glacier, and the most physically cold record here."
+    },
+    {
+      "artist": "Mala",
+      "title": "Mala in Cuba",
+      "year": 2012,
+      "score": 7.9,
+      "genre": "electronic",
+      "lane": "uk-bass",
+      "bnm": false,
+      "anchor": "Mala",
+      "note": "Halftime pressure rebuilt around live Cuban players, and the sub survives the trip intact."
+    },
+    {
+      "artist": "Ceephax Acid Crew",
+      "title": "United Acid Emirates",
+      "year": 2006,
+      "score": 7.7,
+      "genre": "electronic",
+      "lane": "electro-braindance",
+      "bnm": false,
+      "anchor": "Ceephax Acid Crew",
+      "note": "Acid boxes pushed toward actual songwriting, humour left in and the melodies doing real work."
+    },
+    {
+      "artist": "Lee Perry",
+      "title": "Super Ape",
+      "year": 1976,
+      "score": 9.2,
+      "genre": "reggae",
+      "lane": "dub-reggae",
+      "bnm": false,
+      "anchor": "King Tubby",
+      "note": "The Black Ark at full strength, and the strangest-sounding great record in reggae."
+    },
+    {
+      "artist": "Randomer",
+      "title": "Bring",
+      "year": 2019,
+      "score": 7.4,
+      "genre": "electronic",
+      "lane": "techno-hard",
+      "bnm": false,
+      "anchor": "Randomer",
+      "note": "Percussion-first techno from a producer who treats every drum hit like a lead line."
+    },
+    {
+      "artist": "Huerco S.",
+      "title": "For Those of You Who Have Never (And Also Those Who Have)",
+      "year": 2016,
+      "score": 8.5,
+      "genre": "electronic",
+      "lane": "ambient-drone",
+      "bnm": true,
+      "anchor": "Huerco S.",
+      "note": "Ambient made from worn loops and left unresolved, the kind of record that changes what you reach for at night."
+    },
+    {
+      "artist": "Hodge",
+      "title": "Shadows in Blue",
+      "year": 2020,
+      "score": 7.8,
+      "genre": "electronic",
+      "lane": "uk-bass",
+      "bnm": false,
+      "anchor": "Hodge",
+      "note": "Bristol techno with the low end doing the storytelling, club tools that hold up far from the club."
+    },
+    {
+      "artist": "Dillinja",
+      "title": "Cybotron",
+      "year": 1996,
+      "score": 8.2,
+      "genre": "electronic",
+      "lane": "jungle-dnb",
+      "bnm": false,
+      "anchor": "Tim Reaper",
+      "note": "Low end from the man who later built a sound system just to reproduce it properly."
+    }
+  ],
+  "singles": [
+    {
+      "artist": "Monolake",
+      "title": "Cyan",
+      "lane": "dub-chamber",
+      "anchor": "Basic Channel",
+      "note": "Berlin dub techno with field-recording air in it, chords surfacing and sinking for minutes at a time."
+    },
+    {
+      "artist": "Moritz Von Oswald Trio",
+      "title": "Pattern 1",
+      "lane": "dub-chamber",
+      "anchor": "Vladislav Delay",
+      "note": "The Basic Channel players in a room together, improvising the same idea slowly."
+    },
+    {
+      "artist": "Porter Ricks",
+      "title": "Port Gentil",
+      "lane": "dub-chamber",
+      "anchor": "Rhythm & Sound",
+      "note": "Hamburg dub techno that sounds like machinery in a flooded room"
+    },
+    {
+      "artist": "Convextion",
+      "title": "Distant Transmission",
+      "lane": "dub-chamber",
+      "anchor": "Donato Dozzy",
+      "note": "Texas electro slowed until it behaves like weather over water."
+    },
+    {
+      "artist": "Substance",
+      "title": "Relish",
+      "lane": "dub-chamber",
+      "anchor": "Deepchord",
+      "note": "Chain Reaction minimalism from DJ Pete, built from hiss, patience, and very little else."
+    },
+    {
+      "artist": "Scion",
+      "title": "Emerge",
+      "lane": "dub-chamber",
+      "anchor": "Basic Channel",
+      "note": "The same Berlin desk, the same room, a slightly different set of hands."
+    },
+    {
+      "artist": "Vainqueur",
+      "title": "Lyot",
+      "lane": "dub-chamber",
+      "anchor": "Fluxion",
+      "note": "One chord given a whole side to decay, and it earns every second of it."
+    },
+    {
+      "artist": "cv313",
+      "title": "Seconds to Forever",
+      "lane": "dub-chamber",
+      "anchor": "Yagya",
+      "note": "Twelve minutes that change almost nothing, and the almost is the point."
+    },
+    {
+      "artist": "Maurizio",
+      "title": "M4",
+      "lane": "dub-chamber",
+      "anchor": "Basic Channel",
+      "note": "The Berlin series at its deepest, a groove that never peaks because it never needs one."
+    },
+    {
+      "artist": "Terrence Dixon",
+      "title": "Minimalism",
+      "lane": "dub-chamber",
+      "anchor": "Rhythm & Sound",
+      "note": "Detroit stripped back until only the ghost of the groove is left standing."
+    },
+    {
+      "artist": "Coco Bryce",
+      "title": "Won't Let Go",
+      "lane": "jungle-dnb",
+      "anchor": "Tim Reaper",
+      "note": "Sweet-toned jungle from the Dutch school, chopped amens under an actual song."
+    },
+    {
+      "artist": "Roni Size",
+      "title": "Brown Paper Bag",
+      "lane": "jungle-dnb",
+      "anchor": "Goldie",
+      "note": "An upright bass line and a break, and it won the Mercury with almost nothing else."
+    },
+    {
+      "artist": "Dwarde",
+      "title": "Rush Hour",
+      "lane": "jungle-dnb",
+      "anchor": "Sully",
+      "note": "Golden-era jungle manners with modern low end, rolling rather than ravey."
+    },
+    {
+      "artist": "DJ Krust",
+      "title": "Warhead",
+      "lane": "jungle-dnb",
+      "anchor": "Dillinja",
+      "note": "Bristol drum and bass with a horn stab that has never stopped being borrowed."
+    },
+    {
+      "artist": "Sherelle",
+      "title": "Jungle Teknah",
+      "lane": "jungle-dnb",
+      "anchor": "Tim Reaper",
+      "note": "Jungle pushed up to footwork tempo and kept musical the whole way."
+    },
+    {
+      "artist": "Calibre",
+      "title": "Mystic",
+      "lane": "jungle-dnb",
+      "anchor": "Photek",
+      "note": "Liquid drum and bass made by someone who clearly listens to a lot of soul records."
+    },
+    {
+      "artist": "Nikki Nair",
+      "title": "Chopper",
+      "lane": "club-deconstructed",
+      "anchor": "Objekt",
+      "note": "Rude, warped bass music from Atlanta, drum programming that changes its mind mid-bar."
+    },
+    {
+      "artist": "Nia Archives",
+      "title": "Baianá",
+      "lane": "jungle-dnb",
+      "anchor": "Source Direct",
+      "note": "A Brazilian folk sample cut over a break, and it should not work as well as it does."
+    },
+    {
+      "artist": "Alix Perez",
+      "title": "Forsaken",
+      "lane": "jungle-dnb",
+      "anchor": "Photek",
+      "note": "Deep drum and bass in the Photek tradition, every element placed and nothing wasted."
+    },
+    {
+      "artist": "LTJ Bukem",
+      "title": "Music",
+      "lane": "jungle-dnb",
+      "anchor": "Photek",
+      "note": "The record that proved jungle could be pretty without getting soft."
+    },
+    {
+      "artist": "Ossia",
+      "title": "Vertigo",
+      "lane": "uk-bass",
+      "anchor": "Peverelist",
+      "note": "Bristol dub weight at half speed, with more space in it than anything else here"
+    },
+    {
+      "artist": "Kahn",
+      "title": "Late Night Blues",
+      "lane": "uk-bass",
+      "anchor": "Pinch",
+      "note": "Bristol at its most patient, where the drop is a suggestion rather than an event."
+    },
+    {
+      "artist": "Bruce",
+      "title": "Not Stochastic",
+      "lane": "uk-bass",
+      "anchor": "Batu",
+      "note": "Bristol drums that lurch without ever falling over, weight and mischief in equal measure."
+    },
+    {
+      "artist": "Joker",
+      "title": "Digidesign",
+      "lane": "uk-bass",
+      "anchor": "Mala",
+      "note": "Purple synths over dubstep weight, and nobody has copied it properly since."
+    },
+    {
+      "artist": "Ploy",
+      "title": "Ramos",
+      "lane": "uk-bass",
+      "anchor": "Kowton",
+      "note": "Tumbling percussion with a hook buried in the toms, made for a dark room and a good system."
+    },
+    {
+      "artist": "Shackleton",
+      "title": "Blood on My Hands",
+      "lane": "uk-bass",
+      "anchor": "Loefah",
+      "note": "Percussion that circles rather than repeats, and a low end you feel before you hear."
+    },
+    {
+      "artist": "Facta",
+      "title": "Blush",
+      "lane": "uk-bass",
+      "anchor": "Hodge",
+      "note": "The gentle end of Bristol bass, melody first with the sub as a cushion."
+    },
+    {
+      "artist": "Digital Mystikz",
+      "title": "Anti War Dub",
+      "lane": "uk-bass",
+      "anchor": "Peverelist",
+      "note": "Half the frequencies of a normal record and twice the room."
+    },
+    {
+      "artist": "Lurka",
+      "title": "Beacon",
+      "lane": "uk-bass",
+      "anchor": "Pinch",
+      "note": "Halftime pressure with real swing, every tone tuned until it hums."
+    },
+    {
+      "artist": "DJ Rashad",
+      "title": "Feelin",
+      "lane": "uk-bass",
+      "anchor": "Batu",
+      "note": "Chicago footwork at full tempo, and the drums are doing something closer to speech."
+    },
+    {
+      "artist": "Anthony Rother",
+      "title": "Sex With the Machines",
+      "lane": "electro-braindance",
+      "anchor": "Drexciya",
+      "note": "German electro at its most severe, vocoder cold and proud of it."
+    },
+    {
+      "artist": "Cybotron",
+      "title": "Clear",
+      "lane": "electro-braindance",
+      "anchor": "Drexciya",
+      "note": "Detroit before techno had a name for itself, and the blueprint is all here."
+    },
+    {
+      "artist": "Umwelt",
+      "title": "Nyctalopia",
+      "lane": "electro-braindance",
+      "anchor": "Dopplereffekt",
+      "note": "French electro in the Drexciyan shadow, analogue dread with a neon melody on top."
+    },
+    {
+      "artist": "Model 500",
+      "title": "No UFO's",
+      "lane": "electro-braindance",
+      "anchor": "Dopplereffekt",
+      "note": "Juan Atkins on his own, sounding like a transmission rather than a record."
+    },
+    {
+      "artist": "Helena Hauff",
+      "title": "Sworn to Secrecy",
+      "lane": "electro-braindance",
+      "anchor": "DMX Krew",
+      "note": "Hamburg electro played off hardware with the levels pushed too far, deliberately"
+    },
+    {
+      "artist": "Egyptian Lover",
+      "title": "Egypt, Egypt",
+      "lane": "electro-braindance",
+      "anchor": "DMX Krew",
+      "note": "One drum machine, one vocoder, and a whole Los Angeles scene downstream of it."
+    },
+    {
+      "artist": "Jensen Interceptor",
+      "title": "Corrosive",
+      "lane": "electro-braindance",
+      "anchor": "Ceephax Acid Crew",
+      "note": "Modern electro built for big rooms, crunchy machines and no hesitation."
+    },
+    {
+      "artist": "Arpanet",
+      "title": "Wireless Internet",
+      "lane": "electro-braindance",
+      "anchor": "Aphex Twin",
+      "note": "The Drexciya lineage writing about infrastructure and meaning every word."
+    },
+    {
+      "artist": "Silicon Scally",
+      "title": "Retina",
+      "lane": "electro-braindance",
+      "anchor": "Aphex Twin",
+      "note": "Carl Finlow under another name, small precise melodies over immaculate machine funk."
+    },
+    {
+      "artist": "Legowelt",
+      "title": "Disco Rout",
+      "lane": "electro-braindance",
+      "anchor": "Ceephax Acid Crew",
+      "note": "Dutch, cheap, and warmer than any of the gear should allow."
+    },
+    {
+      "artist": "Aya",
+      "title": "Emley Lights Us Moor",
+      "lane": "club-deconstructed",
+      "anchor": "Toxe",
+      "note": "Voice and bass pulled apart and reassembled, West Yorkshire made strange."
+    },
+    {
+      "artist": "Arca",
+      "title": "Thievery",
+      "lane": "club-deconstructed",
+      "anchor": "Yves Tumor",
+      "note": "Rhythm treated as something to be broken and then reassembled badly on purpose."
+    },
+    {
+      "artist": "Iceboy Violet",
+      "title": "Not So Sure",
+      "lane": "club-deconstructed",
+      "anchor": "Air Max '97",
+      "note": "Bruised vocals over dissolving club rhythm, tenderness where this music usually wears armour."
+    },
+    {
+      "artist": "Amnesia Scanner",
+      "title": "AS Chingy",
+      "lane": "club-deconstructed",
+      "anchor": "Air Max '97",
+      "note": "Club music assembled out of alarm sounds, and it does actually work on a floor."
+    },
+    {
+      "artist": "Coucou Chloe",
+      "title": "Naughty Dog",
+      "lane": "club-deconstructed",
+      "anchor": "Toxe",
+      "note": "Deadpan vocals over stripped club drums, menace managed with almost nothing."
+    },
+    {
+      "artist": "Lotic",
+      "title": "Hunted",
+      "lane": "club-deconstructed",
+      "anchor": "Toxe",
+      "note": "Berlin by way of Texas, and the percussion is closer to a threat than a groove."
+    },
+    {
+      "artist": "Jasss",
+      "title": "Turbo Rush",
+      "lane": "club-deconstructed",
+      "anchor": "Objekt",
+      "note": "Industrial texture with a dancer's timing, club music that keeps its elbows out."
+    },
+    {
+      "artist": "SOPHIE",
+      "title": "BIPP",
+      "lane": "club-deconstructed",
+      "anchor": "Lorenzo Senni",
+      "note": "Every sound built from scratch, and the whole decade of pop that followed heard it."
+    },
+    {
+      "artist": "Bergsonist",
+      "title": "Middle Ground",
+      "lane": "club-deconstructed",
+      "anchor": "Lorenzo Senni",
+      "note": "Raw hardware sketches with the immediacy of a voice memo, rhythm treated as an open question."
+    },
+    {
+      "artist": "Eartheater",
+      "title": "Volcano",
+      "lane": "club-deconstructed",
+      "anchor": "Objekt",
+      "note": "Harp, autotune and a drum programme that keeps changing its mind."
+    },
+    {
+      "artist": "Mark Broom",
+      "title": "Sound Surface",
+      "lane": "techno-hard",
+      "anchor": "Surgeon",
+      "note": "Loop techno from a lifer, one idea machined until it shines."
+    },
+    {
+      "artist": "Oscar Mulero",
+      "title": "Grey Fades to Green",
+      "lane": "techno-hard",
+      "anchor": "Surgeon",
+      "note": "Madrid techno with the lights off and no interest in a release."
+    },
+    {
+      "artist": "Regis",
+      "title": "Blood Witness",
+      "lane": "techno-hard",
+      "anchor": "Perc",
+      "note": "Birmingham techno stripped to its bones, and the reverb is the only melody"
+    },
+    {
+      "artist": "Paula Temple",
+      "title": "Deathvox",
+      "lane": "techno-hard",
+      "anchor": "Perc",
+      "note": "Industrial weight without the cosplay, and it moves faster than it sounds."
+    },
+    {
+      "artist": "Ansome",
+      "title": "Stowaway",
+      "lane": "techno-hard",
+      "anchor": "SPFDJ",
+      "note": "British industrial techno with dirt under its nails, distortion doing rhythm-section work."
+    },
+    {
+      "artist": "Rebekah",
+      "title": "Fear Paralysis",
+      "lane": "techno-hard",
+      "anchor": "SPFDJ",
+      "note": "Built for the fourth hour of a night rather than the first."
+    },
+    {
+      "artist": "Rhyw",
+      "title": "Fill Twelve",
+      "lane": "techno-hard",
+      "anchor": "Blawan",
+      "note": "Techno with mangled vocal matter in the drums, tough from a distance and detailed up close."
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "The Bells",
+      "lane": "techno-hard",
+      "anchor": "Randomer",
+      "note": "One riff, no development, and thirty years of floors that still stop for it."
+    },
+    {
+      "artist": "Setaoc Mass",
+      "title": "Reflection",
+      "lane": "techno-hard",
+      "anchor": "Randomer",
+      "note": "Stripped club techno that trusts the kick and the room to do the work."
+    },
+    {
+      "artist": "Adam Beyer",
+      "title": "Your Mind",
+      "lane": "techno-hard",
+      "anchor": "Blawan",
+      "note": "Swedish functionalism, engineered so cleanly it barely sounds like effort."
+    },
+    {
+      "artist": "Glenn Underground",
+      "title": "Sirius",
+      "lane": "house-lineage",
+      "anchor": "Larry Heard",
+      "note": "Chicago house with real jazz in the keys, warm without going soft."
+    },
+    {
+      "artist": "Marshall Jefferson",
+      "title": "Move Your Body",
+      "lane": "house-lineage",
+      "anchor": "Larry Heard",
+      "note": "The piano house record, made on borrowed gear in a Chicago bedroom."
+    },
+    {
+      "artist": "Chez Damier",
+      "title": "Can You Feel It",
+      "lane": "house-lineage",
+      "anchor": "Kerri Chandler",
+      "note": "House that feels handed down rather than produced, gospel implied in every chord."
+    },
+    {
+      "artist": "Green Velvet",
+      "title": "Flash",
+      "lane": "house-lineage",
+      "anchor": "Theo Parrish",
+      "note": "A Chicago record about a nightclub, narrated deadpan over a rhythm that never lets up."
+    },
+    {
+      "artist": "Ron Trent",
+      "title": "Altered States",
+      "lane": "house-lineage",
+      "anchor": "Theo Parrish",
+      "note": "Chicago house that runs eleven minutes and needs every one of them"
+    },
+    {
+      "artist": "Andrés",
+      "title": "New For U",
+      "lane": "house-lineage",
+      "anchor": "Moodymann",
+      "note": "A string loop and a kick, released on his own label, and it went everywhere."
+    },
+    {
+      "artist": "Boo Williams",
+      "title": "Mortal Thoughts",
+      "lane": "house-lineage",
+      "anchor": "Omar S",
+      "note": "Raw Chicago tracking with more soul than polish, the good kind of unfinished."
+    },
+    {
+      "artist": "Kyle Hall",
+      "title": "Kaychunk",
+      "lane": "house-lineage",
+      "anchor": "Omar S",
+      "note": "Detroit swing from someone who was still a teenager when he cut it."
+    },
+    {
+      "artist": "Terrence Parker",
+      "title": "Love's Got Me High",
+      "lane": "house-lineage",
+      "anchor": "Moodymann",
+      "note": "Detroit gospel house with the piano out front, joy played completely straight."
+    },
+    {
+      "artist": "Frankie Knuckles",
+      "title": "Your Love",
+      "lane": "house-lineage",
+      "anchor": "Kerri Chandler",
+      "note": "The record the word house was more or less invented to describe."
+    },
+    {
+      "artist": "Errol Thompson",
+      "title": "Dub Fever",
+      "lane": "dub-reggae",
+      "anchor": "King Tubby",
+      "note": "From the engineer behind the African Dub series, drums and echo treated as the whole arrangement."
+    },
+    {
+      "artist": "Horace Andy",
+      "title": "Skylarking",
+      "lane": "dub-reggae",
+      "anchor": "Lee Perry",
+      "note": "That voice over a rhythm with most of the furniture removed."
+    },
+    {
+      "artist": "Keith Hudson",
+      "title": "Blood Brothers",
+      "lane": "dub-reggae",
+      "anchor": "Lee Perry",
+      "note": "The dark prince of dub, and this is the most haunted thing in the catalogue"
+    },
+    {
+      "artist": "Burning Spear",
+      "title": "Marcus Garvey",
+      "lane": "dub-reggae",
+      "anchor": "Augustus Pablo",
+      "note": "Roots reggae as history lesson, and the horns carry the argument."
+    },
+    {
+      "artist": "Yabby You",
+      "title": "Conquering Lion",
+      "lane": "dub-reggae",
+      "anchor": "Augustus Pablo",
+      "note": "Deep roots severity, a vocal that sounds carved rather than sung."
+    },
+    {
+      "artist": "The Congos",
+      "title": "Fisherman",
+      "lane": "dub-reggae",
+      "anchor": "Prince Jammy",
+      "note": "Recorded at the Black Ark with the tape running hot and the room half falling apart."
+    },
+    {
+      "artist": "Prince Far I",
+      "title": "Head of the Buffalo Soldier",
+      "lane": "dub-reggae",
+      "anchor": "Scientist",
+      "note": "That granite voice over a slow rhythm, half sermon and half growl."
+    },
+    {
+      "artist": "Mikey Dread",
+      "title": "Roots and Culture",
+      "lane": "dub-reggae",
+      "anchor": "Scientist",
+      "note": "A radio DJ who learned the desk and then out-engineered most of the engineers."
+    },
+    {
+      "artist": "Tommy McCook",
+      "title": "Rockers Almighty Dub",
+      "lane": "dub-reggae",
+      "anchor": "Prince Jammy",
+      "note": "The Skatalites saxophonist deep in the rockers era, horns floating over a rhythm stripped for parts."
+    },
+    {
+      "artist": "Linval Thompson",
+      "title": "Dread Are the Controller",
+      "lane": "dub-reggae",
+      "anchor": "King Tubby",
+      "note": "Vocal and version on one side, and the version is the better half."
+    },
+    {
+      "artist": "Voices from the Lake",
+      "title": "Silt",
+      "lane": "dub-chamber",
+      "anchor": "Donato Dozzy",
+      "note": "Two producers building one seamless hour, and it never once announces itself"
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Kobresia",
+      "lane": "ambient-drone",
+      "anchor": "Thomas Köner",
+      "note": "Recorded above the Arctic Circle and it does not let you forget that."
+    },
+    {
+      "artist": "Wolfgang Tillmans",
+      "title": "Device Control",
+      "lane": "ambient-drone",
+      "anchor": "Gas",
+      "note": "The photographer's music turns out to be all texture and dry wit, gadget-speak recited over a machine pulse."
+    },
+    {
+      "artist": "Loscil",
+      "title": "Container Ships",
+      "lane": "ambient-drone",
+      "anchor": "Stars of the Lid",
+      "note": "A slow harmonic drift with a pulse buried in it, which is exactly your tolerance."
+    },
+    {
+      "artist": "Kali Malone",
+      "title": "Sacer Boreas",
+      "lane": "ambient-drone",
+      "anchor": "Eliane Radigue",
+      "note": "Pipe organ tuned to make the room itself resonate, and it is genuinely physical"
+    },
+    {
+      "artist": "Rafael Anton Irisarri",
+      "title": "Hiatus",
+      "lane": "ambient-drone",
+      "anchor": "Huerco S.",
+      "note": "Guitar processed past recognition and then given somewhere enormous to sit."
+    },
+    {
+      "artist": "Sarah Davachi",
+      "title": "Chorus Scene",
+      "lane": "ambient-drone",
+      "anchor": "Thomas Köner",
+      "note": "Organ tones held until they start to breathe, drone with early-music manners."
+    },
+    {
+      "artist": "Grouper",
+      "title": "Heavy Water/I'd Rather Be Sleeping",
+      "lane": "ambient-drone",
+      "anchor": "Eliane Radigue",
+      "note": "A piano, a voice, and a tape hiss doing as much work as either."
+    },
+    {
+      "artist": "Celer",
+      "title": "Vestiges of an Inheritance",
+      "lane": "ambient-drone",
+      "anchor": "Stars of the Lid",
+      "note": "Soft loops that barely move and never bore, ambient made for rooms at dusk."
+    },
+    {
+      "artist": "Pole",
+      "title": "Raum",
+      "lane": "dub-chamber",
+      "anchor": "Vladislav Delay",
+      "note": "A broken filter pedal turned into an entire discography, and this is the best of it."
+    },
+    {
+      "artist": "Skee Mask",
+      "title": "Rev8617",
+      "lane": "dub-chamber",
+      "anchor": "Vladislav Delay",
+      "note": "Breakbeats and grey ambience in the same track, from the most reliable producer in Munich"
+    },
+    {
+      "artist": "Call Super",
+      "title": "Out to Rust",
+      "lane": "club-deconstructed",
+      "anchor": "Objekt",
+      "note": "Clarinet in a techno record, handled so casually you almost miss it."
+    },
+    {
+      "artist": "Overmono",
+      "title": "Bby",
+      "lane": "uk-bass",
+      "anchor": "Hodge",
+      "note": "Chopped vocals turned into the hook itself, rave euphoria at a house tempo."
+    },
+    {
+      "artist": "Beatrice Dillon",
+      "title": "Workaround Two",
+      "lane": "club-deconstructed",
+      "anchor": "Toxe",
+      "note": "Every sound placed on a grid and given room to be heard alone."
+    },
+    {
+      "artist": "Anz",
+      "title": "You Could Be",
+      "lane": "uk-bass",
+      "anchor": "Kowton",
+      "note": "Garage sunshine with a proper vocal on top, club music that grins at you."
+    },
+    {
+      "artist": "Two Shell",
+      "title": "home",
+      "lane": "club-deconstructed",
+      "anchor": "Air Max '97",
+      "note": "Anonymous, playful, and put together with a total disregard for what a club track does."
+    },
+    {
+      "artist": "Pessimist",
+      "title": "Balance",
+      "lane": "jungle-dnb",
+      "anchor": "Source Direct",
+      "note": "Greyscale drum and bass from Bristol, techno weight moved at jungle speed."
+    },
+    {
+      "artist": "Iglooghost",
+      "title": "Bug Thief",
+      "lane": "club-deconstructed",
+      "anchor": "Lorenzo Senni",
+      "note": "Cartoon speed and detail, arranged with far more care than the surface suggests."
+    },
+    {
+      "artist": "Djrum",
+      "title": "Blue Violet",
+      "lane": "ambient-drone",
+      "anchor": "Huerco S.",
+      "note": "Half ambient record and half drum workout, switching without warning and earning both"
+    },
+    {
+      "artist": "Parris",
+      "title": "Skater's World",
+      "lane": "uk-bass",
+      "anchor": "Hodge",
+      "note": "London weight with all the obvious edges filed off it."
+    },
+    {
+      "artist": "Sound of Fractures",
+      "title": "Tenacity",
+      "lane": "breaks-hardcore",
+      "anchor": "Special Request",
+      "note": "Rave breaks with real feeling in the pads, memory music that still moves forward."
+    },
+    {
+      "artist": "Acen",
+      "title": "Trip II the Moon",
+      "lane": "breaks-hardcore",
+      "anchor": "Bizarre Inc",
+      "note": "Hardcore at its most cheerfully unhinged, and the breakdown is a genuine event."
+    },
+    {
+      "artist": "Nathan Fake",
+      "title": "The Sky Was Pink",
+      "lane": "breaks-hardcore",
+      "anchor": "Luke Vibert",
+      "note": "Melodic overload from the Border Community years, synths blooming until they distort."
+    },
+    {
+      "artist": "The Prodigy",
+      "title": "Charly",
+      "lane": "breaks-hardcore",
+      "anchor": "Luke Vibert",
+      "note": "A public information film sampled into a rave record, and it went top three."
+    },
+    {
+      "artist": "Shut Up and Dance",
+      "title": "Raving I'm Raving",
+      "lane": "breaks-hardcore",
+      "anchor": "Bizarre Inc",
+      "note": "A sampled piano hook, an injunction from the original writer, and a number two single anyway."
+    },
+    {
+      "artist": "Altern 8",
+      "title": "Activ 8",
+      "lane": "breaks-hardcore",
+      "anchor": "Special Request",
+      "note": "Dust masks, a Stafford warehouse, and one of the loudest records of its year."
+    },
+    {
+      "artist": "Sam Binga",
+      "title": "Wasted Days",
+      "lane": "jungle-dnb",
+      "anchor": "Dillinja",
+      "note": "Bristol junglism with dancehall in its accent, breaks cut sharp and cheeky."
+    },
+    {
+      "artist": "Baby D",
+      "title": "Let Me Be Your Fantasy",
+      "lane": "breaks-hardcore",
+      "anchor": "Tessela",
+      "note": "A rave anthem that waited two years and then went to number one anyway."
+    },
+    {
+      "artist": "Liquid",
+      "title": "Sweet Harmony",
+      "lane": "breaks-hardcore",
+      "anchor": "Special Request",
+      "note": "One of the few rave records that is genuinely about joy rather than pressure."
+    },
+    {
+      "artist": "SL2",
+      "title": "On a Ragga Tip",
+      "lane": "breaks-hardcore",
+      "anchor": "2 Bad Mice",
+      "note": "The exact moment hardcore and ragga stopped being separate rooms."
+    },
+    {
+      "artist": "Shed",
+      "title": "The Traveller",
+      "lane": "dub-chamber",
+      "anchor": "Yagya",
+      "note": "Berlin techno with hardcore memory in its bones, rough breaks under serious chords.",
+      "why": "Berlin techno with hardcore memory in its bones, rough breaks under serious chords. It sits one room over from Yagya, who you have played 341 times, and it is the louder room."
+    },
+    {
+      "artist": "Thomas Fehlmann",
+      "title": "Making Room",
+      "lane": "dub-chamber",
+      "anchor": "Yagya",
+      "note": "Berlin patience from someone who was in the room when this sound was decided.",
+      "why": "Berlin patience from someone who was in the room when this sound was decided. Your 27.4 hours of Yagya are the same patience, a decade downstream."
+    },
+    {
+      "artist": "Simo Cell",
+      "title": "Cellar Door",
+      "lane": "uk-bass",
+      "anchor": null,
+      "label": {
+        "name": "Livity Sound",
+        "hours": 24.3,
+        "artists": 5,
+        "releases": 6
+      },
+      "note": "Nantes bass music with the low end hollowed out and the drums left to do the talking, an early single that already had the shape.",
+      "why": "Nantes bass music with the low end hollowed out and the drums left to do the talking, an early single that already had the shape. The door is Livity Sound: 24.3 hours of the label in your listening, 5 of its artists you play, and Simo Cell has 6 releases there you have never opened."
+    },
+    {
+      "artist": "Losoul",
+      "title": "Open Door",
+      "lane": "house-lineage",
+      "anchor": "DJ Sprinkles",
+      "note": "One loop, nine minutes, and the edit is the entire composition.",
+      "why": "One loop, nine minutes, and the edit is the entire composition. If DJ Sprinkles is worth 214 plays to you at an 8% skip rate, you already have the attention span this asks for."
+    },
+    {
+      "artist": "STL",
+      "title": "Silent State",
+      "lane": "dub-chamber",
+      "anchor": "Deepchord",
+      "note": "Hazy loop techno pressed out of static, music that sounds found rather than made.",
+      "why": "Hazy loop techno pressed out of static, music that sounds found rather than made. Deepchord is 38.6 hours of your listening, and this is the same weather from a farmhouse in Bavaria."
+    },
+    {
+      "artist": "Isolée",
+      "title": "Beau Mot Plage",
+      "lane": "house-lineage",
+      "anchor": "Larry Heard",
+      "note": "Microhouse with a guitar figure that has outlived the genre name.",
+      "why": "Microhouse with a guitar figure that has outlived the genre name. It shares a chord sense with Larry Heard, who you have played 588 times and almost never skip."
+    },
+    {
+      "artist": "Sven Weisemann",
+      "title": "Xine",
+      "lane": "house-lineage",
+      "anchor": "Larry Heard",
+      "note": "Delicate deep house in the Heard lineage, piano touch and no wasted gestures.",
+      "why": "Delicate deep house in the Heard lineage, piano touch and no wasted gestures. Your 41.6 hours of Larry Heard are the reason this is here, and it will not embarrass them."
+    },
+    {
+      "artist": "Ricardo Villalobos",
+      "title": "Dexter",
+      "lane": "dub-chamber",
+      "anchor": "Donato Dozzy",
+      "note": "Percussion that behaves like a conversation between people who dislike each other.",
+      "why": "Percussion that behaves like a conversation between people who dislike each other. Donato Dozzy, 398 plays deep on your shelf, is the nearest thing you own to this kind of nerve."
+    },
+    {
+      "artist": "Move D",
+      "title": "Beyond the Machine",
+      "lane": "house-lineage",
+      "anchor": "DJ Sprinkles",
+      "note": "Warm, unhurried deep house from Heidelberg, played more than programmed.",
+      "why": "Warm, unhurried deep house from Heidelberg, played more than programmed. It comes through DJ Sprinkles, 21.2 hours of your listening, and it has the same refusal to hurry."
+    },
+    {
+      "artist": "Pantha du Prince",
+      "title": "The Splendour",
+      "lane": "dub-chamber",
+      "anchor": "Fluxion",
+      "note": "Bells used as a rhythm section, and it should be twee and somehow is not.",
+      "why": "Bells used as a rhythm section, and it should be twee and somehow is not. Fluxion is the anchor, 284 plays of it, and this is the brighter end of the same dub techno idea."
+    },
+    {
+      "artist": "Bjarki",
+      "title": "I Wanna Go Bang",
+      "lane": "electro-braindance",
+      "anchor": "Aphex Twin",
+      "note": "Icelandic rave mischief, one vocal loop over a mean machine groove.",
+      "why": "Icelandic rave mischief, one vocal loop over a mean machine groove. You have played Aphex Twin 782 times, and this is the same grin with a Reykjavik accent."
+    },
+    {
+      "artist": "Ben Frost",
+      "title": "Theory of Machines",
+      "lane": "ambient-drone",
+      "anchor": "Thomas Köner",
+      "note": "Made in Reykjavik and built to sound like something structural failing slowly.",
+      "why": "Made in Reykjavik and built to sound like something structural failing slowly. Thomas Köner is the anchor, 22.4 hours of him on your shelf, and this is his cold with a pulse in it."
+    },
+    {
+      "artist": "Rod Modell",
+      "title": "Captagon",
+      "lane": "dub-chamber",
+      "anchor": "Deepchord",
+      "note": "Dub techno recorded in the wettest possible room, and the reverb never fully clears",
+      "why": "Dub techno recorded in the wettest possible room, and the reverb never fully clears. It is the Deepchord producer under his own name, and you have given Deepchord 452 plays, so the room will feel familiar."
+    },
+    {
+      "artist": "Jóhann Jóhannsson",
+      "title": "Odi et Amo",
+      "lane": "ambient-drone",
+      "anchor": "Eliane Radigue",
+      "note": "Strings and a vocoder reading Latin, from the other end of the same island.",
+      "why": "Strings and a vocoder reading Latin, from the other end of the same island. Your 18.6 hours of Eliane Radigue say you can sit still for this."
+    },
+    {
+      "artist": "Kettel",
+      "title": "Cameltoe",
+      "lane": "electro-braindance",
+      "anchor": "DMX Krew",
+      "note": "Dutch braindance at its sweetest, toy-box melody over gently broken drums.",
+      "why": "Dutch braindance at its sweetest, toy-box melody over gently broken drums. DMX Krew is 428 plays deep in your record; this is the same machinery in a better mood."
+    },
+    {
+      "artist": "Actress",
+      "title": "Hubble",
+      "lane": "club-deconstructed",
+      "anchor": "Objekt",
+      "note": "Everything sounds like it was recovered from a corrupted drive, deliberately.",
+      "why": "Everything sounds like it was recovered from a corrupted drive, deliberately. Objekt, 468 plays and a 16% skip rate, is the closest neighbour, and this is stranger still."
+    },
+    {
+      "artist": "Bvdub",
+      "title": "The First Day",
+      "lane": "ambient-drone",
+      "anchor": "Gas",
+      "note": "One idea held for twenty minutes with total conviction, which is the whole appeal",
+      "why": "One idea held for twenty minutes with total conviction, which is the whole appeal. Gas is 58.4 hours of your listening and you skip it 6% of the time; this asks for the same trust."
+    },
+    {
+      "artist": "Demdike Stare",
+      "title": "Forest of Evil",
+      "lane": "ambient-drone",
+      "anchor": "Huerco S.",
+      "note": "Two record collectors building dread out of other people's tape.",
+      "why": "Two record collectors building dread out of other people's tape. Huerco S. is the anchor at 342 plays, the hiss without the horror."
+    },
+    {
+      "artist": "Andy Stott",
+      "title": "Numb",
+      "lane": "dub-chamber",
+      "anchor": "Vladislav Delay",
+      "note": "Manchester murk at half speed, a voice suspended in tape sludge.",
+      "why": "Manchester murk at half speed, a voice suspended in tape sludge. Vladislav Delay, 41.8 hours on your shelf, is the same swamp from the Finnish side."
+    },
+    {
+      "artist": "Pangaea",
+      "title": "Bone Sucka",
+      "lane": "uk-bass",
+      "anchor": null,
+      "label": {
+        "name": "Hessle Audio",
+        "hours": 31.8,
+        "artists": 7,
+        "releases": 4
+      },
+      "note": "One of the Hessle founders on his own label, a rude little vocal chop over drums that never resolve into a straight beat.",
+      "why": "One of the Hessle founders on his own label, a rude little vocal chop over drums that never resolve into a straight beat. Hessle Audio is 31.8 hours of your listening across 7 of its artists, and Pangaea has 4 releases there you have never opened."
+    }
+  ],
+  "mixes": [
+    {
+      "show": "NTS Radio",
+      "host": "Ben UFO",
+      "date": "2026-05-16",
+      "lane": "uk-bass",
+      "tracks_total": 34,
+      "known": 11,
+      "anchor": "Peverelist",
+      "note": "The most trusted selector in the country, moving between decades without a seam"
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Sherelle",
+      "date": "2026-05-20",
+      "lane": "jungle-dnb",
+      "tracks_total": 38,
+      "known": 9,
+      "anchor": "Tim Reaper",
+      "note": "Sherelle doing what she does, jungle and footwork at full sprint with the joy left in."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Tim Reaper",
+      "date": "2026-05-27",
+      "lane": "jungle-dnb",
+      "tracks_total": 41,
+      "known": 12,
+      "anchor": "Dillinja",
+      "note": "Tim Reaper treating jungle as a living style rather than an archive, new dubs cut in the old grammar."
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Pinch",
+      "date": "2026-05-30",
+      "lane": "uk-bass",
+      "tracks_total": 29,
+      "known": 10,
+      "anchor": "Pinch",
+      "note": "Pinch keeping Bristol's low end honest, dubplate weight with the patience to let tunes play out."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Ossia",
+      "date": "2026-06-03",
+      "lane": "uk-bass",
+      "tracks_total": 26,
+      "known": 7,
+      "anchor": "Loefah",
+      "note": "Bristol dub weight played at half speed, with room to breathe between every record"
+    },
+    {
+      "show": "The Lot Radio",
+      "host": "DJ Python",
+      "date": "2026-06-06",
+      "lane": "dub-chamber",
+      "tracks_total": 22,
+      "known": 6,
+      "anchor": "Deepchord",
+      "note": "DJ Python drifting through the ambient end of his record bag, dembow softened into weather."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Helena Hauff",
+      "date": "2026-06-10",
+      "lane": "electro-braindance",
+      "tracks_total": 31,
+      "known": 8,
+      "anchor": "Drexciya",
+      "note": "Helena Hauff at her most direct, electro and acid played loud and unsentimental."
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Objekt",
+      "date": "2026-06-13",
+      "lane": "club-deconstructed",
+      "tracks_total": 27,
+      "known": 5,
+      "anchor": "Objekt",
+      "note": "A producer with perfect technical control choosing to make the mix feel unstable"
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Aya",
+      "date": "2026-06-17",
+      "lane": "club-deconstructed",
+      "tracks_total": 24,
+      "known": 4,
+      "anchor": "Toxe",
+      "note": "Aya pulling club music apart in real time, funny and rude and precise about it."
+    },
+    {
+      "show": "Balamii",
+      "host": "Kessler",
+      "date": "2026-06-20",
+      "lane": "techno-hard",
+      "tracks_total": 30,
+      "known": 9,
+      "anchor": "Blawan",
+      "note": "Kessler moving between broken drums and straight techno weight without dropping the thread."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Moodymann",
+      "date": "2026-06-24",
+      "lane": "house-lineage",
+      "tracks_total": 25,
+      "known": 8,
+      "anchor": "Theo Parrish",
+      "note": "Detroit records played by the man who lives there, with all the talking left in"
+    },
+    {
+      "show": "Worldwide FM",
+      "host": "Bradley Zero",
+      "date": "2026-06-27",
+      "lane": "house-lineage",
+      "tracks_total": 23,
+      "known": 7,
+      "anchor": "Kerri Chandler",
+      "note": "Bradley Zero in collector mode, deep house sequenced with a host's instincts."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Scientist",
+      "date": "2026-07-01",
+      "lane": "dub-reggae",
+      "tracks_total": 20,
+      "known": 6,
+      "anchor": "King Tubby",
+      "note": "Scientist at the controls again, classic rhythms rebuilt live with the echo doing the talking."
+    },
+    {
+      "show": "Dublab",
+      "host": "Carlos Niño",
+      "date": "2026-07-04",
+      "lane": "ambient-drone",
+      "tracks_total": 18,
+      "known": 5,
+      "anchor": "Stars of the Lid",
+      "note": "Carlos Niño's cosmic Los Angeles hour, percussion and chimes scattered over long ambient light."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Kali Malone",
+      "date": "2026-07-08",
+      "lane": "ambient-drone",
+      "tracks_total": 14,
+      "known": 3,
+      "anchor": "Eliane Radigue",
+      "note": "A composer playing the drone records that taught her, which is the most useful kind of show"
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Anz",
+      "date": "2026-07-11",
+      "lane": "uk-bass",
+      "tracks_total": 33,
+      "known": 10,
+      "anchor": "Kowton",
+      "note": "Anz mixing bright and quick, garage and bass records stacked with no dead air."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Skee Mask",
+      "date": "2026-07-15",
+      "lane": "dub-chamber",
+      "tracks_total": 28,
+      "known": 7,
+      "anchor": "Vladislav Delay",
+      "note": "Skee Mask deep in the ambient and dub end of his collection, breaks kept soft and half buried."
+    },
+    {
+      "show": "Balamii",
+      "host": "Sam Binga",
+      "date": "2026-07-18",
+      "lane": "jungle-dnb",
+      "tracks_total": 35,
+      "known": 11,
+      "anchor": "Sully",
+      "note": "Sam Binga rolling through modern jungle with a Bristol accent, halftime detours included."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Special Request",
+      "date": "2026-07-22",
+      "lane": "breaks-hardcore",
+      "tracks_total": 32,
+      "known": 9,
+      "anchor": "Special Request",
+      "note": "Pirate radio recreated by someone who was actually on it the first time"
+    },
+    {
+      "show": "Rinse FM",
+      "host": "Batu",
+      "date": "2026-07-25",
+      "lane": "uk-bass",
+      "tracks_total": 26,
+      "known": 8,
+      "anchor": "Batu",
+      "note": "Batu road-testing the new Bristol grammar, drums first and always swinging."
+    },
+    {
+      "show": "NTS Radio",
+      "host": "Surgeon",
+      "date": "2026-07-29",
+      "lane": "techno-hard",
+      "tracks_total": 29,
+      "known": 8,
+      "anchor": "Surgeon",
+      "note": "Surgeon mixing like the room is full, hard techno handled with an improviser's ear."
+    },
+    {
+      "show": "The Lot Radio",
+      "host": "Eris Drew",
+      "date": "2026-08-01",
+      "lane": "house-lineage",
+      "tracks_total": 21,
+      "known": 5,
+      "anchor": "Omar S",
+      "note": "Eris Drew's ecstatic house history lesson, breakbeats and piano and open-hearted mixing."
+    },
+    {
+      "show": "All Fruits Ripe",
+      "host": "Jack Sapsed",
+      "episode": "with Jack Sapsed",
+      "station": "NTS",
+      "date": "2026-07-13",
+      "lane": "dub-reggae",
+      "tracks_total": 12,
+      "known": 3,
+      "anchor": "Augustus Pablo",
+      "url": "https://www.nts.live/shows/all-fruits-ripe/episodes/all-fruits-ripe-13th-july-2026",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/9b50e4c0-053c-40dd-8286-661c13b3d1e3_1784160000.png",
+      "note": "Swamp dub and forest noise from the Bristol label that treats a riddim as a place to get lost. Rhythm & Sound is the reference point, everything else is further out.",
+      "why": "Jack Sapsed's monthly hour of sideways sounds on NTS, this one leaning hard into steppers and dub, Iration Steppas to Jonah Dan. Twelve tracks, 3 by artists you play and 9 you have never heard, and Augustus Pablo, 296 plays on your shelf, is the bridge."
+    },
+    {
+      "show": "Martelo",
+      "host": "Martelo",
+      "episode": "Martelo",
+      "station": "NTS",
+      "date": "2026-07-29",
+      "lane": "uk-bass",
+      "tracks_total": 15,
+      "known": 4,
+      "anchor": "Pinch",
+      "url": "https://www.nts.live/shows/martelo/episodes/martelo-29th-july-2026",
+      "listen_urls": [],
+      "cover_url": "https://media2.ntslive.co.uk/resize/800x800/7a919626-4978-465b-8c4f-bb4083dce0bc_1785283200.jpeg",
+      "note": "Martelo joining the dots between grime, funky and garage at speed, the whole UK lineage in one sitting. Pinch is where your shelf meets it.",
+      "why": "Martelo joining the dots between grime, garage and whatever came out this week, El-B next to TSVI. Fifteen tracks, 4 by names you play and 11 you do not, and Pinch at 812 plays is where your shelf meets it."
+    },
+    {
+      "show": "Essential Mix",
+      "host": "4am Kru",
+      "episode": "4am Kru",
+      "station": "BBC Radio 1",
+      "date": "2026-08-15",
+      "lane": "jungle-dnb",
+      "tracks_total": 40,
+      "known": 9,
+      "anchor": "Tim Reaper",
+      "url": "https://www.mixesdb.com/w/2026-08-15_-_4am_Kru_-_Essential_Mix",
+      "listen_urls": [
+        "https://youtu.be/yZHcLXIb6ic"
+      ],
+      "cover_url": "https://i.ytimg.com/vi/yZHcLXIb6ic/maxresdefault.jpg",
+      "note": "Two hours of jungle revival from the crew that made it a party again, chopped breaks and dub pressure all the way down. Tim Reaper is the door this came through.",
+      "why": "Two hours of jungle revival from the crew that made it a party again, chopped breaks and dub pressure all the way down. 40 tracks, 9 by artists you already play and 31 you have never heard, and Tim Reaper at 618 plays is the door this came through."
+    },
+    {
+      "show": "Positive Vibrations",
+      "host": "Kid Hops",
+      "episode": "with Kid Hops",
+      "station": "KEXP",
+      "date": "2026-08-15",
+      "lane": "dub-reggae",
+      "tracks_total": 54,
+      "known": 10,
+      "anchor": "King Tubby",
+      "url": "https://www.kexp.org/playlist/2026/8/15/#show-67532",
+      "listen_urls": [],
+      "cover_url": "https://www.kexp.org/media/filer_public/d5/7b/d57b843f-7313-4af3-b52a-8a52db6ce769/kidhops_800x800.jpg",
+      "note": "Seattle's long-running reggae programme, deep in the roots and versions end of the record shop. King Tubby is the name you know; the rest were mixed in his shadow.",
+      "why": "Kid Hops on KEXP's Saturday reggae programme, Horace Andy and Burning Spear next to this year's dancehall. 54 tracks, 10 by artists you play and 44 you have never heard, with King Tubby's 428 plays as the foothold."
+    }
+  ],
+  "revivals": [
+    {
+      "artist": "Surgeon",
+      "title": "Krautrock",
+      "album": "Force + Form",
+      "plays": 68,
+      "last_played": "2024-05-12",
+      "lane": "techno-hard",
+      "note": "Played into the ground one spring and then dropped along with the whole lane"
+    },
+    {
+      "artist": "Perc",
+      "title": "Dumpster",
+      "album": "The Power and the Glory",
+      "plays": 54,
+      "last_played": "2024-03-08",
+      "lane": "techno-hard",
+      "note": "The nastiest cut on The Power and the Glory, all grind and intent, waiting where you left it."
+    },
+    {
+      "artist": "Blawan",
+      "title": "Getting Me Down",
+      "album": null,
+      "plays": 47,
+      "last_played": "2023-11-19",
+      "lane": "techno-hard",
+      "note": "Blawan bending a pop vocal around that lurching kick, and you have left it alone for ages."
+    },
+    {
+      "artist": "Basic Channel",
+      "title": "Phylyps Trak",
+      "album": null,
+      "plays": 61,
+      "last_played": "2024-07-21",
+      "lane": "dub-chamber",
+      "note": "Foundation Berlin dub techno, the chord stab a whole genre keeps trying to find again."
+    },
+    {
+      "artist": "Rhythm & Sound",
+      "title": "Never Tell You",
+      "album": "With the Artists",
+      "plays": 58,
+      "last_played": "2024-06-14",
+      "lane": "dub-chamber",
+      "note": "One of the most-played things in the whole record, and silent for two years"
+    },
+    {
+      "artist": "Vladislav Delay",
+      "title": "Kuula",
+      "album": "Multila",
+      "plays": 43,
+      "last_played": "2024-02-25",
+      "lane": "dub-chamber",
+      "note": "Dub techno dissolved into mist on Multila, and it has drifted out of your nights."
+    },
+    {
+      "artist": "Photek",
+      "title": "Ni Ten Ichi Ryu",
+      "album": "Modus Operandi",
+      "plays": 52,
+      "last_played": "2024-04-16",
+      "lane": "jungle-dnb",
+      "note": "The most-played drum pattern in your entire record, and untouched for two years"
+    },
+    {
+      "artist": "Goldie",
+      "title": "Inner City Life",
+      "album": "Timeless",
+      "plays": 39,
+      "last_played": "2023-12-03",
+      "lane": "jungle-dnb",
+      "note": "Diane Charlemagne's voice over rolling breaks, still the emotional centre of the whole style."
+    },
+    {
+      "artist": "Dillinja",
+      "title": "The Angels Fell",
+      "album": null,
+      "plays": 34,
+      "last_played": "2024-01-28",
+      "lane": "jungle-dnb",
+      "note": "Blade Runner atmosphere over surgical breaks, and it has gone quiet in your listening."
+    },
+    {
+      "artist": "Pinch",
+      "title": "Qawwali",
+      "album": null,
+      "plays": 45,
+      "last_played": "2024-08-09",
+      "lane": "uk-bass",
+      "note": "The dubstep track that still sounds like nothing else, and you stopped playing it"
+    },
+    {
+      "artist": "Mala",
+      "title": "Changes",
+      "album": "Mala in Cuba",
+      "plays": 37,
+      "last_played": "2024-05-26",
+      "lane": "uk-bass",
+      "note": "That melancholy little melody over halftime sway, one of the most tender things dubstep produced."
+    },
+    {
+      "artist": "Loefah",
+      "title": "Mud",
+      "album": null,
+      "plays": 41,
+      "last_played": "2023-10-15",
+      "lane": "uk-bass",
+      "note": "Halfstep reduced to bass and menace, still the blueprint."
+    },
+    {
+      "artist": "Drexciya",
+      "title": "Bubble Metropolis",
+      "album": null,
+      "plays": 36,
+      "last_played": "2024-03-31",
+      "lane": "electro-braindance",
+      "note": "Aquatic electro transmissions at their most vivid, and you have stayed on dry land lately."
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "album": "Selected Ambient Works 85-92",
+      "plays": 49,
+      "last_played": "2024-06-08",
+      "lane": "electro-braindance",
+      "note": "Worn smooth from repetition and then set down completely"
+    },
+    {
+      "artist": "DMX Krew",
+      "title": "You Can't Hide Your Love",
+      "album": null,
+      "plays": 28,
+      "last_played": "2023-11-26",
+      "lane": "electro-braindance",
+      "note": "Rephlex synth-pop played completely sincere, a love song from the machines."
+    },
+    {
+      "artist": "Gas",
+      "title": "Pop 1",
+      "album": "Pop",
+      "plays": 44,
+      "last_played": "2024-07-14",
+      "lane": "ambient-drone",
+      "note": "An hour-long track played twice a week for a year, and then not once since"
+    },
+    {
+      "artist": "Stars of the Lid",
+      "title": "Requiem for Dying Mothers",
+      "album": null,
+      "plays": 38,
+      "last_played": "2024-04-07",
+      "lane": "ambient-drone",
+      "note": "Played on repeat through one difficult winter and not since it ended"
+    },
+    {
+      "artist": "Huerco S.",
+      "title": "A Sea of Love",
+      "album": null,
+      "plays": 31,
+      "last_played": "2024-02-11",
+      "lane": "ambient-drone",
+      "note": "Huerco S. ambient that moves like heat haze, and it has slipped out of your evenings."
+    },
+    {
+      "artist": "Larry Heard",
+      "title": "Can You Feel It",
+      "album": null,
+      "plays": 42,
+      "last_played": "2024-08-18",
+      "lane": "house-lineage",
+      "note": "The record the whole lane rests on, and it has been sitting untouched for a year"
+    },
+    {
+      "artist": "Theo Parrish",
+      "title": "Overyohead",
+      "album": null,
+      "plays": 33,
+      "last_played": "2024-05-05",
+      "lane": "house-lineage",
+      "note": "Theo Parrish house at walking pace, rough edges kept in because they are the point."
+    },
+    {
+      "artist": "Moodymann",
+      "title": "I Can't Kick This Feelin",
+      "album": null,
+      "plays": 29,
+      "last_played": "2023-12-17",
+      "lane": "house-lineage",
+      "note": "Detroit house that loops one confession until it becomes a place to live."
+    },
+    {
+      "artist": "Kerri Chandler",
+      "title": "Rain",
+      "album": null,
+      "plays": 46,
+      "last_played": "2024-06-30",
+      "lane": "house-lineage",
+      "note": "A deep house record about weather that got played through an entire wet spring"
+    },
+    {
+      "artist": "King Tubby",
+      "title": "Dub Fi Gwan",
+      "album": null,
+      "plays": 27,
+      "last_played": "2024-03-17",
+      "lane": "dub-reggae",
+      "note": "Tubby's desk in full flight, a rhythm dismantled and rebuilt before it can land."
+    },
+    {
+      "artist": "Scientist",
+      "title": "Your Teeth in My Neck",
+      "album": null,
+      "plays": 32,
+      "last_played": "2024-07-28",
+      "lane": "dub-reggae",
+      "note": "Horror-titled, sweet-natured dub from the vampire album, the Radics rhythm carrying it easy."
+    },
+    {
+      "artist": "Augustus Pablo",
+      "title": "King Tubby Meets Rockers Uptown",
+      "album": null,
+      "plays": 35,
+      "last_played": "2024-01-14",
+      "lane": "dub-reggae",
+      "note": "Melodica and echo in perfect balance, still the version most people mean when they say dub."
+    },
+    {
+      "artist": "Objekt",
+      "title": "Ganzfeld",
+      "album": null,
+      "plays": 26,
+      "last_played": "2024-04-21",
+      "lane": "club-deconstructed",
+      "note": "Objekt engineering at its most spacious, a track that seems to rewire the room around it."
+    },
+    {
+      "artist": "Toxe",
+      "title": "Cinderella",
+      "album": null,
+      "plays": 22,
+      "last_played": "2023-10-29",
+      "lane": "club-deconstructed",
+      "note": "Glass-edged club minimalism, pretty and unsettling at once."
+    },
+    {
+      "artist": "Lorenzo Senni",
+      "title": "Elegant and Never Tiring",
+      "album": null,
+      "plays": 24,
+      "last_played": "2024-02-04",
+      "lane": "club-deconstructed",
+      "note": "Kickless trance euphoria held under glass, rave stabs with nowhere to land."
+    },
+    {
+      "artist": "Special Request",
+      "title": "Lolita",
+      "album": null,
+      "plays": 30,
+      "last_played": "2024-05-19",
+      "lane": "breaks-hardcore",
+      "note": "Wore this out over one winter of late trains and has not gone back to it"
+    },
+    {
+      "artist": "Luke Vibert",
+      "title": "Vibert Rides Again",
+      "album": null,
+      "plays": 25,
+      "last_played": "2023-11-12",
+      "lane": "breaks-hardcore",
+      "note": "Vibert doing what only he does, acid and breaks and a grin you can hear."
+    },
+    {
+      "artist": "Bizarre Inc",
+      "title": "Playing With Knives",
+      "album": null,
+      "plays": 21,
+      "last_played": "2024-01-07",
+      "lane": "breaks-hardcore",
+      "note": "The rave piano anthem itself, still unreasonably effective."
+    },
+    {
+      "artist": "Tim Reaper",
+      "title": "Metallic Rain",
+      "album": null,
+      "plays": 40,
+      "last_played": "2024-08-04",
+      "lane": "jungle-dnb",
+      "note": "Played constantly while the jungle habit was forming, then dropped once it settled"
+    },
+    {
+      "artist": "Sully",
+      "title": "Swandive",
+      "album": null,
+      "plays": 23,
+      "last_played": "2024-03-24",
+      "lane": "jungle-dnb",
+      "note": "Sully at his most weightless, breaks that fall and keep falling."
+    },
+    {
+      "artist": "Batu",
+      "title": "Marlow",
+      "album": null,
+      "plays": 28,
+      "last_played": "2024-06-16",
+      "lane": "uk-bass",
+      "note": "Bristol drum science with the low end implied as much as played, and you have let it lapse."
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Roll With the Punches",
+      "album": null,
+      "plays": 37,
+      "last_played": "2024-07-07",
+      "lane": "uk-bass",
+      "note": "Bristol drums at their most patient, and a track you used to open everything with"
+    },
+    {
+      "artist": "Kowton",
+      "title": "Shuffle Good",
+      "album": null,
+      "plays": 26,
+      "last_played": "2024-02-18",
+      "lane": "uk-bass",
+      "note": "Blunt Bristol drums, function raised to the level of style."
+    },
+    {
+      "artist": "Deepchord",
+      "title": "Vantage Isle",
+      "album": null,
+      "plays": 33,
+      "last_played": "2024-05-12",
+      "lane": "dub-chamber",
+      "note": "Detroit dub techno thick as lake fog, chords looping somewhere below visibility."
+    },
+    {
+      "artist": "Yagya",
+      "title": "Snowflake 1",
+      "album": null,
+      "plays": 29,
+      "last_played": "2024-04-28",
+      "lane": "dub-chamber",
+      "note": "Icelandic dub techno soft as weather, snowfall looped into rhythm."
+    },
+    {
+      "artist": "Donato Dozzy",
+      "title": "Menta",
+      "album": null,
+      "plays": 31,
+      "last_played": "2024-08-11",
+      "lane": "dub-chamber",
+      "note": "Dozzy hypnosis in miniature, one pattern breathing for as long as you let it."
+    }
+  ],
+  "releases": [
+    {
+      "artist": "Objekt",
+      "title": "Chalk Line",
+      "release_type": "single",
+      "note": "Objekt releases rarely and it is always worth stopping for."
+    },
+    {
+      "artist": "Batu",
+      "title": "Inertia",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Tim Reaper",
+      "title": "Cosmic Void",
+      "release_type": "album",
+      "note": "A full jungle album rather than a plate, which he almost never does."
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Pulse X Series",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Vladislav Delay",
+      "title": "Rakka III",
+      "release_type": "album",
+      "note": "Uploaded without warning, as always, and worth clearing an evening for."
+    },
+    {
+      "artist": "Hodge",
+      "title": "Lucid Bloom",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Kowton",
+      "title": "Loos in Twos",
+      "release_type": "ep",
+      "note": "Kowton in club-tool mode, blunt drum funk that does its job and leaves."
+    },
+    {
+      "artist": "Huerco S.",
+      "title": "Plonk II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Ulla",
+      "title": "Foam",
+      "release_type": "album",
+      "note": "Ambient assembled from offcuts, and the seams are the best part."
+    },
+    {
+      "artist": "Eliane Radigue",
+      "title": "All Life Long",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Thomas Köner",
+      "title": "The Head as Form'd in the Crier's Choir",
+      "release_type": "album",
+      "note": "Köner builds cold you can stand inside, drone as geography more than music."
+    },
+    {
+      "artist": "Larry Heard",
+      "title": "Cerebral Hemispheres II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Theo Parrish",
+      "title": "DJ-Kicks",
+      "release_type": "compilation",
+      "note": "A mix rather than a record, and he sequences like nobody else alive."
+    },
+    {
+      "artist": "Moodymann",
+      "title": "Taken Away II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Kerri Chandler",
+      "title": "Spaces and Places Vol. 2",
+      "release_type": "album",
+      "note": "The last volume was recorded in a different club every night."
+    },
+    {
+      "artist": "Omar S",
+      "title": "Can't Change",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "DJ Sprinkles",
+      "title": "Gayest Tits",
+      "release_type": "compilation",
+      "note": "Sprinkles' deep house as essay and refuge at once, long mixes that insist the dance floor has politics."
+    },
+    {
+      "artist": "Surgeon",
+      "title": "Crash Recoil",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Blawan",
+      "title": "Dismantled Into Juice",
+      "release_type": "ep",
+      "note": "Drums made from sounds that should not be musical at all."
+    },
+    {
+      "artist": "SPFDJ",
+      "title": "Intrepid Skin",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Perc",
+      "title": "The Cut Off",
+      "release_type": "album",
+      "note": "Perc's industrial techno still argues with the room, noise shaped until it grooves."
+    },
+    {
+      "artist": "Special Request",
+      "title": "Offworld",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Luke Vibert",
+      "title": "Modern Rave",
+      "release_type": "album",
+      "note": "Vibert flipping rave nostalgia into new tunes, acid lines with a wink built in."
+    },
+    {
+      "artist": "Drexciya",
+      "title": "Journey of the Deep Sea Dweller",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Blackbox Life Recorder",
+      "release_type": "ep",
+      "note": "Still finding new corners in the same machines after all this time."
+    },
+    {
+      "artist": "DMX Krew",
+      "title": "Loose Gears",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Ceephax Acid Crew",
+      "title": "Camelot",
+      "release_type": "album",
+      "note": "Ceephax acid with its heart on its sleeve, arcade melancholy over boxes pushed hard."
+    },
+    {
+      "artist": "Dopplereffekt",
+      "title": "Neurotelepathy",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Rhythm & Sound",
+      "title": "See Mi Yah Remixes",
+      "release_type": "compilation",
+      "note": "The Berlin to Kingston axis revisited, one rhythm versioned until it becomes a philosophy."
+    },
+    {
+      "artist": "Basic Channel",
+      "title": "Quadrant Dub Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Vladislav Delay",
+      "title": "Multila Reissue",
+      "release_type": "compilation",
+      "note": "Multila back within reach, dub techno at its most eroded and underwater."
+    },
+    {
+      "artist": "Deepchord",
+      "title": "Functional Extraits",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Yagya",
+      "title": "Sleepygirls",
+      "release_type": "album",
+      "note": "Yagya's softest mode, dub techno that works as well asleep as awake."
+    },
+    {
+      "artist": "Donato Dozzy",
+      "title": "Magda",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Fluxion",
+      "title": "Perspectives",
+      "release_type": "album",
+      "note": "Dub techno from the quiet end of the Chain Reaction family."
+    },
+    {
+      "artist": "Pinch",
+      "title": "Reality Tunnels",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Mala",
+      "title": "Mirrors II",
+      "release_type": "album",
+      "note": "Sub bass recorded in another country again, which always suits him."
+    },
+    {
+      "artist": "Loefah",
+      "title": "Swamp Archive",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Kowton",
+      "title": "Utility II",
+      "release_type": "album",
+      "note": "Kowton back in album mode, grey-toned club functionalism with more warmth than it admits."
+    },
+    {
+      "artist": "Sully",
+      "title": "Blue",
+      "release_type": "ep",
+      "note": null
+    },
+    {
+      "artist": "Photek",
+      "title": "Form & Function Vol. 3",
+      "release_type": "album",
+      "note": "The third volume of remixes, and the first two are canon."
+    },
+    {
+      "artist": "Source Direct",
+      "title": "Exorcise the Demons II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Dillinja",
+      "title": "Valve Sound System Archive",
+      "release_type": "compilation",
+      "note": "Dillinja cuts built for the sound system he designed himself, bass treated as an engineering discipline."
+    },
+    {
+      "artist": "Goldie",
+      "title": "The Journey Man II",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Toxe",
+      "title": "Vanity Project",
+      "release_type": "ep",
+      "note": "Club music that keeps dissolving before the drop, deliberately."
+    },
+    {
+      "artist": "Air Max '97",
+      "title": "Horizon Scanning",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Lorenzo Senni",
+      "title": "Canone Infinito II",
+      "release_type": "album",
+      "note": "Senni's pointillist trance studies continue, all build and no release, and lovelier for it."
+    },
+    {
+      "artist": "Yves Tumor",
+      "title": "Praise a Lord Who Bleeds",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "King Tubby",
+      "title": "Dub From the Roots Reissue",
+      "release_type": "compilation",
+      "note": "Remastered from the original tapes for the first time."
+    },
+    {
+      "artist": "Scientist",
+      "title": "Dub in the Roots Tradition",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Augustus Pablo",
+      "title": "Rockers Meets King Tubbys",
+      "release_type": "compilation",
+      "note": "Melodica lines over Tubby-treated rhythms, roots and echo in their classic proportions."
+    },
+    {
+      "artist": "Lee Perry",
+      "title": "Black Ark Archives",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Prince Jammy",
+      "title": "Kamikaze Dub Reissue",
+      "release_type": "compilation",
+      "note": "Jammy in his dub prime, drums dropped out and slammed back with total confidence."
+    },
+    {
+      "artist": "Bizarre Inc",
+      "title": "Rave Archive",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Randomer",
+      "title": "Bring II",
+      "release_type": "ep",
+      "note": "Randomer doing drum design as dance music, every hit tuned and mean."
+    },
+    {
+      "artist": "Gas",
+      "title": "Rausch Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Stars of the Lid",
+      "title": "Gasoline Age Reissue",
+      "release_type": "compilation",
+      "note": "Guitar drone arranged like chamber music, back in print at last."
+    },
+    {
+      "artist": "Thomas Köner",
+      "title": "Motus",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Eliane Radigue",
+      "title": "Occam Ocean Vol. 5",
+      "release_type": "album",
+      "note": "A new set of Occam pieces, acoustic players holding Radigue's long tones like held breath."
+    },
+    {
+      "artist": "Gescom",
+      "title": "Minidisc Reissue",
+      "release_type": "compilation",
+      "note": null
+    },
+    {
+      "artist": "Objekt",
+      "title": "Split Tape",
+      "release_type": "ep",
+      "note": "Objekt in short form, sound design so dense it rewards headphones and the big room equally."
+    },
+    {
+      "artist": "Toxe",
+      "title": "A World of Service",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Devil's Dance",
+      "release_type": "album",
+      "note": "The Bristol dub record everyone has been waiting on."
+    },
+    {
+      "artist": "Batu",
+      "title": "Sonder Contour",
+      "release_type": "album",
+      "note": null
+    },
+    {
+      "artist": "Hodge",
+      "title": "Blush II",
+      "release_type": "album",
+      "note": "Hodge on the melodic end of his range, big-room weight with light coming through it."
+    }
+  ],
+  "catalogs": [
+    {
+      "artist": "Basic Channel",
+      "unique_tracks": 12,
+      "top3_share": 62,
+      "heard": [
+        "Phylyps Trak",
+        "Q1.1",
+        "Octagon"
+      ],
+      "unheard": [
+        {
+          "title": "BCD-2",
+          "year": 2008
+        },
+        {
+          "title": "Radiance",
+          "year": 1995
+        }
+      ],
+      "note": "A catalogue of twelve records total, and you have somehow only played half of them."
+    },
+    {
+      "artist": "King Tubby",
+      "unique_tracks": 28,
+      "top3_share": 48,
+      "heard": [
+        "Dub Fi Gwan",
+        "King Tubby Meets Rockers Uptown",
+        "A Rougher Version"
+      ],
+      "unheard": [
+        {
+          "title": "Dub Gone Crazy",
+          "year": 1981
+        },
+        {
+          "title": "The Roots of Dub",
+          "year": 1975
+        }
+      ],
+      "note": "The most important engineer in music, and the albums under his own name are unopened."
+    },
+    {
+      "artist": "Larry Heard",
+      "unique_tracks": 34,
+      "top3_share": 41,
+      "heard": [
+        "Can You Feel It",
+        "Mystery of Love",
+        "Washing Machine"
+      ],
+      "unheard": [
+        {
+          "title": "Sceneries Not Songs Vol. 2",
+          "year": 1996
+        },
+        {
+          "title": "Genesis",
+          "year": 1999
+        }
+      ],
+      "note": "The hits get played constantly and the ambient records he loves most get skipped."
+    },
+    {
+      "artist": "Aphex Twin",
+      "unique_tracks": 47,
+      "top3_share": 38,
+      "heard": [
+        "Xtal",
+        "Windowlicker",
+        "Avril 14th",
+        "Rhubarb"
+      ],
+      "unheard": [
+        {
+          "title": "Drukqs",
+          "year": 2001
+        },
+        {
+          "title": "Syro",
+          "year": 2014
+        }
+      ],
+      "note": "An enormous catalogue reduced to the four tracks everyone knows, which is a waste."
+    },
+    {
+      "artist": "Photek",
+      "unique_tracks": 22,
+      "top3_share": 53,
+      "heard": [
+        "Ni Ten Ichi Ryu",
+        "The Hidden Camera",
+        "Rings Around Saturn"
+      ],
+      "unheard": [
+        {
+          "title": "Solaris",
+          "year": 2000
+        },
+        {
+          "title": "Ku:Palm",
+          "year": 2012
+        }
+      ],
+      "note": "Two albums heard and three never opened, and the unheard ones are the strange ones."
+    },
+    {
+      "artist": "Theo Parrish",
+      "unique_tracks": 39,
+      "top3_share": 36,
+      "heard": [
+        "Overyohead",
+        "Falling Up",
+        "Synthetic Flemm"
+      ],
+      "unheard": [
+        {
+          "title": "American Intelligence",
+          "year": 2014
+        },
+        {
+          "title": "Sound Sculptures Vol. 1",
+          "year": 2007
+        }
+      ],
+      "note": "You play the twelve-inches and never the albums, which is where he actually stretches out."
+    },
+    {
+      "artist": "Gas",
+      "unique_tracks": 9,
+      "top3_share": 71,
+      "heard": [
+        "Pop 1",
+        "Pop 2",
+        "Zauberberg I"
+      ],
+      "unheard": [
+        {
+          "title": "Narkopop",
+          "year": 2017
+        },
+        {
+          "title": "Der Lange Marsch",
+          "year": 2021
+        }
+      ],
+      "note": "Nine long tracks in your listening and the two most recent records untouched."
+    },
+    {
+      "artist": "Surgeon",
+      "unique_tracks": 31,
+      "top3_share": 44,
+      "heard": [
+        "Krautrock",
+        "Bad Hands",
+        "Presents Dynamic Tension"
+      ],
+      "unheard": [
+        {
+          "title": "Force + Form",
+          "year": 1999
+        },
+        {
+          "title": "Breaking the Frame",
+          "year": 2016
+        }
+      ],
+      "note": "A lane you burned out on, with the two best records in it never played once."
+    }
+  ]
+}

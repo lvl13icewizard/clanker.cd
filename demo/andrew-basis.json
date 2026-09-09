@@ -1,0 +1,995 @@
+{
+ "history": {
+  "tracks_checked": 46730,
+  "artists_checked": 12308
+ },
+ "lanes": [
+  {
+   "id": "cosmic-groove",
+   "name": "Cosmic Groove",
+   "description": "The Khruangbin/Jai Paul devotion lane — low-skip global groove, psych-funk, MPB lineage.",
+   "state": "active",
+   "members": 40,
+   "hours": 346.2,
+   "seeds": [
+    "Khruangbin",
+    "Jai Paul",
+    "The Blaze",
+    "Arthur Verocai",
+    "The Donkeys"
+   ],
+   "top": [
+    {
+     "artist": "Khruangbin",
+     "hours": 62.8,
+     "plays": 1252,
+     "skip_rate": 0.09,
+     "affinity": 0.903,
+     "via": "seed"
+    },
+    {
+     "artist": "The Pharcyde",
+     "hours": 24.1,
+     "plays": 553,
+     "skip_rate": 0.12,
+     "affinity": 0.755,
+     "via": "playlist"
+    },
+    {
+     "artist": "The Blaze",
+     "hours": 17.5,
+     "plays": 373,
+     "skip_rate": 0.06,
+     "affinity": 0.71,
+     "via": "seed"
+    },
+    {
+     "artist": "Jai Paul",
+     "hours": 23.1,
+     "plays": 678,
+     "skip_rate": 0.06,
+     "affinity": 0.707,
+     "via": "seed"
+    },
+    {
+     "artist": "AFI",
+     "hours": 15.5,
+     "plays": 423,
+     "skip_rate": 0.11,
+     "affinity": 0.698,
+     "via": "playlist"
+    },
+    {
+     "artist": "The Donkeys",
+     "hours": 13.4,
+     "plays": 317,
+     "skip_rate": 0.03,
+     "affinity": 0.67,
+     "via": "seed"
+    },
+    {
+     "artist": "DJ Koze",
+     "hours": 16.7,
+     "plays": 317,
+     "skip_rate": 0.09,
+     "affinity": 0.633,
+     "via": "playlist"
+    },
+    {
+     "artist": "Yves Tumor",
+     "hours": 9.7,
+     "plays": 247,
+     "skip_rate": 0.09,
+     "affinity": 0.632,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "jazz-bridge",
+   "name": "Jazz Bridge",
+   "description": "Where Nujabes, Butcher Brown and the ambient-jazz session world meet.",
+   "state": "active",
+   "members": 18,
+   "hours": 127.6,
+   "seeds": [
+    "Nujabes",
+    "Butcher Brown",
+    "Sam Gendel"
+   ],
+   "top": [
+    {
+     "artist": "Nujabes",
+     "hours": 43.1,
+     "plays": 844,
+     "skip_rate": 0.25,
+     "affinity": 0.849,
+     "via": "seed"
+    },
+    {
+     "artist": "KAYTRANADA",
+     "hours": 26.4,
+     "plays": 682,
+     "skip_rate": 0.14,
+     "affinity": 0.799,
+     "via": "playlist"
+    },
+    {
+     "artist": "Drake",
+     "hours": 18.0,
+     "plays": 735,
+     "skip_rate": 0.34,
+     "affinity": 0.65,
+     "via": "playlist"
+    },
+    {
+     "artist": "Robert Glasper",
+     "hours": 6.4,
+     "plays": 123,
+     "skip_rate": 0.2,
+     "affinity": 0.562,
+     "via": "playlist"
+    },
+    {
+     "artist": "Butcher Brown",
+     "hours": 6.4,
+     "plays": 177,
+     "skip_rate": 0.08,
+     "affinity": 0.54,
+     "via": "seed"
+    },
+    {
+     "artist": "Hiatus Kaiyote",
+     "hours": 5.6,
+     "plays": 127,
+     "skip_rate": 0.06,
+     "affinity": 0.507,
+     "via": "playlist"
+    },
+    {
+     "artist": "Charlotte Dos Santos",
+     "hours": 1.4,
+     "plays": 41,
+     "skip_rate": 0.07,
+     "affinity": 0.471,
+     "via": "playlist"
+    },
+    {
+     "artist": "Stwo",
+     "hours": 4.0,
+     "plays": 149,
+     "skip_rate": 0.04,
+     "affinity": 0.47,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "beats-idm",
+   "name": "Beats & IDM",
+   "description": "The Nightmares On Wax / FlyLo / Aphex / Bicep lane — instrumental beats, IDM, UK bass.",
+   "state": "active",
+   "members": 40,
+   "hours": 757.0,
+   "seeds": [
+    "Nightmares On Wax",
+    "Flying Lotus",
+    "Aphex Twin",
+    "KOAN Sound",
+    "Bicep",
+    "Teebs",
+    "Shlohmo",
+    "Shigeto",
+    "Bibio"
+   ],
+   "top": [
+    {
+     "artist": "Tycho",
+     "hours": 50.9,
+     "plays": 917,
+     "skip_rate": 0.12,
+     "affinity": 0.881,
+     "via": "playlist"
+    },
+    {
+     "artist": "Nightmares On Wax",
+     "hours": 55.9,
+     "plays": 1079,
+     "skip_rate": 0.09,
+     "affinity": 0.854,
+     "via": "seed"
+    },
+    {
+     "artist": "Nujabes",
+     "hours": 43.1,
+     "plays": 844,
+     "skip_rate": 0.25,
+     "affinity": 0.849,
+     "via": "playlist"
+    },
+    {
+     "artist": "Flying Lotus",
+     "hours": 34.1,
+     "plays": 1271,
+     "skip_rate": 0.12,
+     "affinity": 0.827,
+     "via": "seed"
+    },
+    {
+     "artist": "Westside Gunn",
+     "hours": 64.8,
+     "plays": 2345,
+     "skip_rate": 0.46,
+     "affinity": 0.819,
+     "via": "playlist"
+    },
+    {
+     "artist": "Teebs",
+     "hours": 24.2,
+     "plays": 616,
+     "skip_rate": 0.13,
+     "affinity": 0.788,
+     "via": "seed"
+    },
+    {
+     "artist": "KOAN Sound",
+     "hours": 30.2,
+     "plays": 565,
+     "skip_rate": 0.14,
+     "affinity": 0.783,
+     "via": "seed"
+    },
+    {
+     "artist": "Jonwayne",
+     "hours": 22.5,
+     "plays": 523,
+     "skip_rate": 0.17,
+     "affinity": 0.748,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "underground-rap",
+   "name": "Underground Rap",
+   "description": "The DOOM/Griselda continuum — loop-digger rap, ATCQ lineage to Armand Hammer.",
+   "state": "active",
+   "members": 40,
+   "hours": 575.1,
+   "seeds": [
+    "MF DOOM",
+    "Madvillain",
+    "King Geedorah",
+    "Westside Gunn",
+    "JPEGMAFIA",
+    "Mach-Hommy",
+    "Armand Hammer",
+    "Jonwayne",
+    "People Under The Stairs",
+    "The Pharcyde",
+    "A Tribe Called Quest",
+    "Slum Village",
+    "Pusha T",
+    "Denzel Curry",
+    "Action Bronson"
+   ],
+   "top": [
+    {
+     "artist": "Westside Gunn",
+     "hours": 64.8,
+     "plays": 2345,
+     "skip_rate": 0.46,
+     "affinity": 0.819,
+     "via": "seed"
+    },
+    {
+     "artist": "MF DOOM",
+     "hours": 40.7,
+     "plays": 1218,
+     "skip_rate": 0.16,
+     "affinity": 0.811,
+     "via": "seed"
+    },
+    {
+     "artist": "A Tribe Called Quest",
+     "hours": 27.7,
+     "plays": 661,
+     "skip_rate": 0.18,
+     "affinity": 0.771,
+     "via": "seed"
+    },
+    {
+     "artist": "The Pharcyde",
+     "hours": 24.1,
+     "plays": 553,
+     "skip_rate": 0.12,
+     "affinity": 0.755,
+     "via": "seed"
+    },
+    {
+     "artist": "Jonwayne",
+     "hours": 22.5,
+     "plays": 523,
+     "skip_rate": 0.17,
+     "affinity": 0.748,
+     "via": "seed"
+    },
+    {
+     "artist": "JPEGMAFIA",
+     "hours": 24.6,
+     "plays": 865,
+     "skip_rate": 0.14,
+     "affinity": 0.742,
+     "via": "seed"
+    },
+    {
+     "artist": "Madvillain",
+     "hours": 24.2,
+     "plays": 869,
+     "skip_rate": 0.08,
+     "affinity": 0.737,
+     "via": "seed"
+    },
+    {
+     "artist": "Pusha T",
+     "hours": 21.7,
+     "plays": 666,
+     "skip_rate": 0.17,
+     "affinity": 0.737,
+     "via": "seed"
+    }
+   ]
+  },
+  {
+   "id": "french-electronic",
+   "name": "French Electronic",
+   "description": "The Justice/Daft Punk bloodline — filter-house, Ed Banger energy.",
+   "state": "rising",
+   "members": 10,
+   "hours": 75.8,
+   "seeds": [
+    "Justice",
+    "Daft Punk"
+   ],
+   "top": [
+    {
+     "artist": "Daft Punk",
+     "hours": 35.1,
+     "plays": 785,
+     "skip_rate": 0.26,
+     "affinity": 0.77,
+     "via": "seed"
+    },
+    {
+     "artist": "Justice",
+     "hours": 24.6,
+     "plays": 530,
+     "skip_rate": 0.34,
+     "affinity": 0.741,
+     "via": "seed"
+    },
+    {
+     "artist": "MGMT",
+     "hours": 7.3,
+     "plays": 160,
+     "skip_rate": 0.11,
+     "affinity": 0.595,
+     "via": "playlist"
+    },
+    {
+     "artist": "C418",
+     "hours": 2.4,
+     "plays": 63,
+     "skip_rate": 0.35,
+     "affinity": 0.492,
+     "via": "playlist"
+    },
+    {
+     "artist": "Breakbot",
+     "hours": 2.5,
+     "plays": 75,
+     "skip_rate": 0.12,
+     "affinity": 0.403,
+     "via": "playlist"
+    },
+    {
+     "artist": "The Cure",
+     "hours": 1.1,
+     "plays": 50,
+     "skip_rate": 0.14,
+     "affinity": 0.286,
+     "via": "playlist"
+    },
+    {
+     "artist": "Dream Thing",
+     "hours": 0.3,
+     "plays": 8,
+     "skip_rate": 0.75,
+     "affinity": 0.286,
+     "via": "playlist"
+    },
+    {
+     "artist": "Ricky Nelson",
+     "hours": 0.8,
+     "plays": 21,
+     "skip_rate": 0.1,
+     "affinity": 0.255,
+     "via": "session"
+    }
+   ]
+  },
+  {
+   "id": "punk-turn",
+   "name": "The Punk Turn",
+   "description": "The 2025–26 present tense — post-punk, noise rock, the Viagra Boys/Turnstile pivot.",
+   "state": "rising",
+   "members": 17,
+   "hours": 66.1,
+   "seeds": [
+    "Viagra Boys",
+    "Turnstile",
+    "bar italia"
+   ],
+   "top": [
+    {
+     "artist": "Viagra Boys",
+     "hours": 15.9,
+     "plays": 440,
+     "skip_rate": 0.44,
+     "affinity": 0.693,
+     "via": "seed"
+    },
+    {
+     "artist": "Turnstile",
+     "hours": 12.2,
+     "plays": 314,
+     "skip_rate": 0.29,
+     "affinity": 0.693,
+     "via": "seed"
+    },
+    {
+     "artist": "Yves Tumor",
+     "hours": 9.7,
+     "plays": 247,
+     "skip_rate": 0.09,
+     "affinity": 0.632,
+     "via": "playlist"
+    },
+    {
+     "artist": "bar italia",
+     "hours": 8.8,
+     "plays": 227,
+     "skip_rate": 0.38,
+     "affinity": 0.625,
+     "via": "seed"
+    },
+    {
+     "artist": "Fontaines D.C.",
+     "hours": 8.0,
+     "plays": 179,
+     "skip_rate": 0.36,
+     "affinity": 0.623,
+     "via": "playlist"
+    },
+    {
+     "artist": "Amyl and The Sniffers",
+     "hours": 3.7,
+     "plays": 126,
+     "skip_rate": 0.5,
+     "affinity": 0.514,
+     "via": "playlist"
+    },
+    {
+     "artist": "Double Virgo",
+     "hours": 2.8,
+     "plays": 79,
+     "skip_rate": 0.38,
+     "affinity": 0.488,
+     "via": "playlist"
+    },
+    {
+     "artist": "Getdown Services",
+     "hours": 0.8,
+     "plays": 20,
+     "skip_rate": 0.35,
+     "affinity": 0.422,
+     "via": "session"
+    }
+   ]
+  },
+  {
+   "id": "the-mist",
+   "name": "The Mist",
+   "description": "Behavioral cluster anchored on the morning mist playlist — 12% skip vs 22% global. Ambient-adjacent downtempo devotion listening.",
+   "state": "active",
+   "members": 40,
+   "hours": 471.6,
+   "seeds": [
+    "Tycho",
+    "Bonobo",
+    "Maribou State",
+    "Nightmares On Wax"
+   ],
+   "top": [
+    {
+     "artist": "Tycho",
+     "hours": 50.9,
+     "plays": 917,
+     "skip_rate": 0.12,
+     "affinity": 0.881,
+     "via": "seed"
+    },
+    {
+     "artist": "Nightmares On Wax",
+     "hours": 55.9,
+     "plays": 1079,
+     "skip_rate": 0.09,
+     "affinity": 0.854,
+     "via": "seed"
+    },
+    {
+     "artist": "KOAN Sound",
+     "hours": 30.2,
+     "plays": 565,
+     "skip_rate": 0.14,
+     "affinity": 0.783,
+     "via": "playlist"
+    },
+    {
+     "artist": "Maribou State",
+     "hours": 18.6,
+     "plays": 365,
+     "skip_rate": 0.16,
+     "affinity": 0.748,
+     "via": "seed"
+    },
+    {
+     "artist": "Four Tet",
+     "hours": 28.1,
+     "plays": 632,
+     "skip_rate": 0.27,
+     "affinity": 0.746,
+     "via": "playlist"
+    },
+    {
+     "artist": "Bonobo",
+     "hours": 20.8,
+     "plays": 420,
+     "skip_rate": 0.19,
+     "affinity": 0.743,
+     "via": "seed"
+    },
+    {
+     "artist": "Jacques Greene",
+     "hours": 14.7,
+     "plays": 315,
+     "skip_rate": 0.07,
+     "affinity": 0.722,
+     "via": "playlist"
+    },
+    {
+     "artist": "The Blaze",
+     "hours": 17.5,
+     "plays": 373,
+     "skip_rate": 0.06,
+     "affinity": 0.71,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "club-continuum",
+   "name": "Club Continuum",
+   "description": "Jamie xx / Four Tet / KAYTRANADA — dancefloor and its afterhours.",
+   "state": "active",
+   "members": 40,
+   "hours": 221.9,
+   "seeds": [
+    "Jamie xx",
+    "Four Tet",
+    "KAYTRANADA",
+    "Flume",
+    "DJ Koze",
+    "Nicolas Jaar"
+   ],
+   "top": [
+    {
+     "artist": "Jamie xx",
+     "hours": 43.8,
+     "plays": 986,
+     "skip_rate": 0.22,
+     "affinity": 0.843,
+     "via": "seed"
+    },
+    {
+     "artist": "KAYTRANADA",
+     "hours": 26.4,
+     "plays": 682,
+     "skip_rate": 0.14,
+     "affinity": 0.799,
+     "via": "seed"
+    },
+    {
+     "artist": "Flume",
+     "hours": 25.1,
+     "plays": 683,
+     "skip_rate": 0.07,
+     "affinity": 0.773,
+     "via": "seed"
+    },
+    {
+     "artist": "Four Tet",
+     "hours": 28.1,
+     "plays": 632,
+     "skip_rate": 0.27,
+     "affinity": 0.746,
+     "via": "seed"
+    },
+    {
+     "artist": "DJ Koze",
+     "hours": 16.7,
+     "plays": 317,
+     "skip_rate": 0.09,
+     "affinity": 0.633,
+     "via": "seed"
+    },
+    {
+     "artist": "Machinedrum",
+     "hours": 10.1,
+     "plays": 301,
+     "skip_rate": 0.27,
+     "affinity": 0.555,
+     "via": "playlist"
+    },
+    {
+     "artist": "Eric Prydz",
+     "hours": 3.9,
+     "plays": 80,
+     "skip_rate": 0.06,
+     "affinity": 0.5,
+     "via": "playlist"
+    },
+    {
+     "artist": "Jacques Renault",
+     "hours": 3.2,
+     "plays": 116,
+     "skip_rate": 0.56,
+     "affinity": 0.431,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "bass-edm",
+   "name": "Bass & EDM (legacy)",
+   "description": "The 2015 origin story plus the 2023 Skrillex revival — expected dormant-or-revived state; the model decides from data.",
+   "state": "rising",
+   "members": 40,
+   "hours": 210.1,
+   "seeds": [
+    "Skrillex",
+    "deadmau5",
+    "Jack Ü",
+    "Kill The Noise",
+    "Pretty Lights"
+   ],
+   "top": [
+    {
+     "artist": "Skrillex",
+     "hours": 41.3,
+     "plays": 1748,
+     "skip_rate": 0.44,
+     "affinity": 0.823,
+     "via": "seed"
+    },
+    {
+     "artist": "Justice",
+     "hours": 24.6,
+     "plays": 530,
+     "skip_rate": 0.34,
+     "affinity": 0.741,
+     "via": "playlist"
+    },
+    {
+     "artist": "Pretty Lights",
+     "hours": 20.4,
+     "plays": 376,
+     "skip_rate": 0.2,
+     "affinity": 0.724,
+     "via": "seed"
+    },
+    {
+     "artist": "deadmau5",
+     "hours": 20.5,
+     "plays": 444,
+     "skip_rate": 0.29,
+     "affinity": 0.684,
+     "via": "seed"
+    },
+    {
+     "artist": "Mat Zo",
+     "hours": 14.0,
+     "plays": 351,
+     "skip_rate": 0.26,
+     "affinity": 0.671,
+     "via": "playlist"
+    },
+    {
+     "artist": "Netsky",
+     "hours": 11.8,
+     "plays": 223,
+     "skip_rate": 0.22,
+     "affinity": 0.663,
+     "via": "playlist"
+    },
+    {
+     "artist": "The M Machine",
+     "hours": 8.9,
+     "plays": 229,
+     "skip_rate": 0.21,
+     "affinity": 0.564,
+     "via": "session"
+    },
+    {
+     "artist": "Feed Me",
+     "hours": 8.2,
+     "plays": 210,
+     "skip_rate": 0.21,
+     "affinity": 0.551,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "house-garage",
+   "name": "House & Garage",
+   "description": "Disclosure, Fred again.., Folamour — house, UK garage and their afterhours; the dancefloor door the club continuum never quite held.",
+   "state": "active",
+   "members": 8,
+   "hours": 58.1,
+   "seeds": [
+    "Disclosure",
+    "Fred again..",
+    "Folamour",
+    "ANOTR",
+    "Justin Martin",
+    "Floating Points",
+    "Joe Goddard"
+   ],
+   "top": [
+    {
+     "artist": "Disclosure",
+     "hours": 13.3,
+     "plays": 331,
+     "skip_rate": 0.13,
+     "affinity": 0.659,
+     "via": "seed"
+    },
+    {
+     "artist": "Fred again..",
+     "hours": 10.3,
+     "plays": 286,
+     "skip_rate": 0.48,
+     "affinity": 0.624,
+     "via": "seed"
+    },
+    {
+     "artist": "Folamour",
+     "hours": 11.1,
+     "plays": 301,
+     "skip_rate": 0.2,
+     "affinity": 0.597,
+     "via": "seed"
+    },
+    {
+     "artist": "ANOTR",
+     "hours": 4.8,
+     "plays": 124,
+     "skip_rate": 0.31,
+     "affinity": 0.575,
+     "via": "seed"
+    },
+    {
+     "artist": "Justin Martin",
+     "hours": 8.4,
+     "plays": 164,
+     "skip_rate": 0.19,
+     "affinity": 0.545,
+     "via": "seed"
+    },
+    {
+     "artist": "Joe Goddard",
+     "hours": 4.2,
+     "plays": 86,
+     "skip_rate": 0.05,
+     "affinity": 0.495,
+     "via": "seed"
+    },
+    {
+     "artist": "Floating Points",
+     "hours": 5.4,
+     "plays": 166,
+     "skip_rate": 0.23,
+     "affinity": 0.483,
+     "via": "seed"
+    },
+    {
+     "artist": "Peggy Gou",
+     "hours": 0.6,
+     "plays": 29,
+     "skip_rate": 0.52,
+     "affinity": 0.224,
+     "via": "session"
+    }
+   ]
+  },
+  {
+   "id": "liquid",
+   "name": "Liquid",
+   "description": "Drum & bass at its smoothest — High Contrast, Netsky, Maduk, Calibre, Hybrid Minds; liquid rollers over the crossover noise.",
+   "state": "active",
+   "members": 40,
+   "hours": 136.4,
+   "seeds": [
+    "High Contrast",
+    "Netsky",
+    "Sub Focus",
+    "Maduk",
+    "Hybrid Minds",
+    "Calibre",
+    "London Elektricity",
+    "Camo & Krooked",
+    "Andromedik"
+   ],
+   "top": [
+    {
+     "artist": "Mat Zo",
+     "hours": 14.0,
+     "plays": 351,
+     "skip_rate": 0.26,
+     "affinity": 0.671,
+     "via": "playlist"
+    },
+    {
+     "artist": "Netsky",
+     "hours": 11.8,
+     "plays": 223,
+     "skip_rate": 0.22,
+     "affinity": 0.663,
+     "via": "seed"
+    },
+    {
+     "artist": "High Contrast",
+     "hours": 11.9,
+     "plays": 277,
+     "skip_rate": 0.42,
+     "affinity": 0.638,
+     "via": "seed"
+    },
+    {
+     "artist": "Pendulum",
+     "hours": 8.6,
+     "plays": 220,
+     "skip_rate": 0.28,
+     "affinity": 0.588,
+     "via": "playlist"
+    },
+    {
+     "artist": "NERO",
+     "hours": 8.5,
+     "plays": 223,
+     "skip_rate": 0.33,
+     "affinity": 0.582,
+     "via": "playlist"
+    },
+    {
+     "artist": "Maduk",
+     "hours": 5.5,
+     "plays": 105,
+     "skip_rate": 0.17,
+     "affinity": 0.576,
+     "via": "seed"
+    },
+    {
+     "artist": "The M Machine",
+     "hours": 8.9,
+     "plays": 229,
+     "skip_rate": 0.21,
+     "affinity": 0.564,
+     "via": "playlist"
+    },
+    {
+     "artist": "Feed Me",
+     "hours": 8.2,
+     "plays": 210,
+     "skip_rate": 0.21,
+     "affinity": 0.551,
+     "via": "playlist"
+    }
+   ]
+  },
+  {
+   "id": "dad-rock",
+   "name": "Dad/Boomer Rock",
+   "description": "Steely Dan, Dire Straits, the Dead, the Stones, Fleetwood Mac — the classic-rock and jazz-rock shelf, heard whole and skipped least.",
+   "state": "active",
+   "members": 38,
+   "hours": 114.3,
+   "seeds": [
+    "Steely Dan",
+    "Dire Straits",
+    "Grateful Dead",
+    "The Rolling Stones",
+    "Fleetwood Mac",
+    "Bob Dylan",
+    "Creedence Clearwater Revival"
+   ],
+   "top": [
+    {
+     "artist": "Steely Dan",
+     "hours": 12.6,
+     "plays": 195,
+     "skip_rate": 0.17,
+     "affinity": 0.691,
+     "via": "seed"
+    },
+    {
+     "artist": "Dire Straits",
+     "hours": 19.1,
+     "plays": 398,
+     "skip_rate": 0.08,
+     "affinity": 0.642,
+     "via": "seed"
+    },
+    {
+     "artist": "Grateful Dead",
+     "hours": 8.1,
+     "plays": 190,
+     "skip_rate": 0.12,
+     "affinity": 0.614,
+     "via": "seed"
+    },
+    {
+     "artist": "The Rolling Stones",
+     "hours": 5.5,
+     "plays": 136,
+     "skip_rate": 0.15,
+     "affinity": 0.554,
+     "via": "seed"
+    },
+    {
+     "artist": "Fleetwood Mac",
+     "hours": 4.6,
+     "plays": 128,
+     "skip_rate": 0.1,
+     "affinity": 0.536,
+     "via": "seed"
+    },
+    {
+     "artist": "Bob Dylan",
+     "hours": 3.7,
+     "plays": 88,
+     "skip_rate": 0.17,
+     "affinity": 0.527,
+     "via": "seed"
+    },
+    {
+     "artist": "John Prine",
+     "hours": 5.4,
+     "plays": 175,
+     "skip_rate": 0.39,
+     "affinity": 0.525,
+     "via": "playlist"
+    },
+    {
+     "artist": "Creedence Clearwater Revival",
+     "hours": 4.4,
+     "plays": 174,
+     "skip_rate": 0.13,
+     "affinity": 0.52,
+     "via": "seed"
+    }
+   ]
+  }
+ ]
+}

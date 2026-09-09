@@ -1,0 +1,77 @@
+.lp-hero:has(.lr-room) { grid-template-columns: .94fr 1.06fr; gap: 0; padding-top: 29px; padding-bottom: 45px; }
+.lr-room { width: 108%; margin-left: -3% !important; min-width: 0; align-self: center; }
+/* The room is a square, so its width is the hero's height. On a short
+   viewport (a 14-inch laptop with browser chrome) cap it by the height
+   that is actually there, so the CTA and the whole scene sit above the
+   fold, and let it hug the right edge as it shrinks. */
+@media (max-height: 940px) and (min-width: 651px) {
+  .lr-room { max-width: max(480px, calc(100svh - 236px)); justify-self: end; margin-left: 0 !important; }
+  .lp-hero:has(.lr-room) { padding-top: 18px; padding-bottom: 34px; }
+}
+@media (max-height: 860px) and (min-width: 1151px) {
+  .frontdoor h1 { font-size: clamp(52px, 4.9vw, 70px); }
+  .lp-hero-description { padding-top: 22px; }
+  .lp-hero-actions { margin-top: 24px; }
+  .lp-header { height: 96px; }
+}
+.lr-scene { position: relative; width: 100%; aspect-ratio: 1; isolation: isolate; background: var(--lp-paper); }
+.lr-room-art { width: 100%; height: 100%; display: block; object-fit: contain; mix-blend-mode: multiply; }
+.lr-wall-light { position: absolute; inset: 0; z-index: 1; pointer-events: none; background: var(--room-glow); opacity: 0; mix-blend-mode: multiply; mask-image: radial-gradient(ellipse at 59% 39%, #000, transparent 62%); transition: background-color .65s, opacity .65s; }
+.lr-lamp-light { position: absolute; left: 7%; top: 32%; width: 42%; height: 47%; pointer-events: none; z-index: 1; opacity: 0; background: radial-gradient(ellipse at 31% 28%, var(--room-glow), transparent 68%); mix-blend-mode: soft-light; transform: rotate(-17deg); transition: background .65s, opacity .65s; }
+.lr-lights-on .lr-wall-light { opacity: .46; }
+.lr-lights-on .lr-lamp-light { opacity: .8; }
+.lr-wall-record { position: absolute; z-index: 3; top: 6.8%; left: var(--record-x); width: 15.6%; aspect-ratio: 1; padding: 0; border-radius: 1px; background: #333; transform-origin: bottom center; transform: perspective(600px) rotateY(-5deg) rotateZ(-2deg); box-shadow: 1px 1px 1px #ffffff66 inset, 1px 2px 3px #0003, 5px 5px 9px #00000018; transition: transform .25s, box-shadow .25s; }
+.lr-wall-record:nth-child(2) { transform: perspective(600px) rotateY(-5deg) rotateZ(2deg); }
+.lr-wall-record:nth-child(3) { transform: perspective(600px) rotateY(-5deg) rotateZ(-1deg); }
+.lr-wall-record:nth-child(4) { transform: perspective(600px) rotateY(-5deg) rotateZ(3deg); }
+.lr-wall-record img, .lr-on-console img, .lr-flying-record img { display: block; width: 100%; height: 100%; border-radius: inherit; user-select: none; }
+.lr-record-edge { position: absolute; inset: 0; pointer-events: none; border-left: 2px solid #ffffff30; border-right: 1px solid #0002; }
+.lr-wall-record.lr-selected { box-shadow: 0 0 0 2px #fafafa, 0 0 0 3px #252525bb, 5px 5px 8px #0002; }
+.lr-wall-record:hover, .lr-wall-record:focus-visible { transform: translateY(-7%) rotate(-3deg); z-index: 4; }
+.lr-on-console { position: absolute; top: 41.1%; left: 75%; width: 16%; aspect-ratio: 1; z-index: 3; transform: perspective(700px) rotateY(-7deg) rotateZ(3deg); transform-origin: bottom center; box-shadow: 2px 2px 2px #0003, 5px 4px 6px #00000012; border-radius: 1px; transition: transform .25s, opacity .16s; }
+.lr-on-console:hover, .lr-on-console:focus-visible { transform: perspective(700px) rotateY(-5deg) rotateZ(0deg) translateY(-4%); }
+.lr-on-console.lr-arriving { opacity: 0; }
+.lr-flying-record { position: absolute; z-index: 6; pointer-events: none; width: 16%; aspect-ratio: 1; left: 75%; top: 41.1%; transform: rotate(3deg); box-shadow: 4px 6px 12px #0003; animation: room-record-journey .72s cubic-bezier(.22,.7,.23,1) both; }
+@keyframes room-record-journey {
+  0% { left: var(--from-x); top: 6.8%; transform: rotate(-2deg) scale(1); }
+  38% { transform: rotate(-10deg) scale(1.12); }
+  100% { left: 75%; top: 41.1%; transform: rotate(3deg) scale(1); }
+}
+.lr-lamp-switch { position: absolute; left: 9%; top: 29%; width: 14%; height: 10%; min-width: 44px; min-height: 44px; border-radius: 50%; z-index: 4; background: none; }
+.lr-lamp-switch:hover { background: #ffffff18; }
+.lr-power-light { position: absolute; left: 64.5%; top: 65.8%; width: 3px; height: 3px; border-radius: 50%; background: var(--room-light); box-shadow: 0 0 5px var(--room-light); z-index: 3; }
+.lr-caption { padding: 0 9% 0 12%; margin-top: -6px; }
+.lr-instruction { display: flex; align-items: center; gap: 8px; color: #626262; font-size: 12px; }
+.lr-selection-mark { width: 6px; height: 6px; border-radius: 50%; background: var(--room-light); flex-shrink: 0; transition: background .4s; }
+.lr-current-link { min-height: 44px; display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: 14px; }
+.lr-current-link:hover { text-decoration: underline !important; text-underline-offset: 4px; }
+.lr-by { color: #626262; font-size: 12px; }
+@media (min-width: 1600px) {
+  .lp-hero:has(.lr-room) { padding-top: 43px; padding-bottom: 57px; }
+}
+@media (max-width: 1150px) {
+  .lp-hero:has(.lr-room) { padding-top: 36px; padding-bottom: 48px; }
+  .lr-room { width: 111%; margin-left: -4% !important; }
+  .lr-instruction { font-size: 11px; }
+  .lr-caption { padding-inline: 10%; }
+}
+@media (max-width: 900px) {
+  .lp-hero:has(.lr-room) { grid-template-columns: 1fr 1fr; }
+  .lr-room { width: 112%; margin-left: -5% !important; }
+  .lr-current-link { font-size: 12px; }
+  .lr-by { font-size: 10px; }
+  .lr-instruction { font-size: 10px; }
+}
+@media (max-width: 650px) {
+  .lp-hero:has(.lr-room) { grid-template-columns: 1fr; padding-top: 26px; padding-bottom: 30px; gap: 28px; }
+  .lr-room { width: 110%; margin-left: 0 !important; max-width: 540px; justify-self: center; }
+  .lr-caption { padding-inline: 9%; margin-top: 0; }
+  .lr-instruction { font-size: 11px; }
+  .lr-current-link { font-size: 13px; }
+  .lr-by { font-size: 11px; }
+  .lr-wall-record { min-width: 44px; min-height: 44px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lr-flying-record { display: none; }
+  .lr-on-console.lr-arriving { opacity: 1; }
+}

@@ -1,0 +1,210 @@
+{
+ "comment": "Cluster seeds, hand-authored 2026-07-28 from Vol. 1's six lanes + SUMMARY.md top-40 + playlist DNA. Seed artists are all confirmed-played. The model builder EXPANDS membership from playlist co-membership and session co-occurrence, and computes states from recency-weighted data — seeds are starting points, not the answer. Artists recommended in Vol. 1 (GoGo Penguin, Protomartyr, black midi, etc.) are deliberately absent: they are never-played.",
+ "clusters": [
+  {
+   "id": "cosmic-groove",
+   "name": "Cosmic Groove",
+   "description": "The Khruangbin/Jai Paul devotion lane — low-skip global groove, psych-funk, MPB lineage.",
+   "vol1_lane": "Cosmic groove",
+   "seed_artists": [
+    "Khruangbin",
+    "Jai Paul",
+    "The Blaze",
+    "Arthur Verocai",
+    "The Donkeys"
+   ],
+   "anchor_playlists_hint": [
+    "cruisin or grillin weenies",
+    "mr worldwide"
+   ]
+  },
+  {
+   "id": "jazz-bridge",
+   "name": "Jazz Bridge",
+   "description": "Where Nujabes, Butcher Brown and the ambient-jazz session world meet.",
+   "vol1_lane": "Jazz bridge",
+   "seed_artists": [
+    "Nujabes",
+    "Butcher Brown",
+    "Sam Gendel"
+   ],
+   "anchor_playlists_hint": [
+    "lounge",
+    "COCKTAIL HOUR"
+   ]
+  },
+  {
+   "id": "beats-idm",
+   "name": "Beats & IDM",
+   "description": "The Nightmares On Wax / FlyLo / Aphex / Bicep lane — instrumental beats, IDM, UK bass.",
+   "vol1_lane": "Beats & IDM",
+   "seed_artists": [
+    "Nightmares On Wax",
+    "Flying Lotus",
+    "Aphex Twin",
+    "KOAN Sound",
+    "Bicep",
+    "Teebs",
+    "Shlohmo",
+    "Shigeto",
+    "Bibio"
+   ],
+   "anchor_playlists_hint": [
+    "kush friendly beats",
+    "Very Rare Gamer Beats"
+   ]
+  },
+  {
+   "id": "underground-rap",
+   "name": "Underground Rap",
+   "description": "The DOOM/Griselda continuum — loop-digger rap, ATCQ lineage to Armand Hammer.",
+   "vol1_lane": "Underground rap",
+   "seed_artists": [
+    "MF DOOM",
+    "Madvillain",
+    "King Geedorah",
+    "Westside Gunn",
+    "JPEGMAFIA",
+    "Mach-Hommy",
+    "Armand Hammer",
+    "Jonwayne",
+    "People Under The Stairs",
+    "The Pharcyde",
+    "A Tribe Called Quest",
+    "Slum Village",
+    "Pusha T",
+    "Denzel Curry",
+    "Action Bronson"
+   ],
+   "anchor_playlists_hint": [
+    "HIP HOP",
+    "good word"
+   ]
+  },
+  {
+   "id": "french-electronic",
+   "name": "French Electronic",
+   "description": "The Justice/Daft Punk bloodline — filter-house, Ed Banger energy.",
+   "vol1_lane": "French electronic",
+   "seed_artists": [
+    "Justice",
+    "Daft Punk"
+   ],
+   "anchor_playlists_hint": []
+  },
+  {
+   "id": "punk-turn",
+   "name": "The Punk Turn",
+   "description": "The 2025–26 present tense — post-punk, noise rock, the Viagra Boys/Turnstile pivot.",
+   "vol1_lane": "The punk turn",
+   "seed_artists": [
+    "Viagra Boys",
+    "Turnstile",
+    "bar italia"
+   ],
+   "anchor_playlists_hint": []
+  },
+  {
+   "id": "the-mist",
+   "name": "The Mist",
+   "description": "Behavioral cluster anchored on the morning mist playlist — 12% skip vs 22% global. Ambient-adjacent downtempo devotion listening.",
+   "vol1_lane": null,
+   "seed_artists": [
+    "Tycho",
+    "Bonobo",
+    "Maribou State",
+    "Nightmares On Wax"
+   ],
+   "anchor_playlists_hint": [
+    "morning mist",
+    "mm backup 2/22"
+   ]
+  },
+  {
+   "id": "club-continuum",
+   "name": "Club Continuum",
+   "description": "Jamie xx / Four Tet / KAYTRANADA — dancefloor and its afterhours.",
+   "vol1_lane": null,
+   "seed_artists": [
+    "Jamie xx",
+    "Four Tet",
+    "KAYTRANADA",
+    "Flume",
+    "DJ Koze",
+    "Nicolas Jaar"
+   ],
+   "anchor_playlists_hint": [
+    "Elevator Rave",
+    "pre-historic clubbing",
+    "frisky / disky"
+   ]
+  },
+  {
+   "id": "bass-edm",
+   "name": "Bass & EDM (legacy)",
+   "description": "The 2015 origin story plus the 2023 Skrillex revival — expected dormant-or-revived state; the model decides from data.",
+   "vol1_lane": null,
+   "seed_artists": [
+    "Skrillex",
+    "deadmau5",
+    "Jack Ü",
+    "Kill The Noise",
+    "Pretty Lights"
+   ],
+   "anchor_playlists_hint": [
+    "not shit edm",
+    "old dnb playlist"
+   ]
+  },
+  {
+   "id": "house-garage",
+   "name": "House & Garage",
+   "vol1_lane": null,
+   "description": "Disclosure, Fred again.., Folamour — house, UK garage and their afterhours; the dancefloor door the club continuum never quite held.",
+   "seed_artists": [
+    "Disclosure",
+    "Fred again..",
+    "Folamour",
+    "ANOTR",
+    "Justin Martin",
+    "Floating Points",
+    "Joe Goddard"
+   ],
+   "anchor_playlists_hint": []
+  },
+  {
+   "id": "liquid",
+   "name": "Liquid",
+   "vol1_lane": null,
+   "description": "Drum & bass at its smoothest — High Contrast, Netsky, Maduk, Calibre, Hybrid Minds; liquid rollers over the crossover noise.",
+   "seed_artists": [
+    "High Contrast",
+    "Netsky",
+    "Sub Focus",
+    "Maduk",
+    "Hybrid Minds",
+    "Calibre",
+    "London Elektricity",
+    "Camo & Krooked",
+    "Andromedik"
+   ],
+   "anchor_playlists_hint": []
+  },
+  {
+   "id": "dad-rock",
+   "name": "Dad/Boomer Rock",
+   "vol1_lane": null,
+   "description": "Steely Dan, Dire Straits, the Dead, the Stones, Fleetwood Mac — the classic-rock and jazz-rock shelf, heard whole and skipped least.",
+   "seed_artists": [
+    "Steely Dan",
+    "Dire Straits",
+    "Grateful Dead",
+    "The Rolling Stones",
+    "Fleetwood Mac",
+    "Bob Dylan",
+    "Creedence Clearwater Revival"
+   ],
+   "anchor_playlists_hint": []
+  }
+ ]
+}

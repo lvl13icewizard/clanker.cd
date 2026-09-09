@@ -1,0 +1,20 @@
+{
+  "name": "clanker-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 3011 --strictPort",
+    "build": "vite build && node scripts/prune-public.mjs",
+    "build:public": "vite build && node scripts/prune-public.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 3011 --strictPort"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
