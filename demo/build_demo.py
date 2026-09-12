@@ -145,6 +145,24 @@ def label_line(label, artist, rnd):
     return f(label["name"], artist, label["hours"], label["artists"], label["releases"])
 
 
+def companion_playlist(cat, n, meta, tracks):
+    """The demo's playlist record. A persona's catalog may carry `playlists`,
+    keyed by issue number, for the few issues whose playlist was actually
+    created on Spotify (the owner's account, from the issue's exact tracks);
+    those read as published and the rail links to them. Every other issue
+    says plainly that nothing exists."""
+    real = (cat.get("playlists") or {}).get(str(n))
+    if real:
+        return {"name": f"Issue {n:03d}: {meta['title']}", "status": "published",
+                "id": real["id"], "uri": f"spotify:playlist:{real['id']}",
+                "spotify_url": f"https://open.spotify.com/playlist/{real['id']}",
+                "track_count": real.get("track_count", tracks),
+                "published_at": real.get("published_at"),
+                "note": real.get("note") or "created on Spotify from this issue's exact tracks"}
+    return {"name": f"Issue {n:03d}: {meta['title']}", "status": "demo",
+            "track_count": tracks, "note": "demo persona: nothing was created on Spotify"}
+
+
 # ------------------------------------------------------------------ intros
 
 SINGLES_INTROS = [
@@ -615,18 +633,16 @@ def build_issue(cat, n, prev_issue, lanes_by_id, sched, p4k, adoption):
             "method": "two-round normalized match against the merged play log: exact "
                       "artist/track keys, then near-name and title-collision checks",
         },
-        "companion_playlist": {
-            "name": f"Issue {n:03d}: {meta['title']}", "status": "demo",
-            "track_count": tracks,
-            "note": "demo persona: nothing was created on Spotify",
-        },
+        "companion_playlist": companion_playlist(cat, n, meta, tracks),
         "generated": {
             "engine_version": "0.1-demo",
             "generated_at": datetime.combine(d, datetime.min.time(), timezone.utc)
                 .replace(hour=9).isoformat(timespec="seconds"),
             "llm": True,
             "notes": [f"synthetic demo persona {cat['slug']!r}; picks are real records, "
-                      f"statistics are modelled, no playlist was published"],
+                      f"statistics are modelled, "
+                      + ("the playlist was created on Spotify from these exact tracks"
+                         if (cat.get("playlists") or {}).get(str(n)) else "no playlist was published")],
         },
     }
 

@@ -5199,5 +5199,13 @@
       ],
       "note": "The most-played band in your record, and two of their four albums have never been played end to end."
     }
-  ]
+  ],
+  "playlists": {
+    "18": {
+      "id": "35N4eyp1dE5TG9oGcHTEwS",
+      "track_count": 20,
+      "published_at": "2026-09-12T16:05:00+00:00",
+      "note": "created in the owner's Spotify from this issue's exact tracks; the album is the seven-track reissue of Pop"
+    }
+  }
 }
