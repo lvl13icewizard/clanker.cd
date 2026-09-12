@@ -133,9 +133,11 @@ python3 -m engine.cover.palette --n "$N" || true
 python3 -m engine.cover.render --n "$N" || echo "  cover render skipped"
 # The robots on the personal app hold this week's disc: repaint the live
 # pose set from the issue's palette. The public site's set is untouched.
-python3 brand/mascot/produce.py --live-only \
-  --live-palette "site/public/issues/palette-$(printf '%03d' "$N").json" \
-  || echo "  live disc skipped"
+if [ -f brand/mascot/produce.py ]; then
+  python3 brand/mascot/produce.py --live-only \
+    --live-palette "site/public/issues/palette-$(printf '%03d' "$N").json" \
+    || echo "  live disc skipped"
+fi
 
 if [ "$DRY" = "1" ]; then
   say "dry run — nothing published"

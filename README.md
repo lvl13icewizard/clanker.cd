@@ -101,7 +101,6 @@ engine/   the pipeline: history, taste model, ledger, harvest, verify,
 reader/   your personal app, a thin shell over site/reader
 site/     the shared reader, the public site and the demo personas
 demo/     four synthetic readers, generated from hand-authored catalogs
-brand/    the mascot source and the live-disc painter
 issues/   your pressed issues (never committed)
 ```
 
